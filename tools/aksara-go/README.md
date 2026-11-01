@@ -57,3 +57,28 @@ seeded from `gameId:segment` and replayed from the start, so re-running with the
 byte-identical, and raising the target only appends questions with new ids. Files stay sorted by
 (difficulty, id sequence). Changing a generator therefore only affects questions appended later. To rebuild a
 file from scratch you must delete it explicitly, which is only acceptable before that file is first published.
+
+## Publishing a dataset update
+
+The app (`add-cdn-dataset-client`) reads the dataset from three CDNs, in order: jsDelivr
+(`cdn.jsdelivr.net/gh/KCTOfficial/dataset-api@main/...`), Statically (`cdn.statically.io/gh/...@main/...`),
+and raw GitHub (`raw.githubusercontent.com/KCTOfficial/dataset-api/refs/heads/main/...`). It only adopts a
+manifest whose `datasetVersion` is **strictly higher** than the one it already holds (from a previous sync or
+from the snapshot bundled in the APK). One version number therefore always means one content: **every publish
+must bump the version**, or installed apps will keep their current data.
+
+1. Validate: `python -I tools/aksara-go/validate.py` must exit 0.
+2. Bump the version and rebuild the manifest:
+   `python -I tools/aksara-go/build_manifest.py --version <strictly higher, e.g. 1.2.0>`, then validate again.
+3. Commit and push to `main`.
+4. Purge jsDelivr, which otherwise keeps serving the old `@main` for up to 12 hours. Purge the manifest and every
+   changed file:
+   ```sh
+   curl -s https://purge.jsdelivr.net/gh/KCTOfficial/dataset-api@main/aksara-go/manifest.json
+   curl -s https://purge.jsdelivr.net/gh/KCTOfficial/dataset-api@main/aksara-go/<game-id>/<segment>.json
+   ```
+   raw GitHub refreshes on its own within about 5 minutes. Statically has no purge API. A stale file is still
+   safe: the app checks every file's SHA-256 against the manifest and falls back to the next CDN.
+5. Optional: refresh the app's bundled snapshot by copying `manifest.json` plus every file it lists into
+   `AksaraGo/app/src/main/assets/dataset/aksara-go/`. The app's `DatasetSnapshotTest` fails the build if any
+   copied checksum is off.
