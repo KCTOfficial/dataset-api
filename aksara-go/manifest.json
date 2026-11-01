@@ -24,6 +24,15 @@
           "questionCount": 100,
           "sha256": "f9015980b29567c489b332271a83ff34331c37a2bd031ff71914ba834e554e26",
           "status": "draft"
+        },
+        {
+          "path": "aksara-nusantara/smp.json",
+          "gameId": "aksara-nusantara",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 40,
+          "sha256": "ef9bcfa4be8c280cdac9cea1a7486830ffe063e30dfff1396b7357aa2be4de56",
+          "status": "draft"
         }
       ]
     },
@@ -261,6 +270,74 @@
       ]
     },
     {
+      "gameId": "imbuhan",
+      "meta": "imbuhan/meta.json",
+      "metaSha256": "0ac8f4751c5112763d6fb9996dd71f1030aaf055f52f46e5ee7f9fab8a05b06d",
+      "files": [
+        {
+          "path": "imbuhan/sd-b.json",
+          "gameId": "imbuhan",
+          "segment": "sd-b",
+          "jenjang": "SD",
+          "questionCount": 40,
+          "sha256": "330a5b0552c067d77af65d7be8e2fcf4c8291146e8854df77e14ca76129208b0",
+          "status": "draft"
+        },
+        {
+          "path": "imbuhan/sd-c.json",
+          "gameId": "imbuhan",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 38,
+          "sha256": "a6bacc79afb8ee33c6fc046a7783fce0a17ecdc2fdf37322961e74711307b859",
+          "status": "draft"
+        },
+        {
+          "path": "imbuhan/smp.json",
+          "gameId": "imbuhan",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 40,
+          "sha256": "b40b7e5bf95ea8a813d8f23501eb5b82635265e76344df83d7b8471b1a075745",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "gameId": "kata-baku",
+      "meta": "kata-baku/meta.json",
+      "metaSha256": "e5ac7a322cf6f40cc1c69637d64033d0ba4338afb4bbb3d474c46517f0f1127e",
+      "files": [
+        {
+          "path": "kata-baku/sd-c.json",
+          "gameId": "kata-baku",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 38,
+          "sha256": "e8940b9778ba7693fd670fa930b7baa829b9c9ad7f3b9c152459a81d6a66c8df",
+          "status": "draft"
+        },
+        {
+          "path": "kata-baku/smp.json",
+          "gameId": "kata-baku",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 37,
+          "sha256": "92ea95c3e36b0b58f556706651c39c82a168d012bef27f0341f4dbd836348453",
+          "status": "draft"
+        },
+        {
+          "path": "kata-baku/sma.json",
+          "gameId": "kata-baku",
+          "segment": "sma",
+          "jenjang": "SMA",
+          "questionCount": 39,
+          "sha256": "8d010466ead7633eaa333716d292b60185ec460b591bca1f807c37f6dba7b049",
+          "status": "draft"
+        }
+      ]
+    },
+    {
       "gameId": "kata-ke-angka",
       "meta": "kata-ke-angka/meta.json",
       "metaSha256": "78423b7f6412c6e2d82668ebdb577babc07100b10a1ac021d7aec732b30ddbfa",
@@ -300,6 +377,203 @@
           "questionCount": 120,
           "sha256": "1c2d2c26ad848160d2baf3c71bb33d89b5d911777bb6059a36d52e1405eac31c",
           "status": "reviewed"
+        }
+      ]
+    },
+    {
+      "gameId": "lengkapi-kata",
+      "meta": "lengkapi-kata/meta.json",
+      "metaSha256": "d88aa261fddd97e4c111a4ebf63f2b8eafe9a2a0dba4e1726b1e7cf8d1273126",
+      "files": [
+        {
+          "path": "lengkapi-kata/sd-a.json",
+          "gameId": "lengkapi-kata",
+          "segment": "sd-a",
+          "jenjang": "SD",
+          "questionCount": 30,
+          "sha256": "9c4028bc8efb9b7800ae81959c1b94941046e7726e2e6a10acc4c57b2229fc8e",
+          "status": "draft"
+        },
+        {
+          "path": "lengkapi-kata/sd-b.json",
+          "gameId": "lengkapi-kata",
+          "segment": "sd-b",
+          "jenjang": "SD",
+          "questionCount": 29,
+          "sha256": "5d0338b997d4fb16d13e98e48423835b9826c48387a78871df64d4637ca9f145",
+          "status": "draft"
+        },
+        {
+          "path": "lengkapi-kata/sd-c.json",
+          "gameId": "lengkapi-kata",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 29,
+          "sha256": "ce0fdd8f7aa7eefe814e2340c06074baeb0e2e54e6f8ca5940d8d49ccb954eb8",
+          "status": "draft"
+        },
+        {
+          "path": "lengkapi-kata/smp.json",
+          "gameId": "lengkapi-kata",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 29,
+          "sha256": "87851b97b58bf4c901f2f8c99f3a95c76048dd0f25b28b3e786031b29ed27f4f",
+          "status": "draft"
+        },
+        {
+          "path": "lengkapi-kata/sma.json",
+          "gameId": "lengkapi-kata",
+          "segment": "sma",
+          "jenjang": "SMA",
+          "questionCount": 29,
+          "sha256": "26e7f08e10528fd099486cd6cd4da3db3b133be4a372fe6c457c24fce68692be",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "gameId": "peribahasa",
+      "meta": "peribahasa/meta.json",
+      "metaSha256": "4e22259818f399f79a6ddbdd4300c88babd8e7de4d587ecc526b0ed9ac07f432",
+      "files": [
+        {
+          "path": "peribahasa/sd-c.json",
+          "gameId": "peribahasa",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 33,
+          "sha256": "10f9ea6b8304c2647838296cc8f7cfba23e8c9950ae4e08b0b7662fefc7b7e84",
+          "status": "draft"
+        },
+        {
+          "path": "peribahasa/smp.json",
+          "gameId": "peribahasa",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 36,
+          "sha256": "d3a2bf5c8b0787dece468156399dd692ac794db2bd132b6199ce0c4686fdcf05",
+          "status": "draft"
+        },
+        {
+          "path": "peribahasa/sma.json",
+          "gameId": "peribahasa",
+          "segment": "sma",
+          "jenjang": "SMA",
+          "questionCount": 40,
+          "sha256": "c0d5483ce6bd93183f6ea974dc0c8195a2c1e483bfb2f1d2eb48153ce8193dfc",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "gameId": "sinonim-antonim",
+      "meta": "sinonim-antonim/meta.json",
+      "metaSha256": "27c660ce77c7b75548809bd50239d080a7e02623f05d410e2358907e0074bea1",
+      "files": [
+        {
+          "path": "sinonim-antonim/sd-b.json",
+          "gameId": "sinonim-antonim",
+          "segment": "sd-b",
+          "jenjang": "SD",
+          "questionCount": 28,
+          "sha256": "2c83094c2a08ef89f7eab8505a04c16db5a7d02c0c89e55bb95952eb5bc471a4",
+          "status": "draft"
+        },
+        {
+          "path": "sinonim-antonim/sd-c.json",
+          "gameId": "sinonim-antonim",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 30,
+          "sha256": "3c27cfd85604ea75ac34ba47bf0c535c49319829ad8081ff3c4e8249f8241f7e",
+          "status": "draft"
+        },
+        {
+          "path": "sinonim-antonim/smp.json",
+          "gameId": "sinonim-antonim",
+          "segment": "smp",
+          "jenjang": "SMP",
+          "questionCount": 30,
+          "sha256": "bf89c6592ae678d6034f99a9a777d83686c93d8cd080b3752fb0a6c185eb8c89",
+          "status": "draft"
+        },
+        {
+          "path": "sinonim-antonim/sma.json",
+          "gameId": "sinonim-antonim",
+          "segment": "sma",
+          "jenjang": "SMA",
+          "questionCount": 28,
+          "sha256": "0ef26db631ceeb07be422e535bd314dfba1fdadd689cfcaa71270d6dd68e98f1",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "gameId": "susun-huruf",
+      "meta": "susun-huruf/meta.json",
+      "metaSha256": "2566c327141c11f1f1e39a46f7674cd6539adb19453093a3eefb22bd4c01c3b1",
+      "files": [
+        {
+          "path": "susun-huruf/sd-a.json",
+          "gameId": "susun-huruf",
+          "segment": "sd-a",
+          "jenjang": "SD",
+          "questionCount": 40,
+          "sha256": "0f05815b9802872ca64eeb3f7457d092b487a7789d1ca461996703ed0464a71d",
+          "status": "draft"
+        },
+        {
+          "path": "susun-huruf/sd-b.json",
+          "gameId": "susun-huruf",
+          "segment": "sd-b",
+          "jenjang": "SD",
+          "questionCount": 40,
+          "sha256": "d7390070e4d5ff183f69148911bc5c8158e97b41c8682c05af52266b65102c4c",
+          "status": "draft"
+        },
+        {
+          "path": "susun-huruf/sd-c.json",
+          "gameId": "susun-huruf",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 40,
+          "sha256": "622b75ad936a145e0191cdc135725c51f37214f967d00bf6643846e263d8de33",
+          "status": "draft"
+        }
+      ]
+    },
+    {
+      "gameId": "susun-kalimat",
+      "meta": "susun-kalimat/meta.json",
+      "metaSha256": "34057df527954b96c848d0e009769384b9c06a1ba1ceef624da17cb3631479d9",
+      "files": [
+        {
+          "path": "susun-kalimat/sd-a.json",
+          "gameId": "susun-kalimat",
+          "segment": "sd-a",
+          "jenjang": "SD",
+          "questionCount": 38,
+          "sha256": "9551c8830930178cde8cc04a174d1094ae5717275c30241d6bba2c57030cfb00",
+          "status": "draft"
+        },
+        {
+          "path": "susun-kalimat/sd-b.json",
+          "gameId": "susun-kalimat",
+          "segment": "sd-b",
+          "jenjang": "SD",
+          "questionCount": 38,
+          "sha256": "d7e6977eff22e2e039273663a4c5fce46dd7048df3338feace69075c58738ef1",
+          "status": "draft"
+        },
+        {
+          "path": "susun-kalimat/sd-c.json",
+          "gameId": "susun-kalimat",
+          "segment": "sd-c",
+          "jenjang": "SD",
+          "questionCount": 39,
+          "sha256": "bf94e7f365392945a4d647e09c5f5242f779a349d1f0b7dde5196e4d23a61bf8",
+          "status": "draft"
         }
       ]
     },

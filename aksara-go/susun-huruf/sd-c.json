@@ -199,14 +199,14 @@
       "id": "susun-huruf.sd-c.0011",
       "difficulty": 2,
       "prompt": {
-        "text": "Y G N A W A",
+        "text": "G N Y A A W",
         "letters": [
-          "Y",
           "G",
           "N",
+          "Y",
           "A",
-          "W",
-          "A"
+          "A",
+          "W"
         ]
       },
       "answer": "WAYANG",
@@ -298,7 +298,7 @@
       "answer": "KEMARAU",
       "payload": {
         "distractors": [
-          "P"
+          "T"
         ]
       }
     },
@@ -306,15 +306,15 @@
       "id": "susun-huruf.sd-c.0016",
       "difficulty": 3,
       "prompt": {
-        "text": "R E A G H A N",
+        "text": "R E A G H N A",
         "letters": [
           "R",
           "E",
           "A",
           "G",
           "H",
-          "A",
-          "N"
+          "N",
+          "A"
         ]
       },
       "answer": "GERHANA",
@@ -364,7 +364,7 @@
       "answer": "KENDANG",
       "payload": {
         "distractors": [
-          "T"
+          "H"
         ]
       }
     },
