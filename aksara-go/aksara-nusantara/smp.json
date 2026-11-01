@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "gameId": "aksara-nusantara",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "aksara-nusantara.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦧꦸꦏꦸ"
+      },
+      "answer": "buku",
+      "payload": {
+        "options": [
+          "buku",
+          "bola",
+          "susu",
+          "batu"
+        ]
+      },
+      "explanation": "ꦧꦸꦏꦸ dibaca buku."
+    },
+    {
+      "id": "aksara-nusantara.smp.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦩꦠ"
+      },
+      "answer": "mata",
+      "payload": {
+        "options": [
+          "mata",
+          "kota",
+          "saté",
+          "madu"
+        ]
+      },
+      "explanation": "ꦩꦠ dibaca mata."
+    },
+    {
+      "id": "aksara-nusantara.smp.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦥꦢꦶ"
+      },
+      "answer": "padi",
+      "payload": {
+        "options": [
+          "padi",
+          "tali",
+          "jari",
+          "kaki"
+        ]
+      },
+      "explanation": "ꦥꦢꦶ dibaca padi."
+    },
+    {
+      "id": "aksara-nusantara.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦭꦶꦩ"
+      },
+      "answer": "lima",
+      "payload": {
+        "options": [
+          "rusa",
+          "gula",
+          "lima",
+          "kota"
+        ]
+      },
+      "explanation": "ꦭꦶꦩ dibaca lima."
+    },
+    {
+      "id": "aksara-nusantara.smp.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦒꦸꦭ"
+      },
+      "answer": "gula",
+      "payload": {
+        "options": [
+          "rusa",
+          "gula",
+          "bola",
+          "kuda"
+        ]
+      },
+      "explanation": "ꦒꦸꦭ dibaca gula."
+    },
+    {
+      "id": "aksara-nusantara.smp.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦫꦸꦱ"
+      },
+      "answer": "rusa",
+      "payload": {
+        "options": [
+          "kuda",
+          "rusa",
+          "susu",
+          "gula"
+        ]
+      },
+      "explanation": "ꦫꦸꦱ dibaca rusa."
+    },
+    {
+      "id": "aksara-nusantara.smp.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦏꦪꦸ"
+      },
+      "answer": "kayu",
+      "payload": {
+        "options": [
+          "kaki",
+          "batu",
+          "kayu",
+          "madu"
+        ]
+      },
+      "explanation": "ꦏꦪꦸ dibaca kayu."
+    },
+    {
+      "id": "aksara-nusantara.smp.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦤꦱꦶ"
+      },
+      "answer": "nasi",
+      "payload": {
+        "options": [
+          "tali",
+          "jari",
+          "sapi",
+          "nasi"
+        ]
+      },
+      "explanation": "ꦤꦱꦶ dibaca nasi."
+    },
+    {
+      "id": "aksara-nusantara.smp.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kuda"
+      },
+      "answer": "ꦏꦸꦢ",
+      "payload": {
+        "options": [
+          "ꦏꦸꦢ",
+          "ꦫꦸꦱ",
+          "ꦒꦸꦭ",
+          "ꦏꦺꦴꦠ"
+        ]
+      },
+      "explanation": "kuda ditulis ꦏꦸꦢ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sapi"
+      },
+      "answer": "ꦱꦥꦶ",
+      "payload": {
+        "options": [
+          "ꦏꦏꦶ",
+          "ꦱꦥꦶ",
+          "ꦤꦱꦶ",
+          "ꦠꦺꦴꦥꦶ"
+        ]
+      },
+      "explanation": "sapi ditulis ꦱꦥꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦫꦺꦴꦠꦶ"
+      },
+      "answer": "roti",
+      "payload": {
+        "options": [
+          "roti",
+          "topi",
+          "kopi",
+          "kota"
+        ]
+      },
+      "explanation": "ꦫꦺꦴꦠꦶ dibaca roti."
+    },
+    {
+      "id": "aksara-nusantara.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "batu"
+      },
+      "answer": "ꦧꦠꦸ",
+      "payload": {
+        "options": [
+          "ꦧꦸꦏꦸ",
+          "ꦩꦠ",
+          "ꦱꦠꦺ",
+          "ꦧꦠꦸ"
+        ]
+      },
+      "explanation": "batu ditulis ꦧꦠꦸ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kaki"
+      },
+      "answer": "ꦏꦏꦶ",
+      "payload": {
+        "options": [
+          "ꦏꦪꦸ",
+          "ꦏꦏꦶ",
+          "ꦤꦱꦶ",
+          "ꦥꦢꦶ"
+        ]
+      },
+      "explanation": "kaki ditulis ꦏꦏꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "jari"
+      },
+      "answer": "ꦗꦫꦶ",
+      "payload": {
+        "options": [
+          "ꦤꦱꦶ",
+          "ꦗꦫꦶ",
+          "ꦱꦥꦶ",
+          "ꦠꦭꦶ"
+        ]
+      },
+      "explanation": "jari ditulis ꦗꦫꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦠꦺꦴꦥꦶ"
+      },
+      "answer": "topi",
+      "payload": {
+        "options": [
+          "tali",
+          "topi",
+          "kopi",
+          "sapi"
+        ]
+      },
+      "explanation": "ꦠꦺꦴꦥꦶ dibaca topi."
+    },
+    {
+      "id": "aksara-nusantara.smp.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦧꦺꦴꦭ"
+      },
+      "answer": "bola",
+      "payload": {
+        "options": [
+          "gula",
+          "bola",
+          "kopi",
+          "kota"
+        ]
+      },
+      "explanation": "ꦧꦺꦴꦭ dibaca bola."
+    },
+    {
+      "id": "aksara-nusantara.smp.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "susu"
+      },
+      "answer": "ꦱꦸꦱꦸ",
+      "payload": {
+        "options": [
+          "ꦧꦸꦏꦸ",
+          "ꦫꦸꦱ",
+          "ꦩꦢꦸ",
+          "ꦱꦸꦱꦸ"
+        ]
+      },
+      "explanation": "susu ditulis ꦱꦸꦱꦸ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tali"
+      },
+      "answer": "ꦠꦭꦶ",
+      "payload": {
+        "options": [
+          "ꦗꦫꦶ",
+          "ꦏꦏꦶ",
+          "ꦠꦭꦶ",
+          "ꦱꦥꦶ"
+        ]
+      },
+      "explanation": "tali ditulis ꦠꦭꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦱꦠꦺ"
+      },
+      "answer": "saté",
+      "payload": {
+        "options": [
+          "sapi",
+          "mata",
+          "saté",
+          "batu"
+        ]
+      },
+      "explanation": "ꦱꦠꦺ dibaca saté."
+    },
+    {
+      "id": "aksara-nusantara.smp.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "madu"
+      },
+      "answer": "ꦩꦢꦸ",
+      "payload": {
+        "options": [
+          "ꦧꦠꦸ",
+          "ꦏꦪꦸ",
+          "ꦩꦢꦸ",
+          "ꦥꦢꦶ"
+        ]
+      },
+      "explanation": "madu ditulis ꦩꦢꦸ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kopi"
+      },
+      "answer": "ꦏꦺꦴꦥꦶ",
+      "payload": {
+        "options": [
+          "ꦠꦺꦴꦥꦶ",
+          "ꦱꦥꦶ",
+          "ꦫꦺꦴꦠꦶ",
+          "ꦏꦺꦴꦥꦶ"
+        ]
+      },
+      "explanation": "kopi ditulis ꦏꦺꦴꦥꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kota"
+      },
+      "answer": "ꦏꦺꦴꦠ",
+      "payload": {
+        "options": [
+          "ꦏꦺꦴꦠ",
+          "ꦫꦺꦴꦠꦶ",
+          "ꦧꦺꦴꦭ",
+          "ꦩꦠ"
+        ]
+      },
+      "explanation": "kota ditulis ꦏꦺꦴꦠ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "méja"
+      },
+      "answer": "ꦩꦺꦗ",
+      "payload": {
+        "options": [
+          "ꦩꦠ",
+          "ꦏꦸꦢ",
+          "ꦩꦺꦗ",
+          "ꦫꦸꦱ"
+        ]
+      },
+      "explanation": "méja ditulis ꦩꦺꦗ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tebu"
+      },
+      "answer": "ꦠꦼꦧꦸ",
+      "payload": {
+        "options": [
+          "ꦱꦸꦱꦸ",
+          "ꦠꦺꦴꦥꦶ",
+          "ꦩꦢꦸ",
+          "ꦠꦼꦧꦸ"
+        ]
+      },
+      "explanation": "tebu ditulis ꦠꦼꦧꦸ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦱꦼꦥꦠꦸ"
+      },
+      "answer": "sepatu",
+      "payload": {
+        "options": [
+          "sepatu",
+          "sepéda",
+          "segara",
+          "kenanga"
+        ]
+      },
+      "explanation": "ꦱꦼꦥꦠꦸ dibaca sepatu."
+    },
+    {
+      "id": "aksara-nusantara.smp.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦏꦼꦩꦶꦫꦶ"
+      },
+      "answer": "kemiri",
+      "payload": {
+        "options": [
+          "kemiri",
+          "kenari",
+          "lemari",
+          "cemara"
+        ]
+      },
+      "explanation": "ꦏꦼꦩꦶꦫꦶ dibaca kemiri."
+    },
+    {
+      "id": "aksara-nusantara.smp.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦏꦼꦧꦪ"
+      },
+      "answer": "kebaya",
+      "payload": {
+        "options": [
+          "kebaya",
+          "kelapa",
+          "kenanga",
+          "keméja"
+        ]
+      },
+      "explanation": "ꦏꦼꦧꦪ dibaca kebaya."
+    },
+    {
+      "id": "aksara-nusantara.smp.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦠꦼꦭꦒ"
+      },
+      "answer": "telaga",
+      "payload": {
+        "options": [
+          "pelita",
+          "telaga",
+          "kelapa",
+          "segara"
+        ]
+      },
+      "explanation": "ꦠꦼꦭꦒ dibaca telaga."
+    },
+    {
+      "id": "aksara-nusantara.smp.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦢꦼꦭꦶꦩ"
+      },
+      "answer": "delima",
+      "payload": {
+        "options": [
+          "delima",
+          "telaga",
+          "pelita",
+          "kelapa"
+        ]
+      },
+      "explanation": "ꦢꦼꦭꦶꦩ dibaca delima."
+    },
+    {
+      "id": "aksara-nusantara.smp.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦏꦼꦕꦥꦶ"
+      },
+      "answer": "kecapi",
+      "payload": {
+        "options": [
+          "kenari",
+          "kemiri",
+          "kecapi",
+          "kelapa"
+        ]
+      },
+      "explanation": "ꦏꦼꦕꦥꦶ dibaca kecapi."
+    },
+    {
+      "id": "aksara-nusantara.smp.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦭꦼꦩꦫꦶ"
+      },
+      "answer": "lemari",
+      "payload": {
+        "options": [
+          "kemiri",
+          "cemara",
+          "lemari",
+          "kenari"
+        ]
+      },
+      "explanation": "ꦭꦼꦩꦫꦶ dibaca lemari."
+    },
+    {
+      "id": "aksara-nusantara.smp.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "kelapa"
+      },
+      "answer": "ꦏꦼꦭꦥ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦧꦪ",
+          "ꦏꦼꦤꦔ",
+          "ꦠꦼꦭꦒ",
+          "ꦏꦼꦭꦥ"
+        ]
+      },
+      "explanation": "kelapa ditulis ꦏꦼꦭꦥ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "segara"
+      },
+      "answer": "ꦱꦼꦒꦫ",
+      "payload": {
+        "options": [
+          "ꦕꦼꦩꦫ",
+          "ꦭꦼꦩꦫꦶ",
+          "ꦱꦼꦒꦫ",
+          "ꦱꦼꦥꦺꦢ"
+        ]
+      },
+      "explanation": "segara ditulis ꦱꦼꦒꦫ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "kenanga"
+      },
+      "answer": "ꦏꦼꦤꦔ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦧꦪ",
+          "ꦏꦼꦭꦥ",
+          "ꦏꦼꦤꦔ",
+          "ꦏꦼꦤꦫꦶ"
+        ]
+      },
+      "explanation": "kenanga ditulis ꦏꦼꦤꦔ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "cemara"
+      },
+      "answer": "ꦕꦼꦩꦫ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦤꦫꦶ",
+          "ꦱꦼꦒꦫ",
+          "ꦭꦼꦩꦫꦶ",
+          "ꦕꦼꦩꦫ"
+        ]
+      },
+      "explanation": "cemara ditulis ꦕꦼꦩꦫ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "budaya"
+      },
+      "answer": "ꦧꦸꦢꦪ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦭꦥ",
+          "ꦧꦸꦢꦪ",
+          "ꦏꦼꦧꦪ",
+          "ꦱꦼꦒꦫ"
+        ]
+      },
+      "explanation": "budaya ditulis ꦧꦸꦢꦪ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "pelita"
+      },
+      "answer": "ꦥꦼꦭꦶꦠ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦭꦥ",
+          "ꦥꦼꦭꦶꦠ",
+          "ꦢꦼꦭꦶꦩ",
+          "ꦠꦼꦭꦒ"
+        ]
+      },
+      "explanation": "pelita ditulis ꦥꦼꦭꦶꦠ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "kenari"
+      },
+      "answer": "ꦏꦼꦤꦫꦶ",
+      "payload": {
+        "options": [
+          "ꦏꦼꦤꦔ",
+          "ꦏꦼꦤꦫꦶ",
+          "ꦏꦼꦩꦶꦫꦶ",
+          "ꦏꦼꦕꦥꦶ"
+        ]
+      },
+      "explanation": "kenari ditulis ꦏꦼꦤꦫꦶ."
+    },
+    {
+      "id": "aksara-nusantara.smp.0039",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦱꦼꦥꦺꦢ"
+      },
+      "answer": "sepéda",
+      "payload": {
+        "options": [
+          "segara",
+          "sepatu",
+          "keméja",
+          "sepéda"
+        ]
+      },
+      "explanation": "ꦱꦼꦥꦺꦢ dibaca sepéda."
+    },
+    {
+      "id": "aksara-nusantara.smp.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "keméja"
+      },
+      "answer": "ꦏꦼꦩꦺꦗ",
+      "payload": {
+        "options": [
+          "ꦕꦼꦩꦫ",
+          "ꦱꦼꦥꦺꦢ",
+          "ꦏꦼꦧꦪ",
+          "ꦏꦼꦩꦺꦗ"
+        ]
+      },
+      "explanation": "keméja ditulis ꦏꦼꦩꦺꦗ."
+    }
+  ]
+}

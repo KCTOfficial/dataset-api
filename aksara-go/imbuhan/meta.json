@@ -1,0 +1,16 @@
+{
+  "gameId": "imbuhan",
+  "title": "Imbuhan",
+  "description": "Gabungkan kata dasar dengan imbuhan menjadi kata yang benar.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "MULTI_CHOICE",
+  "instruction": "Apa hasil gabungannya?",
+  "emoji": "🧱",
+  "colorToken": "orange",
+  "segments": [
+    "sd-b",
+    "sd-c",
+    "smp"
+  ]
+}

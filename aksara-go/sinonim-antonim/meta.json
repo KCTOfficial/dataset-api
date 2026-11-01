@@ -1,0 +1,17 @@
+{
+  "gameId": "sinonim-antonim",
+  "title": "Sinonim & Antonim",
+  "description": "Cari pasangan kata yang sama arti atau berlawanan arti.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "MATCH_PAIRS",
+  "instruction": "Pilih pasangan kata yang tepat!",
+  "emoji": "🔁",
+  "colorToken": "teal",
+  "segments": [
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

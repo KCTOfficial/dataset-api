@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 1,
+  "gameId": "susun-kalimat",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "susun-kalimat.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Ibu ingin memasak sop. Apa yang Ibu lakukan?"
+      },
+      "answer": "Ibu membeli sayur di pasar.",
+      "payload": {
+        "distractors": [
+          "sekolah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Adik memegang pensil warna dan kertas."
+      },
+      "answer": "Adik menggambar pemandangan gunung.",
+      "payload": {
+        "distractors": [
+          "menulis"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa makanan kesukaan kelinci?"
+      },
+      "answer": "Kelinci suka makan wortel.",
+      "payload": {
+        "distractors": [
+          "daging"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Sepeda Kakak rusak. Apa yang dilakukan Ayah?"
+      },
+      "answer": "Ayah memperbaiki sepeda yang rusak.",
+      "payload": {
+        "distractors": [
+          "menjual"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Halaman sekolah penuh daun kering. Apa yang dilakukan para siswa?"
+      },
+      "answer": "Para siswa membersihkan halaman sekolah.",
+      "payload": {
+        "distractors": [
+          "mengotori"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kakak duduk di meja belajar dengan buku hitungan."
+      },
+      "answer": "Kakak mengerjakan tugas matematika.",
+      "payload": {
+        "distractors": [
+          "bahasa"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kamu ingin membeli sepeda. Ke mana uang jajanmu disimpan?"
+      },
+      "answer": "Saya menabung uang di celengan.",
+      "payload": {
+        "distractors": [
+          "dompet"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Apa yang dilakukan petani pada musim tanam?"
+      },
+      "answer": "Petani menanam padi di sawah.",
+      "payload": {
+        "distractors": [
+          "memanen"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Nelayan pergi melaut dengan perahu. Apa yang ia lakukan?"
+      },
+      "answer": "Nelayan menangkap ikan di laut.",
+      "payload": {
+        "distractors": [
+          "sawah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Apa yang dilakukan dokter di klinik?"
+      },
+      "answer": "Dokter memeriksa pasien yang sakit.",
+      "payload": {
+        "distractors": [
+          "mengajar"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Apa yang harus Adik lakukan agar tangannya bersih sebelum makan?"
+      },
+      "answer": "Adik mencuci tangan sebelum makan.",
+      "payload": {
+        "distractors": [
+          "sesudah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Tanaman di halaman kering. Apa yang dilakukan Kakak?"
+      },
+      "answer": "Kakak menyiram tanaman di halaman.",
+      "payload": {
+        "distractors": [
+          "memetik"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kalian ingin meminjam buku. Ke mana kalian pergi?"
+      },
+      "answer": "Kami pergi ke perpustakaan sekolah.",
+      "payload": {
+        "distractors": [
+          "di"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kakek duduk di depan rumah sambil memegang koran."
+      },
+      "answer": "Kakek membaca koran di teras.",
+      "payload": {
+        "distractors": [
+          "menulis"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kamarmu tiba-tiba gelap."
+      },
+      "answer": "Lampu kamar saya mati.",
+      "payload": {
+        "distractors": [
+          "menyala"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mengapa Adik menangis?"
+      },
+      "answer": "Adik menangis karena jatuh.",
+      "payload": {
+        "distractors": [
+          "tertawa"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Pakaian sudah dicuci dan masih basah."
+      },
+      "answer": "Ibu menjemur pakaian di halaman.",
+      "payload": {
+        "distractors": [
+          "melipat"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Minuman apa yang disukai Adik?"
+      },
+      "answer": "Adik suka minum susu cokelat.",
+      "payload": {
+        "distractors": [
+          "makan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Rumput di halaman sudah tinggi."
+      },
+      "answer": "Ayah memotong rumput di halaman.",
+      "payload": {
+        "distractors": [
+          "menanam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Siapa yang membawa surat ke rumah kita?"
+      },
+      "answer": "Petugas pos mengantarkan surat.",
+      "payload": {
+        "distractors": [
+          "koran"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Tali sepatu Kakak lepas."
+      },
+      "answer": "Kakak mengikat tali sepatunya.",
+      "payload": {
+        "distractors": [
+          "membuka"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang dilakukan guru saat pelajaran dimulai?"
+      },
+      "answer": "Guru menjelaskan pelajaran di depan kelas.",
+      "payload": {
+        "distractors": [
+          "belakang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Di mana kucing itu tidur?"
+      },
+      "answer": "Kucing itu tidur di atas kursi.",
+      "payload": {
+        "distractors": [
+          "bawah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Burung itu membawa ranting kecil ke atas pohon."
+      },
+      "answer": "Burung itu membuat sarang di pohon.",
+      "payload": {
+        "distractors": [
+          "membeli"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagaimana udara di daerah gunung?"
+      },
+      "answer": "Udara di pegunungan terasa sejuk.",
+      "payload": {
+        "distractors": [
+          "panas"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Anak kucing itu menggemaskan."
+      },
+      "answer": "Kucing kecil itu sangat lucu.",
+      "payload": {
+        "distractors": [
+          "galak"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Angin bertiup kencang. Apa yang kalian mainkan di lapangan?"
+      },
+      "answer": "Kami bermain layang-layang di lapangan.",
+      "payload": {
+        "distractors": [
+          "kolam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kamu bisa melihat batu di dasar sungai."
+      },
+      "answer": "Air sungai itu sangat jernih.",
+      "payload": {
+        "distractors": [
+          "keruh"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Langit berwarna-warni setelah hujan berhenti."
+      },
+      "answer": "Pelangi muncul setelah hujan reda.",
+      "payload": {
+        "distractors": [
+          "sebelum"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Temanmu tidak masuk sekolah karena demam."
+      },
+      "answer": "Kami menjenguk teman yang sakit.",
+      "payload": {
+        "distractors": [
+          "sehat"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Tugas mengarang: kisah saat sekolah libur."
+      },
+      "answer": "Saya menulis cerita tentang liburan.",
+      "payload": {
+        "distractors": [
+          "membaca"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0032",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Dari arah mana matahari muncul pada pagi hari?"
+      },
+      "answer": "Matahari terbit di sebelah timur.",
+      "payload": {
+        "distractors": [
+          "barat",
+          "terbenam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0033",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa ciri khas hidung gajah?"
+      },
+      "answer": "Gajah memiliki belalai yang panjang.",
+      "payload": {
+        "distractors": [
+          "pendek"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0034",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kapan ayam jantan biasanya berbunyi?"
+      },
+      "answer": "Ayam berkokok pada pagi hari.",
+      "payload": {
+        "distractors": [
+          "malam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mainan Adik berserakan di lantai."
+      },
+      "answer": "Adik merapikan mainan setelah bermain.",
+      "payload": {
+        "distractors": [
+          "sebelum"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Adik sudah tidak memakai roda bantu lagi."
+      },
+      "answer": "Adik belajar naik sepeda roda dua.",
+      "payload": {
+        "distractors": [
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Sebelum Adik berangkat sekolah, apa yang Ibu lakukan dengan kotak makan?"
+      },
+      "answer": "Ibu memasukkan bekal ke dalam tas.",
+      "payload": {
+        "distractors": [
+          "di"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-b.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagaimana cara Kakak menyeberang jalan yang ramai?"
+      },
+      "answer": "Kakak menyeberang jalan dengan hati-hati.",
+      "payload": {
+        "distractors": [
+          "cepat"
+        ]
+      }
+    }
+  ]
+}

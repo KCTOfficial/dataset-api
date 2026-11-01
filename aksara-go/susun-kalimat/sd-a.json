@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 1,
+  "gameId": "susun-kalimat",
+  "segment": "sd-a",
+  "jenjang": "SD",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "susun-kalimat.sd-a.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa yang Adik minum?"
+      },
+      "answer": "Adik minum susu.",
+      "payload": {
+        "distractors": [
+          "makan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Kucing sedang apa? Matanya terpejam."
+      },
+      "answer": "Kucing sedang tidur.",
+      "payload": {
+        "distractors": [
+          "berlari"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa yang Ayah baca pagi ini?"
+      },
+      "answer": "Ayah membaca koran.",
+      "payload": {
+        "distractors": [
+          "menulis"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa yang Ibu masak untuk makan?"
+      },
+      "answer": "Ibu memasak nasi.",
+      "payload": {
+        "distractors": [
+          "minum"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Adik sedang belajar menulis. Apa yang ia tulis?"
+      },
+      "answer": "Adik menulis huruf.",
+      "payload": {
+        "distractors": [
+          "membaca"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bunga di taman layu. Apa yang dilakukan Ani?"
+      },
+      "answer": "Ani menyiram bunga.",
+      "payload": {
+        "distractors": [
+          "memetik"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Lantai rumah kotor. Apa yang dilakukan Budi?"
+      },
+      "answer": "Budi menyapu lantai.",
+      "payload": {
+        "distractors": [
+          "mencuci"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Adik akan berangkat. Apa yang ia pakai di kaki?"
+      },
+      "answer": "Adik memakai sepatu.",
+      "payload": {
+        "distractors": [
+          "topi"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Baju itu robek. Apa yang dilakukan Nenek?"
+      },
+      "answer": "Nenek menjahit baju.",
+      "payload": {
+        "distractors": [
+          "mencuci"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Kakek menggali lubang di kebun. Apa yang ia lakukan?"
+      },
+      "answer": "Kakek menanam pohon.",
+      "payload": {
+        "distractors": [
+          "menebang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Sebelum tidur, apa yang Adik lakukan?"
+      },
+      "answer": "Adik menggosok gigi.",
+      "payload": {
+        "distractors": [
+          "mencuci"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0012",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mobil Ayah kotor. Apa yang Ayah lakukan?"
+      },
+      "answer": "Ayah mencuci mobil.",
+      "payload": {
+        "distractors": [
+          "menyapu"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0013",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bagaimana burung bergerak di langit?"
+      },
+      "answer": "Burung terbang tinggi.",
+      "payload": {
+        "distractors": [
+          "berenang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0014",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa mainan kesukaan Adik?"
+      },
+      "answer": "Adik bermain boneka.",
+      "payload": {
+        "distractors": [
+          "menyanyi"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0015",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Seperti apa rumahmu setelah disapu?"
+      },
+      "answer": "Rumah saya bersih.",
+      "payload": {
+        "distractors": [
+          "kotor"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Tasmu penuh buku. Bagaimana rasanya?"
+      },
+      "answer": "Tas saya berat.",
+      "payload": {
+        "distractors": [
+          "ringan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0017",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa makanan kucing?"
+      },
+      "answer": "Kucing makan ikan.",
+      "payload": {
+        "distractors": [
+          "rumput"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0018",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa makanan sapi di padang?"
+      },
+      "answer": "Sapi makan rumput.",
+      "payload": {
+        "distractors": [
+          "daging"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0019",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Apa yang Adik lakukan saat mengantuk di siang hari?"
+      },
+      "answer": "Adik tidur siang.",
+      "payload": {
+        "distractors": [
+          "bangun"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0020",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Pagi hari Ayah memakai seragam kerja."
+      },
+      "answer": "Ayah pergi bekerja.",
+      "payload": {
+        "distractors": [
+          "bermain"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kakak bermain sepak bola. Apa yang ia lakukan dengan kakinya?"
+      },
+      "answer": "Kakak menendang bola.",
+      "payload": {
+        "distractors": [
+          "melempar"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Ke mana kamu pergi setiap pagi untuk belajar?"
+      },
+      "answer": "Saya pergi ke sekolah.",
+      "payload": {
+        "distractors": [
+          "di"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0023",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Di mana kalian bermain sepulang sekolah?"
+      },
+      "answer": "Kami bermain di taman.",
+      "payload": {
+        "distractors": [
+          "ke"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0024",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Di mana ayam bertelur?"
+      },
+      "answer": "Ayam bertelur di kandang.",
+      "payload": {
+        "distractors": [
+          "kolam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0025",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Ibu ingin membeli sayur. Ke mana Ibu pergi?"
+      },
+      "answer": "Ibu pergi ke pasar.",
+      "payload": {
+        "distractors": [
+          "sekolah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Guru memegang kapur di depan kelas. Apa yang ia lakukan?"
+      },
+      "answer": "Guru menulis di papan.",
+      "payload": {
+        "distractors": [
+          "membaca"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Di mana kalian belajar di sekolah?"
+      },
+      "answer": "Kami belajar di kelas.",
+      "payload": {
+        "distractors": [
+          "ke"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0028",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Tanda masuk kelas sudah terdengar."
+      },
+      "answer": "Bel sekolah berbunyi.",
+      "payload": {
+        "distractors": [
+          "bernyanyi"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0029",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Di mana ikan berenang?"
+      },
+      "answer": "Ikan berenang di kolam.",
+      "payload": {
+        "distractors": [
+          "terbang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Keluarga berkumpul di meja makan."
+      },
+      "answer": "Kami makan bersama.",
+      "payload": {
+        "distractors": [
+          "tidur"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0031",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kami suka bernyanyi bersama di kelas."
+      },
+      "answer": "Kami menyanyikan lagu.",
+      "payload": {
+        "distractors": [
+          "membaca"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0032",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Suara apa yang dibuat anjing?"
+      },
+      "answer": "Anjing itu menggonggong.",
+      "payload": {
+        "distractors": [
+          "mengeong"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0033",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Langit cerah. Bagaimana cuaca siang ini?"
+      },
+      "answer": "Matahari bersinar terang.",
+      "payload": {
+        "distractors": [
+          "redup"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0034",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa makanan kesukaanmu yang manis dan segar?"
+      },
+      "answer": "Saya suka makan buah.",
+      "payload": {
+        "distractors": [
+          "minum"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang Kakak baca di perpustakaan?"
+      },
+      "answer": "Kakak membaca buku cerita.",
+      "payload": {
+        "distractors": [
+          "koran"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0036",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kamu haus. Apa yang kamu minum?"
+      },
+      "answer": "Saya minum air putih.",
+      "payload": {
+        "distractors": [
+          "makan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0037",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagaimana bau bunga mawar?"
+      },
+      "answer": "Bunga mawar itu harum.",
+      "payload": {
+        "distractors": [
+          "pahit"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-a.0038",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagaimana ukuran pohon kelapa?"
+      },
+      "answer": "Pohon kelapa itu tinggi.",
+      "payload": {
+        "distractors": [
+          "pendek"
+        ]
+      }
+    }
+  ]
+}

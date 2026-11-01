@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "gameId": "lengkapi-kata",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "FILL_GAP",
+  "questions": [
+    {
+      "id": "lengkapi-kata.smp.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "MAT_MAT_KA",
+        "hint": "Mata pelajaran tentang bilangan, aljabar, dan geometri"
+      },
+      "answer": "MATEMATIKA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "GEO_RA_I",
+        "hint": "Ilmu tentang bumi, peta, dan persebaran penduduk"
+      },
+      "answer": "GEOGRAFI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0003",
+      "difficulty": 2,
+      "prompt": {
+        "text": "SEJ_R_H",
+        "hint": "Ilmu tentang peristiwa pada masa lampau"
+      },
+      "answer": "SEJARAH"
+    },
+    {
+      "id": "lengkapi-kata.smp.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "BIO_O_I",
+        "hint": "Ilmu tentang makhluk hidup"
+      },
+      "answer": "BIOLOGI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PAN_AS_LA",
+        "hint": "Dasar negara Indonesia yang terdiri atas lima prinsip"
+      },
+      "answer": "PANCASILA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "MIK_OS_OP",
+        "hint": "Alat untuk melihat benda yang sangat kecil",
+        "emoji": "🔬"
+      },
+      "answer": "MIKROSKOP"
+    },
+    {
+      "id": "lengkapi-kata.smp.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "TEL_SK_P",
+        "hint": "Alat untuk mengamati benda langit yang jauh",
+        "emoji": "🔭"
+      },
+      "answer": "TELESKOP"
+    },
+    {
+      "id": "lengkapi-kata.smp.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "LIN_KA_AN",
+        "hint": "Bangun datar bulat dengan satu titik pusat"
+      },
+      "answer": "LINGKARAN"
+    },
+    {
+      "id": "lengkapi-kata.smp.0009",
+      "difficulty": 3,
+      "prompt": {
+        "text": "E_ON_MI",
+        "hint": "Ilmu tentang produksi, distribusi, dan konsumsi"
+      },
+      "answer": "EKONOMI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0010",
+      "difficulty": 3,
+      "prompt": {
+        "text": "K_NST_TU_I",
+        "hint": "Undang-undang dasar suatu negara"
+      },
+      "answer": "KONSTITUSI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "T_LER_NS_",
+        "hint": "Sikap menghargai perbedaan dengan orang lain"
+      },
+      "answer": "TOLERANSI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A_MO_FE_",
+        "hint": "Lapisan udara yang menyelimuti bumi"
+      },
+      "answer": "ATMOSFER"
+    },
+    {
+      "id": "lengkapi-kata.smp.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "H_RB_VO_A",
+        "hint": "Hewan pemakan tumbuhan"
+      },
+      "answer": "HERBIVORA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "K_RN_V_RA",
+        "hint": "Hewan pemakan daging"
+      },
+      "answer": "KARNIVORA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "O_NI_O_A",
+        "hint": "Hewan pemakan tumbuhan sekaligus daging"
+      },
+      "answer": "OMNIVORA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "G_AV_TA_I",
+        "hint": "Gaya tarik bumi yang membuat benda jatuh ke bawah"
+      },
+      "answer": "GRAVITASI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "T_AP_SI_M",
+        "hint": "Segi empat dengan tepat sepasang sisi sejajar"
+      },
+      "answer": "TRAPESIUM"
+    },
+    {
+      "id": "lengkapi-kata.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "P_LU_NG",
+        "hint": "Kemungkinan terjadinya suatu kejadian"
+      },
+      "answer": "PELUANG"
+    },
+    {
+      "id": "lengkapi-kata.smp.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "P_RA_RA_",
+        "hint": "Kumpulan kalimat yang membahas satu gagasan pokok"
+      },
+      "answer": "PARAGRAF"
+    },
+    {
+      "id": "lengkapi-kata.smp.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "S_NO_I_",
+        "hint": "Kata yang maknanya sama atau mirip"
+      },
+      "answer": "SINONIM"
+    },
+    {
+      "id": "lengkapi-kata.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A_T_N_M",
+        "hint": "Kata yang maknanya berlawanan"
+      },
+      "answer": "ANTONIM"
+    },
+    {
+      "id": "lengkapi-kata.smp.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "K_PE_AS_",
+        "hint": "Badan usaha yang berasaskan kekeluargaan"
+      },
+      "answer": "KOPERASI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "E_A_OR_SI",
+        "hint": "Penguapan air laut dan sungai oleh panas matahari"
+      },
+      "answer": "EVAPORASI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "K_ND_NS_SI",
+        "hint": "Perubahan uap air menjadi titik-titik air"
+      },
+      "answer": "KONDENSASI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "S_AT_ST_KA",
+        "hint": "Ilmu tentang mengumpulkan, mengolah, dan menyajikan data"
+      },
+      "answer": "STATISTIKA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "P_RI_AH_SA",
+        "hint": "Ungkapan kiasan berisi nasihat atau perbandingan"
+      },
+      "answer": "PERIBAHASA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "R_SP_RA_I",
+        "hint": "Proses pernapasan pada makhluk hidup"
+      },
+      "answer": "RESPIRASI"
+    },
+    {
+      "id": "lengkapi-kata.smp.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "KH_T_L_ST_WA",
+        "hint": "Garis khayal yang membagi bumi menjadi belahan utara dan selatan"
+      },
+      "answer": "KHATULISTIWA"
+    },
+    {
+      "id": "lengkapi-kata.smp.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "P_ES_P_T_SI",
+        "hint": "Turunnya air dari atmosfer ke bumi, misalnya hujan"
+      },
+      "answer": "PRESIPITASI"
+    }
+  ]
+}

@@ -1,0 +1,1923 @@
+{
+  "schemaVersion": 1,
+  "gameId": "tebak-angka",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "tebak-angka.sd-b.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "173",
+        "number": 173
+      },
+      "answer": "seratus tujuh puluh tiga",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "belas",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0013",
+      "difficulty": 1,
+      "prompt": {
+        "text": "137",
+        "number": 137
+      },
+      "answer": "seratus tiga puluh tujuh",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ratus",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0018",
+      "difficulty": 1,
+      "prompt": {
+        "text": "165",
+        "number": 165
+      },
+      "answer": "seratus enam puluh lima",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "belas",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0023",
+      "difficulty": 1,
+      "prompt": {
+        "text": "179",
+        "number": 179
+      },
+      "answer": "seratus tujuh puluh sembilan",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0028",
+      "difficulty": 1,
+      "prompt": {
+        "text": "141",
+        "number": 141
+      },
+      "answer": "seratus empat puluh satu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "belas",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0032",
+      "difficulty": 1,
+      "prompt": {
+        "text": "105",
+        "number": 105
+      },
+      "answer": "seratus lima",
+      "payload": {
+        "distractors": [
+          "satu",
+          "ratus",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0041",
+      "difficulty": 1,
+      "prompt": {
+        "text": "159",
+        "number": 159
+      },
+      "answer": "seratus lima puluh sembilan",
+      "payload": {
+        "distractors": [
+          "satu",
+          "enam",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0045",
+      "difficulty": 1,
+      "prompt": {
+        "text": "166",
+        "number": 166
+      },
+      "answer": "seratus enam puluh enam",
+      "payload": {
+        "distractors": [
+          "satu",
+          "lima",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0050",
+      "difficulty": 1,
+      "prompt": {
+        "text": "108",
+        "number": 108
+      },
+      "answer": "seratus delapan",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "sembilan",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0054",
+      "difficulty": 1,
+      "prompt": {
+        "text": "133",
+        "number": 133
+      },
+      "answer": "seratus tiga puluh tiga",
+      "payload": {
+        "distractors": [
+          "dua",
+          "satu",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0059",
+      "difficulty": 1,
+      "prompt": {
+        "text": "186",
+        "number": 186
+      },
+      "answer": "seratus delapan puluh enam",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "ribu",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0062",
+      "difficulty": 1,
+      "prompt": {
+        "text": "151",
+        "number": 151
+      },
+      "answer": "seratus lima puluh satu",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ratus",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0067",
+      "difficulty": 1,
+      "prompt": {
+        "text": "148",
+        "number": 148
+      },
+      "answer": "seratus empat puluh delapan",
+      "payload": {
+        "distractors": [
+          "satu",
+          "sembilan",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0071",
+      "difficulty": 1,
+      "prompt": {
+        "text": "110",
+        "number": 110
+      },
+      "answer": "seratus sepuluh",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "ribu",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0076",
+      "difficulty": 1,
+      "prompt": {
+        "text": "103",
+        "number": 103
+      },
+      "answer": "seratus tiga",
+      "payload": {
+        "distractors": [
+          "satu",
+          "ratus",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0085",
+      "difficulty": 1,
+      "prompt": {
+        "text": "131",
+        "number": 131
+      },
+      "answer": "seratus tiga puluh satu",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "empat",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0090",
+      "difficulty": 1,
+      "prompt": {
+        "text": "101",
+        "number": 101
+      },
+      "answer": "seratus satu",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "ratus",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0095",
+      "difficulty": 1,
+      "prompt": {
+        "text": "196",
+        "number": 196
+      },
+      "answer": "seratus sembilan puluh enam",
+      "payload": {
+        "distractors": [
+          "satu",
+          "tujuh",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0099",
+      "difficulty": 1,
+      "prompt": {
+        "text": "138",
+        "number": 138
+      },
+      "answer": "seratus tiga puluh delapan",
+      "payload": {
+        "distractors": [
+          "satu",
+          "dua",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0104",
+      "difficulty": 1,
+      "prompt": {
+        "text": "112",
+        "number": 112
+      },
+      "answer": "seratus dua belas",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "puluh",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0113",
+      "difficulty": 1,
+      "prompt": {
+        "text": "146",
+        "number": 146
+      },
+      "answer": "seratus empat puluh enam",
+      "payload": {
+        "distractors": [
+          "lima",
+          "ratus",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0117",
+      "difficulty": 1,
+      "prompt": {
+        "text": "194",
+        "number": 194
+      },
+      "answer": "seratus sembilan puluh empat",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "lima",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "295",
+        "number": 295
+      },
+      "answer": "dua ratus sembilan puluh lima",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "enam",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "881",
+        "number": 881
+      },
+      "answer": "delapan ratus delapan puluh satu",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ribu",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "420",
+        "number": 420
+      },
+      "answer": "empat ratus dua puluh",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "ribu",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0024",
+      "difficulty": 2,
+      "prompt": {
+        "text": "489",
+        "number": 489
+      },
+      "answer": "empat ratus delapan puluh sembilan",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "tiga",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0029",
+      "difficulty": 2,
+      "prompt": {
+        "text": "717",
+        "number": 717
+      },
+      "answer": "tujuh ratus tujuh belas",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ribu",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0033",
+      "difficulty": 2,
+      "prompt": {
+        "text": "408",
+        "number": 408
+      },
+      "answer": "empat ratus delapan",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "tiga",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0037",
+      "difficulty": 2,
+      "prompt": {
+        "text": "557",
+        "number": 557
+      },
+      "answer": "lima ratus lima puluh tujuh",
+      "payload": {
+        "distractors": [
+          "empat",
+          "delapan",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0042",
+      "difficulty": 2,
+      "prompt": {
+        "text": "247",
+        "number": 247
+      },
+      "answer": "dua ratus empat puluh tujuh",
+      "payload": {
+        "distractors": [
+          "lima",
+          "satu",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0046",
+      "difficulty": 2,
+      "prompt": {
+        "text": "269",
+        "number": 269
+      },
+      "answer": "dua ratus enam puluh sembilan",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "belas",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0051",
+      "difficulty": 2,
+      "prompt": {
+        "text": "823",
+        "number": 823
+      },
+      "answer": "delapan ratus dua puluh tiga",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ribu",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0055",
+      "difficulty": 2,
+      "prompt": {
+        "text": "579",
+        "number": 579
+      },
+      "answer": "lima ratus tujuh puluh sembilan",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ribu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0060",
+      "difficulty": 2,
+      "prompt": {
+        "text": "836",
+        "number": 836
+      },
+      "answer": "delapan ratus tiga puluh enam",
+      "payload": {
+        "distractors": [
+          "lima",
+          "ribu",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0063",
+      "difficulty": 2,
+      "prompt": {
+        "text": "632",
+        "number": 632
+      },
+      "answer": "enam ratus tiga puluh dua",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "tujuh",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0068",
+      "difficulty": 2,
+      "prompt": {
+        "text": "786",
+        "number": 786
+      },
+      "answer": "tujuh ratus delapan puluh enam",
+      "payload": {
+        "distractors": [
+          "belas",
+          "lima",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0072",
+      "difficulty": 2,
+      "prompt": {
+        "text": "693",
+        "number": 693
+      },
+      "answer": "enam ratus sembilan puluh tiga",
+      "payload": {
+        "distractors": [
+          "empat",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0077",
+      "difficulty": 2,
+      "prompt": {
+        "text": "401",
+        "number": 401
+      },
+      "answer": "empat ratus satu",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ribu",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "514",
+        "number": 514
+      },
+      "answer": "lima ratus empat belas",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "puluh",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0086",
+      "difficulty": 2,
+      "prompt": {
+        "text": "856",
+        "number": 856
+      },
+      "answer": "delapan ratus lima puluh enam",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "ribu",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0091",
+      "difficulty": 2,
+      "prompt": {
+        "text": "698",
+        "number": 698
+      },
+      "answer": "enam ratus sembilan puluh delapan",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "lima",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0096",
+      "difficulty": 2,
+      "prompt": {
+        "text": "394",
+        "number": 394
+      },
+      "answer": "tiga ratus sembilan puluh empat",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "lima",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0100",
+      "difficulty": 2,
+      "prompt": {
+        "text": "325",
+        "number": 325
+      },
+      "answer": "tiga ratus dua puluh lima",
+      "payload": {
+        "distractors": [
+          "empat",
+          "satu",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0105",
+      "difficulty": 2,
+      "prompt": {
+        "text": "653",
+        "number": 653
+      },
+      "answer": "enam ratus lima puluh tiga",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "dua",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0109",
+      "difficulty": 2,
+      "prompt": {
+        "text": "640",
+        "number": 640
+      },
+      "answer": "enam ratus empat puluh",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0114",
+      "difficulty": 2,
+      "prompt": {
+        "text": "686",
+        "number": 686
+      },
+      "answer": "enam ratus delapan puluh enam",
+      "payload": {
+        "distractors": [
+          "lima",
+          "ribu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0118",
+      "difficulty": 2,
+      "prompt": {
+        "text": "541",
+        "number": 541
+      },
+      "answer": "lima ratus empat puluh satu",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ribu",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0001",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1000",
+        "number": 1000
+      },
+      "answer": "seribu",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "ratus",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0002",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1001",
+        "number": 1001
+      },
+      "answer": "seribu satu",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ratus",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1100",
+        "number": 1100
+      },
+      "answer": "seribu seratus",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "ratus",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0004",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1011",
+        "number": 1011
+      },
+      "answer": "seribu sebelas",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "satu",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0010",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1745",
+        "number": 1745
+      },
+      "answer": "seribu tujuh ratus empat puluh lima",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ribu",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1482",
+        "number": 1482
+      },
+      "answer": "seribu empat ratus delapan puluh dua",
+      "payload": {
+        "distractors": [
+          "lima",
+          "ribu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1407",
+        "number": 1407
+      },
+      "answer": "seribu empat ratus tujuh",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "enam",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1297",
+        "number": 1297
+      },
+      "answer": "seribu dua ratus sembilan puluh tujuh",
+      "payload": {
+        "distractors": [
+          "satu",
+          "enam",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1971",
+        "number": 1971
+      },
+      "answer": "seribu sembilan ratus tujuh puluh satu",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "dua",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0034",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1026",
+        "number": 1026
+      },
+      "answer": "seribu dua puluh enam",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "satu",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0038",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1384",
+        "number": 1384
+      },
+      "answer": "seribu tiga ratus delapan puluh empat",
+      "payload": {
+        "distractors": [
+          "satu",
+          "tujuh",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0043",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1664",
+        "number": 1664
+      },
+      "answer": "seribu enam ratus enam puluh empat",
+      "payload": {
+        "distractors": [
+          "lima",
+          "belas",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0047",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1264",
+        "number": 1264
+      },
+      "answer": "seribu dua ratus enam puluh empat",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "tiga",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0052",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1479",
+        "number": 1479
+      },
+      "answer": "seribu empat ratus tujuh puluh sembilan",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "ribu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0056",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1396",
+        "number": 1396
+      },
+      "answer": "seribu tiga ratus sembilan puluh enam",
+      "payload": {
+        "distractors": [
+          "empat",
+          "dua",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0064",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1916",
+        "number": 1916
+      },
+      "answer": "seribu sembilan ratus enam belas",
+      "payload": {
+        "distractors": [
+          "satu",
+          "delapan",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0069",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1507",
+        "number": 1507
+      },
+      "answer": "seribu lima ratus tujuh",
+      "payload": {
+        "distractors": [
+          "empat",
+          "satu",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1519",
+        "number": 1519
+      },
+      "answer": "seribu lima ratus sembilan belas",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "puluh",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0078",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1168",
+        "number": 1168
+      },
+      "answer": "seribu seratus enam puluh delapan",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "sembilan",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1642",
+        "number": 1642
+      },
+      "answer": "seribu enam ratus empat puluh dua",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "belas",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0087",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1189",
+        "number": 1189
+      },
+      "answer": "seribu seratus delapan puluh sembilan",
+      "payload": {
+        "distractors": [
+          "belas",
+          "satu",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0092",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1949",
+        "number": 1949
+      },
+      "answer": "seribu sembilan ratus empat puluh sembilan",
+      "payload": {
+        "distractors": [
+          "belas",
+          "lima",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0097",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1728",
+        "number": 1728
+      },
+      "answer": "seribu tujuh ratus dua puluh delapan",
+      "payload": {
+        "distractors": [
+          "enam",
+          "belas",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0101",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1150",
+        "number": 1150
+      },
+      "answer": "seribu seratus lima puluh",
+      "payload": {
+        "distractors": [
+          "belas",
+          "empat",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0106",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1195",
+        "number": 1195
+      },
+      "answer": "seribu seratus sembilan puluh lima",
+      "payload": {
+        "distractors": [
+          "satu",
+          "belas",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0110",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1691",
+        "number": 1691
+      },
+      "answer": "seribu enam ratus sembilan puluh satu",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "delapan",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0115",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1063",
+        "number": 1063
+      },
+      "answer": "seribu enam puluh tiga",
+      "payload": {
+        "distractors": [
+          "satu",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0119",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1644",
+        "number": 1644
+      },
+      "answer": "seribu enam ratus empat puluh empat",
+      "payload": {
+        "distractors": [
+          "satu",
+          "lima",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0005",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2020",
+        "number": 2020
+      },
+      "answer": "dua ribu dua puluh",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ratus",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0006",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2026",
+        "number": 2026
+      },
+      "answer": "dua ribu dua puluh enam",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ratus",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0011",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6710",
+        "number": 6710
+      },
+      "answer": "enam ribu tujuh ratus sepuluh",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0016",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3301",
+        "number": 3301
+      },
+      "answer": "tiga ribu tiga ratus satu",
+      "payload": {
+        "distractors": [
+          "empat",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0021",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5406",
+        "number": 5406
+      },
+      "answer": "lima ribu empat ratus enam",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4015",
+        "number": 4015
+      },
+      "answer": "empat ribu lima belas",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ratus",
+          "puluh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2034",
+        "number": 2034
+      },
+      "answer": "dua ribu tiga puluh empat",
+      "payload": {
+        "distractors": [
+          "satu",
+          "ratus",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "8752",
+        "number": 8752
+      },
+      "answer": "delapan ribu tujuh ratus lima puluh dua",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0039",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9221",
+        "number": 9221
+      },
+      "answer": "sembilan ribu dua ratus dua puluh satu",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "tiga",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0044",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7404",
+        "number": 7404
+      },
+      "answer": "tujuh ribu empat ratus empat",
+      "payload": {
+        "distractors": [
+          "enam",
+          "lima",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0048",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2381",
+        "number": 2381
+      },
+      "answer": "dua ribu tiga ratus delapan puluh satu",
+      "payload": {
+        "distractors": [
+          "empat",
+          "sembilan",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0053",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4293",
+        "number": 4293
+      },
+      "answer": "empat ribu dua ratus sembilan puluh tiga",
+      "payload": {
+        "distractors": [
+          "lima",
+          "satu",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0057",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7819",
+        "number": 7819
+      },
+      "answer": "tujuh ribu delapan ratus sembilan belas",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0065",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9763",
+        "number": 9763
+      },
+      "answer": "sembilan ribu tujuh ratus enam puluh tiga",
+      "payload": {
+        "distractors": [
+          "dua",
+          "lima",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0070",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7619",
+        "number": 7619
+      },
+      "answer": "tujuh ribu enam ratus sembilan belas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "puluh",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0074",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7128",
+        "number": 7128
+      },
+      "answer": "tujuh ribu seratus dua puluh delapan",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "ratus",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0079",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7060",
+        "number": 7060
+      },
+      "answer": "tujuh ribu enam puluh",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "ratus",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0083",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2124",
+        "number": 2124
+      },
+      "answer": "dua ribu seratus dua puluh empat",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "satu",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0088",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4612",
+        "number": 4612
+      },
+      "answer": "empat ribu enam ratus dua belas",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "tujuh",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0093",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7632",
+        "number": 7632
+      },
+      "answer": "tujuh ribu enam ratus tiga puluh dua",
+      "payload": {
+        "distractors": [
+          "empat",
+          "satu",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0098",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3316",
+        "number": 3316
+      },
+      "answer": "tiga ribu tiga ratus enam belas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "puluh",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0102",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2562",
+        "number": 2562
+      },
+      "answer": "dua ribu lima ratus enam puluh dua",
+      "payload": {
+        "distractors": [
+          "satu",
+          "belas",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0107",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6792",
+        "number": 6792
+      },
+      "answer": "enam ribu tujuh ratus sembilan puluh dua",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0111",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9782",
+        "number": 9782
+      },
+      "answer": "sembilan ribu tujuh ratus delapan puluh dua",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0116",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3150",
+        "number": 3150
+      },
+      "answer": "tiga ribu seratus lima puluh",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "dua",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0120",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4420",
+        "number": 4420
+      },
+      "answer": "empat ribu empat ratus dua puluh",
+      "payload": {
+        "distractors": [
+          "lima",
+          "satu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0007",
+      "difficulty": 5,
+      "prompt": {
+        "text": "10.000",
+        "number": 10000
+      },
+      "answer": "sepuluh ribu",
+      "payload": {
+        "distractors": [
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0012",
+      "difficulty": 5,
+      "prompt": {
+        "text": "3616",
+        "number": 3616
+      },
+      "answer": "tiga ribu enam ratus enam belas",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "dua",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0017",
+      "difficulty": 5,
+      "prompt": {
+        "text": "6911",
+        "number": 6911
+      },
+      "answer": "enam ribu sembilan ratus sebelas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "tujuh",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0022",
+      "difficulty": 5,
+      "prompt": {
+        "text": "4027",
+        "number": 4027
+      },
+      "answer": "empat ribu dua puluh tujuh",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "satu",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0027",
+      "difficulty": 5,
+      "prompt": {
+        "text": "7071",
+        "number": 7071
+      },
+      "answer": "tujuh ribu tujuh puluh satu",
+      "payload": {
+        "distractors": [
+          "enam",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "8716",
+        "number": 8716
+      },
+      "answer": "delapan ribu tujuh ratus enam belas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "sembilan",
+          "puluh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5000",
+        "number": 5000
+      },
+      "answer": "lima ribu",
+      "payload": {
+        "distractors": [
+          "enam",
+          "empat",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0049",
+      "difficulty": 5,
+      "prompt": {
+        "text": "1027",
+        "number": 1027
+      },
+      "answer": "seribu dua puluh tujuh",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "enam",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0058",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5211",
+        "number": 5211
+      },
+      "answer": "lima ribu dua ratus sebelas",
+      "payload": {
+        "distractors": [
+          "enam",
+          "empat",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0061",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5417",
+        "number": 5417
+      },
+      "answer": "lima ribu empat ratus tujuh belas",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "puluh",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0066",
+      "difficulty": 5,
+      "prompt": {
+        "text": "2114",
+        "number": 2114
+      },
+      "answer": "dua ribu seratus empat belas",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "puluh",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "8024",
+        "number": 8024
+      },
+      "answer": "delapan ribu dua puluh empat",
+      "payload": {
+        "distractors": [
+          "belas",
+          "tujuh",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0080",
+      "difficulty": 5,
+      "prompt": {
+        "text": "6318",
+        "number": 6318
+      },
+      "answer": "enam ribu tiga ratus delapan belas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "empat",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0084",
+      "difficulty": 5,
+      "prompt": {
+        "text": "1416",
+        "number": 1416
+      },
+      "answer": "seribu empat ratus enam belas",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "tiga",
+          "puluh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0089",
+      "difficulty": 5,
+      "prompt": {
+        "text": "2045",
+        "number": 2045
+      },
+      "answer": "dua ribu empat puluh lima",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "belas",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0094",
+      "difficulty": 5,
+      "prompt": {
+        "text": "3615",
+        "number": 3615
+      },
+      "answer": "tiga ribu enam ratus lima belas",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "dua",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0103",
+      "difficulty": 5,
+      "prompt": {
+        "text": "1419",
+        "number": 1419
+      },
+      "answer": "seribu empat ratus sembilan belas",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "lima",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0108",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5090",
+        "number": 5090
+      },
+      "answer": "lima ribu sembilan puluh",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "delapan",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.sd-b.0112",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5073",
+        "number": 5073
+      },
+      "answer": "lima ribu tujuh puluh tiga",
+      "payload": {
+        "distractors": [
+          "belas",
+          "delapan",
+          "empat"
+        ]
+      }
+    }
+  ]
+}

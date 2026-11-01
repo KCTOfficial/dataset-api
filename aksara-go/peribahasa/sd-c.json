@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 1,
+  "gameId": "peribahasa",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "peribahasa.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Air beriak tanda …"
+      },
+      "answer": "tak dalam",
+      "payload": {
+        "options": [
+          "akan hujan",
+          "ada batu",
+          "banyak ikan",
+          "tak dalam"
+        ]
+      },
+      "explanation": "Orang yang banyak bicara biasanya kurang ilmunya."
+    },
+    {
+      "id": "peribahasa.sd-c.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bagai air di daun …"
+      },
+      "answer": "talas",
+      "payload": {
+        "options": [
+          "pisang",
+          "kelapa",
+          "talas",
+          "jati"
+        ]
+      },
+      "explanation": "Orang yang tidak tetap pendiriannya dan mudah berubah-ubah."
+    },
+    {
+      "id": "peribahasa.sd-c.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Berat sama dipikul, ringan sama …"
+      },
+      "answer": "dijinjing",
+      "payload": {
+        "options": [
+          "dipegang",
+          "dijinjing",
+          "diangkat",
+          "dibawa"
+        ]
+      },
+      "explanation": "Suka dan duka dihadapi bersama-sama."
+    },
+    {
+      "id": "peribahasa.sd-c.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Sedikit demi sedikit, lama-lama menjadi …"
+      },
+      "answer": "bukit",
+      "payload": {
+        "options": [
+          "bukit",
+          "gunung",
+          "lautan",
+          "batu"
+        ]
+      },
+      "explanation": "Sesuatu yang dikumpulkan sedikit demi sedikit lama-lama menjadi banyak, misalnya menabung."
+    },
+    {
+      "id": "peribahasa.sd-c.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Tak ada gading yang tak …"
+      },
+      "answer": "retak",
+      "payload": {
+        "options": [
+          "retak",
+          "patah",
+          "putih",
+          "keras"
+        ]
+      },
+      "explanation": "Tidak ada sesuatu yang sempurna; setiap orang pasti punya kekurangan."
+    },
+    {
+      "id": "peribahasa.sd-c.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Ada udang di balik …"
+      },
+      "answer": "batu",
+      "payload": {
+        "options": [
+          "kayu",
+          "batu",
+          "pasir",
+          "karang"
+        ]
+      },
+      "explanation": "Ada maksud tersembunyi di balik suatu perbuatan."
+    },
+    {
+      "id": "peribahasa.sd-c.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bagai pinang dibelah …"
+      },
+      "answer": "dua",
+      "payload": {
+        "options": [
+          "tiga",
+          "lima",
+          "dua",
+          "empat"
+        ]
+      },
+      "explanation": "Dua orang yang wajahnya sangat mirip."
+    },
+    {
+      "id": "peribahasa.sd-c.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Rajin pangkal pandai, hemat pangkal …"
+      },
+      "answer": "kaya",
+      "payload": {
+        "options": [
+          "sehat",
+          "senang",
+          "kaya",
+          "kuat"
+        ]
+      },
+      "explanation": "Orang yang rajin belajar akan pandai, orang yang hemat akan berkecukupan."
+    },
+    {
+      "id": "peribahasa.sd-c.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bersatu kita teguh, bercerai kita …"
+      },
+      "answer": "runtuh",
+      "payload": {
+        "options": [
+          "runtuh",
+          "lemah",
+          "jatuh",
+          "kalah"
+        ]
+      },
+      "explanation": "Persatuan membuat kita kuat, perpecahan membuat kita lemah."
+    },
+    {
+      "id": "peribahasa.sd-c.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Malu bertanya sesat di …"
+      },
+      "answer": "jalan",
+      "payload": {
+        "options": [
+          "jalan",
+          "kota",
+          "pasar",
+          "hutan"
+        ]
+      },
+      "explanation": "Kalau tidak mau bertanya, kita bisa salah atau tersesat."
+    },
+    {
+      "id": "peribahasa.sd-c.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Sedia payung sebelum …"
+      },
+      "answer": "hujan",
+      "payload": {
+        "options": [
+          "hujan",
+          "malam",
+          "panas",
+          "pergi"
+        ]
+      },
+      "explanation": "Bersiap-siap atau berjaga-jaga sebelum sesuatu terjadi."
+    },
+    {
+      "id": "peribahasa.sd-c.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Seperti katak dalam …"
+      },
+      "answer": "tempurung",
+      "payload": {
+        "options": [
+          "kolam",
+          "ember",
+          "sumur",
+          "tempurung"
+        ]
+      },
+      "explanation": "Orang yang pengetahuannya sempit karena tidak pernah melihat dunia luar."
+    },
+    {
+      "id": "peribahasa.sd-c.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Seperti kacang lupa akan …"
+      },
+      "answer": "kulitnya",
+      "payload": {
+        "options": [
+          "tanahnya",
+          "pohonnya",
+          "bijinya",
+          "kulitnya"
+        ]
+      },
+      "explanation": "Orang yang lupa pada asal usulnya atau pada orang yang pernah menolongnya."
+    },
+    {
+      "id": "peribahasa.sd-c.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Buah jatuh tak jauh dari …"
+      },
+      "answer": "pohonnya",
+      "payload": {
+        "options": [
+          "rumahnya",
+          "pohonnya",
+          "kebunnya",
+          "sungainya"
+        ]
+      },
+      "explanation": "Sifat anak biasanya tidak jauh berbeda dari sifat orang tuanya."
+    },
+    {
+      "id": "peribahasa.sd-c.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Tong kosong nyaring …"
+      },
+      "answer": "bunyinya",
+      "payload": {
+        "options": [
+          "bentuknya",
+          "isinya",
+          "bunyinya",
+          "tutupnya"
+        ]
+      },
+      "explanation": "Orang yang banyak bicara biasanya sedikit pengetahuannya."
+    },
+    {
+      "id": "peribahasa.sd-c.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Nasi sudah menjadi …"
+      },
+      "answer": "bubur",
+      "payload": {
+        "options": [
+          "roti",
+          "ketan",
+          "kerak",
+          "bubur"
+        ]
+      },
+      "explanation": "Sesuatu yang sudah terjadi tidak dapat diubah lagi, jadi menyesal pun tidak berguna."
+    },
+    {
+      "id": "peribahasa.sd-c.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Sambil menyelam minum …"
+      },
+      "answer": "air",
+      "payload": {
+        "options": [
+          "teh",
+          "air",
+          "susu",
+          "obat"
+        ]
+      },
+      "explanation": "Mengerjakan dua pekerjaan sekaligus."
+    },
+    {
+      "id": "peribahasa.sd-c.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Tak kenal maka tak …"
+      },
+      "answer": "sayang",
+      "payload": {
+        "options": [
+          "datang",
+          "takut",
+          "pulang",
+          "sayang"
+        ]
+      },
+      "explanation": "Kita perlu mengenal seseorang lebih dulu agar dapat menyayanginya."
+    },
+    {
+      "id": "peribahasa.sd-c.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Ada gula ada …"
+      },
+      "answer": "semut",
+      "payload": {
+        "options": [
+          "lebah",
+          "kupu-kupu",
+          "semut",
+          "lalat"
+        ]
+      },
+      "explanation": "Di tempat yang menyenangkan atau menguntungkan, banyak orang berdatangan."
+    },
+    {
+      "id": "peribahasa.sd-c.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Jauh di mata dekat di …"
+      },
+      "answer": "hati",
+      "payload": {
+        "options": [
+          "rumah",
+          "hati",
+          "mulut",
+          "kepala"
+        ]
+      },
+      "explanation": "Walaupun tinggal berjauhan, tetap dekat dan ingat di dalam hati."
+    },
+    {
+      "id": "peribahasa.sd-c.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kecil-kecil cabai …"
+      },
+      "answer": "rawit",
+      "payload": {
+        "options": [
+          "merah",
+          "rawit",
+          "besar",
+          "hijau"
+        ]
+      },
+      "explanation": "Walaupun bertubuh kecil, ia pemberani atau pandai."
+    },
+    {
+      "id": "peribahasa.sd-c.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Biar lambat asal …"
+      },
+      "answer": "selamat",
+      "payload": {
+        "options": [
+          "selamat",
+          "senang",
+          "kenyang",
+          "cepat"
+        ]
+      },
+      "explanation": "Lebih baik pelan-pelan tetapi selamat daripada tergesa-gesa."
+    },
+    {
+      "id": "peribahasa.sd-c.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai mencari jarum dalam tumpukan …"
+      },
+      "answer": "jerami",
+      "payload": {
+        "options": [
+          "kain",
+          "daun",
+          "jerami",
+          "pasir"
+        ]
+      },
+      "explanation": "Mencari sesuatu yang sangat sulit ditemukan."
+    },
+    {
+      "id": "peribahasa.sd-c.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai anak ayam kehilangan …"
+      },
+      "answer": "induk",
+      "payload": {
+        "options": [
+          "bulu",
+          "makanan",
+          "sarang",
+          "induk"
+        ]
+      },
+      "explanation": "Kebingungan karena kehilangan pemimpin atau pelindung."
+    },
+    {
+      "id": "peribahasa.sd-c.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Tak ada rotan, akar pun …"
+      },
+      "answer": "jadi",
+      "payload": {
+        "options": [
+          "hilang",
+          "jadi",
+          "tumbuh",
+          "patah"
+        ]
+      },
+      "explanation": "Kalau tidak ada yang baik, yang kurang baik pun boleh dipakai."
+    },
+    {
+      "id": "peribahasa.sd-c.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai mendapat durian …"
+      },
+      "answer": "runtuh",
+      "payload": {
+        "options": [
+          "busuk",
+          "manis",
+          "runtuh",
+          "muda"
+        ]
+      },
+      "explanation": "Mendapat keuntungan atau rezeki yang tidak disangka-sangka."
+    },
+    {
+      "id": "peribahasa.sd-c.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Seperti cacing …"
+      },
+      "answer": "kepanasan",
+      "payload": {
+        "options": [
+          "kehujanan",
+          "kelaparan",
+          "kedinginan",
+          "kepanasan"
+        ]
+      },
+      "explanation": "Tidak bisa diam karena gelisah."
+    },
+    {
+      "id": "peribahasa.sd-c.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Sudah jatuh tertimpa …"
+      },
+      "answer": "tangga",
+      "payload": {
+        "options": [
+          "atap",
+          "kursi",
+          "tangga",
+          "pohon"
+        ]
+      },
+      "explanation": "Mengalami kesusahan yang datang berturut-turut."
+    },
+    {
+      "id": "peribahasa.sd-c.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Di mana ada kemauan, di situ ada …"
+      },
+      "answer": "jalan",
+      "payload": {
+        "options": [
+          "jalan",
+          "pintu",
+          "rumah",
+          "teman"
+        ]
+      },
+      "explanation": "Kalau ada kemauan yang kuat, pasti ada cara untuk mencapainya."
+    },
+    {
+      "id": "peribahasa.sd-c.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai minyak dengan …"
+      },
+      "answer": "air",
+      "payload": {
+        "options": [
+          "susu",
+          "air",
+          "gula",
+          "garam"
+        ]
+      },
+      "explanation": "Dua orang atau dua hal yang tidak dapat bersatu."
+    },
+    {
+      "id": "peribahasa.sd-c.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Seperti padi, makin berisi makin …"
+      },
+      "answer": "merunduk",
+      "payload": {
+        "options": [
+          "menguning",
+          "tegak",
+          "merunduk",
+          "tinggi"
+        ]
+      },
+      "explanation": "Orang yang makin berilmu makin rendah hati."
+    },
+    {
+      "id": "peribahasa.sd-c.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Di mana bumi dipijak, di situ … dijunjung"
+      },
+      "answer": "langit",
+      "payload": {
+        "options": [
+          "bintang",
+          "langit",
+          "matahari",
+          "awan"
+        ]
+      },
+      "explanation": "Kita harus menghormati adat dan aturan di tempat kita tinggal."
+    },
+    {
+      "id": "peribahasa.sd-c.0033",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Bagai makan buah …"
+      },
+      "answer": "simalakama",
+      "payload": {
+        "options": [
+          "mengkudu",
+          "kedondong",
+          "simalakama",
+          "rambutan"
+        ]
+      },
+      "explanation": "Menghadapi dua pilihan yang sama-sama sulit."
+    }
+  ]
+}

@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "gameId": "susun-kalimat",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "susun-kalimat.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mengapa kamu tidak datang ke kelas hari ini?"
+      },
+      "answer": "Saya tidak masuk sekolah karena sedang sakit.",
+      "payload": {
+        "distractors": [
+          "tetapi"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Apa yang dilakukan Ayah di teras pada pagi hari?"
+      },
+      "answer": "Ayah membaca koran sambil minum kopi.",
+      "payload": {
+        "distractors": [
+          "teh"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0003",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Bagaimana cara menjaga lingkungan sekolah tetap bersih?"
+      },
+      "answer": "Kami harus membuang sampah pada tempatnya.",
+      "payload": {
+        "distractors": [
+          "sembarangan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mengapa Adik sedih?"
+      },
+      "answer": "Adik menangis karena mainan kesayangannya rusak.",
+      "payload": {
+        "distractors": [
+          "tertawa"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kapan petani berangkat ke sawah?"
+      },
+      "answer": "Petani pergi ke sawah pada pagi hari.",
+      "payload": {
+        "distractors": [
+          "malam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mengapa Kakak menyisihkan uang jajannya?"
+      },
+      "answer": "Kakak menabung untuk membeli sepeda baru.",
+      "payload": {
+        "distractors": [
+          "menjual"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0007",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mengapa kalian rajin belajar?"
+      },
+      "answer": "Kami belajar dengan giat agar naik kelas.",
+      "payload": {
+        "distractors": [
+          "malas"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang dilakukan Rina setelah makan malam?"
+      },
+      "answer": "Rina membantu ibunya mencuci piring di dapur.",
+      "payload": {
+        "distractors": [
+          "menjemur"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0009",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang Adik lakukan sesudah mandi?"
+      },
+      "answer": "Setelah mandi, Adik memakai baju yang bersih.",
+      "payload": {
+        "distractors": [
+          "kotor"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0010",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kucing takut mendengar suara petir."
+      },
+      "answer": "Kucing itu bersembunyi di bawah meja makan.",
+      "payload": {
+        "distractors": [
+          "atas"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang kalian lakukan saat hujan di jalan?"
+      },
+      "answer": "Ketika hujan turun, kami berteduh di halte.",
+      "payload": {
+        "distractors": [
+          "bermain"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa yang dilakukan petani saat padi sudah tua?"
+      },
+      "answer": "Petani memanen padi yang sudah menguning.",
+      "payload": {
+        "distractors": [
+          "menanam"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagaimana siswa bersiap sebelum upacara dimulai?"
+      },
+      "answer": "Siswa berbaris dengan rapi di halaman sekolah.",
+      "payload": {
+        "distractors": [
+          "berlari"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Siapa yang mengajari Adik membaca?"
+      },
+      "answer": "Adik belajar membaca dengan bantuan kakaknya.",
+      "payload": {
+        "distractors": [
+          "gurunya"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kapan burung kembali ke sarang?"
+      },
+      "answer": "Burung-burung pulang ke sarangnya saat senja.",
+      "payload": {
+        "distractors": [
+          "fajar"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Apa pesan Ibu setiap malam?"
+      },
+      "answer": "Ibu menyuruh kami mencuci kaki sebelum tidur.",
+      "payload": {
+        "distractors": [
+          "sesudah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mengapa Andi tidak ikut upacara dari awal?"
+      },
+      "answer": "Andi terlambat datang karena bangun kesiangan.",
+      "payload": {
+        "distractors": [
+          "cepat"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mengapa kucing terus bersuara di dapur?"
+      },
+      "answer": "Kucing itu mengeong karena merasa lapar.",
+      "payload": {
+        "distractors": [
+          "menggonggong"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa kelas harus selalu bersih?"
+      },
+      "answer": "Kami menjaga kebersihan kelas agar nyaman untuk belajar.",
+      "payload": {
+        "distractors": [
+          "kotor"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0020",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Apa yang diceritakan Nenek sebelum tidur?"
+      },
+      "answer": "Nenek bercerita tentang masa kecilnya kepada kami.",
+      "payload": {
+        "distractors": [
+          "menyanyi"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0021",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Ayah baru pulang kerja, tetapi tetangga butuh bantuan."
+      },
+      "answer": "Meskipun lelah, Ayah tetap membantu tetangga.",
+      "payload": {
+        "distractors": [
+          "karena"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa kalian berhenti di perempatan jalan?"
+      },
+      "answer": "Kami berhenti karena lampu lalu lintas berwarna merah.",
+      "payload": {
+        "distractors": [
+          "hijau"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa kalian menanam pohon di halaman sekolah?"
+      },
+      "answer": "Kami menanam pohon di sekitar sekolah agar sejuk.",
+      "payload": {
+        "distractors": [
+          "menebang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Siapa yang mengatur barisan sebelum masuk kelas?"
+      },
+      "answer": "Sebelum pelajaran dimulai, ketua kelas menyiapkan barisan.",
+      "payload": {
+        "distractors": [
+          "sesudah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa sungai meluap pagi ini?"
+      },
+      "answer": "Air sungai meluap karena hujan turun semalaman.",
+      "payload": {
+        "distractors": [
+          "surut"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Kalian ingin melihat hewan berbelalai dari dekat."
+      },
+      "answer": "Kami pergi ke kebun binatang untuk melihat gajah.",
+      "payload": {
+        "distractors": [
+          "menangkap"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa tubuh Dito selalu bugar?"
+      },
+      "answer": "Dito rajin berolahraga sehingga tubuhnya tetap sehat.",
+      "payload": {
+        "distractors": [
+          "malas"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Musim hujan membuat taman sekolah penuh warna."
+      },
+      "answer": "Bunga di taman sekolah mekar dengan indah.",
+      "payload": {
+        "distractors": [
+          "layu"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Hujan turun saat Ayah akan berangkat."
+      },
+      "answer": "Ayah menggunakan payung agar tidak kehujanan.",
+      "payload": {
+        "distractors": [
+          "kepanasan"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Kapan nelayan biasanya pergi menangkap ikan?"
+      },
+      "answer": "Para nelayan berangkat melaut pada malam hari.",
+      "payload": {
+        "distractors": [
+          "siang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Apa yang ada di perpustakaan sekolahmu?"
+      },
+      "answer": "Perpustakaan sekolah kami memiliki banyak buku cerita.",
+      "payload": {
+        "distractors": [
+          "sedikit"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mengapa Lina membawa payung ke sekolah?"
+      },
+      "answer": "Lina membawa payung karena langit tampak mendung.",
+      "payload": {
+        "distractors": [
+          "cerah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Apa yang harus dipakai siswa di lapangan saat upacara?"
+      },
+      "answer": "Semua siswa memakai topi saat upacara bendera.",
+      "payload": {
+        "distractors": [
+          "sandal"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Kebiasaan baik Rudi agar giginya sehat."
+      },
+      "answer": "Rudi selalu menggosok gigi sebelum tidur malam.",
+      "payload": {
+        "distractors": [
+          "jarang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Kamu kesulitan mengerjakan PR berhitung."
+      },
+      "answer": "Kakak mengajari saya mengerjakan soal matematika yang sulit.",
+      "payload": {
+        "distractors": [
+          "mudah"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Apa nasihat guru agar kita menjadi pintar?"
+      },
+      "answer": "Jika ingin pandai, kita harus rajin membaca buku.",
+      "payload": {
+        "distractors": [
+          "malas"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Apa yang kalian lakukan dengan botol bekas?"
+      },
+      "answer": "Kami mengumpulkan sampah plastik untuk didaur ulang.",
+      "payload": {
+        "distractors": [
+          "dibuang"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Cuaca buruk, tetapi kalian tidak mau tertinggal pelajaran."
+      },
+      "answer": "Walaupun hujan deras, kami tetap berangkat ke sekolah.",
+      "payload": {
+        "distractors": [
+          "karena"
+        ]
+      }
+    },
+    {
+      "id": "susun-kalimat.sd-c.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Apa kegiatan pelajaran seni hari ini?"
+      },
+      "answer": "Kami membuat kerajinan dari kertas bekas di kelas.",
+      "payload": {
+        "distractors": [
+          "membeli"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "schemaVersion": 1,
+  "gameId": "imbuhan",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "imbuhan.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "-an + makan"
+      },
+      "answer": "makanan",
+      "payload": {
+        "options": [
+          "makanaan",
+          "makanan",
+          "makannan"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "-an + minum"
+      },
+      "answer": "minuman",
+      "payload": {
+        "options": [
+          "minumaan",
+          "minuman",
+          "minumman"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "-an + main"
+      },
+      "answer": "mainan",
+      "payload": {
+        "options": [
+          "mainan",
+          "mainnan",
+          "mainaan"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "-an + tulis"
+      },
+      "answer": "tulisan",
+      "payload": {
+        "options": [
+          "tulisaan",
+          "tulissan",
+          "tulisan"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "-an + sayur"
+      },
+      "answer": "sayuran",
+      "payload": {
+        "options": [
+          "sayuran",
+          "sayuraan",
+          "sayurran"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "-an + jawab"
+      },
+      "answer": "jawaban",
+      "payload": {
+        "options": [
+          "jawapan",
+          "jawaban",
+          "jawabban"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "-an + tumbuh"
+      },
+      "answer": "tumbuhan",
+      "payload": {
+        "options": [
+          "tumbuan",
+          "tumbuhan",
+          "tumbuhhan"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "-kan + bersih"
+      },
+      "answer": "bersihkan",
+      "payload": {
+        "options": [
+          "bersikan",
+          "bersihkan",
+          "bersihhan"
+        ]
+      },
+      "explanation": "Akhiran -kan ditulis serangkai di belakang kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-c.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "-kan + ambil"
+      },
+      "answer": "ambilkan",
+      "payload": {
+        "options": [
+          "ambilan",
+          "ambilkkan",
+          "ambilkan"
+        ]
+      },
+      "explanation": "Akhiran -kan ditulis serangkai di belakang kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-c.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "-kan + mati"
+      },
+      "answer": "matikan",
+      "payload": {
+        "options": [
+          "mattikan",
+          "matiikan",
+          "matikan"
+        ]
+      },
+      "explanation": "Akhiran -kan ditulis serangkai di belakang kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-c.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "me- + tulis"
+      },
+      "answer": "menulis",
+      "payload": {
+        "options": [
+          "mentulis",
+          "metulis",
+          "menyulis",
+          "menulis"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "me- + tanam"
+      },
+      "answer": "menanam",
+      "payload": {
+        "options": [
+          "menanam",
+          "metanam",
+          "menyanam",
+          "mentanam"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "me- + sapu"
+      },
+      "answer": "menyapu",
+      "payload": {
+        "options": [
+          "menyampu",
+          "mesapu",
+          "menyapu",
+          "mensapu"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meny- dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "me- + pilih"
+      },
+      "answer": "memilih",
+      "payload": {
+        "options": [
+          "mepilih",
+          "menilih",
+          "mempilih",
+          "memilih"
+        ]
+      },
+      "explanation": "Awalan me- menjadi mem- dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "-an + latih"
+      },
+      "answer": "latihan",
+      "payload": {
+        "options": [
+          "latihan",
+          "latihhan",
+          "latian"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "-an + pakai"
+      },
+      "answer": "pakaian",
+      "payload": {
+        "options": [
+          "pakaian",
+          "pakaiyan",
+          "pakean"
+        ]
+      },
+      "explanation": "Akhiran -an ditulis serangkai di belakang kata dasar tanpa menggandakan huruf."
+    },
+    {
+      "id": "imbuhan.sd-c.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + potong"
+      },
+      "answer": "memotong",
+      "payload": {
+        "options": [
+          "menotong",
+          "mepotong",
+          "memotong",
+          "mempotong"
+        ]
+      },
+      "explanation": "Awalan me- menjadi mem- dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + pakai"
+      },
+      "answer": "memakai",
+      "payload": {
+        "options": [
+          "mempakai",
+          "memakai",
+          "mepakai",
+          "mengakai"
+        ]
+      },
+      "explanation": "Awalan me- menjadi mem- dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + pinjam"
+      },
+      "answer": "meminjam",
+      "payload": {
+        "options": [
+          "meninjam",
+          "meminjam",
+          "mempinjam",
+          "mepinjam"
+        ]
+      },
+      "explanation": "Awalan me- menjadi mem- dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + tarik"
+      },
+      "answer": "menarik",
+      "payload": {
+        "options": [
+          "mentarik",
+          "menarik",
+          "metarik",
+          "menyarik"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + tolong"
+      },
+      "answer": "menolong",
+      "payload": {
+        "options": [
+          "metolong",
+          "menolong",
+          "mentolong",
+          "memolong"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + siram"
+      },
+      "answer": "menyiram",
+      "payload": {
+        "options": [
+          "mensiram",
+          "meniram",
+          "mesiram",
+          "menyiram"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meny- dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + simpan"
+      },
+      "answer": "menyimpan",
+      "payload": {
+        "options": [
+          "menyimpan",
+          "mesimpan",
+          "mensimpan",
+          "menimpan"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meny- dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + susun"
+      },
+      "answer": "menyusun",
+      "payload": {
+        "options": [
+          "mensusun",
+          "menyusun",
+          "mesusun",
+          "menusun"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meny- dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe- + tulis"
+      },
+      "answer": "penulis",
+      "payload": {
+        "options": [
+          "petulis",
+          "penyulis",
+          "pentulis",
+          "penulis"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi pen- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe- + tari"
+      },
+      "answer": "penari",
+      "payload": {
+        "options": [
+          "pentari",
+          "penari",
+          "petari",
+          "penyari"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi pen- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe- + tolong"
+      },
+      "answer": "penolong",
+      "payload": {
+        "options": [
+          "penolong",
+          "pentolong",
+          "petolong",
+          "pemolong"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi pen- dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe- + potong"
+      },
+      "answer": "pemotong",
+      "payload": {
+        "options": [
+          "pepotong",
+          "pempotong",
+          "pemotong",
+          "penotong"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi pem- dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe- + sapu"
+      },
+      "answer": "penyapu",
+      "payload": {
+        "options": [
+          "penyapu",
+          "pesapu",
+          "penapu",
+          "pensapu"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi peny- dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + kirim"
+      },
+      "answer": "mengirim",
+      "payload": {
+        "options": [
+          "menirim",
+          "mekirim",
+          "mengirim",
+          "mengkirim"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + kupas"
+      },
+      "answer": "mengupas",
+      "payload": {
+        "options": [
+          "mengupas",
+          "menupas",
+          "mekupas",
+          "mengkupas"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + karang"
+      },
+      "answer": "mengarang",
+      "payload": {
+        "options": [
+          "mengkarang",
+          "mengarang",
+          "mekarang",
+          "menarang"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + ketik"
+      },
+      "answer": "mengetik",
+      "payload": {
+        "options": [
+          "mengetik",
+          "menetik",
+          "meketik",
+          "mengketik"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "pe- + kirim"
+      },
+      "answer": "pengirim",
+      "payload": {
+        "options": [
+          "pekirim",
+          "pengkirim",
+          "penirim",
+          "pengirim"
+        ]
+      },
+      "explanation": "Awalan pe- menjadi peng- dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.sd-c.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "-kan + masuk"
+      },
+      "answer": "masukkan",
+      "payload": {
+        "options": [
+          "masuk kan",
+          "masukan",
+          "masukkan"
+        ]
+      },
+      "explanation": "Kata dasar berakhiran k ditambah -kan ditulis dengan dua huruf k."
+    },
+    {
+      "id": "imbuhan.sd-c.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "-kan + naik"
+      },
+      "answer": "naikkan",
+      "payload": {
+        "options": [
+          "naikkan",
+          "naikan",
+          "naik kan"
+        ]
+      },
+      "explanation": "Kata dasar berakhiran k ditambah -kan ditulis dengan dua huruf k."
+    },
+    {
+      "id": "imbuhan.sd-c.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "-kan + letak"
+      },
+      "answer": "letakkan",
+      "payload": {
+        "options": [
+          "letakan",
+          "letakkan",
+          "letak kan"
+        ]
+      },
+      "explanation": "Kata dasar berakhiran k ditambah -kan ditulis dengan dua huruf k."
+    },
+    {
+      "id": "imbuhan.sd-c.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "-kan + tunjuk"
+      },
+      "answer": "tunjukkan",
+      "payload": {
+        "options": [
+          "tunjukkan",
+          "tunjuk kan",
+          "tunjukan"
+        ]
+      },
+      "explanation": "Kata dasar berakhiran k ditambah -kan ditulis dengan dua huruf k."
+    }
+  ]
+}

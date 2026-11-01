@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "gameId": "peribahasa",
+  "segment": "sma",
+  "jenjang": "SMA",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "peribahasa.sma.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Berakit-rakit ke hulu, berenang-renang ke tepian; bersakit-sakit dahulu, …"
+      },
+      "answer": "bersenang-senang kemudian",
+      "payload": {
+        "options": [
+          "bersedih-sedih kemudian",
+          "berenang-renang kemudian",
+          "bersenang-senang kemudian",
+          "bermain-main kemudian"
+        ]
+      },
+      "explanation": "Bersusah payah dahulu, kemudian menikmati hasilnya."
+    },
+    {
+      "id": "peribahasa.sma.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Kura-kura dalam perahu, … tidak tahu"
+      },
+      "answer": "pura-pura",
+      "payload": {
+        "options": [
+          "rupa-rupa",
+          "pura-pura",
+          "rasa-rasa",
+          "sungguh-sungguh"
+        ]
+      },
+      "explanation": "Berpura-pura tidak tahu padahal sebenarnya tahu."
+    },
+    {
+      "id": "peribahasa.sma.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Hujan emas di negeri orang, hujan … di negeri sendiri, lebih baik di negeri sendiri"
+      },
+      "answer": "batu",
+      "payload": {
+        "options": [
+          "pasir",
+          "batu",
+          "perak",
+          "air"
+        ]
+      },
+      "explanation": "Betapapun senangnya di negeri orang, masih lebih senang tinggal di negeri sendiri."
+    },
+    {
+      "id": "peribahasa.sma.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Siapa menabur angin, akan menuai …"
+      },
+      "answer": "badai",
+      "payload": {
+        "options": [
+          "badai",
+          "padi",
+          "bunga",
+          "hujan"
+        ]
+      },
+      "explanation": "Siapa yang berbuat jahat akan menerima akibat yang lebih buruk."
+    },
+    {
+      "id": "peribahasa.sma.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bagai katak hendak menjadi …"
+      },
+      "answer": "lembu",
+      "payload": {
+        "options": [
+          "gajah",
+          "lembu",
+          "kerbau",
+          "kuda"
+        ]
+      },
+      "explanation": "Orang kecil yang ingin meniru orang besar, akhirnya celaka sendiri."
+    },
+    {
+      "id": "peribahasa.sma.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Kalah jadi abu, menang jadi …"
+      },
+      "answer": "arang",
+      "payload": {
+        "options": [
+          "batu",
+          "arang",
+          "emas",
+          "debu"
+        ]
+      },
+      "explanation": "Dalam pertengkaran, kedua pihak sama-sama rugi."
+    },
+    {
+      "id": "peribahasa.sma.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Ada ubi ada talas, ada budi ada …"
+      },
+      "answer": "balas",
+      "payload": {
+        "options": [
+          "balas",
+          "harta",
+          "batas",
+          "bekas"
+        ]
+      },
+      "explanation": "Kebaikan akan dibalas dengan kebaikan."
+    },
+    {
+      "id": "peribahasa.sma.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Dalamnya laut dapat diduga, dalamnya hati siapa …"
+      },
+      "answer": "tahu",
+      "payload": {
+        "options": [
+          "mau",
+          "dapat",
+          "rasa",
+          "tahu"
+        ]
+      },
+      "explanation": "Isi hati seseorang sulit diketahui."
+    },
+    {
+      "id": "peribahasa.sma.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Kuman di seberang lautan tampak, gajah di pelupuk mata tidak …"
+      },
+      "answer": "tampak",
+      "payload": {
+        "options": [
+          "tampak",
+          "bergerak",
+          "berbunyi",
+          "terasa"
+        ]
+      },
+      "explanation": "Kesalahan orang lain yang kecil mudah terlihat, kesalahan sendiri yang besar tidak terlihat."
+    },
+    {
+      "id": "peribahasa.sma.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Sekali lancung ke ujian, seumur hidup orang tak …"
+      },
+      "answer": "percaya",
+      "payload": {
+        "options": [
+          "percaya",
+          "peduli",
+          "datang",
+          "lupa"
+        ]
+      },
+      "explanation": "Sekali berbuat curang atau berbohong, orang tidak akan percaya lagi."
+    },
+    {
+      "id": "peribahasa.sma.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Menepuk air di dulang, terpercik … sendiri"
+      },
+      "answer": "muka",
+      "payload": {
+        "options": [
+          "baju",
+          "kaki",
+          "tangan",
+          "muka"
+        ]
+      },
+      "explanation": "Membuka aib keluarga sendiri, akhirnya diri sendiri juga yang malu."
+    },
+    {
+      "id": "peribahasa.sma.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Sepandai-pandai menyimpan bangkai, akhirnya … juga"
+      },
+      "answer": "tercium",
+      "payload": {
+        "options": [
+          "terkubur",
+          "hilang",
+          "tercium",
+          "terlupa"
+        ]
+      },
+      "explanation": "Perbuatan buruk yang disembunyikan pada akhirnya akan ketahuan juga."
+    },
+    {
+      "id": "peribahasa.sma.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Untung tak dapat diraih, malang tak dapat …"
+      },
+      "answer": "ditolak",
+      "payload": {
+        "options": [
+          "ditolak",
+          "dicari",
+          "dilihat",
+          "dihitung"
+        ]
+      },
+      "explanation": "Nasib baik atau buruk tidak dapat diketahui sebelumnya."
+    },
+    {
+      "id": "peribahasa.sma.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Belajar di waktu kecil bagai mengukir di atas …, belajar sesudah dewasa bagai mengukir di atas air"
+      },
+      "answer": "batu",
+      "payload": {
+        "options": [
+          "kayu",
+          "pasir",
+          "kertas",
+          "batu"
+        ]
+      },
+      "explanation": "Pelajaran yang didapat sejak kecil lebih mudah diingat daripada yang dipelajari setelah dewasa."
+    },
+    {
+      "id": "peribahasa.sma.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kalau kail panjang sejengkal, jangan … hendak diduga"
+      },
+      "answer": "laut",
+      "payload": {
+        "options": [
+          "laut",
+          "sungai",
+          "danau",
+          "kolam"
+        ]
+      },
+      "explanation": "Kalau ilmu atau kemampuan masih sedikit, jangan mencoba mengerjakan hal yang sulit."
+    },
+    {
+      "id": "peribahasa.sma.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Esa hilang, dua …"
+      },
+      "answer": "terbilang",
+      "payload": {
+        "options": [
+          "terlupa",
+          "tertinggal",
+          "terbilang",
+          "terbuang"
+        ]
+      },
+      "explanation": "Terus berusaha dengan gigih sampai berhasil."
+    },
+    {
+      "id": "peribahasa.sma.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai aur dengan …"
+      },
+      "answer": "tebing",
+      "payload": {
+        "options": [
+          "tebing",
+          "pantai",
+          "sungai",
+          "batu"
+        ]
+      },
+      "explanation": "Saling menolong dan saling membutuhkan."
+    },
+    {
+      "id": "peribahasa.sma.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai api dalam …"
+      },
+      "answer": "sekam",
+      "payload": {
+        "options": [
+          "sekam",
+          "lilin",
+          "kayu",
+          "tungku"
+        ]
+      },
+      "explanation": "Masalah atau niat buruk yang tersembunyi dan suatu saat bisa muncul."
+    },
+    {
+      "id": "peribahasa.sma.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Hendak seribu daya, tak hendak seribu …"
+      },
+      "answer": "dalih",
+      "payload": {
+        "options": [
+          "kata",
+          "jalan",
+          "cara",
+          "dalih"
+        ]
+      },
+      "explanation": "Kalau mau, ada saja jalannya; kalau tidak mau, ada saja alasannya."
+    },
+    {
+      "id": "peribahasa.sma.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai menggarami air …"
+      },
+      "answer": "laut",
+      "payload": {
+        "options": [
+          "hujan",
+          "sumur",
+          "sungai",
+          "laut"
+        ]
+      },
+      "explanation": "Melakukan pekerjaan yang sia-sia, misalnya memberi kepada orang yang sudah berkecukupan."
+    },
+    {
+      "id": "peribahasa.sma.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Kerbau punya susu, sapi punya …"
+      },
+      "answer": "nama",
+      "payload": {
+        "options": [
+          "anak",
+          "tanduk",
+          "nama",
+          "rumput"
+        ]
+      },
+      "explanation": "Orang lain yang bekerja keras, tetapi orang lain pula yang mendapat pujian."
+    },
+    {
+      "id": "peribahasa.sma.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai abu di atas …"
+      },
+      "answer": "tunggul",
+      "payload": {
+        "options": [
+          "meja",
+          "tunggul",
+          "batu",
+          "atap"
+        ]
+      },
+      "explanation": "Kedudukan yang tidak kukuh dan mudah hilang."
+    },
+    {
+      "id": "peribahasa.sma.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai menggantang …"
+      },
+      "answer": "asap",
+      "payload": {
+        "options": [
+          "asap",
+          "padi",
+          "air",
+          "beras"
+        ]
+      },
+      "explanation": "Melakukan pekerjaan yang sia-sia."
+    },
+    {
+      "id": "peribahasa.sma.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai menatang minyak …"
+      },
+      "answer": "penuh",
+      "payload": {
+        "options": [
+          "panas",
+          "penuh",
+          "goreng",
+          "tanah"
+        ]
+      },
+      "explanation": "Merawat atau memelihara sesuatu dengan sangat hati-hati dan penuh kasih sayang."
+    },
+    {
+      "id": "peribahasa.sma.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Air dicincang tiada …"
+      },
+      "answer": "putus",
+      "payload": {
+        "options": [
+          "kering",
+          "habis",
+          "putus",
+          "basah"
+        ]
+      },
+      "explanation": "Persaudaraan tidak mudah putus walaupun terjadi perselisihan."
+    },
+    {
+      "id": "peribahasa.sma.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Tua-tua keladi, makin tua makin …"
+      },
+      "answer": "menjadi",
+      "payload": {
+        "options": [
+          "kecil",
+          "menjadi",
+          "pendiam",
+          "lemah"
+        ]
+      },
+      "explanation": "Orang tua yang tingkah lakunya makin seperti anak muda."
+    },
+    {
+      "id": "peribahasa.sma.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai mentimun dengan …"
+      },
+      "answer": "durian",
+      "payload": {
+        "options": [
+          "kelapa",
+          "nangka",
+          "durian",
+          "semangka"
+        ]
+      },
+      "explanation": "Orang lemah yang tidak dapat melawan orang yang kuat."
+    },
+    {
+      "id": "peribahasa.sma.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Ikut hati mati, ikut rasa …"
+      },
+      "answer": "binasa",
+      "payload": {
+        "options": [
+          "senang",
+          "binasa",
+          "selamat",
+          "bahagia"
+        ]
+      },
+      "explanation": "Orang yang selalu menuruti hawa nafsu akan celaka."
+    },
+    {
+      "id": "peribahasa.sma.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Indah kabar dari …"
+      },
+      "answer": "rupa",
+      "payload": {
+        "options": [
+          "harga",
+          "rupa",
+          "warna",
+          "suara"
+        ]
+      },
+      "explanation": "Berita tentang sesuatu lebih indah daripada kenyataannya."
+    },
+    {
+      "id": "peribahasa.sma.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Arang habis, besi …"
+      },
+      "answer": "binasa",
+      "payload": {
+        "options": [
+          "menyala",
+          "menjadi",
+          "binasa",
+          "berkarat"
+        ]
+      },
+      "explanation": "Usaha yang sia-sia; sudah banyak tenaga dan biaya keluar, tetapi tidak ada hasilnya."
+    },
+    {
+      "id": "peribahasa.sma.0031",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Bermain air basah, bermain api …"
+      },
+      "answer": "hangus",
+      "payload": {
+        "options": [
+          "dingin",
+          "padam",
+          "terang",
+          "hangus"
+        ]
+      },
+      "explanation": "Setiap pekerjaan ada risikonya yang harus siap ditanggung."
+    },
+    {
+      "id": "peribahasa.sma.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Bagai kerakap tumbuh di batu, hidup segan mati tak …"
+      },
+      "answer": "mau",
+      "payload": {
+        "options": [
+          "jadi",
+          "mau",
+          "layu",
+          "sempat"
+        ]
+      },
+      "explanation": "Hidup dalam keadaan yang sangat susah."
+    },
+    {
+      "id": "peribahasa.sma.0033",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Bagai kuda lepas dari …"
+      },
+      "answer": "pingitan",
+      "payload": {
+        "options": [
+          "kandang",
+          "kereta",
+          "pingitan",
+          "pelana"
+        ]
+      },
+      "explanation": "Merasa sangat bebas setelah lama terkekang."
+    },
+    {
+      "id": "peribahasa.sma.0034",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Seperti harimau menyembunyikan …"
+      },
+      "answer": "kuku",
+      "payload": {
+        "options": [
+          "ekor",
+          "anak",
+          "kuku",
+          "taring"
+        ]
+      },
+      "explanation": "Orang pandai atau berkuasa yang tidak suka memamerkan kelebihannya."
+    },
+    {
+      "id": "peribahasa.sma.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Gajah berjuang sama gajah, … mati di tengah-tengah"
+      },
+      "answer": "pelanduk",
+      "payload": {
+        "options": [
+          "harimau",
+          "pelanduk",
+          "rusa",
+          "kerbau"
+        ]
+      },
+      "explanation": "Kalau orang besar berselisih, orang kecil yang menanggung akibatnya."
+    },
+    {
+      "id": "peribahasa.sma.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Berguru kepalang ajar, bagai bunga kembang tak …"
+      },
+      "answer": "jadi",
+      "payload": {
+        "options": [
+          "harum",
+          "jadi",
+          "indah",
+          "layu"
+        ]
+      },
+      "explanation": "Belajar setengah-setengah tidak akan membawa hasil."
+    },
+    {
+      "id": "peribahasa.sma.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Tangan mencencang, bahu …"
+      },
+      "answer": "memikul",
+      "payload": {
+        "options": [
+          "memikul",
+          "mengangkat",
+          "menjinjing",
+          "menahan"
+        ]
+      },
+      "explanation": "Siapa yang berbuat, dia pula yang harus bertanggung jawab."
+    },
+    {
+      "id": "peribahasa.sma.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Kepala sama berbulu, pendapat …"
+      },
+      "answer": "berlain-lainan",
+      "payload": {
+        "options": [
+          "sama saja",
+          "berganti-ganti",
+          "berlain-lainan",
+          "bersama-sama"
+        ]
+      },
+      "explanation": "Setiap orang mempunyai pendapat yang berbeda-beda."
+    },
+    {
+      "id": "peribahasa.sma.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Biduk lalu, kiambang …"
+      },
+      "answer": "bertaut",
+      "payload": {
+        "options": [
+          "terbang",
+          "berlari",
+          "tenggelam",
+          "bertaut"
+        ]
+      },
+      "explanation": "Perselisihan antarsaudara cepat berdamai kembali."
+    },
+    {
+      "id": "peribahasa.sma.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Sambil berdiang nasi …"
+      },
+      "answer": "masak",
+      "payload": {
+        "options": [
+          "masak",
+          "habis",
+          "basi",
+          "dingin"
+        ]
+      },
+      "explanation": "Sekali mengerjakan sesuatu, beberapa hasil didapat sekaligus."
+    }
+  ]
+}

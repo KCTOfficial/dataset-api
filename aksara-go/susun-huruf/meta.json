@@ -1,0 +1,16 @@
+{
+  "gameId": "susun-huruf",
+  "title": "Susun Huruf",
+  "description": "Susun huruf acak menjadi kata yang benar.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "TILE_BANK",
+  "instruction": "Susun huruf menjadi kata!",
+  "emoji": "🔀",
+  "colorToken": "yellow",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c"
+  ]
+}

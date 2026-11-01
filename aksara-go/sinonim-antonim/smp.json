@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 1,
+  "gameId": "sinonim-antonim",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "MATCH_PAIRS",
+  "questions": [
+    {
+      "id": "sinonim-antonim.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "rajin"
+      },
+      "answer": "malas",
+      "payload": {
+        "options": [
+          "lambat",
+          "nakal",
+          "bodoh",
+          "malas"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sempit"
+      },
+      "answer": "luas",
+      "payload": {
+        "options": [
+          "dalam",
+          "luas",
+          "panjang",
+          "tinggi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "cerdas"
+      },
+      "answer": "pandai",
+      "payload": {
+        "options": [
+          "teliti",
+          "pandai",
+          "rajin",
+          "tekun"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sukar"
+      },
+      "answer": "sulit",
+      "payload": {
+        "options": [
+          "lambat",
+          "jarang",
+          "sulit",
+          "langka"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "pasif"
+      },
+      "answer": "aktif",
+      "payload": {
+        "options": [
+          "produktif",
+          "positif",
+          "aktif",
+          "kreatif"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "optimistis"
+      },
+      "answer": "pesimistis",
+      "payload": {
+        "options": [
+          "kritis",
+          "egoistis",
+          "realistis",
+          "pesimistis"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "hulu"
+      },
+      "answer": "hilir",
+      "payload": {
+        "options": [
+          "tepi",
+          "dasar",
+          "tengah",
+          "hilir"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tekun"
+      },
+      "answer": "rajin",
+      "payload": {
+        "options": [
+          "sabar",
+          "rajin",
+          "jujur",
+          "cerdas"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "lazim"
+      },
+      "answer": "biasa",
+      "payload": {
+        "options": [
+          "mudah",
+          "penting",
+          "wajib",
+          "biasa"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kendala"
+      },
+      "answer": "hambatan",
+      "payload": {
+        "options": [
+          "hambatan",
+          "akibat",
+          "tujuan",
+          "alasan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "cermat"
+      },
+      "answer": "teliti",
+      "payload": {
+        "options": [
+          "cekatan",
+          "cepat",
+          "rapi",
+          "teliti"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sukarela"
+      },
+      "answer": "terpaksa",
+      "payload": {
+        "options": [
+          "bersama",
+          "terpaksa",
+          "segera",
+          "sengaja"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "mayoritas"
+      },
+      "answer": "minoritas",
+      "payload": {
+        "options": [
+          "kuantitas",
+          "prioritas",
+          "minoritas",
+          "kualitas"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sulung"
+      },
+      "answer": "bungsu",
+      "payload": {
+        "options": [
+          "bungsu",
+          "tengah",
+          "kembar",
+          "tunggal"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ekspor"
+      },
+      "answer": "impor",
+      "payload": {
+        "options": [
+          "impor",
+          "produksi",
+          "distribusi",
+          "transaksi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "jemu"
+      },
+      "answer": "bosan",
+      "payload": {
+        "options": [
+          "lelah",
+          "lapar",
+          "sedih",
+          "bosan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "agung"
+      },
+      "answer": "mulia",
+      "payload": {
+        "options": [
+          "kaya",
+          "berani",
+          "mulia",
+          "tua"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "upaya"
+      },
+      "answer": "usaha",
+      "payload": {
+        "options": [
+          "alasan",
+          "hasil",
+          "usaha",
+          "tujuan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sanggup"
+      },
+      "answer": "mampu",
+      "payload": {
+        "options": [
+          "mampu",
+          "boleh",
+          "harus",
+          "pernah"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0020",
+      "difficulty": 4,
+      "prompt": {
+        "text": "statis"
+      },
+      "answer": "dinamis",
+      "payload": {
+        "options": [
+          "dinamis",
+          "elastis",
+          "logis",
+          "kritis"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0021",
+      "difficulty": 4,
+      "prompt": {
+        "text": "hina"
+      },
+      "answer": "mulia",
+      "payload": {
+        "options": [
+          "mulia",
+          "miskin",
+          "malas",
+          "lemah"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sejati"
+      },
+      "answer": "palsu",
+      "payload": {
+        "options": [
+          "palsu",
+          "mahal",
+          "kuno",
+          "langka"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "maksimal"
+      },
+      "answer": "minimal",
+      "payload": {
+        "options": [
+          "total",
+          "minimal",
+          "formal",
+          "normal"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "khawatir"
+      },
+      "answer": "cemas",
+      "payload": {
+        "options": [
+          "marah",
+          "cemas",
+          "kecewa",
+          "bingung"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "imbalan"
+      },
+      "answer": "upah",
+      "payload": {
+        "options": [
+          "utang",
+          "upah",
+          "denda",
+          "pajak"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "mufakat"
+      },
+      "answer": "sepakat",
+      "payload": {
+        "options": [
+          "rapat",
+          "sepakat",
+          "pendapat",
+          "debat"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0027",
+      "difficulty": 5,
+      "prompt": {
+        "text": "abadi"
+      },
+      "answer": "fana",
+      "payload": {
+        "options": [
+          "fana",
+          "gaib",
+          "purba",
+          "suci"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "vertikal"
+      },
+      "answer": "horizontal",
+      "payload": {
+        "options": [
+          "horizontal",
+          "diagonal",
+          "paralel",
+          "sentral"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "gigih"
+      },
+      "answer": "ulet",
+      "payload": {
+        "options": [
+          "ulet",
+          "jujur",
+          "cerdik",
+          "ramah"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.smp.0030",
+      "difficulty": 5,
+      "prompt": {
+        "text": "masyhur"
+      },
+      "answer": "terkenal",
+      "payload": {
+        "options": [
+          "terkenal",
+          "berkuasa",
+          "pandai",
+          "kaya"
+        ],
+        "relation": "sinonim"
+      }
+    }
+  ]
+}

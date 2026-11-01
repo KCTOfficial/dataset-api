@@ -1,0 +1,670 @@
+{
+  "schemaVersion": 1,
+  "gameId": "imbuhan",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "imbuhan.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ke-an + adil"
+      },
+      "answer": "keadilan",
+      "payload": {
+        "options": [
+          "keadilaan",
+          "keadilan",
+          "kadilan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ke-an + bersih"
+      },
+      "answer": "kebersihan",
+      "payload": {
+        "options": [
+          "kebersian",
+          "kebersihan",
+          "kebersihaan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ke-an + indah"
+      },
+      "answer": "keindahan",
+      "payload": {
+        "options": [
+          "keindaan",
+          "keindahan",
+          "kindahan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ke-an + sehat"
+      },
+      "answer": "kesehatan",
+      "payload": {
+        "options": [
+          "kesehatan",
+          "kesehataan",
+          "kesehattan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ke-an + aman"
+      },
+      "answer": "keamanan",
+      "payload": {
+        "options": [
+          "kamanan",
+          "keamanan",
+          "keamaan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ke-an + baik"
+      },
+      "answer": "kebaikan",
+      "payload": {
+        "options": [
+          "kebaikkan",
+          "kebaian",
+          "kebaikan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ke-an + hujan"
+      },
+      "answer": "kehujanan",
+      "payload": {
+        "options": [
+          "kehujanan",
+          "kehujaan",
+          "kehujannan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ke-an + mampu"
+      },
+      "answer": "kemampuan",
+      "payload": {
+        "options": [
+          "kemampuwan",
+          "kemampuhan",
+          "kemampuan"
+        ]
+      },
+      "explanation": "Konfiks ke-an mengapit kata dasar: ke- di depan dan -an di belakang."
+    },
+    {
+      "id": "imbuhan.smp.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "per-an + main"
+      },
+      "answer": "permainan",
+      "payload": {
+        "options": [
+          "pemainan",
+          "perrmainan",
+          "permainan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "per-an + kebun"
+      },
+      "answer": "perkebunan",
+      "payload": {
+        "options": [
+          "pekebunan",
+          "perkebuan",
+          "perkebunan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "per-an + tani"
+      },
+      "answer": "pertanian",
+      "payload": {
+        "options": [
+          "petanian",
+          "pertanian",
+          "pertaniaan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "memper- + besar"
+      },
+      "answer": "memperbesar",
+      "payload": {
+        "options": [
+          "memerbesar",
+          "memperrbesar",
+          "memperbesar"
+        ]
+      },
+      "explanation": "Awalan memper- langsung melekat pada kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "memper- + luas"
+      },
+      "answer": "memperluas",
+      "payload": {
+        "options": [
+          "memperluas",
+          "memerluas",
+          "mempeluas"
+        ]
+      },
+      "explanation": "Awalan memper- langsung melekat pada kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "memper- + mudah"
+      },
+      "answer": "mempermudah",
+      "payload": {
+        "options": [
+          "memermudah",
+          "mempemudah",
+          "mempermudah"
+        ]
+      },
+      "explanation": "Awalan memper- langsung melekat pada kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "per-an + temu"
+      },
+      "answer": "pertemuan",
+      "payload": {
+        "options": [
+          "petemuan",
+          "pertemuan",
+          "pertemuwan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "per-an + juang"
+      },
+      "answer": "perjuangan",
+      "payload": {
+        "options": [
+          "pejuangan",
+          "perjuanggan",
+          "perjuangan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "per-an + ubah"
+      },
+      "answer": "perubahan",
+      "payload": {
+        "options": [
+          "perubaan",
+          "perobahan",
+          "perubahan"
+        ]
+      },
+      "explanation": "Konfiks per-an mengapit kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "memper- + panjang"
+      },
+      "answer": "memperpanjang",
+      "payload": {
+        "options": [
+          "mempermanjang",
+          "memperpanjang",
+          "memerpanjang"
+        ]
+      },
+      "explanation": "Awalan memper- langsung melekat pada kata dasar tanpa peluluhan."
+    },
+    {
+      "id": "imbuhan.smp.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe-an + tulis"
+      },
+      "answer": "penulisan",
+      "payload": {
+        "options": [
+          "penyulisan",
+          "petulisan",
+          "penulisan",
+          "pentulisan"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi pen-an dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.smp.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe-an + tanam"
+      },
+      "answer": "penanaman",
+      "payload": {
+        "options": [
+          "pentanaman",
+          "petanaman",
+          "penyanaman",
+          "penanaman"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi pen-an dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe-an + kirim"
+      },
+      "answer": "pengiriman",
+      "payload": {
+        "options": [
+          "peniriman",
+          "pengkiriman",
+          "pengiriman",
+          "pekiriman"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi peng-an dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.smp.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe-an + pilih"
+      },
+      "answer": "pemilihan",
+      "payload": {
+        "options": [
+          "pempilihan",
+          "pemilihan",
+          "pepilihan",
+          "penilihan"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi pem-an dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.smp.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pe-an + simpan"
+      },
+      "answer": "penyimpanan",
+      "payload": {
+        "options": [
+          "pensimpanan",
+          "penyimpanan",
+          "pesimpanan",
+          "penimpanan"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi peny-an dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.smp.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me-kan + bersih"
+      },
+      "answer": "membersihkan",
+      "payload": {
+        "options": [
+          "menbersihkan",
+          "membersikan",
+          "mebersihkan",
+          "membersihkan"
+        ]
+      },
+      "explanation": "Konfiks me-kan menjadi mem-kan jika kata dasar diawali huruf b."
+    },
+    {
+      "id": "imbuhan.smp.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me-i + temu"
+      },
+      "answer": "menemui",
+      "payload": {
+        "options": [
+          "menyemui",
+          "menemui",
+          "metemui",
+          "mentemui"
+        ]
+      },
+      "explanation": "Konfiks me-i menjadi men-i dan huruf t luluh."
+    },
+    {
+      "id": "imbuhan.smp.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me-i + datang"
+      },
+      "answer": "mendatangi",
+      "payload": {
+        "options": [
+          "mendatanggi",
+          "medatangi",
+          "mendatangi",
+          "memdatangi"
+        ]
+      },
+      "explanation": "Konfiks me-i menjadi men-i jika kata dasar diawali huruf c atau d."
+    },
+    {
+      "id": "imbuhan.smp.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me-i + warna"
+      },
+      "answer": "mewarnai",
+      "payload": {
+        "options": [
+          "mewarnaii",
+          "menwarnai",
+          "memwarnai",
+          "mewarnai"
+        ]
+      },
+      "explanation": "Konfiks me-i tetap me-i jika kata dasar diawali huruf w."
+    },
+    {
+      "id": "imbuhan.smp.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me-i + hormat"
+      },
+      "answer": "menghormati",
+      "payload": {
+        "options": [
+          "menhormati",
+          "mengormati",
+          "mehormati",
+          "menghormati"
+        ]
+      },
+      "explanation": "Konfiks me-i menjadi meng-i jika kata dasar diawali huruf h."
+    },
+    {
+      "id": "imbuhan.smp.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "pe-an + periksa"
+      },
+      "answer": "pemeriksaan",
+      "payload": {
+        "options": [
+          "pemperiksaan",
+          "pemeriksaan",
+          "peperiksaan",
+          "penerikasaan"
+        ]
+      },
+      "explanation": "Konfiks pe-an menjadi pem-an dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.smp.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-kan + kirim"
+      },
+      "answer": "mengirimkan",
+      "payload": {
+        "options": [
+          "menirimkan",
+          "mengkirimkan",
+          "mengirimkan",
+          "mekirimkan"
+        ]
+      },
+      "explanation": "Konfiks me-kan menjadi meng-kan dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.smp.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-kan + sampai"
+      },
+      "answer": "menyampaikan",
+      "payload": {
+        "options": [
+          "mesampaikan",
+          "menyampaian",
+          "menyampaikan",
+          "mensampaikan"
+        ]
+      },
+      "explanation": "Konfiks me-kan menjadi meny-kan dan huruf s luluh."
+    },
+    {
+      "id": "imbuhan.smp.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-kan + kumpul"
+      },
+      "answer": "mengumpulkan",
+      "payload": {
+        "options": [
+          "mengkumpulkan",
+          "mengumpulkan",
+          "mengumpulkkan",
+          "mekumpulkan"
+        ]
+      },
+      "explanation": "Konfiks me-kan menjadi meng-kan dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.smp.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-kan + pinjam"
+      },
+      "answer": "meminjamkan",
+      "payload": {
+        "options": [
+          "meminjamkan",
+          "mempinjamkan",
+          "meninjamkan",
+          "mepinjamkan"
+        ]
+      },
+      "explanation": "Konfiks me-kan menjadi mem-kan dan huruf p luluh."
+    },
+    {
+      "id": "imbuhan.smp.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-i + kunjung"
+      },
+      "answer": "mengunjungi",
+      "payload": {
+        "options": [
+          "mengunjungi",
+          "mekunjungi",
+          "menunjungi",
+          "mengkunjungi"
+        ]
+      },
+      "explanation": "Konfiks me-i menjadi meng-i dan huruf k luluh."
+    },
+    {
+      "id": "imbuhan.smp.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me-i + cinta"
+      },
+      "answer": "mencintai",
+      "payload": {
+        "options": [
+          "mengcintai",
+          "mecintai",
+          "menyintai",
+          "mencintai"
+        ]
+      },
+      "explanation": "Konfiks me-i menjadi men-i jika kata dasar diawali huruf c atau d."
+    },
+    {
+      "id": "imbuhan.smp.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me-kan + tunjuk"
+      },
+      "answer": "menunjukkan",
+      "payload": {
+        "options": [
+          "metunjukkan",
+          "menunjukkan",
+          "menunjukan",
+          "mentunjukkan"
+        ]
+      },
+      "explanation": "Huruf t luluh menjadi n, dan tunjuk + -kan ditulis dengan dua huruf k."
+    },
+    {
+      "id": "imbuhan.smp.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me-i + punya"
+      },
+      "answer": "mempunyai",
+      "payload": {
+        "options": [
+          "mempunyai",
+          "menpunyai",
+          "mepunyai",
+          "mempunyaii"
+        ]
+      },
+      "explanation": "Bentuk bakunya mempunyai; huruf p pada punya tidak luluh."
+    },
+    {
+      "id": "imbuhan.smp.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me- + kritik"
+      },
+      "answer": "mengkritik",
+      "payload": {
+        "options": [
+          "mekritik",
+          "menkritik",
+          "mengkritik"
+        ]
+      },
+      "explanation": "Kata dasar yang diawali gugus konsonan tidak luluh, jadi ditulis mengkritik."
+    },
+    {
+      "id": "imbuhan.smp.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me- + produksi"
+      },
+      "answer": "memproduksi",
+      "payload": {
+        "options": [
+          "memproduksi",
+          "memroduksi",
+          "meproduksi",
+          "menproduksi"
+        ]
+      },
+      "explanation": "Kata dasar yang diawali gugus konsonan tidak luluh, jadi ditulis memproduksi."
+    },
+    {
+      "id": "imbuhan.smp.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me- + cek"
+      },
+      "answer": "mengecek",
+      "payload": {
+        "options": [
+          "mengcek",
+          "mengecek",
+          "mecek",
+          "mencek"
+        ]
+      },
+      "explanation": "Kata dasar bersuku satu mendapat awalan menge-."
+    }
+  ]
+}

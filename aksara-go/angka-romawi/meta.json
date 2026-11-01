@@ -1,0 +1,16 @@
+{
+  "gameId": "angka-romawi",
+  "title": "Angka Romawi",
+  "description": "Ubah angka Romawi ke angka biasa dan sebaliknya.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "NUMPAD",
+  "instruction": "Ubah angka ini!",
+  "emoji": "🏛️",
+  "colorToken": "purple",
+  "segments": [
+    "sd-b",
+    "sd-c",
+    "smp"
+  ]
+}

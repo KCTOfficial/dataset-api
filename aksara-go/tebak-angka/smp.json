@@ -1,0 +1,1925 @@
+{
+  "schemaVersion": 1,
+  "gameId": "tebak-angka",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "tebak-angka.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "348.000.000",
+        "number": 348000000
+      },
+      "answer": "tiga ratus empat puluh delapan juta",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "dua",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "737.000.000",
+        "number": 737000000
+      },
+      "answer": "tujuh ratus tiga puluh tujuh juta",
+      "payload": {
+        "distractors": [
+          "enam",
+          "miliar",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0014",
+      "difficulty": 1,
+      "prompt": {
+        "text": "769.000.000",
+        "number": 769000000
+      },
+      "answer": "tujuh ratus enam puluh sembilan juta",
+      "payload": {
+        "distractors": [
+          "belas",
+          "lima",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0019",
+      "difficulty": 1,
+      "prompt": {
+        "text": "985.000.000",
+        "number": 985000000
+      },
+      "answer": "sembilan ratus delapan puluh lima juta",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ribu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0024",
+      "difficulty": 1,
+      "prompt": {
+        "text": "761.000.000",
+        "number": 761000000
+      },
+      "answer": "tujuh ratus enam puluh satu juta",
+      "payload": {
+        "distractors": [
+          "lima",
+          "belas",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "116.000.000",
+        "number": 116000000
+      },
+      "answer": "seratus enam belas juta",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "miliar",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "144.000.000",
+        "number": 144000000
+      },
+      "answer": "seratus empat puluh empat juta",
+      "payload": {
+        "distractors": [
+          "satu",
+          "miliar",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0037",
+      "difficulty": 1,
+      "prompt": {
+        "text": "636.000.000",
+        "number": 636000000
+      },
+      "answer": "enam ratus tiga puluh enam juta",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ribu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0042",
+      "difficulty": 1,
+      "prompt": {
+        "text": "39.000.000",
+        "number": 39000000
+      },
+      "answer": "tiga puluh sembilan juta",
+      "payload": {
+        "distractors": [
+          "dua",
+          "belas",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0047",
+      "difficulty": 1,
+      "prompt": {
+        "text": "646.000.000",
+        "number": 646000000
+      },
+      "answer": "enam ratus empat puluh enam juta",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0052",
+      "difficulty": 1,
+      "prompt": {
+        "text": "486.000.000",
+        "number": 486000000
+      },
+      "answer": "empat ratus delapan puluh enam juta",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "tujuh",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0056",
+      "difficulty": 1,
+      "prompt": {
+        "text": "368.000.000",
+        "number": 368000000
+      },
+      "answer": "tiga ratus enam puluh delapan juta",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "empat",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0061",
+      "difficulty": 1,
+      "prompt": {
+        "text": "214.000.000",
+        "number": 214000000
+      },
+      "answer": "dua ratus empat belas juta",
+      "payload": {
+        "distractors": [
+          "lima",
+          "satu",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0066",
+      "difficulty": 1,
+      "prompt": {
+        "text": "154.000.000",
+        "number": 154000000
+      },
+      "answer": "seratus lima puluh empat juta",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0071",
+      "difficulty": 1,
+      "prompt": {
+        "text": "291.000.000",
+        "number": 291000000
+      },
+      "answer": "dua ratus sembilan puluh satu juta",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "belas",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0076",
+      "difficulty": 1,
+      "prompt": {
+        "text": "675.000.000",
+        "number": 675000000
+      },
+      "answer": "enam ratus tujuh puluh lima juta",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "ribu",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0081",
+      "difficulty": 1,
+      "prompt": {
+        "text": "304.000.000",
+        "number": 304000000
+      },
+      "answer": "tiga ratus empat juta",
+      "payload": {
+        "distractors": [
+          "lima",
+          "ribu",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0086",
+      "difficulty": 1,
+      "prompt": {
+        "text": "517.000.000",
+        "number": 517000000
+      },
+      "answer": "lima ratus tujuh belas juta",
+      "payload": {
+        "distractors": [
+          "enam",
+          "puluh",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0091",
+      "difficulty": 1,
+      "prompt": {
+        "text": "750.000.000",
+        "number": 750000000
+      },
+      "answer": "tujuh ratus lima puluh juta",
+      "payload": {
+        "distractors": [
+          "empat",
+          "delapan",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0096",
+      "difficulty": 1,
+      "prompt": {
+        "text": "128.000.000",
+        "number": 128000000
+      },
+      "answer": "seratus dua puluh delapan juta",
+      "payload": {
+        "distractors": [
+          "satu",
+          "miliar",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0101",
+      "difficulty": 1,
+      "prompt": {
+        "text": "864.000.000",
+        "number": 864000000
+      },
+      "answer": "delapan ratus enam puluh empat juta",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "ribu",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0106",
+      "difficulty": 1,
+      "prompt": {
+        "text": "426.000.000",
+        "number": 426000000
+      },
+      "answer": "empat ratus dua puluh enam juta",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "tujuh",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0111",
+      "difficulty": 1,
+      "prompt": {
+        "text": "223.000.000",
+        "number": 223000000
+      },
+      "answer": "dua ratus dua puluh tiga juta",
+      "payload": {
+        "distractors": [
+          "empat",
+          "miliar",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0115",
+      "difficulty": 1,
+      "prompt": {
+        "text": "600.000.000",
+        "number": 600000000
+      },
+      "answer": "enam ratus juta",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "ribu",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0120",
+      "difficulty": 1,
+      "prompt": {
+        "text": "276.000.000",
+        "number": 276000000
+      },
+      "answer": "dua ratus tujuh puluh enam juta",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "ribu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "1.000.000",
+        "number": 1000000
+      },
+      "answer": "satu juta",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "ratus",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "665.164.011",
+        "number": 665164011
+      },
+      "answer": "enam ratus enam puluh lima juta seratus enam puluh empat ribu sebelas",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "tujuh",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "795.941.212",
+        "number": 795941212
+      },
+      "answer": "tujuh ratus sembilan puluh lima juta sembilan ratus empat puluh satu ribu dua ratus dua belas",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "delapan",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "618.995.240",
+        "number": 618995240
+      },
+      "answer": "enam ratus delapan belas juta sembilan ratus sembilan puluh lima ribu dua ratus empat puluh",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "miliar",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "250.941.032",
+        "number": 250941032
+      },
+      "answer": "dua ratus lima puluh juta sembilan ratus empat puluh satu ribu tiga puluh dua",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "belas",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0025",
+      "difficulty": 2,
+      "prompt": {
+        "text": "444.793.718",
+        "number": 444793718
+      },
+      "answer": "empat ratus empat puluh empat juta tujuh ratus sembilan puluh tiga ribu tujuh ratus delapan belas",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "enam",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "732.175.109",
+        "number": 732175109
+      },
+      "answer": "tujuh ratus tiga puluh dua juta seratus tujuh puluh lima ribu seratus sembilan",
+      "payload": {
+        "distractors": [
+          "belas",
+          "miliar",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0034",
+      "difficulty": 2,
+      "prompt": {
+        "text": "698.582.285",
+        "number": 698582285
+      },
+      "answer": "enam ratus sembilan puluh delapan juta lima ratus delapan puluh dua ribu dua ratus delapan puluh lima",
+      "payload": {
+        "distractors": [
+          "empat",
+          "miliar",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0038",
+      "difficulty": 2,
+      "prompt": {
+        "text": "65.793.613",
+        "number": 65793613
+      },
+      "answer": "enam puluh lima juta tujuh ratus sembilan puluh tiga ribu enam ratus tiga belas",
+      "payload": {
+        "distractors": [
+          "dua",
+          "empat",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0043",
+      "difficulty": 2,
+      "prompt": {
+        "text": "713.328.353",
+        "number": 713328353
+      },
+      "answer": "tujuh ratus tiga belas juta tiga ratus dua puluh delapan ribu tiga ratus lima puluh tiga",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0048",
+      "difficulty": 2,
+      "prompt": {
+        "text": "491.159.874",
+        "number": 491159874
+      },
+      "answer": "empat ratus sembilan puluh satu juta seratus lima puluh sembilan ribu delapan ratus tujuh puluh empat",
+      "payload": {
+        "distractors": [
+          "enam",
+          "tiga",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0053",
+      "difficulty": 2,
+      "prompt": {
+        "text": "669.296.242",
+        "number": 669296242
+      },
+      "answer": "enam ratus enam puluh sembilan juta dua ratus sembilan puluh enam ribu dua ratus empat puluh dua",
+      "payload": {
+        "distractors": [
+          "lima",
+          "tiga",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0057",
+      "difficulty": 2,
+      "prompt": {
+        "text": "521.272.329",
+        "number": 521272329
+      },
+      "answer": "lima ratus dua puluh satu juta dua ratus tujuh puluh dua ribu tiga ratus dua puluh sembilan",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "belas",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0062",
+      "difficulty": 2,
+      "prompt": {
+        "text": "484.791.561",
+        "number": 484791561
+      },
+      "answer": "empat ratus delapan puluh empat juta tujuh ratus sembilan puluh satu ribu lima ratus enam puluh satu",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0067",
+      "difficulty": 2,
+      "prompt": {
+        "text": "566.518.162",
+        "number": 566518162
+      },
+      "answer": "lima ratus enam puluh enam juta lima ratus delapan belas ribu seratus enam puluh dua",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "sembilan",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0072",
+      "difficulty": 2,
+      "prompt": {
+        "text": "113.572.246",
+        "number": 113572246
+      },
+      "answer": "seratus tiga belas juta lima ratus tujuh puluh dua ribu dua ratus empat puluh enam",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "miliar",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0077",
+      "difficulty": 2,
+      "prompt": {
+        "text": "168.803.668",
+        "number": 168803668
+      },
+      "answer": "seratus enam puluh delapan juta delapan ratus tiga ribu enam ratus enam puluh delapan",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "satu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0082",
+      "difficulty": 2,
+      "prompt": {
+        "text": "544.842.353",
+        "number": 544842353
+      },
+      "answer": "lima ratus empat puluh empat juta delapan ratus empat puluh dua ribu tiga ratus lima puluh tiga",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "belas",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0087",
+      "difficulty": 2,
+      "prompt": {
+        "text": "449.543.959",
+        "number": 449543959
+      },
+      "answer": "empat ratus empat puluh sembilan juta lima ratus empat puluh tiga ribu sembilan ratus lima puluh sembilan",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "belas",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0092",
+      "difficulty": 2,
+      "prompt": {
+        "text": "675.970.987",
+        "number": 675970987
+      },
+      "answer": "enam ratus tujuh puluh lima juta sembilan ratus tujuh puluh ribu sembilan ratus delapan puluh tujuh",
+      "payload": {
+        "distractors": [
+          "empat",
+          "miliar",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0097",
+      "difficulty": 2,
+      "prompt": {
+        "text": "387.664.715",
+        "number": 387664715
+      },
+      "answer": "tiga ratus delapan puluh tujuh juta enam ratus enam puluh empat ribu tujuh ratus lima belas",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "miliar",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0102",
+      "difficulty": 2,
+      "prompt": {
+        "text": "915.128.439",
+        "number": 915128439
+      },
+      "answer": "sembilan ratus lima belas juta seratus dua puluh delapan ribu empat ratus tiga puluh sembilan",
+      "payload": {
+        "distractors": [
+          "satu",
+          "enam",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0107",
+      "difficulty": 2,
+      "prompt": {
+        "text": "917.729.903",
+        "number": 917729903
+      },
+      "answer": "sembilan ratus tujuh belas juta tujuh ratus dua puluh sembilan ribu sembilan ratus tiga",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "enam",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0112",
+      "difficulty": 2,
+      "prompt": {
+        "text": "392.194.778",
+        "number": 392194778
+      },
+      "answer": "tiga ratus sembilan puluh dua juta seratus sembilan puluh empat ribu tujuh ratus tujuh puluh delapan",
+      "payload": {
+        "distractors": [
+          "satu",
+          "miliar",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0116",
+      "difficulty": 2,
+      "prompt": {
+        "text": "852.974.302",
+        "number": 852974302
+      },
+      "answer": "delapan ratus lima puluh dua juta sembilan ratus tujuh puluh empat ribu tiga ratus dua",
+      "payload": {
+        "distractors": [
+          "belas",
+          "enam",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0002",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.001.000",
+        "number": 1001000
+      },
+      "answer": "satu juta seribu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "ribu",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0006",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.001.011",
+        "number": 1001011
+      },
+      "answer": "satu juta seribu sebelas",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "dua",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.081.001",
+        "number": 1081001
+      },
+      "answer": "satu juta delapan puluh satu ribu satu",
+      "payload": {
+        "distractors": [
+          "dua",
+          "miliar",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.081.011",
+        "number": 1081011
+      },
+      "answer": "satu juta delapan puluh satu ribu sebelas",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "dua",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.071.011",
+        "number": 1071011
+      },
+      "answer": "satu juta tujuh puluh satu ribu sebelas",
+      "payload": {
+        "distractors": [
+          "belas",
+          "ratus",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.190.000",
+        "number": 1190000
+      },
+      "answer": "satu juta seratus sembilan puluh ribu",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "belas",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.051.000",
+        "number": 1051000
+      },
+      "answer": "satu juta lima puluh satu ribu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0039",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.051.001",
+        "number": 1051001
+      },
+      "answer": "satu juta lima puluh satu ribu satu",
+      "payload": {
+        "distractors": [
+          "belas",
+          "empat",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0044",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.180.011",
+        "number": 1180011
+      },
+      "answer": "satu juta seratus delapan puluh ribu sebelas",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "belas",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0049",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.180.000",
+        "number": 1180000
+      },
+      "answer": "satu juta seratus delapan puluh ribu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "tujuh",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0058",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.130.000",
+        "number": 1130000
+      },
+      "answer": "satu juta seratus tiga puluh ribu",
+      "payload": {
+        "distractors": [
+          "belas",
+          "empat",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0063",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.091.001",
+        "number": 1091001
+      },
+      "answer": "satu juta sembilan puluh satu ribu satu",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "delapan",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0068",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.081.000",
+        "number": 1081000
+      },
+      "answer": "satu juta delapan puluh satu ribu",
+      "payload": {
+        "distractors": [
+          "dua",
+          "miliar",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.150.000",
+        "number": 1150000
+      },
+      "answer": "satu juta seratus lima puluh ribu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "belas",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0078",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.160.011",
+        "number": 1160011
+      },
+      "answer": "satu juta seratus enam puluh ribu sebelas",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "dua",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0083",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.041.011",
+        "number": 1041011
+      },
+      "answer": "satu juta empat puluh satu ribu sebelas",
+      "payload": {
+        "distractors": [
+          "lima",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0088",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.170.000",
+        "number": 1170000
+      },
+      "answer": "satu juta seratus tujuh puluh ribu",
+      "payload": {
+        "distractors": [
+          "miliar",
+          "ratus",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0093",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.011.011",
+        "number": 1011011
+      },
+      "answer": "satu juta sebelas ribu sebelas",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ratus",
+          "miliar"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0098",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.031.000",
+        "number": 1031000
+      },
+      "answer": "satu juta tiga puluh satu ribu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "miliar",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0103",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.061.001",
+        "number": 1061001
+      },
+      "answer": "satu juta enam puluh satu ribu satu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "lima",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0108",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.011.001",
+        "number": 1011001
+      },
+      "answer": "satu juta sebelas ribu satu",
+      "payload": {
+        "distractors": [
+          "ratus",
+          "miliar",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0117",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1.021.011",
+        "number": 1021011
+      },
+      "answer": "satu juta dua puluh satu ribu sebelas",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "belas",
+          "ratus"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0003",
+      "difficulty": 4,
+      "prompt": {
+        "text": "1.000.000.000",
+        "number": 1000000000
+      },
+      "answer": "satu miliar",
+      "payload": {
+        "distractors": [
+          "juta",
+          "ribu",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0007",
+      "difficulty": 4,
+      "prompt": {
+        "text": "703.000.000.000",
+        "number": 703000000000
+      },
+      "answer": "tujuh ratus tiga miliar",
+      "payload": {
+        "distractors": [
+          "dua",
+          "delapan",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0012",
+      "difficulty": 4,
+      "prompt": {
+        "text": "1.535.000.000",
+        "number": 1535000000
+      },
+      "answer": "satu miliar lima ratus tiga puluh lima juta",
+      "payload": {
+        "distractors": [
+          "empat",
+          "enam",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0017",
+      "difficulty": 4,
+      "prompt": {
+        "text": "411.395.000.000",
+        "number": 411395000000
+      },
+      "answer": "empat ratus sebelas miliar tiga ratus sembilan puluh lima juta",
+      "payload": {
+        "distractors": [
+          "satu",
+          "delapan",
+          "enam"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "601.589.000.000",
+        "number": 601589000000
+      },
+      "answer": "enam ratus satu miliar lima ratus delapan puluh sembilan juta",
+      "payload": {
+        "distractors": [
+          "dua",
+          "ribu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "838.000.000.000",
+        "number": 838000000000
+      },
+      "answer": "delapan ratus tiga puluh delapan miliar",
+      "payload": {
+        "distractors": [
+          "empat",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "775.076.000.000",
+        "number": 775076000000
+      },
+      "answer": "tujuh ratus tujuh puluh lima miliar tujuh puluh enam juta",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "ribu",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0040",
+      "difficulty": 4,
+      "prompt": {
+        "text": "602.818.000.000",
+        "number": 602818000000
+      },
+      "answer": "enam ratus dua miliar delapan ratus delapan belas juta",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "puluh",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0045",
+      "difficulty": 4,
+      "prompt": {
+        "text": "51.533.000.000",
+        "number": 51533000000
+      },
+      "answer": "lima puluh satu miliar lima ratus tiga puluh tiga juta",
+      "payload": {
+        "distractors": [
+          "dua",
+          "empat",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0050",
+      "difficulty": 4,
+      "prompt": {
+        "text": "760.609.000.000",
+        "number": 760609000000
+      },
+      "answer": "tujuh ratus enam puluh miliar enam ratus sembilan juta",
+      "payload": {
+        "distractors": [
+          "lima",
+          "belas",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "396.993.000.000",
+        "number": 396993000000
+      },
+      "answer": "tiga ratus sembilan puluh enam miliar sembilan ratus sembilan puluh tiga juta",
+      "payload": {
+        "distractors": [
+          "lima",
+          "dua",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "420.390.000.000",
+        "number": 420390000000
+      },
+      "answer": "empat ratus dua puluh miliar tiga ratus sembilan puluh juta",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "lima",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0064",
+      "difficulty": 4,
+      "prompt": {
+        "text": "842.000.000.000",
+        "number": 842000000000
+      },
+      "answer": "delapan ratus empat puluh dua miliar",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "satu",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0069",
+      "difficulty": 4,
+      "prompt": {
+        "text": "70.000.000.000",
+        "number": 70000000000
+      },
+      "answer": "tujuh puluh miliar",
+      "payload": {
+        "distractors": [
+          "enam",
+          "ratus",
+          "juta"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0074",
+      "difficulty": 4,
+      "prompt": {
+        "text": "631.937.000.000",
+        "number": 631937000000
+      },
+      "answer": "enam ratus tiga puluh satu miliar sembilan ratus tiga puluh tujuh juta",
+      "payload": {
+        "distractors": [
+          "empat",
+          "belas",
+          "ribu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0079",
+      "difficulty": 4,
+      "prompt": {
+        "text": "138.970.000.000",
+        "number": 138970000000
+      },
+      "answer": "seratus tiga puluh delapan miliar sembilan ratus tujuh puluh juta",
+      "payload": {
+        "distractors": [
+          "satu",
+          "dua",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0084",
+      "difficulty": 4,
+      "prompt": {
+        "text": "375.000.000.000",
+        "number": 375000000000
+      },
+      "answer": "tiga ratus tujuh puluh lima miliar",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "enam",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0089",
+      "difficulty": 4,
+      "prompt": {
+        "text": "216.000.000.000",
+        "number": 216000000000
+      },
+      "answer": "dua ratus enam belas miliar",
+      "payload": {
+        "distractors": [
+          "puluh",
+          "satu",
+          "tujuh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0094",
+      "difficulty": 4,
+      "prompt": {
+        "text": "579.000.000.000",
+        "number": 579000000000
+      },
+      "answer": "lima ratus tujuh puluh sembilan miliar",
+      "payload": {
+        "distractors": [
+          "juta",
+          "enam",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0099",
+      "difficulty": 4,
+      "prompt": {
+        "text": "801.000.000.000",
+        "number": 801000000000
+      },
+      "answer": "delapan ratus satu miliar",
+      "payload": {
+        "distractors": [
+          "ribu",
+          "dua",
+          "juta"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0104",
+      "difficulty": 4,
+      "prompt": {
+        "text": "815.000.000.000",
+        "number": 815000000000
+      },
+      "answer": "delapan ratus lima belas miliar",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "empat",
+          "puluh"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0109",
+      "difficulty": 4,
+      "prompt": {
+        "text": "338.818.000.000",
+        "number": 338818000000
+      },
+      "answer": "tiga ratus tiga puluh delapan miliar delapan ratus delapan belas juta",
+      "payload": {
+        "distractors": [
+          "empat",
+          "dua",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0113",
+      "difficulty": 4,
+      "prompt": {
+        "text": "995.000.000.000",
+        "number": 995000000000
+      },
+      "answer": "sembilan ratus sembilan puluh lima miliar",
+      "payload": {
+        "distractors": [
+          "enam",
+          "juta",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0118",
+      "difficulty": 4,
+      "prompt": {
+        "text": "565.000.000.000",
+        "number": 565000000000
+      },
+      "answer": "lima ratus enam puluh lima miliar",
+      "payload": {
+        "distractors": [
+          "empat",
+          "juta",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0008",
+      "difficulty": 5,
+      "prompt": {
+        "text": "366.751.721.296",
+        "number": 366751721296
+      },
+      "answer": "tiga ratus enam puluh enam miliar tujuh ratus lima puluh satu juta tujuh ratus dua puluh satu ribu dua ratus sembilan puluh enam",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "empat",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0013",
+      "difficulty": 5,
+      "prompt": {
+        "text": "814.296.777.406",
+        "number": 814296777406
+      },
+      "answer": "delapan ratus empat belas miliar dua ratus sembilan puluh enam juta tujuh ratus tujuh puluh tujuh ribu empat ratus enam",
+      "payload": {
+        "distractors": [
+          "satu",
+          "tiga",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0018",
+      "difficulty": 5,
+      "prompt": {
+        "text": "383.998.118.277",
+        "number": 383998118277
+      },
+      "answer": "tiga ratus delapan puluh tiga miliar sembilan ratus sembilan puluh delapan juta seratus delapan belas ribu dua ratus tujuh puluh tujuh",
+      "payload": {
+        "distractors": [
+          "satu",
+          "enam",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0023",
+      "difficulty": 5,
+      "prompt": {
+        "text": "272.574.788.656",
+        "number": 272574788656
+      },
+      "answer": "dua ratus tujuh puluh dua miliar lima ratus tujuh puluh empat juta tujuh ratus delapan puluh delapan ribu enam ratus lima puluh enam",
+      "payload": {
+        "distractors": [
+          "satu",
+          "sembilan",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "117.496.232.262",
+        "number": 117496232262
+      },
+      "answer": "seratus tujuh belas miliar empat ratus sembilan puluh enam juta dua ratus tiga puluh dua ribu dua ratus enam puluh dua",
+      "payload": {
+        "distractors": [
+          "satu",
+          "lima",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "138.793.431.150",
+        "number": 138793431150
+      },
+      "answer": "seratus tiga puluh delapan miliar tujuh ratus sembilan puluh tiga juta empat ratus tiga puluh satu ribu seratus lima puluh",
+      "payload": {
+        "distractors": [
+          "enam",
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "870.995.578.952",
+        "number": 870995578952
+      },
+      "answer": "delapan ratus tujuh puluh miliar sembilan ratus sembilan puluh lima juta lima ratus tujuh puluh delapan ribu sembilan ratus lima puluh dua",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0041",
+      "difficulty": 5,
+      "prompt": {
+        "text": "833.311.176.275",
+        "number": 833311176275
+      },
+      "answer": "delapan ratus tiga puluh tiga miliar tiga ratus sebelas juta seratus tujuh puluh enam ribu dua ratus tujuh puluh lima",
+      "payload": {
+        "distractors": [
+          "sembilan",
+          "belas",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0046",
+      "difficulty": 5,
+      "prompt": {
+        "text": "275.715.254.769",
+        "number": 275715254769
+      },
+      "answer": "dua ratus tujuh puluh lima miliar tujuh ratus lima belas juta dua ratus lima puluh empat ribu tujuh ratus enam puluh sembilan",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "satu",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0051",
+      "difficulty": 5,
+      "prompt": {
+        "text": "649.817.211.947",
+        "number": 649817211947
+      },
+      "answer": "enam ratus empat puluh sembilan miliar delapan ratus tujuh belas juta dua ratus sebelas ribu sembilan ratus empat puluh tujuh",
+      "payload": {
+        "distractors": [
+          "lima",
+          "tiga",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "17.307.404.596",
+        "number": 17307404596
+      },
+      "answer": "tujuh belas miliar tiga ratus tujuh juta empat ratus empat ribu lima ratus sembilan puluh enam",
+      "payload": {
+        "distractors": [
+          "delapan",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "857.539.923.322",
+        "number": 857539923322
+      },
+      "answer": "delapan ratus lima puluh tujuh miliar lima ratus tiga puluh sembilan juta sembilan ratus dua puluh tiga ribu tiga ratus dua puluh dua",
+      "payload": {
+        "distractors": [
+          "enam",
+          "satu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "68.938.758.409",
+        "number": 68938758409
+      },
+      "answer": "enam puluh delapan miliar sembilan ratus tiga puluh delapan juta tujuh ratus lima puluh delapan ribu empat ratus sembilan",
+      "payload": {
+        "distractors": [
+          "dua",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0070",
+      "difficulty": 5,
+      "prompt": {
+        "text": "474.149.059.640",
+        "number": 474149059640
+      },
+      "answer": "empat ratus tujuh puluh empat miliar seratus empat puluh sembilan juta lima puluh sembilan ribu enam ratus empat puluh",
+      "payload": {
+        "distractors": [
+          "satu",
+          "belas",
+          "tiga"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "428.457.100.056",
+        "number": 428457100056
+      },
+      "answer": "empat ratus dua puluh delapan miliar empat ratus lima puluh tujuh juta seratus ribu lima puluh enam",
+      "payload": {
+        "distractors": [
+          "belas",
+          "tiga",
+          "satu"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0080",
+      "difficulty": 5,
+      "prompt": {
+        "text": "116.245.107.199",
+        "number": 116245107199
+      },
+      "answer": "seratus enam belas miliar dua ratus empat puluh lima juta seratus tujuh ribu seratus sembilan puluh sembilan",
+      "payload": {
+        "distractors": [
+          "tiga",
+          "satu",
+          "delapan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0085",
+      "difficulty": 5,
+      "prompt": {
+        "text": "191.276.058.031",
+        "number": 191276058031
+      },
+      "answer": "seratus sembilan puluh satu miliar dua ratus tujuh puluh enam juta lima puluh delapan ribu tiga puluh satu",
+      "payload": {
+        "distractors": [
+          "belas",
+          "empat"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0090",
+      "difficulty": 5,
+      "prompt": {
+        "text": "350.955.538.701",
+        "number": 350955538701
+      },
+      "answer": "tiga ratus lima puluh miliar sembilan ratus lima puluh lima juta lima ratus tiga puluh delapan ribu tujuh ratus satu",
+      "payload": {
+        "distractors": [
+          "enam",
+          "empat",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0095",
+      "difficulty": 5,
+      "prompt": {
+        "text": "757.258.235.872",
+        "number": 757258235872
+      },
+      "answer": "tujuh ratus lima puluh tujuh miliar dua ratus lima puluh delapan juta dua ratus tiga puluh lima ribu delapan ratus tujuh puluh dua",
+      "payload": {
+        "distractors": [
+          "empat",
+          "enam",
+          "sembilan"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0100",
+      "difficulty": 5,
+      "prompt": {
+        "text": "782.849.940.233",
+        "number": 782849940233
+      },
+      "answer": "tujuh ratus delapan puluh dua miliar delapan ratus empat puluh sembilan juta sembilan ratus empat puluh ribu dua ratus tiga puluh tiga",
+      "payload": {
+        "distractors": [
+          "belas",
+          "enam",
+          "lima"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0105",
+      "difficulty": 5,
+      "prompt": {
+        "text": "538.290.458.854",
+        "number": 538290458854
+      },
+      "answer": "lima ratus tiga puluh delapan miliar dua ratus sembilan puluh juta empat ratus lima puluh delapan ribu delapan ratus lima puluh empat",
+      "payload": {
+        "distractors": [
+          "tujuh",
+          "satu",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0110",
+      "difficulty": 5,
+      "prompt": {
+        "text": "375.855.949.761",
+        "number": 375855949761
+      },
+      "answer": "tiga ratus tujuh puluh lima miliar delapan ratus lima puluh lima juta sembilan ratus empat puluh sembilan ribu tujuh ratus enam puluh satu",
+      "payload": {
+        "distractors": [
+          "belas",
+          "dua"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0114",
+      "difficulty": 5,
+      "prompt": {
+        "text": "741.676.095.333",
+        "number": 741676095333
+      },
+      "answer": "tujuh ratus empat puluh satu miliar enam ratus tujuh puluh enam juta sembilan puluh lima ribu tiga ratus tiga puluh tiga",
+      "payload": {
+        "distractors": [
+          "dua",
+          "delapan",
+          "belas"
+        ]
+      }
+    },
+    {
+      "id": "tebak-angka.smp.0119",
+      "difficulty": 5,
+      "prompt": {
+        "text": "382.888.178.947",
+        "number": 382888178947
+      },
+      "answer": "tiga ratus delapan puluh dua miliar delapan ratus delapan puluh delapan juta seratus tujuh puluh delapan ribu sembilan ratus empat puluh tujuh",
+      "payload": {
+        "distractors": [
+          "lima",
+          "enam",
+          "belas"
+        ]
+      }
+    }
+  ]
+}

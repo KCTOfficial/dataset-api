@@ -1,0 +1,18 @@
+{
+  "gameId": "tebak-angka",
+  "title": "Tebak Angka",
+  "description": "Tuliskan angka menjadi kata bilangan (terbilang).",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "TILE_BANK",
+  "instruction": "Tulis angka ini dengan kata!",
+  "emoji": "🔢",
+  "colorToken": "blue",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

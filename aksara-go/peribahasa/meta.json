@@ -1,0 +1,16 @@
+{
+  "gameId": "peribahasa",
+  "title": "Peribahasa",
+  "description": "Lengkapi peribahasa Indonesia dan pahami maknanya.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "MULTI_CHOICE",
+  "instruction": "Lengkapi peribahasa ini!",
+  "emoji": "💬",
+  "colorToken": "pink",
+  "segments": [
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

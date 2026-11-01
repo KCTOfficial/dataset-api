@@ -1,0 +1,1929 @@
+{
+  "schemaVersion": 1,
+  "gameId": "hitung-cepat",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "hitung-cepat.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−10) − 16"
+      },
+      "answer": -26,
+      "payload": {
+        "options": [
+          6,
+          -26,
+          -16,
+          -23
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−1) − 19"
+      },
+      "answer": -20,
+      "payload": {
+        "options": [
+          18,
+          -21,
+          -20,
+          -15
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−10) − 15"
+      },
+      "answer": -25,
+      "payload": {
+        "options": [
+          -25,
+          -23,
+          -35,
+          5
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−7) − 14"
+      },
+      "answer": -21,
+      "payload": {
+        "options": [
+          -23,
+          -18,
+          -21,
+          7
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−4) + 11"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          15,
+          7,
+          12,
+          17
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0026",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1 − (−15)"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          -14,
+          16,
+          21,
+          6
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0031",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1 − (−19)"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          30,
+          18,
+          -18,
+          20
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0036",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−4) − 1"
+      },
+      "answer": -5,
+      "payload": {
+        "options": [
+          -5,
+          -10,
+          5,
+          -3
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0041",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−17) − 15"
+      },
+      "answer": -32,
+      "payload": {
+        "options": [
+          -29,
+          -37,
+          -2,
+          -32
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0046",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−20) − 6"
+      },
+      "answer": -26,
+      "payload": {
+        "options": [
+          -36,
+          -26,
+          -14,
+          -25
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0051",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−7) + 5"
+      },
+      "answer": -2,
+      "payload": {
+        "options": [
+          1,
+          -2,
+          12,
+          8
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0056",
+      "difficulty": 1,
+      "prompt": {
+        "text": "7 − (−4)"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          9,
+          6,
+          3,
+          11
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0061",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2 − (−3)"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          4,
+          10,
+          -1,
+          5
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0066",
+      "difficulty": 1,
+      "prompt": {
+        "text": "18 − (−11)"
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          7,
+          31,
+          29,
+          30
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0071",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−17) − 5"
+      },
+      "answer": -22,
+      "payload": {
+        "options": [
+          -27,
+          -23,
+          -12,
+          -22
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0075",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4 − (−17)"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          22,
+          21,
+          26,
+          -13
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0080",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−11) + 4"
+      },
+      "answer": -7,
+      "payload": {
+        "options": [
+          -7,
+          -6,
+          15,
+          -12
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0085",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1 − (−18)"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          19,
+          20,
+          -17,
+          21
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0090",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−18) + 15"
+      },
+      "answer": -3,
+      "payload": {
+        "options": [
+          -3,
+          33,
+          -13,
+          -6
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0095",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−2) − 7"
+      },
+      "answer": -9,
+      "payload": {
+        "options": [
+          -6,
+          -9,
+          -10,
+          5
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−13) − 10"
+      },
+      "answer": -23,
+      "payload": {
+        "options": [
+          -23,
+          -24,
+          -33,
+          -3
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0105",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−8) + 3"
+      },
+      "answer": -5,
+      "payload": {
+        "options": [
+          11,
+          -10,
+          5,
+          -5
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0110",
+      "difficulty": 1,
+      "prompt": {
+        "text": "10 − (−10)"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          25,
+          0,
+          20,
+          15
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0115",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−19) + 7"
+      },
+      "answer": -12,
+      "payload": {
+        "options": [
+          -9,
+          26,
+          -12,
+          -17
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0120",
+      "difficulty": 1,
+      "prompt": {
+        "text": "(−2) + 16"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          24,
+          18,
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−5) × 7"
+      },
+      "answer": -35,
+      "payload": {
+        "options": [
+          -40,
+          -25,
+          35,
+          -35
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−110) ÷ 11"
+      },
+      "answer": -10,
+      "payload": {
+        "options": [
+          -11,
+          0,
+          -10,
+          10
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−9) × 5"
+      },
+      "answer": -45,
+      "payload": {
+        "options": [
+          -45,
+          -43,
+          -35,
+          45
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−9) × (−11)"
+      },
+      "answer": 99,
+      "payload": {
+        "options": [
+          89,
+          104,
+          -99,
+          99
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−72) ÷ 8"
+      },
+      "answer": -9,
+      "payload": {
+        "options": [
+          -9,
+          9,
+          -12,
+          -8
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−11) × (−10)"
+      },
+      "answer": 110,
+      "payload": {
+        "options": [
+          -110,
+          107,
+          108,
+          110
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0032",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−6) × (−7)"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          42,
+          37,
+          44,
+          -42
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0037",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−5) × (−6)"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          33,
+          28,
+          -30,
+          30
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0042",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−8) × 2"
+      },
+      "answer": -16,
+      "payload": {
+        "options": [
+          -16,
+          -13,
+          -17,
+          16
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0047",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−11) × (−5)"
+      },
+      "answer": 55,
+      "payload": {
+        "options": [
+          57,
+          55,
+          -55,
+          54
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0052",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−42) ÷ 7"
+      },
+      "answer": -6,
+      "payload": {
+        "options": [
+          -6,
+          6,
+          -16,
+          -4
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0057",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−11) × 7"
+      },
+      "answer": -77,
+      "payload": {
+        "options": [
+          -67,
+          77,
+          -74,
+          -77
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0062",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−7) × (−6)"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          44,
+          -42,
+          37,
+          42
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0067",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−10) ÷ 5"
+      },
+      "answer": -2,
+      "payload": {
+        "options": [
+          3,
+          -7,
+          -2,
+          2
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0072",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−4) × 3"
+      },
+      "answer": -12,
+      "payload": {
+        "options": [
+          -22,
+          12,
+          -12,
+          -13
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0076",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−12) × (−12)"
+      },
+      "answer": 144,
+      "payload": {
+        "options": [
+          -144,
+          144,
+          145,
+          134
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−11) × 2"
+      },
+      "answer": -22,
+      "payload": {
+        "options": [
+          -25,
+          22,
+          -22,
+          -12
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0086",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−27) ÷ 9"
+      },
+      "answer": -3,
+      "payload": {
+        "options": [
+          2,
+          -13,
+          3,
+          -3
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0091",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−2) × 6"
+      },
+      "answer": -12,
+      "payload": {
+        "options": [
+          -7,
+          12,
+          -13,
+          -12
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0096",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−4) × 9"
+      },
+      "answer": -36,
+      "payload": {
+        "options": [
+          -37,
+          -36,
+          36,
+          -46
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0101",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−84) ÷ 7"
+      },
+      "answer": -12,
+      "payload": {
+        "options": [
+          -7,
+          -12,
+          -9,
+          12
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0106",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−10) × 10"
+      },
+      "answer": -100,
+      "payload": {
+        "options": [
+          -100,
+          -98,
+          100,
+          -101
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0111",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−8) × 7"
+      },
+      "answer": -56,
+      "payload": {
+        "options": [
+          56,
+          -55,
+          -56,
+          -46
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0116",
+      "difficulty": 2,
+      "prompt": {
+        "text": "(−7) × 2"
+      },
+      "answer": -14,
+      "payload": {
+        "options": [
+          -14,
+          -15,
+          14,
+          -11
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "5³ − 15"
+      },
+      "answer": 110,
+      "payload": {
+        "options": [
+          0,
+          110,
+          105,
+          120
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6³ − 15"
+      },
+      "answer": 201,
+      "payload": {
+        "options": [
+          3,
+          201,
+          204,
+          199
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6³ − 6"
+      },
+      "answer": 210,
+      "payload": {
+        "options": [
+          12,
+          210,
+          207,
+          209
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "13² + 5"
+      },
+      "answer": 174,
+      "payload": {
+        "options": [
+          31,
+          174,
+          172,
+          171
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4² + 3"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          22,
+          11,
+          17,
+          19
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10² − 8²"
+      },
+      "answer": 36,
+      "payload": {
+        "options": [
+          35,
+          41,
+          36,
+          33
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0033",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4³ − 9"
+      },
+      "answer": 55,
+      "payload": {
+        "options": [
+          3,
+          55,
+          45,
+          57
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0038",
+      "difficulty": 3,
+      "prompt": {
+        "text": "13² − 1²"
+      },
+      "answer": 168,
+      "payload": {
+        "options": [
+          158,
+          171,
+          168,
+          169
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0043",
+      "difficulty": 3,
+      "prompt": {
+        "text": "12² − 4²"
+      },
+      "answer": 128,
+      "payload": {
+        "options": [
+          118,
+          126,
+          128,
+          133
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0048",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3² − 2²"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          5,
+          3,
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0053",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3² − 6²"
+      },
+      "answer": -27,
+      "payload": {
+        "options": [
+          -30,
+          -24,
+          -28,
+          -27
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0058",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2³ − 12"
+      },
+      "answer": -4,
+      "payload": {
+        "options": [
+          -14,
+          -9,
+          -6,
+          -4
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0063",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10² + 12"
+      },
+      "answer": 112,
+      "payload": {
+        "options": [
+          117,
+          112,
+          32,
+          110
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0068",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6³ − 7"
+      },
+      "answer": 209,
+      "payload": {
+        "options": [
+          211,
+          214,
+          11,
+          209
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4³ − 1"
+      },
+      "answer": 63,
+      "payload": {
+        "options": [
+          63,
+          11,
+          53,
+          61
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0077",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4³ − 15"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          50,
+          48,
+          -3,
+          49
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3³ − 15"
+      },
+      "answer": 12,
+      "payload": {
+        "options": [
+          17,
+          12,
+          14,
+          -6
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0087",
+      "difficulty": 3,
+      "prompt": {
+        "text": "9² − 13²"
+      },
+      "answer": -88,
+      "payload": {
+        "options": [
+          -85,
+          -87,
+          -88,
+          -78
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0092",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6² − 12²"
+      },
+      "answer": -108,
+      "payload": {
+        "options": [
+          -108,
+          -111,
+          -118,
+          -105
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0097",
+      "difficulty": 3,
+      "prompt": {
+        "text": "12² + 1"
+      },
+      "answer": 145,
+      "payload": {
+        "options": [
+          146,
+          25,
+          145,
+          155
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0102",
+      "difficulty": 3,
+      "prompt": {
+        "text": "9² + 13"
+      },
+      "answer": 94,
+      "payload": {
+        "options": [
+          92,
+          31,
+          97,
+          94
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0107",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2³ − 7"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          11,
+          1,
+          -4,
+          -1
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0112",
+      "difficulty": 3,
+      "prompt": {
+        "text": "8² − 10²"
+      },
+      "answer": -36,
+      "payload": {
+        "options": [
+          -33,
+          -31,
+          -39,
+          -36
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0117",
+      "difficulty": 3,
+      "prompt": {
+        "text": "15² − 5²"
+      },
+      "answer": 200,
+      "payload": {
+        "options": [
+          190,
+          195,
+          210,
+          200
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√64 − 6²"
+      },
+      "answer": -28,
+      "payload": {
+        "options": [
+          -31,
+          -23,
+          28,
+          -28
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√169 − 2²"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          8,
+          -9,
+          12,
+          9
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√361 × 4"
+      },
+      "answer": 76,
+      "payload": {
+        "options": [
+          76,
+          71,
+          73,
+          77
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√81 × 6"
+      },
+      "answer": 54,
+      "payload": {
+        "options": [
+          54,
+          55,
+          51,
+          52
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√16 − 5²"
+      },
+      "answer": -21,
+      "payload": {
+        "options": [
+          21,
+          -21,
+          -18,
+          -20
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√289 + 2²"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          16,
+          23,
+          21,
+          31
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√100 × 3"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          30,
+          28,
+          25,
+          29
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0039",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√196 × 2"
+      },
+      "answer": 28,
+      "payload": {
+        "options": [
+          30,
+          26,
+          29,
+          28
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0044",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√225 − 5²"
+      },
+      "answer": -10,
+      "payload": {
+        "options": [
+          10,
+          -20,
+          -10,
+          -15
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0049",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√36 − 4²"
+      },
+      "answer": -10,
+      "payload": {
+        "options": [
+          -8,
+          -10,
+          10,
+          -20
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√4 × 3"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          9,
+          4,
+          6,
+          -4
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√64 × 5"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          50,
+          40,
+          45,
+          30
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0064",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√121 − 7²"
+      },
+      "answer": -38,
+      "payload": {
+        "options": [
+          38,
+          -35,
+          -38,
+          -37
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0069",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√121 × 9"
+      },
+      "answer": 99,
+      "payload": {
+        "options": [
+          109,
+          96,
+          99,
+          98
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0078",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√25 + 5²"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          25,
+          29,
+          27,
+          30
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0083",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√9 + 9²"
+      },
+      "answer": 84,
+      "payload": {
+        "options": [
+          79,
+          84,
+          89,
+          82
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0088",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√49 − 5²"
+      },
+      "answer": -18,
+      "payload": {
+        "options": [
+          -8,
+          18,
+          -18,
+          -13
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0093",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√9 × 7"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          23,
+          31,
+          19,
+          21
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0098",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√144 + 2²"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          16,
+          18,
+          6,
+          11
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0103",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√144 − 8²"
+      },
+      "answer": -52,
+      "payload": {
+        "options": [
+          52,
+          -57,
+          -52,
+          -62
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0108",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√49 × 3"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          16,
+          26,
+          22,
+          21
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0113",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√9 + 2²"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          7,
+          17,
+          2,
+          5
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0118",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√36 + 4²"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          21,
+          17,
+          22,
+          24
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(1 + 9)² − 11²"
+      },
+      "answer": -21,
+      "payload": {
+        "options": [
+          -19,
+          -16,
+          -20,
+          -21
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(11 − 3)² ÷ 4"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          11,
+          6,
+          13,
+          16
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(16 − 12)² ÷ 2"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          6,
+          8,
+          7,
+          -2
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−4)² − 7 × 3"
+      },
+      "answer": -5,
+      "payload": {
+        "options": [
+          -4,
+          -37,
+          -5,
+          -6
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0025",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(9 + 4)² − 12²"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          25,
+          28,
+          20,
+          26
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0030",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−9)² − 6 × 2"
+      },
+      "answer": 69,
+      "payload": {
+        "options": [
+          66,
+          69,
+          70,
+          -93
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(1 + 4)² − 2²"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          31,
+          18,
+          21,
+          19
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(20 − 5)² ÷ 5"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          40,
+          55,
+          42,
+          45
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0045",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(19 − 10)² ÷ 3"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          24,
+          29,
+          32,
+          27
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0050",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(7 + 5)² − 12²"
+      },
+      "answer": 0,
+      "payload": {
+        "options": [
+          -5,
+          -10,
+          2,
+          0
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−6)² − 2 × 7"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          25,
+          21,
+          -50,
+          22
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−8)² − 6 × 7"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          19,
+          20,
+          -106,
+          22
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−2)² − 9 × 8"
+      },
+      "answer": -68,
+      "payload": {
+        "options": [
+          -76,
+          -67,
+          -70,
+          -68
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0070",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(12 − 4)² ÷ 4"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          13,
+          16,
+          26,
+          19
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0074",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−4)² − 4 × 8"
+      },
+      "answer": -16,
+      "payload": {
+        "options": [
+          -14,
+          -6,
+          -48,
+          -16
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0079",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−5)² − 8 × 2"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          -41,
+          7,
+          9,
+          10
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0084",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(2 + 4)² − 2²"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          30,
+          42,
+          33,
+          32
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0089",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(7 − 5)² ÷ 2"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          3,
+          2,
+          5,
+          -3
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0094",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(5 + 4)² − 4²"
+      },
+      "answer": 65,
+      "payload": {
+        "options": [
+          65,
+          70,
+          62,
+          66
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0099",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(24 − 16)² ÷ 2"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          32,
+          42,
+          22,
+          27
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0104",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(2 + 2)² − 8²"
+      },
+      "answer": -48,
+      "payload": {
+        "options": [
+          -48,
+          -47,
+          -50,
+          -49
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0109",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(7 + 3)² − 2²"
+      },
+      "answer": 96,
+      "payload": {
+        "options": [
+          97,
+          101,
+          96,
+          91
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0114",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(6 + 5)² − 7²"
+      },
+      "answer": 72,
+      "payload": {
+        "options": [
+          67,
+          82,
+          75,
+          72
+        ]
+      }
+    },
+    {
+      "id": "hitung-cepat.smp.0119",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(−9)² − 5 × 6"
+      },
+      "answer": 51,
+      "payload": {
+        "options": [
+          51,
+          -111,
+          41,
+          52
+        ]
+      }
+    }
+  ]
+}

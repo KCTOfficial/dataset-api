@@ -1,0 +1,1929 @@
+{
+  "schemaVersion": 1,
+  "gameId": "cari-x",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "cari-x.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 16 = 17"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          1,
+          11,
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 17 = 62"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          45,
+          40,
+          48,
+          35
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 24 = 49"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          26,
+          25,
+          30,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 5 = 40"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          32,
+          25,
+          38,
+          35
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 40 = 64"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          24,
+          19,
+          29,
+          14
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0026",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 46 = 56"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          10,
+          7,
+          0,
+          5
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0030",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 21 = 62"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          41,
+          36,
+          51,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0035",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 18 = 60"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          41,
+          40,
+          42,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0040",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 28 = 33"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          8,
+          5,
+          6,
+          4
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0045",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 30 = 77"
+      },
+      "answer": 47,
+      "payload": {
+        "options": [
+          47,
+          49,
+          52,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0050",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 13 = 39"
+      },
+      "answer": 26,
+      "payload": {
+        "options": [
+          26,
+          21,
+          27,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0055",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 45 = 50"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          5,
+          6,
+          0,
+          7
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0060",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 37 = 83"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          43,
+          48,
+          51,
+          46
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0065",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 16 = 49"
+      },
+      "answer": 33,
+      "payload": {
+        "options": [
+          38,
+          33,
+          31,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0070",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 32 = 45"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          11,
+          23,
+          12,
+          13
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0075",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 29 = 51"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          25,
+          23,
+          21,
+          22
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0080",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 6 = 32"
+      },
+      "answer": 26,
+      "payload": {
+        "options": [
+          26,
+          27,
+          29,
+          28
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0085",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 12 = 49"
+      },
+      "answer": 37,
+      "payload": {
+        "options": [
+          32,
+          37,
+          35,
+          34
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0090",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 10 = 46"
+      },
+      "answer": 36,
+      "payload": {
+        "options": [
+          37,
+          26,
+          36,
+          46
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0094",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 11 = 38"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          27,
+          37,
+          24,
+          32
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0099",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 23 = 43"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          17,
+          15,
+          19,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0104",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 45 = 61"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          19,
+          16,
+          14,
+          18
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0109",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 19 = 32"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          12,
+          10,
+          11,
+          13
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0114",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 32 = 79"
+      },
+      "answer": 47,
+      "payload": {
+        "options": [
+          52,
+          48,
+          47,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0119",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? + 49 = 57"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          18,
+          8,
+          7,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "45 + ? = 49"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          3,
+          4,
+          6,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "14 + ? = 26"
+      },
+      "answer": 12,
+      "payload": {
+        "options": [
+          14,
+          9,
+          17,
+          12
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "1 + ? = 50"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          47,
+          39,
+          49,
+          54
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "45 + ? = 72"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          37,
+          24,
+          32,
+          27
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "46 + ? = 52"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          16,
+          4,
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "17 + ? = 66"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          49,
+          52,
+          50,
+          46
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0031",
+      "difficulty": 2,
+      "prompt": {
+        "text": "26 + ? = 58"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          42,
+          32,
+          31,
+          27
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0036",
+      "difficulty": 2,
+      "prompt": {
+        "text": "24 + ? = 61"
+      },
+      "answer": 37,
+      "payload": {
+        "options": [
+          42,
+          32,
+          27,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0041",
+      "difficulty": 2,
+      "prompt": {
+        "text": "27 + ? = 58"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          31,
+          34,
+          30,
+          28
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0046",
+      "difficulty": 2,
+      "prompt": {
+        "text": "30 + ? = 58"
+      },
+      "answer": 28,
+      "payload": {
+        "options": [
+          18,
+          28,
+          29,
+          38
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0051",
+      "difficulty": 2,
+      "prompt": {
+        "text": "8 + ? = 53"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          46,
+          45,
+          48,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0056",
+      "difficulty": 2,
+      "prompt": {
+        "text": "1 + ? = 1"
+      },
+      "answer": 0,
+      "payload": {
+        "options": [
+          0,
+          10,
+          5,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0061",
+      "difficulty": 2,
+      "prompt": {
+        "text": "9 + ? = 32"
+      },
+      "answer": 23,
+      "payload": {
+        "options": [
+          26,
+          28,
+          23,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0066",
+      "difficulty": 2,
+      "prompt": {
+        "text": "28 + ? = 52"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          34,
+          22,
+          19,
+          24
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0071",
+      "difficulty": 2,
+      "prompt": {
+        "text": "18 + ? = 53"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          35,
+          40,
+          30,
+          32
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0076",
+      "difficulty": 2,
+      "prompt": {
+        "text": "15 + ? = 36"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          22,
+          19,
+          26,
+          21
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "43 + ? = 60"
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          16,
+          15,
+          17,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0086",
+      "difficulty": 2,
+      "prompt": {
+        "text": "23 + ? = 37"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          17,
+          24,
+          19,
+          14
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0091",
+      "difficulty": 2,
+      "prompt": {
+        "text": "50 + ? = 99"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          59,
+          48,
+          46,
+          49
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0095",
+      "difficulty": 2,
+      "prompt": {
+        "text": "25 + ? = 39"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          16,
+          14,
+          11,
+          4
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0100",
+      "difficulty": 2,
+      "prompt": {
+        "text": "44 + ? = 45"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          3,
+          1,
+          4,
+          0
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0105",
+      "difficulty": 2,
+      "prompt": {
+        "text": "41 + ? = 88"
+      },
+      "answer": 47,
+      "payload": {
+        "options": [
+          47,
+          50,
+          48,
+          45
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0110",
+      "difficulty": 2,
+      "prompt": {
+        "text": "24 + ? = 72"
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          48,
+          49,
+          43,
+          51
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0115",
+      "difficulty": 2,
+      "prompt": {
+        "text": "22 + ? = 61"
+      },
+      "answer": 39,
+      "payload": {
+        "options": [
+          34,
+          44,
+          39,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0120",
+      "difficulty": 2,
+      "prompt": {
+        "text": "44 + ? = 86"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          45,
+          42,
+          52,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 10 = 11"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          21,
+          23,
+          16,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 24 = 43"
+      },
+      "answer": 67,
+      "payload": {
+        "options": [
+          67,
+          68,
+          72,
+          77
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 34 = 7"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          51,
+          38,
+          41,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 11 = 15"
+      },
+      "answer": 26,
+      "payload": {
+        "options": [
+          36,
+          26,
+          24,
+          29
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 16 = 30"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          48,
+          41,
+          46,
+          45
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 36 = 10"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          46,
+          41,
+          45,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0032",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 49 = 8"
+      },
+      "answer": 57,
+      "payload": {
+        "options": [
+          58,
+          57,
+          52,
+          47
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0037",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 35 = 0"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          35,
+          30,
+          38,
+          45
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 29 = 41"
+      },
+      "answer": 70,
+      "payload": {
+        "options": [
+          68,
+          73,
+          69,
+          70
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0047",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 27 = 10"
+      },
+      "answer": 37,
+      "payload": {
+        "options": [
+          37,
+          35,
+          39,
+          47
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0052",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 49 = 21"
+      },
+      "answer": 70,
+      "payload": {
+        "options": [
+          67,
+          70,
+          69,
+          65
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0057",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 31 = 14"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          42,
+          48,
+          45,
+          50
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0062",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 34 = 24"
+      },
+      "answer": 58,
+      "payload": {
+        "options": [
+          61,
+          68,
+          63,
+          58
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0067",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 40 = 11"
+      },
+      "answer": 51,
+      "payload": {
+        "options": [
+          54,
+          49,
+          51,
+          41
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0072",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 43 = 22"
+      },
+      "answer": 65,
+      "payload": {
+        "options": [
+          65,
+          67,
+          70,
+          66
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0077",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 40 = 37"
+      },
+      "answer": 77,
+      "payload": {
+        "options": [
+          80,
+          75,
+          77,
+          82
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 32 = 28"
+      },
+      "answer": 60,
+      "payload": {
+        "options": [
+          50,
+          60,
+          63,
+          62
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0087",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 3 = 18"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          31,
+          16,
+          22,
+          21
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0092",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 6 = 19"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          20,
+          35,
+          25,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0096",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 12 = 28"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          50,
+          30,
+          38,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0101",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 5 = 27"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          30,
+          29,
+          32,
+          33
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0106",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 14 = 24"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          36,
+          33,
+          38,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0111",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 49 = 40"
+      },
+      "answer": 89,
+      "payload": {
+        "options": [
+          79,
+          84,
+          89,
+          86
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0116",
+      "difficulty": 3,
+      "prompt": {
+        "text": "? − 23 = 22"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          45,
+          55,
+          47,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "41 − ? = 15"
+      },
+      "answer": 26,
+      "payload": {
+        "options": [
+          27,
+          21,
+          26,
+          29
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9 − ? = 3"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          11,
+          3,
+          8,
+          6
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "52 − ? = 27"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          26,
+          28,
+          25,
+          30
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "50 − ? = 30"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          21,
+          30,
+          18,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "51 − ? = 33"
+      },
+      "answer": 18,
+      "payload": {
+        "options": [
+          28,
+          18,
+          20,
+          17
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "55 − ? = 7"
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          46,
+          50,
+          43,
+          48
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "50 − ? = 46"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          7,
+          4,
+          14,
+          2
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "33 − ? = 9"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          24,
+          29,
+          21,
+          25
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0043",
+      "difficulty": 4,
+      "prompt": {
+        "text": "43 − ? = 36"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          6,
+          7,
+          8,
+          12
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0048",
+      "difficulty": 4,
+      "prompt": {
+        "text": "80 − ? = 31"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          39,
+          50,
+          47,
+          49
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0053",
+      "difficulty": 4,
+      "prompt": {
+        "text": "38 − ? = 30"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          5,
+          11,
+          18,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0058",
+      "difficulty": 4,
+      "prompt": {
+        "text": "49 − ? = 6"
+      },
+      "answer": 43,
+      "payload": {
+        "options": [
+          41,
+          53,
+          43,
+          48
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0063",
+      "difficulty": 4,
+      "prompt": {
+        "text": "48 − ? = 1"
+      },
+      "answer": 47,
+      "payload": {
+        "options": [
+          47,
+          48,
+          37,
+          57
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0068",
+      "difficulty": 4,
+      "prompt": {
+        "text": "31 − ? = 9"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          21,
+          22,
+          17,
+          23
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0073",
+      "difficulty": 4,
+      "prompt": {
+        "text": "57 − ? = 11"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          46,
+          43,
+          45,
+          47
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0078",
+      "difficulty": 4,
+      "prompt": {
+        "text": "24 − ? = 7"
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          22,
+          15,
+          17,
+          27
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0083",
+      "difficulty": 4,
+      "prompt": {
+        "text": "75 − ? = 38"
+      },
+      "answer": 37,
+      "payload": {
+        "options": [
+          27,
+          37,
+          32,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0088",
+      "difficulty": 4,
+      "prompt": {
+        "text": "32 − ? = 18"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          24,
+          19,
+          14,
+          13
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0093",
+      "difficulty": 4,
+      "prompt": {
+        "text": "27 − ? = 14"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          13,
+          11,
+          23,
+          12
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0097",
+      "difficulty": 4,
+      "prompt": {
+        "text": "90 − ? = 48"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          44,
+          32,
+          42,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0102",
+      "difficulty": 4,
+      "prompt": {
+        "text": "55 − ? = 20"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          45,
+          35,
+          25,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0107",
+      "difficulty": 4,
+      "prompt": {
+        "text": "70 − ? = 43"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          27,
+          32,
+          24,
+          29
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0112",
+      "difficulty": 4,
+      "prompt": {
+        "text": "67 − ? = 37"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          33,
+          27,
+          30,
+          25
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0117",
+      "difficulty": 4,
+      "prompt": {
+        "text": "68 − ? = 25"
+      },
+      "answer": 43,
+      "payload": {
+        "options": [
+          38,
+          53,
+          43,
+          44
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 3 = 30"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          13,
+          7,
+          10,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "60 ÷ ? = 10"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          4,
+          6,
+          16,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 5 = 30"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          11,
+          16,
+          4,
+          6
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "12 ÷ ? = 2"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          5,
+          6,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0025",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 4 = 32"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          3,
+          8,
+          5,
+          7
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0034",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 8 = 72"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          4,
+          9,
+          7,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 7 = 28"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          2,
+          4,
+          14,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0044",
+      "difficulty": 5,
+      "prompt": {
+        "text": "63 ÷ ? = 7"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          9,
+          12,
+          11,
+          6
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0049",
+      "difficulty": 5,
+      "prompt": {
+        "text": "3 ÷ ? = 1"
+      },
+      "answer": 3,
+      "payload": {
+        "options": [
+          5,
+          8,
+          3,
+          4
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0054",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 8 = 56"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          10,
+          9,
+          7,
+          2
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0059",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 6 = 6"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          2,
+          4,
+          1,
+          6
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0064",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 5 = 5"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          11,
+          6,
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0069",
+      "difficulty": 5,
+      "prompt": {
+        "text": "8 ÷ ? = 2"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          4,
+          7,
+          5,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0074",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 8 = 80"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          20,
+          7,
+          10,
+          13
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0079",
+      "difficulty": 5,
+      "prompt": {
+        "text": "4 ÷ ? = 4"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          4,
+          0,
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0084",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 6 = 60"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          0,
+          20,
+          7,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0089",
+      "difficulty": 5,
+      "prompt": {
+        "text": "45 ÷ ? = 5"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          14,
+          9,
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0098",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 6 = 42"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          10,
+          2,
+          12,
+          7
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0103",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 10 = 30"
+      },
+      "answer": 3,
+      "payload": {
+        "options": [
+          4,
+          2,
+          1,
+          3
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0108",
+      "difficulty": 5,
+      "prompt": {
+        "text": "? × 9 = 27"
+      },
+      "answer": 3,
+      "payload": {
+        "options": [
+          5,
+          3,
+          6,
+          4
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0113",
+      "difficulty": 5,
+      "prompt": {
+        "text": "12 ÷ ? = 6"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          5,
+          2,
+          1,
+          0
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-b.0118",
+      "difficulty": 5,
+      "prompt": {
+        "text": "14 ÷ ? = 7"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          12,
+          7,
+          2,
+          4
+        ]
+      }
+    }
+  ]
+}

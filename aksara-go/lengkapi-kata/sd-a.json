@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "gameId": "lengkapi-kata",
+  "segment": "sd-a",
+  "jenjang": "SD",
+  "interaction": "FILL_GAP",
+  "questions": [
+    {
+      "id": "lengkapi-kata.sd-a.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "KUC_NG",
+        "hint": "Hewan peliharaan yang suka mengeong",
+        "emoji": "🐱"
+      },
+      "answer": "KUCING"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "GAJ_H",
+        "hint": "Hewan besar yang punya belalai",
+        "emoji": "🐘"
+      },
+      "answer": "GAJAH"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "PIS_NG",
+        "hint": "Buah panjang berkulit kuning",
+        "emoji": "🍌"
+      },
+      "answer": "PISANG"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "MAN_GA",
+        "hint": "Buah berdaging kuning yang manis dan harum",
+        "emoji": "🥭"
+      },
+      "answer": "MANGGA"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "AY_H",
+        "hint": "Orang tua laki-laki"
+      },
+      "answer": "AYAH"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "HID_NG",
+        "hint": "Bagian wajah untuk mencium bau",
+        "emoji": "👃"
+      },
+      "answer": "HIDUNG"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "PENS_L",
+        "hint": "Alat tulis yang tulisannya bisa dihapus",
+        "emoji": "✏️"
+      },
+      "answer": "PENSIL"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "MEJ_",
+        "hint": "Perabot berkaki empat untuk menulis atau makan"
+      },
+      "answer": "MEJA"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "SEPA_U",
+        "hint": "Alas kaki yang dipakai ke sekolah",
+        "emoji": "👟"
+      },
+      "answer": "SEPATU"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "TOP_",
+        "hint": "Dipakai di kepala saat upacara bendera",
+        "emoji": "🧢"
+      },
+      "answer": "TOPI"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "LAM_U",
+        "hint": "Menyala untuk menerangi ruangan",
+        "emoji": "💡"
+      },
+      "answer": "LAMPU"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0012",
+      "difficulty": 1,
+      "prompt": {
+        "text": "KUR_I",
+        "hint": "Tempat duduk yang punya sandaran",
+        "emoji": "🪑"
+      },
+      "answer": "KURSI"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0013",
+      "difficulty": 1,
+      "prompt": {
+        "text": "GUR_",
+        "hint": "Orang yang mengajar murid di sekolah"
+      },
+      "answer": "GURU"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "_YAM",
+        "hint": "Unggas peliharaan yang bertelur",
+        "emoji": "🐔"
+      },
+      "answer": "AYAM"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "JERU_",
+        "hint": "Buah bulat berwarna jingga, rasanya asam manis",
+        "emoji": "🍊"
+      },
+      "answer": "JERUK"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "NAN_S",
+        "hint": "Buah berkulit bersisik dan bermahkota daun",
+        "emoji": "🍍"
+      },
+      "answer": "NANAS"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "KAKE_",
+        "hint": "Ayah dari ayah atau ibu kita",
+        "emoji": "👴"
+      },
+      "answer": "KAKEK"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "N_NEK",
+        "hint": "Ibu dari ayah atau ibu kita",
+        "emoji": "👵"
+      },
+      "answer": "NENEK"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "_DIK",
+        "hint": "Saudara kandung yang lebih muda"
+      },
+      "answer": "ADIK"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "TANG_N",
+        "hint": "Anggota tubuh untuk memegang dan menulis",
+        "emoji": "🖐️"
+      },
+      "answer": "TANGAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "RAMB_T",
+        "hint": "Tumbuh di kepala dan bisa disisir"
+      },
+      "answer": "RAMBUT"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "BUL_N",
+        "hint": "Benda langit yang bersinar pada malam hari",
+        "emoji": "🌙"
+      },
+      "answer": "BULAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0023",
+      "difficulty": 2,
+      "prompt": {
+        "text": "KOD_K",
+        "hint": "Hewan pelompat yang ramai berbunyi saat hujan",
+        "emoji": "🐸"
+      },
+      "answer": "KODOK"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0024",
+      "difficulty": 2,
+      "prompt": {
+        "text": "BUR_NG",
+        "hint": "Hewan bersayap yang bisa terbang dan berkicau",
+        "emoji": "🐦"
+      },
+      "answer": "BURUNG"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0025",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PAY_NG",
+        "hint": "Dipakai saat hujan agar tidak basah",
+        "emoji": "☂️"
+      },
+      "answer": "PAYUNG"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "T_LUR",
+        "hint": "Dihasilkan ayam, bisa direbus atau digoreng",
+        "emoji": "🥚"
+      },
+      "answer": "TELUR"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PIN_U",
+        "hint": "Dibuka dan ditutup saat keluar masuk ruangan",
+        "emoji": "🚪"
+      },
+      "answer": "PINTU"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "MON_E_",
+        "hint": "Hewan pemanjat pohon yang suka makan pisang",
+        "emoji": "🐒"
+      },
+      "answer": "MONYET"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PEP_Y_",
+        "hint": "Buah berdaging jingga dengan banyak biji hitam"
+      },
+      "answer": "PEPAYA"
+    },
+    {
+      "id": "lengkapi-kata.sd-a.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "DU_IA_",
+        "hint": "Buah berkulit tajam dengan bau yang sangat kuat"
+      },
+      "answer": "DURIAN"
+    }
+  ]
+}

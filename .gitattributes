@@ -1,0 +1,5 @@
+# Dataset files are checksummed byte-for-byte in aksara-go/manifest.json:
+# never let git rewrite their line endings (core.autocrlf would break SHA-256).
+*.json text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf

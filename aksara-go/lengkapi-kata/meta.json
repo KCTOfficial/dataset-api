@@ -1,0 +1,18 @@
+{
+  "gameId": "lengkapi-kata",
+  "title": "Lengkapi Kata",
+  "description": "Lengkapi huruf yang hilang hingga menjadi kata yang benar.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "FILL_GAP",
+  "instruction": "Lengkapi huruf yang hilang!",
+  "emoji": "✏️",
+  "colorToken": "green",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

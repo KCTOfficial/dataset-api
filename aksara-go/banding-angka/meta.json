@@ -1,0 +1,18 @@
+{
+  "gameId": "banding-angka",
+  "title": "Banding Angka",
+  "description": "Bandingkan dua nilai: lebih besar, lebih kecil, atau sama.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "COMPARE",
+  "instruction": "Pilih tanda yang tepat: <, >, atau =",
+  "emoji": "⚖️",
+  "colorToken": "orange",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

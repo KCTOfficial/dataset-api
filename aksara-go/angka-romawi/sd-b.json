@@ -1,0 +1,1559 @@
+{
+  "schemaVersion": 1,
+  "gameId": "angka-romawi",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "angka-romawi.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "X"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          9,
+          13,
+          10,
+          0
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "III"
+      },
+      "answer": 3,
+      "payload": {
+        "options": [
+          0,
+          5,
+          3,
+          6
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "VIII"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          7,
+          9,
+          8,
+          3
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0015",
+      "difficulty": 1,
+      "prompt": {
+        "text": "IV"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          3,
+          4,
+          6,
+          14
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0020",
+      "difficulty": 1,
+      "prompt": {
+        "text": "II"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          7,
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0023",
+      "difficulty": 1,
+      "prompt": {
+        "text": "VII"
+      },
+      "answer": 7,
+      "payload": {
+        "options": [
+          8,
+          4,
+          6,
+          7
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0027",
+      "difficulty": 1,
+      "prompt": {
+        "text": "V"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          5,
+          6,
+          10,
+          3
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "VI"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          11,
+          6,
+          8,
+          9
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0036",
+      "difficulty": 1,
+      "prompt": {
+        "text": "I"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          4,
+          11,
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0045",
+      "difficulty": 1,
+      "prompt": {
+        "text": "IX"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          9,
+          8,
+          12,
+          7
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0002",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "6"
+      },
+      "answer": "VI",
+      "payload": {
+        "distractors": [
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0011",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "2"
+      },
+      "answer": "II",
+      "payload": {
+        "distractors": [
+          "V",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0016",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "8"
+      },
+      "answer": "VIII",
+      "payload": {
+        "distractors": [
+          "X",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0028",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "4"
+      },
+      "answer": "IV",
+      "payload": {
+        "distractors": [
+          "L",
+          "X"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0032",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "5"
+      },
+      "answer": "V",
+      "payload": {
+        "distractors": [
+          "C",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0037",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "3"
+      },
+      "answer": "III",
+      "payload": {
+        "distractors": [
+          "L",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0041",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "7"
+      },
+      "answer": "VII",
+      "payload": {
+        "distractors": [
+          "L",
+          "X"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0046",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "10"
+      },
+      "answer": "X",
+      "payload": {
+        "distractors": [
+          "C",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0053",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "1"
+      },
+      "answer": "I",
+      "payload": {
+        "distractors": [
+          "X",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0072",
+      "difficulty": 2,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "9"
+      },
+      "answer": "IX",
+      "payload": {
+        "distractors": [
+          "D",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXIX"
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          26,
+          32,
+          29,
+          27
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0007",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXX"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          33,
+          35,
+          30,
+          29
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XIV"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          15,
+          14,
+          12,
+          16
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXV"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          24,
+          28,
+          25,
+          35
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XVII"
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          17,
+          18,
+          19,
+          7
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XX"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          30,
+          21,
+          20,
+          25
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XII"
+      },
+      "answer": 12,
+      "payload": {
+        "options": [
+          13,
+          12,
+          11,
+          15
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0034",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXI"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          18,
+          24,
+          21,
+          31
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0038",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XVI"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          13,
+          15,
+          16,
+          26
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XVIII"
+      },
+      "answer": 18,
+      "payload": {
+        "options": [
+          15,
+          18,
+          16,
+          19
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0047",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XIX"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          24,
+          18,
+          29,
+          19
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0050",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXVIII"
+      },
+      "answer": 28,
+      "payload": {
+        "options": [
+          33,
+          23,
+          28,
+          31
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0054",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXII"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          25,
+          23,
+          17,
+          22
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0058",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XIII"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          15,
+          12,
+          13,
+          14
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0060",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXIV"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          21,
+          19,
+          24,
+          29
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0063",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XI"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          21,
+          6,
+          14,
+          11
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0066",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXVII"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          37,
+          17,
+          27,
+          25
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XV"
+      },
+      "answer": 15,
+      "payload": {
+        "options": [
+          5,
+          14,
+          25,
+          15
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0076",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXVI"
+      },
+      "answer": 26,
+      "payload": {
+        "options": [
+          29,
+          23,
+          26,
+          21
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0089",
+      "difficulty": 3,
+      "prompt": {
+        "text": "XXIII"
+      },
+      "answer": 23,
+      "payload": {
+        "options": [
+          26,
+          23,
+          22,
+          18
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0004",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "18"
+      },
+      "answer": "XVIII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0008",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "17"
+      },
+      "answer": "XVII",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0013",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "19"
+      },
+      "answer": "XIX",
+      "payload": {
+        "distractors": [
+          "L",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0018",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "22"
+      },
+      "answer": "XXII",
+      "payload": {
+        "distractors": [
+          "L",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0022",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "30"
+      },
+      "answer": "XXX",
+      "payload": {
+        "distractors": [
+          "C",
+          "I"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0025",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "21"
+      },
+      "answer": "XXI",
+      "payload": {
+        "distractors": [
+          "M",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0039",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "15"
+      },
+      "answer": "XV",
+      "payload": {
+        "distractors": [
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0048",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "16"
+      },
+      "answer": "XVI",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0051",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "29"
+      },
+      "answer": "XXIX",
+      "payload": {
+        "distractors": [
+          "M",
+          "V"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0052",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "12"
+      },
+      "answer": "XII",
+      "payload": {
+        "distractors": [
+          "V",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0055",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "28"
+      },
+      "answer": "XXVIII",
+      "payload": {
+        "distractors": [
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0061",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "13"
+      },
+      "answer": "XIII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0064",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "24"
+      },
+      "answer": "XXIV",
+      "payload": {
+        "distractors": [
+          "D",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0068",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "20"
+      },
+      "answer": "XX",
+      "payload": {
+        "distractors": [
+          "M",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0070",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "14"
+      },
+      "answer": "XIV",
+      "payload": {
+        "distractors": [
+          "L",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0077",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "23"
+      },
+      "answer": "XXIII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0078",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "25"
+      },
+      "answer": "XXV",
+      "payload": {
+        "distractors": [
+          "I",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0083",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "26"
+      },
+      "answer": "XXVI",
+      "payload": {
+        "distractors": [
+          "D",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0085",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "11"
+      },
+      "answer": "XI",
+      "payload": {
+        "distractors": [
+          "M",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0087",
+      "difficulty": 4,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "27"
+      },
+      "answer": "XXVII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0005",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "32"
+      },
+      "answer": "XXXII",
+      "payload": {
+        "distractors": [
+          "M",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0009",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "44"
+      },
+      "answer": "XLIV",
+      "payload": {
+        "distractors": [
+          "D",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0014",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "36"
+      },
+      "answer": "XXXVI",
+      "payload": {
+        "distractors": [
+          "D",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0019",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "34"
+      },
+      "answer": "XXXIV",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0026",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLV"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          55,
+          50,
+          45,
+          43
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0029",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "47"
+      },
+      "answer": "XLVII",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0031",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXIII"
+      },
+      "answer": 33,
+      "payload": {
+        "options": [
+          23,
+          28,
+          43,
+          33
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLVI"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          51,
+          44,
+          41,
+          46
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXII"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          22,
+          35,
+          32,
+          33
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0043",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXIV"
+      },
+      "answer": 34,
+      "payload": {
+        "options": [
+          44,
+          35,
+          34,
+          31
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0044",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLII"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          41,
+          40,
+          42,
+          44
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0049",
+      "difficulty": 5,
+      "prompt": {
+        "text": "L"
+      },
+      "answer": 50,
+      "payload": {
+        "options": [
+          49,
+          55,
+          50,
+          48
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0056",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLIX"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          44,
+          49,
+          50,
+          51
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0057",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXIX"
+      },
+      "answer": 39,
+      "payload": {
+        "options": [
+          40,
+          29,
+          44,
+          39
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0059",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "33"
+      },
+      "answer": "XXXIII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0062",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLIV"
+      },
+      "answer": 44,
+      "payload": {
+        "options": [
+          46,
+          34,
+          43,
+          44
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXVIII"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          33,
+          38,
+          39,
+          40
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0067",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "41"
+      },
+      "answer": "XLI",
+      "payload": {
+        "distractors": [
+          "M",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0069",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLI"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          44,
+          39,
+          46,
+          41
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0071",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLVII"
+      },
+      "answer": 47,
+      "payload": {
+        "options": [
+          44,
+          37,
+          47,
+          45
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0074",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXV"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          25,
+          33,
+          35,
+          45
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLVIII"
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          53,
+          38,
+          48,
+          58
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0079",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "31"
+      },
+      "answer": "XXXI",
+      "payload": {
+        "distractors": [
+          "M",
+          "V"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0080",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "46"
+      },
+      "answer": "XLVI",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0081",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "37"
+      },
+      "answer": "XXXVII",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0082",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XLIII"
+      },
+      "answer": 43,
+      "payload": {
+        "options": [
+          40,
+          53,
+          48,
+          43
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0084",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "50"
+      },
+      "answer": "L",
+      "payload": {
+        "distractors": [
+          "D",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0086",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "48"
+      },
+      "answer": "XLVIII",
+      "payload": {
+        "distractors": [
+          "C",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0088",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "39"
+      },
+      "answer": "XXXIX",
+      "payload": {
+        "distractors": [
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0090",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXVII"
+      },
+      "answer": 37,
+      "payload": {
+        "options": [
+          39,
+          38,
+          37,
+          32
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0091",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "49"
+      },
+      "answer": "XLIX",
+      "payload": {
+        "distractors": [
+          "M",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0092",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXVI"
+      },
+      "answer": 36,
+      "payload": {
+        "options": [
+          26,
+          36,
+          33,
+          38
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0093",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "43"
+      },
+      "answer": "XLIII",
+      "payload": {
+        "distractors": [
+          "V",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0094",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "35"
+      },
+      "answer": "XXXV",
+      "payload": {
+        "distractors": [
+          "I",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0095",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XL"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          35,
+          43,
+          40,
+          45
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0096",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "45"
+      },
+      "answer": "XLV",
+      "payload": {
+        "distractors": [
+          "M",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0097",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "42"
+      },
+      "answer": "XLII",
+      "payload": {
+        "distractors": [
+          "V",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0098",
+      "difficulty": 5,
+      "prompt": {
+        "text": "XXXI"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          32,
+          31,
+          41,
+          21
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0099",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "38"
+      },
+      "answer": "XXXVIII",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "angka-romawi.sd-b.0100",
+      "difficulty": 5,
+      "interaction": "TILE_BANK",
+      "prompt": {
+        "text": "40"
+      },
+      "answer": "XL",
+      "payload": {
+        "distractors": [
+          "C",
+          "V"
+        ]
+      }
+    }
+  ]
+}

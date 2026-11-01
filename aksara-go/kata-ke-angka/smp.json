@@ -1,0 +1,1929 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-ke-angka",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "kata-ke-angka.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga ratus enam puluh tiga juta"
+      },
+      "answer": 363000000,
+      "payload": {
+        "options": [
+          362999998,
+          633000000,
+          363000000,
+          373000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat ratus tujuh puluh sembilan juta"
+      },
+      "answer": 479000000,
+      "payload": {
+        "options": [
+          479000000,
+          489000000,
+          478999997,
+          749000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0014",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tujuh ratus dua puluh satu juta"
+      },
+      "answer": 721000000,
+      "payload": {
+        "options": [
+          720999997,
+          731000000,
+          721000000,
+          271000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0019",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua ratus delapan puluh juta"
+      },
+      "answer": 280000000,
+      "payload": {
+        "options": [
+          290000000,
+          280000000,
+          279999997,
+          820000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0024",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga ratus empat puluh dua juta"
+      },
+      "answer": 342000000,
+      "payload": {
+        "options": [
+          342000000,
+          352000000,
+          341999998,
+          432000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam ratus sembilan puluh tiga juta"
+      },
+      "answer": 693000000,
+      "payload": {
+        "options": [
+          692999997,
+          693000000,
+          963000000,
+          703000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "seratus lima puluh tujuh juta"
+      },
+      "answer": 157000000,
+      "payload": {
+        "options": [
+          157000003,
+          517000000,
+          157000000,
+          167000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0038",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga puluh dua juta"
+      },
+      "answer": 32000000,
+      "payload": {
+        "options": [
+          33000000,
+          23000000,
+          3200000,
+          32000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0043",
+      "difficulty": 1,
+      "prompt": {
+        "text": "seratus tiga belas juta"
+      },
+      "answer": 113000000,
+      "payload": {
+        "options": [
+          113000000,
+          123000000,
+          112999990,
+          131000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0047",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga belas juta"
+      },
+      "answer": 13000000,
+      "payload": {
+        "options": [
+          31000000,
+          14000000,
+          1300000,
+          13000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0052",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua ratus tujuh puluh delapan juta"
+      },
+      "answer": 278000000,
+      "payload": {
+        "options": [
+          278000000,
+          288000000,
+          27800000,
+          728000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0056",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat ratus lima puluh sembilan juta"
+      },
+      "answer": 459000000,
+      "payload": {
+        "options": [
+          469000000,
+          459000001,
+          549000000,
+          459000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0061",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam ratus empat juta"
+      },
+      "answer": 604000000,
+      "payload": {
+        "options": [
+          603999999,
+          594000000,
+          604000000,
+          614000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0065",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat ratus enam puluh lima juta"
+      },
+      "answer": 465000000,
+      "payload": {
+        "options": [
+          475000000,
+          465000002,
+          645000000,
+          465000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0070",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tujuh ratus dua puluh tiga juta"
+      },
+      "answer": 723000000,
+      "payload": {
+        "options": [
+          723000000,
+          733000000,
+          723000001,
+          273000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0075",
+      "difficulty": 1,
+      "prompt": {
+        "text": "seratus enam puluh tiga juta"
+      },
+      "answer": 163000000,
+      "payload": {
+        "options": [
+          1630000000,
+          163000000,
+          613000000,
+          173000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0080",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat ratus tujuh puluh dua juta"
+      },
+      "answer": 472000000,
+      "payload": {
+        "options": [
+          482000000,
+          47200000,
+          472000000,
+          742000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0085",
+      "difficulty": 1,
+      "prompt": {
+        "text": "seratus delapan puluh tiga juta"
+      },
+      "answer": 183000000,
+      "payload": {
+        "options": [
+          183000000,
+          193000000,
+          182999995,
+          813000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0090",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima ratus sembilan puluh empat juta"
+      },
+      "answer": 594000000,
+      "payload": {
+        "options": [
+          954000000,
+          604000000,
+          5940000000,
+          594000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0095",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga ratus empat puluh satu juta"
+      },
+      "answer": 341000000,
+      "payload": {
+        "options": [
+          431000000,
+          351000000,
+          340999997,
+          341000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam ratus lima puluh tiga juta"
+      },
+      "answer": 653000000,
+      "payload": {
+        "options": [
+          663000000,
+          6530000000,
+          563000000,
+          653000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0105",
+      "difficulty": 1,
+      "prompt": {
+        "text": "delapan ratus dua puluh juta"
+      },
+      "answer": 820000000,
+      "payload": {
+        "options": [
+          820000000,
+          280000000,
+          819999998,
+          830000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0110",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan ratus enam puluh satu juta"
+      },
+      "answer": 961000000,
+      "payload": {
+        "options": [
+          96100000,
+          961000000,
+          691000000,
+          971000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0114",
+      "difficulty": 1,
+      "prompt": {
+        "text": "delapan ratus tiga puluh dua juta"
+      },
+      "answer": 832000000,
+      "payload": {
+        "options": [
+          831999998,
+          842000000,
+          382000000,
+          832000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0119",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima ratus empat puluh delapan juta"
+      },
+      "answer": 548000000,
+      "payload": {
+        "options": [
+          547999999,
+          558000000,
+          548000000,
+          458000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "satu juta"
+      },
+      "answer": 1000000,
+      "payload": {
+        "options": [
+          999995,
+          1000000,
+          1100000,
+          900000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "lima ratus empat belas juta tujuh ratus tujuh puluh empat ribu enam ratus dua puluh sembilan"
+      },
+      "answer": 514774629,
+      "payload": {
+        "options": [
+          514774629,
+          524774629,
+          514774632,
+          154774629
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua ratus enam puluh enam juta tiga puluh enam ribu lima ratus dua puluh empat"
+      },
+      "answer": 266036524,
+      "payload": {
+        "options": [
+          276036524,
+          626036524,
+          266036524,
+          266036522
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tujuh ratus tiga puluh lima juta lima ratus enam puluh dua ribu delapan puluh sembilan"
+      },
+      "answer": 735562089,
+      "payload": {
+        "options": [
+          735562090,
+          745562089,
+          735562089,
+          375562089
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat ratus dua puluh juta tujuh ratus empat puluh satu ribu empat ratus empat puluh tiga"
+      },
+      "answer": 420741443,
+      "payload": {
+        "options": [
+          420741443,
+          430741443,
+          240741443,
+          420741446
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0025",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam ratus tujuh puluh satu juta tiga ratus delapan puluh tujuh ribu enam ratus sembilan belas"
+      },
+      "answer": 671387619,
+      "payload": {
+        "options": [
+          671387617,
+          761387619,
+          681387619,
+          671387619
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sembilan ratus delapan puluh sembilan juta tiga ratus lima puluh dua ribu empat ratus empat puluh sembilan"
+      },
+      "answer": 989352449,
+      "payload": {
+        "options": [
+          899352449,
+          989352449,
+          979352449,
+          999352449
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0034",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat ratus tiga puluh delapan juta dua ratus tujuh puluh tiga ribu tiga ratus sebelas"
+      },
+      "answer": 438273311,
+      "payload": {
+        "options": [
+          438273311,
+          448273311,
+          438273314,
+          348273311
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0039",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan ratus dua belas juta tiga ratus sembilan ribu sembilan ratus lima puluh empat"
+      },
+      "answer": 812309954,
+      "payload": {
+        "options": [
+          182309954,
+          812309956,
+          812309954,
+          822309954
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0044",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua ratus sembilan puluh enam juta seratus enam puluh dua ribu lima ratus dua belas"
+      },
+      "answer": 296162512,
+      "payload": {
+        "options": [
+          296162512,
+          926162512,
+          306162512,
+          296162502
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0048",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan ratus dua puluh dua juta enam ratus lima puluh sembilan ribu seratus tujuh"
+      },
+      "answer": 822659107,
+      "payload": {
+        "options": [
+          282659107,
+          822659107,
+          8226591070,
+          832659107
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0053",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tujuh ratus enam puluh delapan juta tiga ratus sembilan puluh empat ribu tujuh puluh tiga"
+      },
+      "answer": 768394073,
+      "payload": {
+        "options": [
+          778394073,
+          758394073,
+          678394073,
+          768394073
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0057",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat ratus tujuh puluh tiga juta sembilan ratus delapan puluh lima ribu seratus enam puluh tiga"
+      },
+      "answer": 473985163,
+      "payload": {
+        "options": [
+          743985163,
+          483985163,
+          473985165,
+          473985163
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0062",
+      "difficulty": 2,
+      "prompt": {
+        "text": "seratus sembilan puluh tujuh juta tiga ratus dua puluh lima ribu sembilan ratus enam"
+      },
+      "answer": 197325906,
+      "payload": {
+        "options": [
+          917325906,
+          197325906,
+          187325906,
+          207325906
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0066",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan ratus enam puluh tujuh juta sembilan ratus sembilan puluh tiga ribu dua ratus sembilan puluh delapan"
+      },
+      "answer": 867993298,
+      "payload": {
+        "options": [
+          877993298,
+          687993298,
+          867993297,
+          867993298
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0071",
+      "difficulty": 2,
+      "prompt": {
+        "text": "seratus dua puluh enam juta sembilan ratus dua belas ribu tujuh ratus dua"
+      },
+      "answer": 126912702,
+      "payload": {
+        "options": [
+          216912702,
+          126912704,
+          126912702,
+          136912702
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0076",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sembilan ratus lima puluh tujuh juta dua ratus delapan puluh lima ribu tiga ratus dua puluh satu"
+      },
+      "answer": 957285321,
+      "payload": {
+        "options": [
+          597285321,
+          967285321,
+          957285321,
+          947285321
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat puluh juta lima ratus dua puluh sembilan ribu enam puluh dua"
+      },
+      "answer": 40529062,
+      "payload": {
+        "options": [
+          41529062,
+          39529062,
+          40529062,
+          40529064
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0086",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat ratus enam juta tujuh puluh lima ribu dua ratus tiga belas"
+      },
+      "answer": 406075213,
+      "payload": {
+        "options": [
+          396075213,
+          406075213,
+          406075211,
+          416075213
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0091",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan ratus tiga puluh tiga juta seratus enam puluh empat ribu dua ratus tujuh puluh tiga"
+      },
+      "answer": 833164273,
+      "payload": {
+        "options": [
+          833164268,
+          833164273,
+          843164273,
+          383164273
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0096",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam ratus empat puluh sembilan juta dua ratus tiga puluh empat ribu dua ratus empat puluh satu"
+      },
+      "answer": 649234241,
+      "payload": {
+        "options": [
+          649234243,
+          659234241,
+          649234241,
+          469234241
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0101",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat ratus empat puluh empat juta delapan ratus lima belas ribu tujuh ratus tujuh puluh empat"
+      },
+      "answer": 444815774,
+      "payload": {
+        "options": [
+          444815774,
+          454815774,
+          4448157740,
+          448415774
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0106",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam ratus dua puluh delapan juta delapan ratus tiga puluh enam ribu dua ratus sembilan puluh sembilan"
+      },
+      "answer": 628836299,
+      "payload": {
+        "options": [
+          628836296,
+          268836299,
+          638836299,
+          628836299
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0111",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam ratus delapan puluh enam juta empat puluh tiga ribu sembilan ratus sembilan puluh"
+      },
+      "answer": 686043990,
+      "payload": {
+        "options": [
+          676043990,
+          696043990,
+          686043990,
+          866043990
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0115",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tiga ratus sembilan puluh lima juta sembilan ratus tiga puluh satu ribu sembilan ratus enam puluh tiga"
+      },
+      "answer": 395931963,
+      "payload": {
+        "options": [
+          405931963,
+          935931963,
+          395931964,
+          395931963
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0120",
+      "difficulty": 2,
+      "prompt": {
+        "text": "seratus lima juta dua ratus empat puluh satu ribu lima puluh lima"
+      },
+      "answer": 105241055,
+      "payload": {
+        "options": [
+          105241057,
+          115241055,
+          95241055,
+          105241055
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0002",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seribu"
+      },
+      "answer": 1001000,
+      "payload": {
+        "options": [
+          1001000,
+          1101000,
+          901000,
+          1001003
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0006",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus dua puluh ribu"
+      },
+      "answer": 1120000,
+      "payload": {
+        "options": [
+          1210000,
+          1120000,
+          1220000,
+          1119998
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta tujuh puluh satu ribu"
+      },
+      "answer": 1071000,
+      "payload": {
+        "options": [
+          1071000,
+          1071001,
+          1171000,
+          971000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus delapan puluh ribu"
+      },
+      "answer": 1180000,
+      "payload": {
+        "options": [
+          1180000,
+          11800000,
+          1280000,
+          1810000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta enam puluh satu ribu"
+      },
+      "answer": 1061000,
+      "payload": {
+        "options": [
+          961000,
+          1161000,
+          1060999,
+          1061000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus empat puluh ribu sebelas"
+      },
+      "answer": 1140011,
+      "payload": {
+        "options": [
+          1140010,
+          1240011,
+          1410011,
+          1140011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta tujuh puluh satu ribu sebelas"
+      },
+      "answer": 1071011,
+      "payload": {
+        "options": [
+          1071008,
+          1171011,
+          1071011,
+          971011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0040",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta sembilan puluh satu ribu"
+      },
+      "answer": 1091000,
+      "payload": {
+        "options": [
+          1091002,
+          1091000,
+          991000,
+          1191000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0049",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta sembilan puluh satu ribu satu"
+      },
+      "answer": 1091001,
+      "payload": {
+        "options": [
+          1191001,
+          991001,
+          1091001,
+          1090998
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0058",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus sepuluh ribu"
+      },
+      "answer": 1110000,
+      "payload": {
+        "options": [
+          1110000,
+          1210000,
+          1110005,
+          1101000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0067",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta sebelas ribu sebelas"
+      },
+      "answer": 1011011,
+      "payload": {
+        "options": [
+          10110110,
+          1111011,
+          1011011,
+          911011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0072",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta tiga puluh satu ribu sebelas"
+      },
+      "answer": 1031011,
+      "payload": {
+        "options": [
+          931011,
+          1131011,
+          1031009,
+          1031011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0077",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus delapan puluh ribu sebelas"
+      },
+      "answer": 1180011,
+      "payload": {
+        "options": [
+          1280011,
+          1810011,
+          1080011,
+          1180011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta sembilan puluh satu ribu sebelas"
+      },
+      "answer": 1091011,
+      "payload": {
+        "options": [
+          1091013,
+          1091011,
+          991011,
+          1191011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0087",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus enam puluh ribu sebelas"
+      },
+      "answer": 1160011,
+      "payload": {
+        "options": [
+          1260011,
+          1160008,
+          1610011,
+          1160011
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0092",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta dua ratus ribu sebelas"
+      },
+      "answer": 1200011,
+      "payload": {
+        "options": [
+          1200011,
+          1300011,
+          2100011,
+          1200010
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0097",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta tujuh puluh satu ribu satu"
+      },
+      "answer": 1071001,
+      "payload": {
+        "options": [
+          1071001,
+          1071003,
+          971001,
+          1171001
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0102",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seribu satu"
+      },
+      "answer": 1001001,
+      "payload": {
+        "options": [
+          901001,
+          10010010,
+          1101001,
+          1001001
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0107",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta sebelas ribu satu"
+      },
+      "answer": 1011001,
+      "payload": {
+        "options": [
+          1011001,
+          1010991,
+          911001,
+          1111001
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0116",
+      "difficulty": 3,
+      "prompt": {
+        "text": "satu juta seratus sembilan puluh ribu"
+      },
+      "answer": 1190000,
+      "payload": {
+        "options": [
+          1290000,
+          1190000,
+          1910000,
+          1189990
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0003",
+      "difficulty": 4,
+      "prompt": {
+        "text": "satu miliar"
+      },
+      "answer": 1000000000,
+      "payload": {
+        "options": [
+          1100000000,
+          999999998,
+          900000000,
+          1000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0007",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus tujuh puluh lima miliar seratus delapan puluh dua juta"
+      },
+      "answer": 575182000000,
+      "payload": {
+        "options": [
+          755182000000,
+          585182000000,
+          575181999998,
+          575182000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0012",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus sembilan puluh tiga miliar tiga ratus sembilan puluh dua juta"
+      },
+      "answer": 893392000000,
+      "payload": {
+        "options": [
+          893392000000,
+          983392000000,
+          883392000000,
+          903392000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0017",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus dua puluh enam miliar tiga ratus tujuh puluh tiga juta"
+      },
+      "answer": 826373000000,
+      "payload": {
+        "options": [
+          826372999999,
+          826373000000,
+          836373000000,
+          286373000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus enam puluh sembilan miliar delapan ratus empat puluh empat juta"
+      },
+      "answer": 869844000000,
+      "payload": {
+        "options": [
+          869844000000,
+          689844000000,
+          879844000000,
+          859844000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "enam ratus tujuh puluh dua miliar"
+      },
+      "answer": 672000000000,
+      "payload": {
+        "options": [
+          762000000000,
+          671999999997,
+          682000000000,
+          672000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus tiga puluh sembilan miliar"
+      },
+      "answer": 539000000000,
+      "payload": {
+        "options": [
+          53900000000,
+          539000000000,
+          359000000000,
+          549000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan ratus enam miliar"
+      },
+      "answer": 906000000000,
+      "payload": {
+        "options": [
+          896000000000,
+          916000000000,
+          905999999990,
+          906000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0041",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus tujuh belas miliar"
+      },
+      "answer": 517000000000,
+      "payload": {
+        "options": [
+          517000000000,
+          157000000000,
+          517000000005,
+          527000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0045",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan puluh dua miliar"
+      },
+      "answer": 92000000000,
+      "payload": {
+        "options": [
+          91999999995,
+          29000000000,
+          93000000000,
+          92000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0050",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tujuh ratus enam puluh empat miliar dua ratus sembilan puluh juta"
+      },
+      "answer": 764290000000,
+      "payload": {
+        "options": [
+          674290000000,
+          764289999998,
+          774290000000,
+          764290000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "empat ratus enam belas miliar"
+      },
+      "answer": 416000000000,
+      "payload": {
+        "options": [
+          416000000000,
+          146000000000,
+          41600000000,
+          426000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus enam puluh delapan miliar empat ratus lima puluh satu juta"
+      },
+      "answer": 268451000000,
+      "payload": {
+        "options": [
+          278451000000,
+          628451000000,
+          268451000001,
+          268451000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0063",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan ratus dua puluh enam miliar"
+      },
+      "answer": 926000000000,
+      "payload": {
+        "options": [
+          926000000000,
+          925999999997,
+          936000000000,
+          296000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0068",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus delapan belas miliar"
+      },
+      "answer": 218000000000,
+      "payload": {
+        "options": [
+          228000000000,
+          218000000000,
+          128000000000,
+          217999999998
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0073",
+      "difficulty": 4,
+      "prompt": {
+        "text": "enam ratus sepuluh miliar"
+      },
+      "answer": 610000000000,
+      "payload": {
+        "options": [
+          160000000000,
+          609999999990,
+          620000000000,
+          610000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0078",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus dua puluh sembilan miliar delapan ratus delapan puluh sembilan juta"
+      },
+      "answer": 829889000000,
+      "payload": {
+        "options": [
+          829888999990,
+          829889000000,
+          839889000000,
+          289889000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0083",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus enam puluh satu miliar"
+      },
+      "answer": 261000000000,
+      "payload": {
+        "options": [
+          261000000000,
+          621000000000,
+          260999999999,
+          271000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0088",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus sembilan puluh tujuh miliar enam ratus empat puluh delapan juta"
+      },
+      "answer": 597648000000,
+      "payload": {
+        "options": [
+          597648000000,
+          957648000000,
+          59764800000,
+          607648000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0093",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus empat puluh empat miliar enam ratus tujuh puluh sembilan juta"
+      },
+      "answer": 244679000000,
+      "payload": {
+        "options": [
+          244679000000,
+          254679000000,
+          424679000000,
+          2446790000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0098",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus sembilan puluh tiga miliar"
+      },
+      "answer": 593000000000,
+      "payload": {
+        "options": [
+          593000000001,
+          593000000000,
+          603000000000,
+          953000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0103",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus empat puluh tiga miliar"
+      },
+      "answer": 843000000000,
+      "payload": {
+        "options": [
+          842999999999,
+          843000000000,
+          853000000000,
+          483000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0108",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus enam puluh delapan miliar"
+      },
+      "answer": 568000000000,
+      "payload": {
+        "options": [
+          578000000000,
+          658000000000,
+          567999999990,
+          568000000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0112",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tiga ratus delapan belas miliar delapan ratus dua puluh tiga juta"
+      },
+      "answer": 318823000000,
+      "payload": {
+        "options": [
+          328823000000,
+          138823000000,
+          318823000000,
+          31882300000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0117",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tiga ratus enam puluh lima miliar enam ratus sembilan belas juta"
+      },
+      "answer": 365619000000,
+      "payload": {
+        "options": [
+          365618999995,
+          365619000000,
+          635619000000,
+          375619000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0008",
+      "difficulty": 5,
+      "prompt": {
+        "text": "empat puluh lima miliar lima ratus tujuh puluh satu juta lima ratus enam belas ribu tujuh ratus tujuh puluh tiga"
+      },
+      "answer": 45571516773,
+      "payload": {
+        "options": [
+          45571516775,
+          54571516773,
+          45571516773,
+          46571516773
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0013",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sembilan puluh sembilan miliar tiga ratus lima puluh tujuh juta seratus delapan puluh tiga ribu sembilan ratus delapan puluh tujuh"
+      },
+      "answer": 199357183987,
+      "payload": {
+        "options": [
+          919357183987,
+          199357183987,
+          209357183987,
+          199357183989
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0018",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dua ratus empat puluh delapan miliar tiga ratus lima puluh dua juta seratus delapan puluh ribu tiga ratus lima puluh tiga"
+      },
+      "answer": 248352180353,
+      "payload": {
+        "options": [
+          248352180353,
+          428352180353,
+          258352180353,
+          238352180353
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0023",
+      "difficulty": 5,
+      "prompt": {
+        "text": "empat ratus enam puluh empat miliar empat ratus tiga puluh tujuh juta lima ratus dua puluh satu ribu dua ratus tujuh puluh enam"
+      },
+      "answer": 464437521276,
+      "payload": {
+        "options": [
+          464437521277,
+          464437521276,
+          474437521276,
+          644437521276
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan ratus delapan puluh lima miliar delapan ratus sembilan puluh lima juta tujuh ribu tujuh ratus tiga puluh tujuh"
+      },
+      "answer": 885895007737,
+      "payload": {
+        "options": [
+          895895007737,
+          858895007737,
+          885895007737,
+          885895007747
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dua ratus tiga miliar tiga ratus tujuh puluh juta seratus empat puluh sembilan ribu tiga puluh dua"
+      },
+      "answer": 203370149032,
+      "payload": {
+        "options": [
+          213370149032,
+          203370149042,
+          193370149032,
+          203370149032
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "sembilan ratus tiga puluh enam miliar enam ratus delapan puluh enam juta dua ratus dua puluh sembilan ribu empat puluh lima"
+      },
+      "answer": 936686229045,
+      "payload": {
+        "options": [
+          936686229050,
+          936686229045,
+          396686229045,
+          946686229045
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0042",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan puluh miliar empat ratus sembilan puluh sembilan juta tiga ratus lima puluh lima ribu lima ratus dua"
+      },
+      "answer": 80499355502,
+      "payload": {
+        "options": [
+          80499355502,
+          81499355502,
+          79499355502,
+          80499355492
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0046",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dua puluh tiga miliar tiga puluh satu juta seratus tiga puluh ribu dua ratus lima puluh tujuh"
+      },
+      "answer": 23031130257,
+      "payload": {
+        "options": [
+          23031130257,
+          23031130262,
+          32031130257,
+          24031130257
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0051",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dua ratus tiga miliar delapan ratus tujuh puluh empat juta sembilan ratus lima puluh sembilan ribu dua ratus lima puluh tujuh"
+      },
+      "answer": 203874959257,
+      "payload": {
+        "options": [
+          203874959259,
+          203874959257,
+          213874959257,
+          193874959257
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "empat ratus sembilan puluh dua miliar tujuh ratus sebelas juta empat ratus dua puluh delapan ribu lima ratus empat belas"
+      },
+      "answer": 492711428514,
+      "payload": {
+        "options": [
+          942711428514,
+          492711428515,
+          502711428514,
+          492711428514
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tiga belas miliar enam ratus tiga puluh satu juta dua ratus lima puluh sembilan ribu dua ratus lima puluh empat"
+      },
+      "answer": 13631259254,
+      "payload": {
+        "options": [
+          13631259254,
+          14631259254,
+          13631259244,
+          31631259254
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0064",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tiga ratus tiga puluh dua miliar empat puluh tiga juta tiga ratus tiga puluh sembilan ribu dua puluh delapan"
+      },
+      "answer": 332043339028,
+      "payload": {
+        "options": [
+          332043339038,
+          342043339028,
+          332043339028,
+          323043339028
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0069",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan ratus sembilan puluh satu miliar seratus dua puluh juta dua ratus lima puluh satu ribu tujuh puluh dua"
+      },
+      "answer": 891120251072,
+      "payload": {
+        "options": [
+          891120251072,
+          981120251072,
+          891120251070,
+          901120251072
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0074",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tujuh ratus dua puluh miliar lima juta dua ratus dua ribu enam ratus dua puluh delapan"
+      },
+      "answer": 720005202628,
+      "payload": {
+        "options": [
+          720005202628,
+          730005202628,
+          720005202626,
+          270005202628
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0079",
+      "difficulty": 5,
+      "prompt": {
+        "text": "enam ratus tiga miliar delapan ratus tiga puluh sembilan juta seratus empat puluh tiga ribu lima puluh satu"
+      },
+      "answer": 603839143051,
+      "payload": {
+        "options": [
+          603839143051,
+          593839143051,
+          613839143051,
+          603839143049
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0084",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sembilan puluh dua miliar empat ratus sembilan puluh sembilan juta dua ratus sembilan ribu tiga ratus empat"
+      },
+      "answer": 192499209304,
+      "payload": {
+        "options": [
+          202499209304,
+          192499209304,
+          912499209304,
+          192499209302
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0089",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tiga ratus empat miliar sembilan ratus lima puluh sembilan juta seratus tiga puluh dua ribu delapan ratus sembilan puluh sembilan"
+      },
+      "answer": 304959132899,
+      "payload": {
+        "options": [
+          314959132899,
+          294959132899,
+          304959132889,
+          304959132899
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0094",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan puluh empat miliar seratus sebelas juta sembilan puluh lima ribu delapan ratus dua puluh tujuh"
+      },
+      "answer": 84111095827,
+      "payload": {
+        "options": [
+          85111095827,
+          48111095827,
+          84111095830,
+          84111095827
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0099",
+      "difficulty": 5,
+      "prompt": {
+        "text": "sembilan ratus lima puluh miliar dua ratus sepuluh juta seratus dua puluh lima ribu delapan ratus delapan puluh satu"
+      },
+      "answer": 950210125881,
+      "payload": {
+        "options": [
+          590210125881,
+          950210125880,
+          950210125881,
+          960210125881
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0104",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dua ratus sembilan puluh delapan miliar empat puluh delapan juta delapan ratus lima puluh lima ribu tujuh ratus tujuh puluh tiga"
+      },
+      "answer": 298048855773,
+      "payload": {
+        "options": [
+          308048855773,
+          298048855773,
+          928048855773,
+          2980488557730
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0109",
+      "difficulty": 5,
+      "prompt": {
+        "text": "empat ratus tujuh puluh dua miliar delapan ratus tujuh puluh dua juta sembilan puluh ribu seratus sembilan puluh satu"
+      },
+      "answer": 472872090191,
+      "payload": {
+        "options": [
+          472872090193,
+          472872090191,
+          742872090191,
+          482872090191
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0113",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tujuh ratus delapan puluh lima miliar tiga ratus tujuh puluh satu juta empat ratus delapan puluh empat ribu enam ratus empat puluh tujuh"
+      },
+      "answer": 785371484647,
+      "payload": {
+        "options": [
+          785371484647,
+          785371484642,
+          795371484647,
+          875371484647
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.smp.0118",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan ratus dua puluh satu miliar enam ratus juta enam ratus sembilan puluh dua ribu enam ratus lima puluh empat"
+      },
+      "answer": 821600692654,
+      "payload": {
+        "options": [
+          821600692644,
+          831600692654,
+          821600692654,
+          281600692654
+        ]
+      }
+    }
+  ]
+}

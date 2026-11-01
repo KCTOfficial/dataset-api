@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "gameId": "lengkapi-kata",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "FILL_GAP",
+  "questions": [
+    {
+      "id": "lengkapi-kata.sd-c.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "KOM_U_ER",
+        "hint": "Alat elektronik untuk mengetik dan mengolah data",
+        "emoji": "💻"
+      },
+      "answer": "KOMPUTER"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "TUM_UH_N",
+        "hint": "Makhluk hidup yang berakar, berbatang, dan berdaun"
+      },
+      "answer": "TUMBUHAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0003",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PAH_A_AN",
+        "hint": "Orang yang berjasa membela bangsa dan negara"
+      },
+      "answer": "PAHLAWAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "BEN_E_A",
+        "hint": "Kain berwarna yang dikibarkan saat upacara"
+      },
+      "answer": "BENDERA"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "JAN_UN_",
+        "hint": "Organ yang memompa darah ke seluruh tubuh"
+      },
+      "answer": "JANTUNG"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "MA_NE_",
+        "hint": "Benda yang dapat menarik besi",
+        "emoji": "🧲"
+      },
+      "answer": "MAGNET"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "CAH_Y_",
+        "hint": "Sinar yang membuat benda dapat terlihat"
+      },
+      "answer": "CAHAYA"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "SAM_D_A",
+        "hint": "Lautan yang sangat luas",
+        "emoji": "🌊"
+      },
+      "answer": "SAMUDRA"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "KOMP_S",
+        "hint": "Alat penunjuk arah mata angin",
+        "emoji": "🧭"
+      },
+      "answer": "KOMPAS"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "SEG_TI_A",
+        "hint": "Bangun datar yang memiliki tiga sisi",
+        "emoji": "🔺"
+      },
+      "answer": "SEGITIGA"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PER_EG_",
+        "hint": "Bangun datar dengan empat sisi sama panjang"
+      },
+      "answer": "PERSEGI"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "KEB_RS_HAN",
+        "hint": "Keadaan bebas dari kotoran dan sampah"
+      },
+      "answer": "KEBERSIHAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PEL_BU_AN",
+        "hint": "Tempat kapal bersandar dan bongkar muat"
+      },
+      "answer": "PELABUHAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "KER_NG_A",
+        "hint": "Susunan tulang yang menopang tubuh"
+      },
+      "answer": "KERANGKA"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "L_MBU_G",
+        "hint": "Organ pencernaan tempat makanan dihancurkan"
+      },
+      "answer": "LAMBUNG"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ENE_G_",
+        "hint": "Kemampuan untuk melakukan kerja atau usaha",
+        "emoji": "⚡"
+      },
+      "answer": "ENERGI"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "TER_OM_TER",
+        "hint": "Alat untuk mengukur suhu",
+        "emoji": "🌡️"
+      },
+      "answer": "TERMOMETER"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PEC_HA_",
+        "hint": "Bilangan seperti setengah atau seperempat"
+      },
+      "answer": "PECAHAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PER_AL_AN",
+        "hint": "Operasi hitung berupa penjumlahan berulang"
+      },
+      "answer": "PERKALIAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "KE_UJ_RAN",
+        "hint": "Sikap selalu berkata dan berbuat benar"
+      },
+      "answer": "KEJUJURAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PER_ATU_N",
+        "hint": "Keadaan bersatu; disebut dalam sila ketiga Pancasila"
+      },
+      "answer": "PERSATUAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "PRO_IN_I",
+        "hint": "Wilayah yang dipimpin oleh seorang gubernur"
+      },
+      "answer": "PROVINSI"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "L_N_KU_GAN",
+        "hint": "Segala sesuatu di sekitar tempat kita hidup"
+      },
+      "answer": "LINGKUNGAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "M_S_AW_RAH",
+        "hint": "Berunding bersama untuk mencapai mufakat"
+      },
+      "answer": "MUSYAWARAH"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "P_M_EK_AN",
+        "hint": "Perubahan wujud zat cair menjadi padat"
+      },
+      "answer": "PEMBEKUAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "K_C_MA_AN",
+        "hint": "Wilayah yang dipimpin oleh seorang camat"
+      },
+      "answer": "KECAMATAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "P_N_U_PAN",
+        "hint": "Perubahan wujud zat cair menjadi gas karena panas"
+      },
+      "answer": "PENGUAPAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "K_P_L_U_N",
+        "hint": "Gugusan banyak pulau yang berdekatan"
+      },
+      "answer": "KEPULAUAN"
+    },
+    {
+      "id": "lengkapi-kata.sd-c.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "P_R_AP_S_N",
+        "hint": "Proses menghirup dan mengembuskan udara"
+      },
+      "answer": "PERNAPASAN"
+    }
+  ]
+}

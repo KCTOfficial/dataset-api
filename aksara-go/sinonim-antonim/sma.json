@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "gameId": "sinonim-antonim",
+  "segment": "sma",
+  "jenjang": "SMA",
+  "interaction": "MATCH_PAIRS",
+  "questions": [
+    {
+      "id": "sinonim-antonim.sma.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "konkret"
+      },
+      "answer": "abstrak",
+      "payload": {
+        "options": [
+          "rumit",
+          "abstrak",
+          "praktis",
+          "logis"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "pro"
+      },
+      "answer": "kontra",
+      "payload": {
+        "options": [
+          "kontra",
+          "opini",
+          "netral",
+          "kritik"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "signifikan"
+      },
+      "answer": "berarti",
+      "payload": {
+        "options": [
+          "efektif",
+          "relevan",
+          "berarti",
+          "spesifik"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "objektif"
+      },
+      "answer": "subjektif",
+      "payload": {
+        "options": [
+          "selektif",
+          "subjektif",
+          "kolektif",
+          "kreatif"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "surplus"
+      },
+      "answer": "defisit",
+      "payload": {
+        "options": [
+          "subsidi",
+          "investasi",
+          "defisit",
+          "inflasi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "implisit"
+      },
+      "answer": "eksplisit",
+      "payload": {
+        "options": [
+          "eksplisit",
+          "ekspresif",
+          "empiris",
+          "spesifik"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "esensial"
+      },
+      "answer": "mendasar",
+      "payload": {
+        "options": [
+          "mendasar",
+          "aktual",
+          "rasional",
+          "formal"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kredibel"
+      },
+      "answer": "tepercaya",
+      "payload": {
+        "options": [
+          "tepercaya",
+          "terkenal",
+          "terdidik",
+          "berwenang"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "relevan"
+      },
+      "answer": "berkaitan",
+      "payload": {
+        "options": [
+          "berkaitan",
+          "akurat",
+          "lengkap",
+          "terbaru"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kontradiksi"
+      },
+      "answer": "pertentangan",
+      "payload": {
+        "options": [
+          "pertentangan",
+          "perubahan",
+          "perbandingan",
+          "pernyataan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kolektif"
+      },
+      "answer": "individual",
+      "payload": {
+        "options": [
+          "aktual",
+          "normatif",
+          "kreatif",
+          "individual"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "makro"
+      },
+      "answer": "mikro",
+      "payload": {
+        "options": [
+          "total",
+          "mega",
+          "mikro",
+          "sentral"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "rasional"
+      },
+      "answer": "irasional",
+      "payload": {
+        "options": [
+          "tradisional",
+          "nasional",
+          "fungsional",
+          "irasional"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sentralisasi"
+      },
+      "answer": "desentralisasi",
+      "payload": {
+        "options": [
+          "globalisasi",
+          "desentralisasi",
+          "modernisasi",
+          "urbanisasi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "akurat"
+      },
+      "answer": "tepat",
+      "payload": {
+        "options": [
+          "cepat",
+          "tepat",
+          "lengkap",
+          "terbaru"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "hipotesis"
+      },
+      "answer": "dugaan",
+      "payload": {
+        "options": [
+          "bukti",
+          "pertanyaan",
+          "kesimpulan",
+          "dugaan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kompeten"
+      },
+      "answer": "cakap",
+      "payload": {
+        "options": [
+          "populer",
+          "disiplin",
+          "cakap",
+          "loyal"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "eksplisit"
+      },
+      "answer": "tersurat",
+      "payload": {
+        "options": [
+          "tersurat",
+          "resmi",
+          "ringkas",
+          "lengkap"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "universal"
+      },
+      "answer": "umum",
+      "payload": {
+        "options": [
+          "formal",
+          "modern",
+          "umum",
+          "abstrak"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0020",
+      "difficulty": 4,
+      "prompt": {
+        "text": "progresif"
+      },
+      "answer": "regresif",
+      "payload": {
+        "options": [
+          "intensif",
+          "agresif",
+          "regresif",
+          "efektif"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0021",
+      "difficulty": 4,
+      "prompt": {
+        "text": "heterogen"
+      },
+      "answer": "homogen",
+      "payload": {
+        "options": [
+          "dinamis",
+          "unik",
+          "homogen",
+          "modern"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "apatis"
+      },
+      "answer": "peduli",
+      "payload": {
+        "options": [
+          "sabar",
+          "peduli",
+          "tegas",
+          "tenang"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "fiktif"
+      },
+      "answer": "rekaan",
+      "payload": {
+        "options": [
+          "sederhana",
+          "kuno",
+          "rekaan",
+          "ilmiah"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "krusial"
+      },
+      "answer": "genting",
+      "payload": {
+        "options": [
+          "mahal",
+          "rumit",
+          "genting",
+          "wajar"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "inovasi"
+      },
+      "answer": "pembaruan",
+      "payload": {
+        "options": [
+          "pembaruan",
+          "peraturan",
+          "pelatihan",
+          "perjanjian"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0026",
+      "difficulty": 5,
+      "prompt": {
+        "text": "inferior"
+      },
+      "answer": "superior",
+      "payload": {
+        "options": [
+          "posterior",
+          "superior",
+          "interior",
+          "eksterior"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0027",
+      "difficulty": 5,
+      "prompt": {
+        "text": "deduktif"
+      },
+      "answer": "induktif",
+      "payload": {
+        "options": [
+          "produktif",
+          "kognitif",
+          "konduktif",
+          "induktif"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sma.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "pragmatis"
+      },
+      "answer": "praktis",
+      "payload": {
+        "options": [
+          "sistematis",
+          "praktis",
+          "dramatis",
+          "dinamis"
+        ],
+        "relation": "sinonim"
+      }
+    }
+  ]
+}

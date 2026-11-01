@@ -1,0 +1,1929 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-ke-angka",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "kata-ke-angka.sd-c.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua puluh tujuh ribu"
+      },
+      "answer": 27000,
+      "payload": {
+        "options": [
+          72000,
+          26990,
+          28000,
+          27000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0009",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan puluh empat ribu"
+      },
+      "answer": 94000,
+      "payload": {
+        "options": [
+          49000,
+          94005,
+          95000,
+          94000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0014",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima puluh enam ribu"
+      },
+      "answer": 56000,
+      "payload": {
+        "options": [
+          55999,
+          56000,
+          65000,
+          57000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0019",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan puluh tiga ribu"
+      },
+      "answer": 93000,
+      "payload": {
+        "options": [
+          93000,
+          39000,
+          94000,
+          92995
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0024",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima puluh delapan ribu"
+      },
+      "answer": 58000,
+      "payload": {
+        "options": [
+          5800,
+          59000,
+          58000,
+          85000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan puluh delapan ribu"
+      },
+      "answer": 98000,
+      "payload": {
+        "options": [
+          99000,
+          97000,
+          98000,
+          89000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam puluh lima ribu"
+      },
+      "answer": 65000,
+      "payload": {
+        "options": [
+          64997,
+          65000,
+          66000,
+          56000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0038",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua puluh dua ribu"
+      },
+      "answer": 22000,
+      "payload": {
+        "options": [
+          23000,
+          20200,
+          22000,
+          22001
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0043",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua puluh sembilan ribu"
+      },
+      "answer": 29000,
+      "payload": {
+        "options": [
+          30000,
+          29003,
+          29000,
+          92000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0047",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima puluh tiga ribu"
+      },
+      "answer": 53000,
+      "payload": {
+        "options": [
+          35000,
+          53010,
+          54000,
+          53000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0052",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam puluh sembilan ribu"
+      },
+      "answer": 69000,
+      "payload": {
+        "options": [
+          96000,
+          69000,
+          69002,
+          70000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0057",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam puluh enam ribu"
+      },
+      "answer": 66000,
+      "payload": {
+        "options": [
+          66000,
+          660000,
+          67000,
+          60600
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0062",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan puluh sembilan ribu"
+      },
+      "answer": 99000,
+      "payload": {
+        "options": [
+          99000,
+          90900,
+          100000,
+          98997
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0071",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima puluh lima ribu"
+      },
+      "answer": 55000,
+      "payload": {
+        "options": [
+          55005,
+          56000,
+          50500,
+          55000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0076",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat puluh enam ribu"
+      },
+      "answer": 46000,
+      "payload": {
+        "options": [
+          64000,
+          46000,
+          47000,
+          46003
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0080",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat puluh tiga ribu"
+      },
+      "answer": 43000,
+      "payload": {
+        "options": [
+          43003,
+          44000,
+          34000,
+          43000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0084",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat puluh lima ribu"
+      },
+      "answer": 45000,
+      "payload": {
+        "options": [
+          54000,
+          45005,
+          46000,
+          45000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0088",
+      "difficulty": 1,
+      "prompt": {
+        "text": "enam puluh empat ribu"
+      },
+      "answer": 64000,
+      "payload": {
+        "options": [
+          65000,
+          46000,
+          64000,
+          64002
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0092",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lima puluh tujuh ribu"
+      },
+      "answer": 57000,
+      "payload": {
+        "options": [
+          57000,
+          58000,
+          75000,
+          56000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0096",
+      "difficulty": 1,
+      "prompt": {
+        "text": "dua belas ribu"
+      },
+      "answer": 12000,
+      "payload": {
+        "options": [
+          21000,
+          11998,
+          12000,
+          13000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "tiga puluh delapan ribu"
+      },
+      "answer": 38000,
+      "payload": {
+        "options": [
+          38003,
+          38000,
+          39000,
+          83000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0109",
+      "difficulty": 1,
+      "prompt": {
+        "text": "empat puluh delapan ribu"
+      },
+      "answer": 48000,
+      "payload": {
+        "options": [
+          84000,
+          49000,
+          48002,
+          48000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0114",
+      "difficulty": 1,
+      "prompt": {
+        "text": "sembilan belas ribu"
+      },
+      "answer": 19000,
+      "payload": {
+        "options": [
+          20000,
+          19000,
+          19010,
+          91000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0118",
+      "difficulty": 1,
+      "prompt": {
+        "text": "delapan puluh ribu"
+      },
+      "answer": 80000,
+      "payload": {
+        "options": [
+          80000,
+          80002,
+          81000,
+          79000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sebelas ribu"
+      },
+      "answer": 11000,
+      "payload": {
+        "options": [
+          11000,
+          12000,
+          10999,
+          10100
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam belas ribu tiga ratus enam puluh dua"
+      },
+      "answer": 16362,
+      "payload": {
+        "options": [
+          61362,
+          16359,
+          17362,
+          16362
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua belas ribu dua ratus sembilan puluh tiga"
+      },
+      "answer": 12293,
+      "payload": {
+        "options": [
+          12292,
+          12293,
+          21293,
+          13293
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tujuh belas ribu tiga ratus enam puluh"
+      },
+      "answer": 17360,
+      "payload": {
+        "options": [
+          17365,
+          17360,
+          18360,
+          71360
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat belas ribu enam ratus sembilan puluh tiga"
+      },
+      "answer": 14693,
+      "payload": {
+        "options": [
+          15693,
+          14691,
+          14693,
+          41693
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0025",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sembilan belas ribu seratus enam puluh empat"
+      },
+      "answer": 19164,
+      "payload": {
+        "options": [
+          20164,
+          191640,
+          19164,
+          91164
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sebelas ribu sembilan"
+      },
+      "answer": 11009,
+      "payload": {
+        "options": [
+          10109,
+          11006,
+          11009,
+          12009
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0034",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam belas ribu tujuh ratus empat puluh tujuh"
+      },
+      "answer": 16747,
+      "payload": {
+        "options": [
+          15747,
+          17747,
+          16747,
+          61747
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0039",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam belas ribu sembilan ratus tujuh puluh delapan"
+      },
+      "answer": 16978,
+      "payload": {
+        "options": [
+          61978,
+          16983,
+          17978,
+          16978
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0044",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat belas ribu dua ratus sembilan puluh satu"
+      },
+      "answer": 14291,
+      "payload": {
+        "options": [
+          14289,
+          14291,
+          15291,
+          41291
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0048",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sembilan belas ribu lima ratus enam puluh satu"
+      },
+      "answer": 19561,
+      "payload": {
+        "options": [
+          91561,
+          19561,
+          18561,
+          20561
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0053",
+      "difficulty": 2,
+      "prompt": {
+        "text": "lima belas ribu delapan ratus dua puluh tujuh"
+      },
+      "answer": 15827,
+      "payload": {
+        "options": [
+          16827,
+          15830,
+          51827,
+          15827
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0058",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan belas ribu seratus delapan puluh enam"
+      },
+      "answer": 18186,
+      "payload": {
+        "options": [
+          18186,
+          18187,
+          81186,
+          19186
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0063",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua belas ribu lima ratus tujuh puluh enam"
+      },
+      "answer": 12576,
+      "payload": {
+        "options": [
+          13576,
+          12578,
+          21576,
+          12576
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0067",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tiga belas ribu tiga ratus lima puluh satu"
+      },
+      "answer": 13351,
+      "payload": {
+        "options": [
+          13351,
+          31351,
+          13356,
+          14351
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0072",
+      "difficulty": 2,
+      "prompt": {
+        "text": "empat belas ribu delapan ratus empat puluh tiga"
+      },
+      "answer": 14843,
+      "payload": {
+        "options": [
+          14843,
+          15843,
+          41843,
+          13843
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tujuh belas ribu empat ratus sembilan puluh dua"
+      },
+      "answer": 17492,
+      "payload": {
+        "options": [
+          71492,
+          18492,
+          17491,
+          17492
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0085",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan belas ribu seratus satu"
+      },
+      "answer": 18101,
+      "payload": {
+        "options": [
+          19101,
+          18101,
+          81101,
+          18091
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0089",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tiga belas ribu empat ratus enam puluh tiga"
+      },
+      "answer": 13463,
+      "payload": {
+        "options": [
+          13462,
+          13463,
+          31463,
+          14463
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0093",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua belas ribu tiga ratus tiga puluh lima"
+      },
+      "answer": 12335,
+      "payload": {
+        "options": [
+          12338,
+          21335,
+          13335,
+          12335
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0097",
+      "difficulty": 2,
+      "prompt": {
+        "text": "enam belas ribu tiga ratus sepuluh"
+      },
+      "answer": 16310,
+      "payload": {
+        "options": [
+          16310,
+          17310,
+          61310,
+          16315
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0101",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua belas ribu sembilan ratus lima puluh tujuh"
+      },
+      "answer": 12957,
+      "payload": {
+        "options": [
+          129570,
+          21957,
+          13957,
+          12957
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0105",
+      "difficulty": 2,
+      "prompt": {
+        "text": "delapan belas ribu delapan ratus delapan puluh enam"
+      },
+      "answer": 18886,
+      "payload": {
+        "options": [
+          81886,
+          18876,
+          18886,
+          19886
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0110",
+      "difficulty": 2,
+      "prompt": {
+        "text": "dua belas ribu seratus dua belas"
+      },
+      "answer": 12112,
+      "payload": {
+        "options": [
+          12112,
+          12114,
+          21112,
+          13112
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0115",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sebelas ribu delapan ratus sebelas"
+      },
+      "answer": 11811,
+      "payload": {
+        "options": [
+          12811,
+          11811,
+          11801,
+          18111
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0119",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sembilan belas ribu dua ratus delapan belas"
+      },
+      "answer": 19218,
+      "payload": {
+        "options": [
+          91218,
+          19216,
+          20218,
+          19218
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0002",
+      "difficulty": 3,
+      "prompt": {
+        "text": "seratus ribu"
+      },
+      "answer": 100000,
+      "payload": {
+        "options": [
+          110000,
+          100000,
+          90000,
+          100002
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0006",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sembilan ratus enam puluh tiga ribu"
+      },
+      "answer": 963000,
+      "payload": {
+        "options": [
+          962990,
+          963000,
+          693000,
+          973000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tiga ratus tiga puluh satu ribu"
+      },
+      "answer": 331000,
+      "payload": {
+        "options": [
+          331000,
+          330995,
+          341000,
+          313000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tiga ratus dua puluh dua ribu"
+      },
+      "answer": 322000,
+      "payload": {
+        "options": [
+          3220000,
+          322000,
+          332000,
+          232000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "enam ratus sembilan puluh ribu"
+      },
+      "answer": 690000,
+      "payload": {
+        "options": [
+          700000,
+          69000,
+          690000,
+          960000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "enam ratus tiga ribu"
+      },
+      "answer": 603000,
+      "payload": {
+        "options": [
+          603000,
+          602997,
+          613000,
+          593000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus tujuh belas ribu"
+      },
+      "answer": 217000,
+      "payload": {
+        "options": [
+          217000,
+          216997,
+          127000,
+          227000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "lima ratus enam puluh tiga ribu"
+      },
+      "answer": 563000,
+      "payload": {
+        "options": [
+          563003,
+          653000,
+          573000,
+          563000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0040",
+      "difficulty": 3,
+      "prompt": {
+        "text": "enam ratus enam puluh enam ribu"
+      },
+      "answer": 666000,
+      "payload": {
+        "options": [
+          660600,
+          676000,
+          666000,
+          665998
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0045",
+      "difficulty": 3,
+      "prompt": {
+        "text": "seratus lima puluh enam ribu"
+      },
+      "answer": 156000,
+      "payload": {
+        "options": [
+          166000,
+          156000,
+          156003,
+          516000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0049",
+      "difficulty": 3,
+      "prompt": {
+        "text": "empat ratus delapan puluh delapan ribu"
+      },
+      "answer": 488000,
+      "payload": {
+        "options": [
+          487997,
+          498000,
+          848000,
+          488000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0054",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus sembilan puluh enam ribu"
+      },
+      "answer": 296000,
+      "payload": {
+        "options": [
+          286000,
+          296000,
+          306000,
+          926000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0059",
+      "difficulty": 3,
+      "prompt": {
+        "text": "delapan ratus tujuh belas ribu"
+      },
+      "answer": 817000,
+      "payload": {
+        "options": [
+          187000,
+          827000,
+          8170000,
+          817000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0064",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus lima ribu"
+      },
+      "answer": 205000,
+      "payload": {
+        "options": [
+          205000,
+          215000,
+          204990,
+          195000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0068",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tujuh ratus tujuh puluh enam ribu"
+      },
+      "answer": 776000,
+      "payload": {
+        "options": [
+          767000,
+          786000,
+          775990,
+          776000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "seratus tiga ribu"
+      },
+      "answer": 103000,
+      "payload": {
+        "options": [
+          103000,
+          93000,
+          113000,
+          103003
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0077",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tujuh ratus dua puluh delapan ribu"
+      },
+      "answer": 728000,
+      "payload": {
+        "options": [
+          728000,
+          738000,
+          278000,
+          727998
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "enam ratus tujuh puluh enam ribu"
+      },
+      "answer": 676000,
+      "payload": {
+        "options": [
+          766000,
+          67600,
+          676000,
+          686000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0086",
+      "difficulty": 3,
+      "prompt": {
+        "text": "delapan ratus delapan puluh enam ribu"
+      },
+      "answer": 886000,
+      "payload": {
+        "options": [
+          896000,
+          886000,
+          868000,
+          885995
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0090",
+      "difficulty": 3,
+      "prompt": {
+        "text": "delapan ratus dua puluh empat ribu"
+      },
+      "answer": 824000,
+      "payload": {
+        "options": [
+          824003,
+          284000,
+          824000,
+          834000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0094",
+      "difficulty": 3,
+      "prompt": {
+        "text": "seratus delapan ribu"
+      },
+      "answer": 108000,
+      "payload": {
+        "options": [
+          118000,
+          98000,
+          108000,
+          107990
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0098",
+      "difficulty": 3,
+      "prompt": {
+        "text": "delapan ratus tujuh puluh sembilan ribu"
+      },
+      "answer": 879000,
+      "payload": {
+        "options": [
+          878990,
+          879000,
+          889000,
+          789000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0102",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sembilan ratus tiga puluh dua ribu"
+      },
+      "answer": 932000,
+      "payload": {
+        "options": [
+          392000,
+          931998,
+          942000,
+          932000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0106",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus tiga puluh satu ribu"
+      },
+      "answer": 231000,
+      "payload": {
+        "options": [
+          241000,
+          321000,
+          231000,
+          221000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0111",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus tiga puluh tujuh ribu"
+      },
+      "answer": 237000,
+      "payload": {
+        "options": [
+          2370000,
+          237000,
+          327000,
+          247000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0116",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dua ratus lima puluh satu ribu"
+      },
+      "answer": 251000,
+      "payload": {
+        "options": [
+          251010,
+          261000,
+          251000,
+          521000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0120",
+      "difficulty": 3,
+      "prompt": {
+        "text": "lima ratus sebelas ribu"
+      },
+      "answer": 511000,
+      "payload": {
+        "options": [
+          510997,
+          521000,
+          151000,
+          511000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0007",
+      "difficulty": 4,
+      "prompt": {
+        "text": "empat ratus sepuluh ribu seratus tujuh puluh"
+      },
+      "answer": 410170,
+      "payload": {
+        "options": [
+          140170,
+          420170,
+          410170,
+          410167
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0012",
+      "difficulty": 4,
+      "prompt": {
+        "text": "empat ratus empat puluh satu ribu tiga ratus dua puluh enam"
+      },
+      "answer": 441326,
+      "payload": {
+        "options": [
+          441326,
+          451326,
+          441316,
+          414326
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0017",
+      "difficulty": 4,
+      "prompt": {
+        "text": "enam ratus empat belas ribu tiga ratus lima puluh tujuh"
+      },
+      "answer": 614357,
+      "payload": {
+        "options": [
+          624357,
+          614357,
+          614352,
+          164357
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tiga ratus empat puluh empat ribu empat ratus delapan puluh tujuh"
+      },
+      "answer": 344487,
+      "payload": {
+        "options": [
+          354487,
+          344477,
+          434487,
+          344487
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tujuh ratus tujuh puluh tiga ribu tujuh ratus tujuh belas"
+      },
+      "answer": 773717,
+      "payload": {
+        "options": [
+          773717,
+          783717,
+          763717,
+          737717
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan puluh tiga ribu seratus tiga puluh dua"
+      },
+      "answer": 93132,
+      "payload": {
+        "options": [
+          93142,
+          93132,
+          39132,
+          94132
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "empat ratus sebelas ribu enam ratus empat puluh satu"
+      },
+      "answer": 411641,
+      "payload": {
+        "options": [
+          421641,
+          411641,
+          141641,
+          4116410
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0041",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan ratus tujuh puluh enam ribu dua ratus lima puluh dua"
+      },
+      "answer": 976252,
+      "payload": {
+        "options": [
+          976257,
+          796252,
+          976252,
+          986252
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0046",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan ratus enam puluh satu ribu empat ratus delapan belas"
+      },
+      "answer": 961418,
+      "payload": {
+        "options": [
+          961417,
+          971418,
+          961418,
+          691418
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0050",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus empat puluh ribu enam ratus empat puluh sembilan"
+      },
+      "answer": 540649,
+      "payload": {
+        "options": [
+          550649,
+          540649,
+          450649,
+          540652
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0055",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus enam puluh tiga ribu dua ratus lima puluh"
+      },
+      "answer": 263250,
+      "payload": {
+        "options": [
+          273250,
+          263247,
+          263250,
+          623250
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0060",
+      "difficulty": 4,
+      "prompt": {
+        "text": "sembilan ratus tujuh puluh tujuh ribu seratus lima puluh"
+      },
+      "answer": 977150,
+      "payload": {
+        "options": [
+          797150,
+          977150,
+          987150,
+          977160
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0065",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus sembilan puluh delapan ribu delapan ratus sembilan puluh enam"
+      },
+      "answer": 298896,
+      "payload": {
+        "options": [
+          308896,
+          298896,
+          928896,
+          2988960
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0069",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tiga ratus empat puluh dua ribu empat ratus tujuh puluh tiga"
+      },
+      "answer": 342473,
+      "payload": {
+        "options": [
+          342483,
+          432473,
+          352473,
+          342473
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0074",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus lima puluh lima ribu empat ratus lima puluh delapan"
+      },
+      "answer": 855458,
+      "payload": {
+        "options": [
+          845458,
+          585458,
+          865458,
+          855458
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0078",
+      "difficulty": 4,
+      "prompt": {
+        "text": "seratus tujuh puluh dua ribu delapan ratus tiga puluh dua"
+      },
+      "answer": 172832,
+      "payload": {
+        "options": [
+          182832,
+          712832,
+          172832,
+          162832
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0083",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lima ratus delapan puluh enam ribu dua ratus lima puluh lima"
+      },
+      "answer": 586255,
+      "payload": {
+        "options": [
+          586254,
+          596255,
+          586255,
+          856255
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0087",
+      "difficulty": 4,
+      "prompt": {
+        "text": "empat ratus enam puluh ribu tiga ratus sembilan puluh sembilan"
+      },
+      "answer": 460399,
+      "payload": {
+        "options": [
+          460399,
+          470399,
+          640399,
+          460397
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0091",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tujuh ratus enam puluh sembilan ribu enam ratus tiga puluh empat"
+      },
+      "answer": 769634,
+      "payload": {
+        "options": [
+          779634,
+          679634,
+          769634,
+          769633
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0095",
+      "difficulty": 4,
+      "prompt": {
+        "text": "seratus tiga puluh delapan ribu sembilan ratus dua puluh dua"
+      },
+      "answer": 138922,
+      "payload": {
+        "options": [
+          138922,
+          1389220,
+          318922,
+          148922
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0099",
+      "difficulty": 4,
+      "prompt": {
+        "text": "enam ratus sepuluh ribu seratus empat puluh satu"
+      },
+      "answer": 610141,
+      "payload": {
+        "options": [
+          160141,
+          620141,
+          610146,
+          610141
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0103",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dua ratus sembilan puluh delapan ribu sembilan ratus lima puluh enam"
+      },
+      "answer": 298956,
+      "payload": {
+        "options": [
+          298953,
+          308956,
+          298956,
+          928956
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0107",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus tiga puluh dua ribu empat ratus tiga puluh empat"
+      },
+      "answer": 832434,
+      "payload": {
+        "options": [
+          832434,
+          382434,
+          832439,
+          842434
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0112",
+      "difficulty": 4,
+      "prompt": {
+        "text": "delapan ratus tujuh puluh empat ribu tujuh ratus delapan puluh"
+      },
+      "answer": 874780,
+      "payload": {
+        "options": [
+          874775,
+          884780,
+          784780,
+          874780
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0117",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tujuh ratus sembilan ribu seratus tiga puluh satu"
+      },
+      "answer": 709131,
+      "payload": {
+        "options": [
+          719131,
+          699131,
+          709131,
+          709133
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0003",
+      "difficulty": 5,
+      "prompt": {
+        "text": "satu juta"
+      },
+      "answer": 1000000,
+      "payload": {
+        "options": [
+          900000,
+          1000002,
+          1100000,
+          1000000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0008",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus satu ribu seratus enam puluh"
+      },
+      "answer": 101160,
+      "payload": {
+        "options": [
+          101160,
+          91160,
+          101163,
+          111160
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0013",
+      "difficulty": 5,
+      "prompt": {
+        "text": "lima ratus dua ribu"
+      },
+      "answer": 502000,
+      "payload": {
+        "options": [
+          502002,
+          492000,
+          512000,
+          502000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0018",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus satu ribu tujuh ratus enam puluh"
+      },
+      "answer": 101760,
+      "payload": {
+        "options": [
+          101761,
+          101760,
+          91760,
+          111760
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0023",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sepuluh ribu lima belas"
+      },
+      "answer": 110015,
+      "payload": {
+        "options": [
+          110025,
+          110015,
+          120015,
+          101015
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sepuluh ribu empat belas"
+      },
+      "answer": 110014,
+      "payload": {
+        "options": [
+          120014,
+          110014,
+          110011,
+          101014
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus ribu tujuh ratus delapan puluh enam"
+      },
+      "answer": 100786,
+      "payload": {
+        "options": [
+          100789,
+          90786,
+          100786,
+          110786
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0042",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus satu ribu seratus tujuh puluh"
+      },
+      "answer": 101170,
+      "payload": {
+        "options": [
+          111170,
+          91170,
+          101170,
+          101172
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0051",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus satu ribu sembilan ratus dua puluh"
+      },
+      "answer": 101920,
+      "payload": {
+        "options": [
+          101920,
+          111920,
+          1019200,
+          91920
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0056",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sepuluh ribu tiga belas"
+      },
+      "answer": 110013,
+      "payload": {
+        "options": [
+          110010,
+          120013,
+          101013,
+          110013
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0061",
+      "difficulty": 5,
+      "prompt": {
+        "text": "lima ratus sembilan ribu"
+      },
+      "answer": 509000,
+      "payload": {
+        "options": [
+          499000,
+          508997,
+          509000,
+          519000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0066",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus enam ribu"
+      },
+      "answer": 106000,
+      "payload": {
+        "options": [
+          116000,
+          96000,
+          105995,
+          106000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0070",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus ribu delapan ratus tiga belas"
+      },
+      "answer": 100813,
+      "payload": {
+        "options": [
+          100823,
+          90813,
+          110813,
+          100813
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus satu ribu tujuh ratus empat puluh"
+      },
+      "answer": 101740,
+      "payload": {
+        "options": [
+          101740,
+          10174,
+          111740,
+          91740
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0079",
+      "difficulty": 5,
+      "prompt": {
+        "text": "tujuh ratus satu ribu"
+      },
+      "answer": 701000,
+      "payload": {
+        "options": [
+          701001,
+          701000,
+          711000,
+          691000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0104",
+      "difficulty": 5,
+      "prompt": {
+        "text": "delapan ratus empat ribu"
+      },
+      "answer": 804000,
+      "payload": {
+        "options": [
+          804000,
+          814000,
+          794000,
+          804001
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0108",
+      "difficulty": 5,
+      "prompt": {
+        "text": "sembilan ratus delapan ribu"
+      },
+      "answer": 908000,
+      "payload": {
+        "options": [
+          898000,
+          918000,
+          908001,
+          908000
+        ]
+      }
+    },
+    {
+      "id": "kata-ke-angka.sd-c.0113",
+      "difficulty": 5,
+      "prompt": {
+        "text": "seratus sepuluh ribu sembilan belas"
+      },
+      "answer": 110019,
+      "payload": {
+        "options": [
+          101019,
+          110019,
+          1100190,
+          120019
+        ]
+      }
+    }
+  ]
+}

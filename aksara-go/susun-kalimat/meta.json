@@ -1,0 +1,16 @@
+{
+  "gameId": "susun-kalimat",
+  "title": "Susun Kalimat",
+  "description": "Susun kata-kata menjadi kalimat yang benar.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "TILE_BANK",
+  "instruction": "Susun kata menjadi kalimat!",
+  "emoji": "🧾",
+  "colorToken": "purple",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "gameId": "aksara-nusantara",
+  "title": "Aksara Nusantara",
+  "description": "Kenali aksara Jawa dan bacaannya dalam huruf Latin.",
+  "category": "budaya",
+  "contentKind": "curated",
+  "interaction": "MULTI_CHOICE",
+  "instruction": "Bagaimana cara membacanya?",
+  "emoji": "ꦲ",
+  "colorToken": "magenta",
+  "segments": [
+    "sd-b",
+    "sd-c",
+    "smp"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "gameId": "kata-ke-angka",
+  "title": "Kata ke Angka",
+  "description": "Ubah kata bilangan menjadi angka.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "NUMPAD",
+  "instruction": "Angka berapakah ini?",
+  "emoji": "🔤",
+  "colorToken": "yellow",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp"
+  ]
+}

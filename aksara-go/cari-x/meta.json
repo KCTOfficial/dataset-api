@@ -1,0 +1,17 @@
+{
+  "gameId": "cari-x",
+  "title": "Cari X",
+  "description": "Temukan nilai yang belum diketahui dalam persamaan.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "NUMPAD",
+  "instruction": "Berapa nilai yang dicari?",
+  "emoji": "🔍",
+  "colorToken": "magenta",
+  "segments": [
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

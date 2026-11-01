@@ -1,0 +1,1929 @@
+{
+  "schemaVersion": 1,
+  "gameId": "cari-x",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "cari-x.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 4 = 164"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          41,
+          51,
+          46,
+          42
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 6 = 192"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          33,
+          34,
+          32,
+          30
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 10 = 440"
+      },
+      "answer": 44,
+      "payload": {
+        "options": [
+          49,
+          43,
+          44,
+          42
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 6 = 30"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          8,
+          4,
+          5,
+          2
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0020",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 5 = 115"
+      },
+      "answer": 23,
+      "payload": {
+        "options": [
+          13,
+          25,
+          21,
+          23
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0025",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 2 = 86"
+      },
+      "answer": 43,
+      "payload": {
+        "options": [
+          43,
+          44,
+          46,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0030",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 12 = 72"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          6,
+          16,
+          11,
+          3
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0035",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 8 = 256"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          34,
+          32,
+          27,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0040",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 12 = 60"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          10,
+          2,
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0045",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 7 = 287"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          40,
+          41,
+          46,
+          51
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0050",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 12 = 240"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          20,
+          19,
+          30,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0055",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 10 = 210"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          31,
+          21,
+          26,
+          16
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0060",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 4 = 136"
+      },
+      "answer": 34,
+      "payload": {
+        "options": [
+          35,
+          39,
+          44,
+          34
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0069",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 5 = 75"
+      },
+      "answer": 15,
+      "payload": {
+        "options": [
+          16,
+          20,
+          14,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0074",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 2 = 28"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          13,
+          14,
+          15,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0079",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 8 = 368"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          49,
+          46,
+          48,
+          41
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0084",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 11 = 429"
+      },
+      "answer": 39,
+      "payload": {
+        "options": [
+          40,
+          41,
+          49,
+          39
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0089",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 6 = 228"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          38,
+          35,
+          43,
+          40
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0094",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 3 = 24"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          13,
+          10,
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0099",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 2 = 30"
+      },
+      "answer": 15,
+      "payload": {
+        "options": [
+          14,
+          16,
+          10,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0104",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 7 = 168"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          19,
+          22,
+          26,
+          24
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0109",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 6 = 240"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          39,
+          40,
+          50,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0114",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 7 = 140"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          19,
+          21,
+          20,
+          18
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0119",
+      "difficulty": 1,
+      "prompt": {
+        "text": "? × 2 = 38"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          14,
+          29,
+          22,
+          19
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 7 + 5 = 341"
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          38,
+          46,
+          43,
+          48
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 11 + 28 = 182"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          24,
+          14,
+          17,
+          19
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 11 + 17 = 127"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          5,
+          10,
+          13,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 12 + 4 = 304"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          20,
+          22,
+          25,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 8 + 29 = 333"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          28,
+          48,
+          38,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 1 = 141"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          35,
+          45,
+          25,
+          34
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0031",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 5 = 13"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          2,
+          1,
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0036",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 11 + 21 = 527"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          48,
+          49,
+          46,
+          45
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0041",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 11 + 18 = 513"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          45,
+          44,
+          50,
+          46
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0046",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 8 + 21 = 173"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          9,
+          29,
+          19,
+          24
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0051",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 9 + 9 = 126"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          10,
+          13,
+          16,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0056",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 12 + 17 = 473"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          33,
+          39,
+          38,
+          28
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0061",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 9 = 77"
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          17,
+          27,
+          12,
+          14
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0065",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 10 = 174"
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          38,
+          41,
+          43,
+          46
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0070",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 21 = 61"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          7,
+          10,
+          12,
+          0
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0075",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 6 + 27 = 135"
+      },
+      "answer": 18,
+      "payload": {
+        "options": [
+          19,
+          18,
+          21,
+          17
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0080",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 2 + 13 = 15"
+      },
+      "answer": 1,
+      "payload": {
+        "options": [
+          1,
+          4,
+          0,
+          3
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0085",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 7 + 13 = 83"
+      },
+      "answer": 10,
+      "payload": {
+        "options": [
+          20,
+          7,
+          8,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0090",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 10 + 19 = 459"
+      },
+      "answer": 44,
+      "payload": {
+        "options": [
+          44,
+          39,
+          41,
+          47
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0095",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 8 + 8 = 48"
+      },
+      "answer": 5,
+      "payload": {
+        "options": [
+          0,
+          5,
+          6,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0100",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 24 = 144"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          30,
+          40,
+          27,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0105",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 4 + 9 = 161"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          33,
+          41,
+          40,
+          38
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0110",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 3 + 1 = 28"
+      },
+      "answer": 9,
+      "payload": {
+        "options": [
+          7,
+          12,
+          6,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0115",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 9 + 1 = 190"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          21,
+          22,
+          23,
+          20
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0120",
+      "difficulty": 2,
+      "prompt": {
+        "text": "? × 10 + 16 = 476"
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          45,
+          41,
+          46,
+          48
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "5 × ? − 7 = 78"
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          17,
+          19,
+          14,
+          18
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "12 × ? − 20 = 436"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          28,
+          43,
+          38,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "8 × ? − 17 = 151"
+      },
+      "answer": 21,
+      "payload": {
+        "options": [
+          21,
+          22,
+          16,
+          11
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "8 × ? − 19 = 301"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          40,
+          50,
+          37,
+          42
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4 × ? − 18 = 90"
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          24,
+          27,
+          26,
+          25
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0032",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3 × ? − 20 = 100"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          50,
+          37,
+          40,
+          42
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0037",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6 × ? − 26 = 262"
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          48,
+          46,
+          43,
+          50
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "9 × ? − 24 = 93"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          11,
+          18,
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0047",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6 × ? − 24 = 246"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          45,
+          44,
+          35,
+          55
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0052",
+      "difficulty": 3,
+      "prompt": {
+        "text": "11 × ? − 5 = 17"
+      },
+      "answer": 2,
+      "payload": {
+        "options": [
+          12,
+          7,
+          4,
+          2
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0057",
+      "difficulty": 3,
+      "prompt": {
+        "text": "6 × ? − 20 = 130"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          35,
+          20,
+          25,
+          30
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0062",
+      "difficulty": 3,
+      "prompt": {
+        "text": "8 × ? − 16 = 184"
+      },
+      "answer": 25,
+      "payload": {
+        "options": [
+          35,
+          20,
+          25,
+          23
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0066",
+      "difficulty": 3,
+      "prompt": {
+        "text": "9 × ? − 13 = 329"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          41,
+          38,
+          35,
+          33
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0071",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4 × ? − 8 = 124"
+      },
+      "answer": 33,
+      "payload": {
+        "options": [
+          33,
+          38,
+          35,
+          43
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0076",
+      "difficulty": 3,
+      "prompt": {
+        "text": "5 × ? − 30 = 125"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          31,
+          26,
+          34,
+          32
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0081",
+      "difficulty": 3,
+      "prompt": {
+        "text": "5 × ? − 20 = 125"
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          31,
+          29,
+          39,
+          24
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0086",
+      "difficulty": 3,
+      "prompt": {
+        "text": "8 × ? − 21 = 67"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          10,
+          6,
+          11,
+          21
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0091",
+      "difficulty": 3,
+      "prompt": {
+        "text": "5 × ? − 28 = 217"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          49,
+          48,
+          39,
+          47
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0096",
+      "difficulty": 3,
+      "prompt": {
+        "text": "9 × ? − 20 = 187"
+      },
+      "answer": 23,
+      "payload": {
+        "options": [
+          23,
+          28,
+          25,
+          18
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0101",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10 × ? − 24 = 216"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          24,
+          26,
+          22,
+          27
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0106",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4 × ? − 3 = 9"
+      },
+      "answer": 3,
+      "payload": {
+        "options": [
+          4,
+          3,
+          13,
+          0
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0111",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10 × ? − 29 = 31"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          7,
+          1,
+          6,
+          16
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0116",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10 × ? − 15 = 95"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          9,
+          11,
+          12,
+          16
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 30) × 7 = 364"
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          12,
+          23,
+          22,
+          19
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 16) × 8 = 176"
+      },
+      "answer": 6,
+      "payload": {
+        "options": [
+          9,
+          6,
+          11,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 26) × 8 = 520"
+      },
+      "answer": 39,
+      "payload": {
+        "options": [
+          29,
+          39,
+          41,
+          38
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0018",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 3) × 4 = 144"
+      },
+      "answer": 33,
+      "payload": {
+        "options": [
+          30,
+          33,
+          28,
+          36
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 19) × 5 = 165"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          17,
+          14,
+          19,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 7) × 5 = 225"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          41,
+          43,
+          36,
+          38
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 7) × 2 = 40"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          23,
+          16,
+          18,
+          13
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 5) × 7 = 126"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          14,
+          13,
+          3,
+          8
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0043",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 13) × 5 = 130"
+      },
+      "answer": 13,
+      "payload": {
+        "options": [
+          18,
+          13,
+          12,
+          15
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0048",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 7) × 9 = 342"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          26,
+          32,
+          34,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0053",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 1) × 4 = 20"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          7,
+          3,
+          4,
+          5
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0058",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 14) × 3 = 99"
+      },
+      "answer": 19,
+      "payload": {
+        "options": [
+          19,
+          17,
+          21,
+          14
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0063",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 27) × 8 = 496"
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          40,
+          25,
+          35,
+          37
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0067",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 22) × 12 = 312"
+      },
+      "answer": 4,
+      "payload": {
+        "options": [
+          2,
+          9,
+          4,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0072",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 22) × 5 = 230"
+      },
+      "answer": 24,
+      "payload": {
+        "options": [
+          25,
+          19,
+          24,
+          26
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0077",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 18) × 5 = 130"
+      },
+      "answer": 8,
+      "payload": {
+        "options": [
+          8,
+          18,
+          7,
+          11
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0082",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 1) × 4 = 164"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          38,
+          40,
+          37,
+          30
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0087",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 28) × 8 = 488"
+      },
+      "answer": 33,
+      "payload": {
+        "options": [
+          33,
+          35,
+          34,
+          32
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0092",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 21) × 12 = 384"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          13,
+          14,
+          11,
+          1
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0097",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 19) × 6 = 180"
+      },
+      "answer": 11,
+      "payload": {
+        "options": [
+          1,
+          11,
+          16,
+          9
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0102",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 2) × 9 = 279"
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          34,
+          29,
+          24,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0107",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 8) × 10 = 220"
+      },
+      "answer": 14,
+      "payload": {
+        "options": [
+          14,
+          16,
+          19,
+          24
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0112",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 5) × 5 = 175"
+      },
+      "answer": 30,
+      "payload": {
+        "options": [
+          30,
+          27,
+          25,
+          28
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0117",
+      "difficulty": 4,
+      "prompt": {
+        "text": "(? + 6) × 7 = 168"
+      },
+      "answer": 18,
+      "payload": {
+        "options": [
+          17,
+          15,
+          18,
+          16
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 16) ÷ 3 = 5"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          31,
+          28,
+          26,
+          21
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 12) ÷ 2 = 2"
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          26,
+          6,
+          16,
+          11
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 19) ÷ 8 = 6"
+      },
+      "answer": 67,
+      "payload": {
+        "options": [
+          67,
+          70,
+          65,
+          64
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0019",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 16) ÷ 10 = 2"
+      },
+      "answer": 36,
+      "payload": {
+        "options": [
+          39,
+          36,
+          26,
+          35
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0024",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 1) ÷ 11 = 4"
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          55,
+          48,
+          40,
+          45
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 11) ÷ 5 = 8"
+      },
+      "answer": 51,
+      "payload": {
+        "options": [
+          41,
+          51,
+          49,
+          53
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0034",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 12) ÷ 7 = 4"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          40,
+          42,
+          38,
+          50
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 16) ÷ 2 = 8"
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          34,
+          29,
+          32,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0044",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 8) ÷ 14 = 4"
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          67,
+          59,
+          63,
+          64
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0049",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 9) ÷ 14 = 9"
+      },
+      "answer": 135,
+      "payload": {
+        "options": [
+          134,
+          130,
+          133,
+          135
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0054",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 4) ÷ 12 = 3"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          42,
+          45,
+          40,
+          30
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0059",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 7) ÷ 11 = 3"
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          41,
+          50,
+          40,
+          42
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0064",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 13) ÷ 7 = 9"
+      },
+      "answer": 76,
+      "payload": {
+        "options": [
+          75,
+          81,
+          76,
+          66
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0068",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 7) ÷ 6 = 4"
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          32,
+          36,
+          29,
+          31
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0073",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 14) ÷ 13 = 8"
+      },
+      "answer": 118,
+      "payload": {
+        "options": [
+          118,
+          115,
+          116,
+          121
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0078",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 5) ÷ 9 = 2"
+      },
+      "answer": 23,
+      "payload": {
+        "options": [
+          22,
+          33,
+          24,
+          23
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0083",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 20) ÷ 11 = 2"
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          45,
+          42,
+          43,
+          41
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0088",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 16) ÷ 14 = 8"
+      },
+      "answer": 128,
+      "payload": {
+        "options": [
+          128,
+          138,
+          129,
+          118
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0093",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 15) ÷ 10 = 7"
+      },
+      "answer": 85,
+      "payload": {
+        "options": [
+          85,
+          95,
+          87,
+          75
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0098",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 18) ÷ 15 = 8"
+      },
+      "answer": 138,
+      "payload": {
+        "options": [
+          135,
+          138,
+          143,
+          148
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0103",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 20) ÷ 3 = 6"
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          39,
+          41,
+          38,
+          35
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0108",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 12) ÷ 2 = 4"
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          20,
+          30,
+          18,
+          17
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0113",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 16) ÷ 14 = 4"
+      },
+      "answer": 72,
+      "payload": {
+        "options": [
+          72,
+          69,
+          62,
+          75
+        ]
+      }
+    },
+    {
+      "id": "cari-x.sd-c.0118",
+      "difficulty": 5,
+      "prompt": {
+        "text": "(? − 19) ÷ 10 = 3"
+      },
+      "answer": 49,
+      "payload": {
+        "options": [
+          59,
+          52,
+          44,
+          49
+        ]
+      }
+    }
+  ]
+}

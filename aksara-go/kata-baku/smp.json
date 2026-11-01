@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-baku",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "kata-baku.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "kualitas",
+      "payload": {
+        "options": [
+          "kwalitas",
+          "kualitas"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah kualitas."
+    },
+    {
+      "id": "kata-baku.smp.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "sistem",
+      "payload": {
+        "options": [
+          "sistem",
+          "sistim"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah sistem."
+    },
+    {
+      "id": "kata-baku.smp.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "energi",
+      "payload": {
+        "options": [
+          "energy",
+          "enerji",
+          "energi"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah energi."
+    },
+    {
+      "id": "kata-baku.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "pikir",
+      "payload": {
+        "options": [
+          "fikir",
+          "pikir"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah pikir."
+    },
+    {
+      "id": "kata-baku.smp.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "teknologi",
+      "payload": {
+        "options": [
+          "teknologi",
+          "tehnologi"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah teknologi."
+    },
+    {
+      "id": "kata-baku.smp.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "kreatif",
+      "payload": {
+        "options": [
+          "kreatip",
+          "kreatif"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah kreatif."
+    },
+    {
+      "id": "kata-baku.smp.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "nomor",
+      "payload": {
+        "options": [
+          "nomer",
+          "nomor"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah nomor."
+    },
+    {
+      "id": "kata-baku.smp.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "ijazah",
+      "payload": {
+        "options": [
+          "ijasah",
+          "ijazah"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah ijazah."
+    },
+    {
+      "id": "kata-baku.smp.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "atlet",
+      "payload": {
+        "options": [
+          "atlit",
+          "atlet"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah atlet."
+    },
+    {
+      "id": "kata-baku.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "objek",
+      "payload": {
+        "options": [
+          "objek",
+          "obyek"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah objek."
+    },
+    {
+      "id": "kata-baku.smp.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "teknik",
+      "payload": {
+        "options": [
+          "teknik",
+          "tehnik"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah teknik."
+    },
+    {
+      "id": "kata-baku.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "paspor",
+      "payload": {
+        "options": [
+          "paspor",
+          "pasport"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah paspor."
+    },
+    {
+      "id": "kata-baku.smp.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "sertifikat",
+      "payload": {
+        "options": [
+          "sertifikat",
+          "sertipikat"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah sertifikat."
+    },
+    {
+      "id": "kata-baku.smp.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "kategori",
+      "payload": {
+        "options": [
+          "kategori",
+          "katagori"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah kategori."
+    },
+    {
+      "id": "kata-baku.smp.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "provinsi",
+      "payload": {
+        "options": [
+          "provinsi",
+          "propinsi"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah provinsi."
+    },
+    {
+      "id": "kata-baku.smp.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "persen",
+      "payload": {
+        "options": [
+          "persen",
+          "prosen"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah persen."
+    },
+    {
+      "id": "kata-baku.smp.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "paham",
+      "payload": {
+        "options": [
+          "paham",
+          "faham"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah paham."
+    },
+    {
+      "id": "kata-baku.smp.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "museum",
+      "payload": {
+        "options": [
+          "museum",
+          "musium"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah museum."
+    },
+    {
+      "id": "kata-baku.smp.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "aktivitas",
+      "payload": {
+        "options": [
+          "aktivitas",
+          "aktifitas"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah aktivitas."
+    },
+    {
+      "id": "kata-baku.smp.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "detail",
+      "payload": {
+        "options": [
+          "detail",
+          "detil"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah detail."
+    },
+    {
+      "id": "kata-baku.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "karier",
+      "payload": {
+        "options": [
+          "karir",
+          "karier"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah karier."
+    },
+    {
+      "id": "kata-baku.smp.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "kuitansi",
+      "payload": {
+        "options": [
+          "kuitansi",
+          "kuwitansi",
+          "kwitansi"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah kuitansi."
+    },
+    {
+      "id": "kata-baku.smp.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "risiko",
+      "payload": {
+        "options": [
+          "risiko",
+          "resiko"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah risiko."
+    },
+    {
+      "id": "kata-baku.smp.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "standar",
+      "payload": {
+        "options": [
+          "standart",
+          "standar",
+          "standard"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah standar."
+    },
+    {
+      "id": "kata-baku.smp.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "ekstrakurikuler",
+      "payload": {
+        "options": [
+          "extrakurikuler",
+          "ekstrakulikuler",
+          "ekstrakurikuler"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah ekstrakurikuler."
+    },
+    {
+      "id": "kata-baku.smp.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "fotokopi",
+      "payload": {
+        "options": [
+          "fotocopy",
+          "fotokopi",
+          "foto kopi"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah fotokopi."
+    },
+    {
+      "id": "kata-baku.smp.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "sekretaris",
+      "payload": {
+        "options": [
+          "sekretaris",
+          "sekertaris"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah sekretaris."
+    },
+    {
+      "id": "kata-baku.smp.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "bazar",
+      "payload": {
+        "options": [
+          "bazaar",
+          "bazar"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah bazar."
+    },
+    {
+      "id": "kata-baku.smp.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "ambulans",
+      "payload": {
+        "options": [
+          "ambulans",
+          "ambulan",
+          "ambulance"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah ambulans."
+    },
+    {
+      "id": "kata-baku.smp.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "praktik",
+      "payload": {
+        "options": [
+          "praktek",
+          "praktik"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah praktik."
+    },
+    {
+      "id": "kata-baku.smp.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "imbau",
+      "payload": {
+        "options": [
+          "himbau",
+          "imbau"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah imbau."
+    },
+    {
+      "id": "kata-baku.smp.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "embus",
+      "payload": {
+        "options": [
+          "embus",
+          "hembus"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah embus."
+    },
+    {
+      "id": "kata-baku.smp.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "sportivitas",
+      "payload": {
+        "options": [
+          "sportivitas",
+          "sportifitas"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah sportivitas."
+    },
+    {
+      "id": "kata-baku.smp.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "sekadar",
+      "payload": {
+        "options": [
+          "sekadar",
+          "sekedar"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah sekadar."
+    },
+    {
+      "id": "kata-baku.smp.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Pilih kata baku!"
+      },
+      "answer": "andal",
+      "payload": {
+        "options": [
+          "andal",
+          "handal"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah andal."
+    },
+    {
+      "id": "kata-baku.smp.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Manakah kata yang baku?"
+      },
+      "answer": "telanjur",
+      "payload": {
+        "options": [
+          "telanjur",
+          "terlanjur"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah telanjur."
+    },
+    {
+      "id": "kata-baku.smp.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Mana penulisan yang baku?"
+      },
+      "answer": "saksama",
+      "payload": {
+        "options": [
+          "saksama",
+          "seksama"
+        ]
+      },
+      "explanation": "Bentuk baku menurut KBBI adalah saksama."
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 1,
+  "gameId": "banding-angka",
+  "segment": "sma",
+  "jenjang": "SMA",
+  "interaction": "COMPARE",
+  "questions": [
+    {
+      "id": "banding-angka.sma.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5⁵ ? 3⁹",
+        "left": "5⁵",
+        "right": "3⁹"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5¹⁰ ? 2⁴",
+        "left": "5¹⁰",
+        "right": "2⁴"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "25 ? 5²",
+        "left": "25",
+        "right": "5²"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3⁸ ? 5⁹",
+        "left": "3⁸",
+        "right": "5⁹"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5⁹ ? 5⁷",
+        "left": "5⁹",
+        "right": "5⁷"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2⁷ ? 3⁶",
+        "left": "2⁷",
+        "right": "3⁶"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0034",
+      "difficulty": 1,
+      "prompt": {
+        "text": "10⁶ ? 5⁴",
+        "left": "10⁶",
+        "right": "5⁴"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0043",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3² ? 3⁷",
+        "left": "3²",
+        "right": "3⁷"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0048",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5³ ? 3²",
+        "left": "5³",
+        "right": "3²"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0052",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2⁶ ? 8²",
+        "left": "2⁶",
+        "right": "8²"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0056",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2⁶ ? 3⁵",
+        "left": "2⁶",
+        "right": "3⁵"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0061",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3⁹ ? 10³",
+        "left": "3⁹",
+        "right": "10³"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0069",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3⁴ ? 3¹⁰",
+        "left": "3⁴",
+        "right": "3¹⁰"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0073",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5⁷ ? 2⁵",
+        "left": "5⁷",
+        "right": "2⁵"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0078",
+      "difficulty": 1,
+      "prompt": {
+        "text": "8² ? 2⁶",
+        "left": "8²",
+        "right": "2⁶"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0081",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2² ? 2⁶",
+        "left": "2²",
+        "right": "2⁶"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0086",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5¹⁰ ? 2⁶",
+        "left": "5¹⁰",
+        "right": "2⁶"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0091",
+      "difficulty": 1,
+      "prompt": {
+        "text": "9² ? 3⁴",
+        "left": "9²",
+        "right": "3⁴"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0094",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3⁹ ? 5⁷",
+        "left": "3⁹",
+        "right": "5⁷"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0099",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5⁵ ? 2⁹",
+        "left": "5⁵",
+        "right": "2⁹"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0104",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4⁵ ? 2¹⁰",
+        "left": "4⁵",
+        "right": "2¹⁰"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0106",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2² ? 2⁷",
+        "left": "2²",
+        "right": "2⁷"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0111",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3⁹ ? 2⁷",
+        "left": "3⁹",
+        "right": "2⁷"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0116",
+      "difficulty": 1,
+      "prompt": {
+        "text": "16² ? 2⁸",
+        "left": "16²",
+        "right": "2⁸"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0119",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5⁴ ? 5⁵",
+        "left": "5⁴",
+        "right": "5⁵"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√100 ? √256",
+        "left": "√100",
+        "right": "√256"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√49 ? √4",
+        "left": "√49",
+        "right": "√4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√36 ? ∛216",
+        "left": "√36",
+        "right": "∛216"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√25 ? √225",
+        "left": "√25",
+        "right": "√225"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√144 ? ∛8",
+        "left": "√144",
+        "right": "∛8"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√4 ? ∛8",
+        "left": "√4",
+        "right": "∛8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√25 ? ∛729",
+        "left": "√25",
+        "right": "∛729"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0035",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛1000 ? ∛125",
+        "left": "∛1000",
+        "right": "∛125"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0039",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√49 ? ∛343",
+        "left": "√49",
+        "right": "∛343"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0044",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛729 ? √289",
+        "left": "∛729",
+        "right": "√289"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0049",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√256 ? ∛216",
+        "left": "√256",
+        "right": "∛216"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0057",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛64 ? ∛729",
+        "left": "∛64",
+        "right": "∛729"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0062",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛125 ? ∛64",
+        "left": "∛125",
+        "right": "∛64"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0070",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛216 ? √196",
+        "left": "∛216",
+        "right": "√196"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0074",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√196 ? ∛512",
+        "left": "√196",
+        "right": "∛512"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0079",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√100 ? ∛1000",
+        "left": "√100",
+        "right": "∛1000"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0082",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛8 ? √121",
+        "left": "∛8",
+        "right": "√121"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0087",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛729 ? ∛125",
+        "left": "∛729",
+        "right": "∛125"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0092",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√25 ? ∛125",
+        "left": "√25",
+        "right": "∛125"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0095",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛64 ? √361",
+        "left": "∛64",
+        "right": "√361"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0100",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√400 ? √225",
+        "left": "√400",
+        "right": "√225"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0107",
+      "difficulty": 2,
+      "prompt": {
+        "text": "√169 ? √324",
+        "left": "√169",
+        "right": "√324"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0112",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛1000 ? √49",
+        "left": "∛1000",
+        "right": "√49"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0117",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛27 ? √9",
+        "left": "∛27",
+        "right": "√9"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0120",
+      "difficulty": 2,
+      "prompt": {
+        "text": "∛216 ? √361",
+        "left": "∛216",
+        "right": "√361"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 125 ? ⁵log 625",
+        "left": "⁵log 125",
+        "right": "⁵log 625"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 125 ? ³log 9",
+        "left": "⁵log 125",
+        "right": "³log 9"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 81 ? ²log 16",
+        "left": "³log 81",
+        "right": "²log 16"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 625 ? ⁵log 3125",
+        "left": "⁵log 625",
+        "right": "⁵log 3125"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 32 ? ⁵log 625",
+        "left": "²log 32",
+        "right": "⁵log 625"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 32 ? ³log 243",
+        "left": "²log 32",
+        "right": "³log 243"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 27 ? ³log 81",
+        "left": "³log 27",
+        "right": "³log 81"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0036",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 16 ? ³log 27",
+        "left": "²log 16",
+        "right": "³log 27"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0040",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 16 ? ³log 81",
+        "left": "²log 16",
+        "right": "³log 81"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0045",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 3 ? ⁵log 3125",
+        "left": "³log 3",
+        "right": "⁵log 3125"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0050",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 32 ? ⁵log 25",
+        "left": "²log 32",
+        "right": "⁵log 25"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0053",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 8 ? ³log 27",
+        "left": "²log 8",
+        "right": "³log 27"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0058",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 25 ? ³log 243",
+        "left": "⁵log 25",
+        "right": "³log 243"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0063",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 3125 ? ²log 16",
+        "left": "⁵log 3125",
+        "right": "²log 16"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0066",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 9 ? ²log 4",
+        "left": "³log 9",
+        "right": "²log 4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0071",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 4 ? ³log 729",
+        "left": "²log 4",
+        "right": "³log 729"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0075",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 9 ? ³log 3",
+        "left": "³log 9",
+        "right": "³log 3"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0083",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 25 ? ²log 32",
+        "left": "⁵log 25",
+        "right": "²log 32"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0088",
+      "difficulty": 3,
+      "prompt": {
+        "text": "²log 32 ? ³log 27",
+        "left": "²log 32",
+        "right": "³log 27"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0093",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 243 ? ²log 32",
+        "left": "³log 243",
+        "right": "²log 32"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0096",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 27 ? ⁵log 15.625",
+        "left": "³log 27",
+        "right": "⁵log 15.625"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0101",
+      "difficulty": 3,
+      "prompt": {
+        "text": "⁵log 15.625 ? ³log 3",
+        "left": "⁵log 15.625",
+        "right": "³log 3"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0108",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 3 ? ⁵log 125",
+        "left": "³log 3",
+        "right": "⁵log 125"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0113",
+      "difficulty": 3,
+      "prompt": {
+        "text": "³log 27 ? ²log 4",
+        "left": "³log 27",
+        "right": "²log 4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9³ ? 7⁵",
+        "left": "9³",
+        "right": "7⁵"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5³ ? 8²",
+        "left": "5³",
+        "right": "8²"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4³ ? 2⁶",
+        "left": "4³",
+        "right": "2⁶"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁵ ? 9³",
+        "left": "2⁵",
+        "right": "9³"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁴ ? 3²",
+        "left": "2⁴",
+        "right": "3²"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5² ? 25",
+        "left": "5²",
+        "right": "25"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3⁵ ? 9⁵",
+        "left": "3⁵",
+        "right": "9⁵"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6⁵ ? 9²",
+        "left": "6⁵",
+        "right": "9²"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0041",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3⁴ ? 9²",
+        "left": "3⁴",
+        "right": "9²"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0046",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2³ ? 2⁴",
+        "left": "2³",
+        "right": "2⁴"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁹ ? 8³",
+        "left": "2⁹",
+        "right": "8³"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6³ ? 6⁴",
+        "left": "6³",
+        "right": "6⁴"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0064",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9⁴ ? 2³",
+        "left": "9⁴",
+        "right": "2³"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0067",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2¹⁰ ? 4⁵",
+        "left": "2¹⁰",
+        "right": "4⁵"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0076",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7³ ? 2⁵",
+        "left": "7³",
+        "right": "2⁵"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0080",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁸ ? 16²",
+        "left": "2⁸",
+        "right": "16²"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0084",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2³ ? 6⁴",
+        "left": "2³",
+        "right": "6⁴"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0089",
+      "difficulty": 4,
+      "prompt": {
+        "text": "8³ ? 3²",
+        "left": "8³",
+        "right": "3²"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0097",
+      "difficulty": 4,
+      "prompt": {
+        "text": "8³ ? 7⁵",
+        "left": "8³",
+        "right": "7⁵"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0102",
+      "difficulty": 4,
+      "prompt": {
+        "text": "8⁵ ? 2³",
+        "left": "8⁵",
+        "right": "2³"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0105",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9³ ? 3⁶",
+        "left": "9³",
+        "right": "3⁶"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0109",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁴ ? 5³",
+        "left": "2⁴",
+        "right": "5³"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0114",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9⁵ ? 5⁴",
+        "left": "9⁵",
+        "right": "5⁴"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0118",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2⁸ ? 4⁴",
+        "left": "2⁸",
+        "right": "4⁴"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 2 ? log 100",
+        "left": "²log 2",
+        "right": "log 100"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "√49 ? log 1000",
+        "left": "√49",
+        "right": "log 1000"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 2 ? ³log 3",
+        "left": "²log 2",
+        "right": "³log 3"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "√1 ? ²log 128",
+        "left": "√1",
+        "right": "²log 128"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0025",
+      "difficulty": 5,
+      "prompt": {
+        "text": "√49 ? log 1.000.000",
+        "left": "√49",
+        "right": "log 1.000.000"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0033",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 100.000 ? ²log 256",
+        "left": "log 100.000",
+        "right": "²log 256"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "√25 ? log 100",
+        "left": "√25",
+        "right": "log 100"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0042",
+      "difficulty": 5,
+      "prompt": {
+        "text": "³log 3 ? ²log 2",
+        "left": "³log 3",
+        "right": "²log 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0047",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 10 ? ²log 32",
+        "left": "log 10",
+        "right": "²log 32"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0051",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 8 ? log 100",
+        "left": "²log 8",
+        "right": "log 100"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "³log 27 ? ²log 8",
+        "left": "³log 27",
+        "right": "²log 8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 1000 ? √64",
+        "left": "log 1000",
+        "right": "√64"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 64 ? √9",
+        "left": "²log 64",
+        "right": "√9"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0068",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 4 ? ³log 9",
+        "left": "²log 4",
+        "right": "³log 9"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sma.0072",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 100 ? ²log 256",
+        "left": "log 100",
+        "right": "²log 256"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0077",
+      "difficulty": 5,
+      "prompt": {
+        "text": "√4 ? √1",
+        "left": "√4",
+        "right": "√1"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0085",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 100 ? √81",
+        "left": "log 100",
+        "right": "√81"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0090",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 100.000 ? log 10",
+        "left": "log 100.000",
+        "right": "log 10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0098",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 2 ? √25",
+        "left": "²log 2",
+        "right": "√25"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0103",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 4 ? ²log 2",
+        "left": "²log 4",
+        "right": "²log 2"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sma.0110",
+      "difficulty": 5,
+      "prompt": {
+        "text": "log 10 ? log 100.000",
+        "left": "log 10",
+        "right": "log 100.000"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sma.0115",
+      "difficulty": 5,
+      "prompt": {
+        "text": "²log 128 ? √25",
+        "left": "²log 128",
+        "right": "√25"
+      },
+      "answer": ">"
+    }
+  ]
+}

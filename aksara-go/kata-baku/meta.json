@@ -1,0 +1,16 @@
+{
+  "gameId": "kata-baku",
+  "title": "Kata Baku",
+  "description": "Pilih penulisan kata yang baku sesuai KBBI.",
+  "category": "literasi",
+  "contentKind": "curated",
+  "interaction": "MULTI_CHOICE",
+  "instruction": "Mana kata yang baku?",
+  "emoji": "📖",
+  "colorToken": "blue",
+  "segments": [
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

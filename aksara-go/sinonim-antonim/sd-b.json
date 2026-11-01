@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "gameId": "sinonim-antonim",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "MATCH_PAIRS",
+  "questions": [
+    {
+      "id": "sinonim-antonim.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "besar"
+      },
+      "answer": "kecil",
+      "payload": {
+        "options": [
+          "berat",
+          "tinggi",
+          "panjang",
+          "kecil"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "panas"
+      },
+      "answer": "dingin",
+      "payload": {
+        "options": [
+          "basah",
+          "terang",
+          "kering",
+          "dingin"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "siang"
+      },
+      "answer": "malam",
+      "payload": {
+        "options": [
+          "pagi",
+          "hari",
+          "sore",
+          "malam"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "naik"
+      },
+      "answer": "turun",
+      "payload": {
+        "options": [
+          "lari",
+          "turun",
+          "masuk",
+          "duduk"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "senang"
+      },
+      "answer": "gembira",
+      "payload": {
+        "options": [
+          "haus",
+          "takut",
+          "lapar",
+          "gembira"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "pintar"
+      },
+      "answer": "pandai",
+      "payload": {
+        "options": [
+          "pandai",
+          "kuat",
+          "cepat",
+          "rajin"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "baju"
+      },
+      "answer": "pakaian",
+      "payload": {
+        "options": [
+          "pakaian",
+          "sepatu",
+          "topi",
+          "celana"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "buka"
+      },
+      "answer": "tutup",
+      "payload": {
+        "options": [
+          "tutup",
+          "tarik",
+          "simpan",
+          "ambil"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "tua"
+      },
+      "answer": "muda",
+      "payload": {
+        "options": [
+          "kuat",
+          "tinggi",
+          "pendek",
+          "muda"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "gemuk"
+      },
+      "answer": "kurus",
+      "payload": {
+        "options": [
+          "lemah",
+          "pendek",
+          "kurus",
+          "tinggi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "bersih"
+      },
+      "answer": "kotor",
+      "payload": {
+        "options": [
+          "kering",
+          "basah",
+          "kotor",
+          "wangi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "jauh"
+      },
+      "answer": "dekat",
+      "payload": {
+        "options": [
+          "tinggi",
+          "luas",
+          "cepat",
+          "dekat"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "melihat"
+      },
+      "answer": "memandang",
+      "payload": {
+        "options": [
+          "mencium",
+          "meraba",
+          "mendengar",
+          "memandang"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "cepat"
+      },
+      "answer": "lekas",
+      "payload": {
+        "options": [
+          "kuat",
+          "lekas",
+          "jauh",
+          "tinggi"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "bagus"
+      },
+      "answer": "baik",
+      "payload": {
+        "options": [
+          "mahal",
+          "besar",
+          "baru",
+          "baik"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ayah"
+      },
+      "answer": "bapak",
+      "payload": {
+        "options": [
+          "bapak",
+          "kakak",
+          "paman",
+          "kakek"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ibu"
+      },
+      "answer": "bunda",
+      "payload": {
+        "options": [
+          "bunda",
+          "bibi",
+          "kakak",
+          "nenek"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "berani"
+      },
+      "answer": "takut",
+      "payload": {
+        "options": [
+          "lemah",
+          "sedih",
+          "takut",
+          "malu"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "cepat"
+      },
+      "answer": "lambat",
+      "payload": {
+        "options": [
+          "keras",
+          "lambat",
+          "jauh",
+          "dekat"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kaya"
+      },
+      "answer": "miskin",
+      "payload": {
+        "options": [
+          "pelit",
+          "sedih",
+          "miskin",
+          "hemat"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "terang"
+      },
+      "answer": "gelap",
+      "payload": {
+        "options": [
+          "sepi",
+          "gelap",
+          "panas",
+          "basah"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ramai"
+      },
+      "answer": "sepi",
+      "payload": {
+        "options": [
+          "gelap",
+          "sepi",
+          "kecil",
+          "dingin"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "hadiah"
+      },
+      "answer": "kado",
+      "payload": {
+        "options": [
+          "mainan",
+          "surat",
+          "kado",
+          "kue"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "murid"
+      },
+      "answer": "siswa",
+      "payload": {
+        "options": [
+          "siswa",
+          "buku",
+          "kelas",
+          "guru"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "benar"
+      },
+      "answer": "betul",
+      "payload": {
+        "options": [
+          "betul",
+          "jelas",
+          "baru",
+          "sama"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "kawan"
+      },
+      "answer": "teman",
+      "payload": {
+        "options": [
+          "tetangga",
+          "guru",
+          "teman",
+          "tamu"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "bohong"
+      },
+      "answer": "dusta",
+      "payload": {
+        "options": [
+          "dusta",
+          "malu",
+          "nakal",
+          "marah"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-b.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "gembira"
+      },
+      "answer": "riang",
+      "payload": {
+        "options": [
+          "kenyang",
+          "lelah",
+          "riang",
+          "lapar"
+        ],
+        "relation": "sinonim"
+      }
+    }
+  ]
+}

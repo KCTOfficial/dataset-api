@@ -1,0 +1,18 @@
+{
+  "gameId": "hitung-cepat",
+  "title": "Hitung Cepat",
+  "description": "Hitung hasil operasi bilangan dengan cepat dan tepat.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "NUMPAD",
+  "instruction": "Berapa hasilnya?",
+  "emoji": "➕",
+  "colorToken": "teal",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

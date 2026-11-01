@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 1,
+  "gameId": "banding-angka",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "COMPARE",
+  "questions": [
+    {
+      "id": "banding-angka.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−18 ? −2",
+        "left": "−18",
+        "right": "−2"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "8 ? −3",
+        "left": "8",
+        "right": "−3"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−29 ? −58 ÷ 2",
+        "left": "−29",
+        "right": "−58 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−7 ? 7",
+        "left": "−7",
+        "right": "7"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−9 ? −10",
+        "left": "−9",
+        "right": "−10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0026",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−7 ? −14 ÷ 2",
+        "left": "−7",
+        "right": "−14 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0031",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−24 ? −22",
+        "left": "−24",
+        "right": "−22"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0036",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−8 ? −12",
+        "left": "−8",
+        "right": "−12"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0041",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−6 ÷ 2 ? −3",
+        "left": "−6 ÷ 2",
+        "right": "−3"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0044",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−6 ? −3",
+        "left": "−6",
+        "right": "−3"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0049",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−1 ? −5",
+        "left": "−1",
+        "right": "−5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0054",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−60 ÷ 2 ? −30",
+        "left": "−60 ÷ 2",
+        "right": "−30"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0057",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−10 ? −4",
+        "left": "−10",
+        "right": "−4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0062",
+      "difficulty": 1,
+      "prompt": {
+        "text": "7 ? −3",
+        "left": "7",
+        "right": "−3"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0066",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−3 ? −6 ÷ 2",
+        "left": "−3",
+        "right": "−6 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0069",
+      "difficulty": 1,
+      "prompt": {
+        "text": "0 ? 2",
+        "left": "0",
+        "right": "2"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0074",
+      "difficulty": 1,
+      "prompt": {
+        "text": "0 ? −19",
+        "left": "0",
+        "right": "−19"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0078",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−6 ? −12 ÷ 2",
+        "left": "−6",
+        "right": "−12 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0082",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4 ? 10",
+        "left": "4",
+        "right": "10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0087",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−6 ? −11",
+        "left": "−6",
+        "right": "−11"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0092",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−10 ? −20 ÷ 2",
+        "left": "−10",
+        "right": "−20 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0097",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3 ? 6",
+        "left": "3",
+        "right": "6"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0102",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4 ? −24",
+        "left": "4",
+        "right": "−24"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0107",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−9 ? −18 ÷ 2",
+        "left": "−9",
+        "right": "−18 ÷ 2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0111",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−26 ? −25",
+        "left": "−26",
+        "right": "−25"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0116",
+      "difficulty": 1,
+      "prompt": {
+        "text": "−19 ? −26",
+        "left": "−19",
+        "right": "−26"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "1/10 ? 9/10",
+        "left": "1/10",
+        "right": "9/10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,24 ? 0,08",
+        "left": "0,24",
+        "right": "0,08"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,6 ? 6/10",
+        "left": "0,6",
+        "right": "6/10"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "2/10 ? 0,31",
+        "left": "2/10",
+        "right": "0,31"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,78 ? 0,19",
+        "left": "0,78",
+        "right": "0,19"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "8/10 ? 0,8",
+        "left": "8/10",
+        "right": "0,8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0032",
+      "difficulty": 2,
+      "prompt": {
+        "text": "2/10 ? 0,33",
+        "left": "2/10",
+        "right": "0,33"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0037",
+      "difficulty": 2,
+      "prompt": {
+        "text": "5/10 ? 0,24",
+        "left": "5/10",
+        "right": "0,24"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0045",
+      "difficulty": 2,
+      "prompt": {
+        "text": "4/10 ? 0,56",
+        "left": "4/10",
+        "right": "0,56"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0050",
+      "difficulty": 2,
+      "prompt": {
+        "text": "8/10 ? 6/10",
+        "left": "8/10",
+        "right": "6/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0055",
+      "difficulty": 2,
+      "prompt": {
+        "text": "9/10 ? 0,9",
+        "left": "9/10",
+        "right": "0,9"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0058",
+      "difficulty": 2,
+      "prompt": {
+        "text": "2/10 ? 8/10",
+        "left": "2/10",
+        "right": "8/10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0063",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,63 ? 4/10",
+        "left": "0,63",
+        "right": "4/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0070",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,78 ? 8/10",
+        "left": "0,78",
+        "right": "8/10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0075",
+      "difficulty": 2,
+      "prompt": {
+        "text": "9/10 ? 8/10",
+        "left": "9/10",
+        "right": "8/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0079",
+      "difficulty": 2,
+      "prompt": {
+        "text": "6/10 ? 0,6",
+        "left": "6/10",
+        "right": "0,6"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0083",
+      "difficulty": 2,
+      "prompt": {
+        "text": "3/10 ? 7/10",
+        "left": "3/10",
+        "right": "7/10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0088",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,97 ? 5/10",
+        "left": "0,97",
+        "right": "5/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0093",
+      "difficulty": 2,
+      "prompt": {
+        "text": "4/10 ? 0,4",
+        "left": "4/10",
+        "right": "0,4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0098",
+      "difficulty": 2,
+      "prompt": {
+        "text": "1/10 ? 0,31",
+        "left": "1/10",
+        "right": "0,31"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0103",
+      "difficulty": 2,
+      "prompt": {
+        "text": "7/10 ? 0,26",
+        "left": "7/10",
+        "right": "0,26"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0108",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,8 ? 8/10",
+        "left": "0,8",
+        "right": "8/10"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0112",
+      "difficulty": 2,
+      "prompt": {
+        "text": "8/10 ? 9/10",
+        "left": "8/10",
+        "right": "9/10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0117",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,5 ? 2/10",
+        "left": "0,5",
+        "right": "2/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "20% ? 2/5",
+        "left": "20%",
+        "right": "2/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "80% ? 10%",
+        "left": "80%",
+        "right": "10%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "40% ? 2/5",
+        "left": "40%",
+        "right": "2/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "25% ? 3/5",
+        "left": "25%",
+        "right": "3/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 60%",
+        "left": "4/5",
+        "right": "60%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3/5 ? 60%",
+        "left": "3/5",
+        "right": "60%"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0033",
+      "difficulty": 3,
+      "prompt": {
+        "text": "10% ? 3/5",
+        "left": "10%",
+        "right": "3/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0038",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 40%",
+        "left": "4/5",
+        "right": "40%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 20%",
+        "left": "1/5",
+        "right": "20%"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0046",
+      "difficulty": 3,
+      "prompt": {
+        "text": "20% ? 75%",
+        "left": "20%",
+        "right": "75%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0051",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2/5 ? 1/5",
+        "left": "2/5",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0059",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 2/5",
+        "left": "1/5",
+        "right": "2/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0067",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2/5 ? 40%",
+        "left": "2/5",
+        "right": "40%"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0071",
+      "difficulty": 3,
+      "prompt": {
+        "text": "50% ? 4/5",
+        "left": "50%",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0084",
+      "difficulty": 3,
+      "prompt": {
+        "text": "20% ? 40%",
+        "left": "20%",
+        "right": "40%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0089",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3/5 ? 2/5",
+        "left": "3/5",
+        "right": "2/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0094",
+      "difficulty": 3,
+      "prompt": {
+        "text": "60% ? 3/5",
+        "left": "60%",
+        "right": "3/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0099",
+      "difficulty": 3,
+      "prompt": {
+        "text": "20% ? 50%",
+        "left": "20%",
+        "right": "50%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0104",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3/5 ? 1/5",
+        "left": "3/5",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0113",
+      "difficulty": 3,
+      "prompt": {
+        "text": "25% ? 40%",
+        "left": "25%",
+        "right": "40%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0118",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2/5 ? 20%",
+        "left": "2/5",
+        "right": "20%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√49 ? 30",
+        "left": "√49",
+        "right": "30"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "28 ? √144",
+        "left": "28",
+        "right": "√144"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√100 ? 10",
+        "left": "√100",
+        "right": "10"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√64 ? 6²",
+        "left": "√64",
+        "right": "6²"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "32 ? 6",
+        "left": "32",
+        "right": "6"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "11 ? √121",
+        "left": "11",
+        "right": "√121"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "26 ? 42",
+        "left": "26",
+        "right": "42"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0039",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5³ ? 34",
+        "left": "5³",
+        "right": "34"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0043",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5 ? √25",
+        "left": "5",
+        "right": "√25"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0047",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2² ? 10",
+        "left": "2²",
+        "right": "10"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0052",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3³ ? 4",
+        "left": "3³",
+        "right": "4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0056",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√4 ? 2",
+        "left": "√4",
+        "right": "2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0060",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√36 ? 4²",
+        "left": "√36",
+        "right": "4²"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0064",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√100 ? √25",
+        "left": "√100",
+        "right": "√25"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0072",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√81 ? 59",
+        "left": "√81",
+        "right": "59"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0076",
+      "difficulty": 4,
+      "prompt": {
+        "text": "26 ? 10",
+        "left": "26",
+        "right": "10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0080",
+      "difficulty": 4,
+      "prompt": {
+        "text": "10 ? √100",
+        "left": "10",
+        "right": "√100"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0085",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√121 ? 5²",
+        "left": "√121",
+        "right": "5²"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0090",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3² ? √25",
+        "left": "3²",
+        "right": "√25"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0095",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6 ? √36",
+        "left": "6",
+        "right": "√36"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0100",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√4 ? √36",
+        "left": "√4",
+        "right": "√36"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0105",
+      "difficulty": 4,
+      "prompt": {
+        "text": "12 ? √36",
+        "left": "12",
+        "right": "√36"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0109",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2 ? √4",
+        "left": "2",
+        "right": "√4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0114",
+      "difficulty": 4,
+      "prompt": {
+        "text": "√64 ? 59",
+        "left": "√64",
+        "right": "59"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0119",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3² ? √4",
+        "left": "3²",
+        "right": "√4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−2/5 ? −0,26",
+        "left": "−2/5",
+        "right": "−0,26"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,17 ? −0,49",
+        "left": "−0,17",
+        "right": "−0,49"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−4/5 ? −0,8",
+        "left": "−4/5",
+        "right": "−0,8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,24 ? −1/5",
+        "left": "−0,24",
+        "right": "−1/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0025",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−1/5 ? −4/5",
+        "left": "−1/5",
+        "right": "−4/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0030",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,4 ? −2/5",
+        "left": "−0,4",
+        "right": "−2/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−3/5 ? −0,1",
+        "left": "−3/5",
+        "right": "−0,1"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,27 ? −0,74",
+        "left": "−0,27",
+        "right": "−0,74"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0048",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,9 ? −4/5",
+        "left": "−0,9",
+        "right": "−4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0053",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,59 ? −0,85",
+        "left": "−0,59",
+        "right": "−0,85"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0061",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,89 ? −0,17",
+        "left": "−0,89",
+        "right": "−0,17"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,1 ? −0,86",
+        "left": "−0,1",
+        "right": "−0,86"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0068",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,8 ? −4/5",
+        "left": "−0,8",
+        "right": "−4/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0073",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,69 ? −2/5",
+        "left": "−0,69",
+        "right": "−2/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0077",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,54 ? −0,55",
+        "left": "−0,54",
+        "right": "−0,55"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0081",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−3/5 ? −0,6",
+        "left": "−3/5",
+        "right": "−0,6"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0086",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,79 ? −1/5",
+        "left": "−0,79",
+        "right": "−1/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0091",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,57 ? −0,85",
+        "left": "−0,57",
+        "right": "−0,85"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0096",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−2/5 ? −0,4",
+        "left": "−2/5",
+        "right": "−0,4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0101",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−2/5 ? −0,34",
+        "left": "−2/5",
+        "right": "−0,34"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0106",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−2/5 ? −4/5",
+        "left": "−2/5",
+        "right": "−4/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.smp.0110",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,2 ? −1/5",
+        "left": "−0,2",
+        "right": "−1/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.smp.0115",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−0,43 ? −2/5",
+        "left": "−0,43",
+        "right": "−2/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.smp.0120",
+      "difficulty": 5,
+      "prompt": {
+        "text": "−2/5 ? −0,74",
+        "left": "−2/5",
+        "right": "−0,74"
+      },
+      "answer": ">"
+    }
+  ]
+}

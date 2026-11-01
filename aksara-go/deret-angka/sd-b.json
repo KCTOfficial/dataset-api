@@ -1,0 +1,3394 @@
+{
+  "schemaVersion": 1,
+  "gameId": "deret-angka",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "NUMPAD",
+  "questions": [
+    {
+      "id": "deret-angka.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "40, 46, 52, 58, ?",
+        "sequence": [
+          40,
+          46,
+          52,
+          58,
+          null
+        ]
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          54,
+          61,
+          64,
+          59
+        ],
+        "rule": {
+          "start": 40,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "29, 35, 41, 47, ?",
+        "sequence": [
+          29,
+          35,
+          41,
+          47,
+          null
+        ]
+      },
+      "answer": 53,
+      "payload": {
+        "options": [
+          51,
+          48,
+          50,
+          53
+        ],
+        "rule": {
+          "start": 29,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "17, 24, 31, 38, ?",
+        "sequence": [
+          17,
+          24,
+          31,
+          38,
+          null
+        ]
+      },
+      "answer": 45,
+      "payload": {
+        "options": [
+          42,
+          48,
+          45,
+          50
+        ],
+        "rule": {
+          "start": 17,
+          "step": 7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0015",
+      "difficulty": 1,
+      "prompt": {
+        "text": "20, 29, 38, 47, ?",
+        "sequence": [
+          20,
+          29,
+          38,
+          47,
+          null
+        ]
+      },
+      "answer": 56,
+      "payload": {
+        "options": [
+          56,
+          66,
+          57,
+          54
+        ],
+        "rule": {
+          "start": 20,
+          "step": 9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0020",
+      "difficulty": 1,
+      "prompt": {
+        "text": "7, 13, 19, 25, ?",
+        "sequence": [
+          7,
+          13,
+          19,
+          25,
+          null
+        ]
+      },
+      "answer": 31,
+      "payload": {
+        "options": [
+          30,
+          31,
+          21,
+          33
+        ],
+        "rule": {
+          "start": 7,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0025",
+      "difficulty": 1,
+      "prompt": {
+        "text": "37, 46, 55, 64, ?",
+        "sequence": [
+          37,
+          46,
+          55,
+          64,
+          null
+        ]
+      },
+      "answer": 73,
+      "payload": {
+        "options": [
+          71,
+          76,
+          63,
+          73
+        ],
+        "rule": {
+          "start": 37,
+          "step": 9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "49, 55, 61, 67, ?",
+        "sequence": [
+          49,
+          55,
+          61,
+          67,
+          null
+        ]
+      },
+      "answer": 73,
+      "payload": {
+        "options": [
+          74,
+          68,
+          78,
+          73
+        ],
+        "rule": {
+          "start": 49,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "21, 26, 31, 36, ?",
+        "sequence": [
+          21,
+          26,
+          31,
+          36,
+          null
+        ]
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          36,
+          41,
+          43,
+          40
+        ],
+        "rule": {
+          "start": 21,
+          "step": 5,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0038",
+      "difficulty": 1,
+      "prompt": {
+        "text": "26, 36, 46, 56, ?",
+        "sequence": [
+          26,
+          36,
+          46,
+          56,
+          null
+        ]
+      },
+      "answer": 66,
+      "payload": {
+        "options": [
+          66,
+          67,
+          61,
+          64
+        ],
+        "rule": {
+          "start": 26,
+          "step": 10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0042",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4, 8, 12, 16, ?",
+        "sequence": [
+          4,
+          8,
+          12,
+          16,
+          null
+        ]
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          22,
+          25,
+          19,
+          20
+        ],
+        "rule": {
+          "start": 4,
+          "step": 4,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0046",
+      "difficulty": 1,
+      "prompt": {
+        "text": "34, 44, 54, 64, ?",
+        "sequence": [
+          34,
+          44,
+          54,
+          64,
+          null
+        ]
+      },
+      "answer": 74,
+      "payload": {
+        "options": [
+          79,
+          74,
+          72,
+          64
+        ],
+        "rule": {
+          "start": 34,
+          "step": 10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0050",
+      "difficulty": 1,
+      "prompt": {
+        "text": "21, 23, 25, 27, ?",
+        "sequence": [
+          21,
+          23,
+          25,
+          27,
+          null
+        ]
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          32,
+          19,
+          24,
+          29
+        ],
+        "rule": {
+          "start": 21,
+          "step": 2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0054",
+      "difficulty": 1,
+      "prompt": {
+        "text": "37, 44, 51, 58, ?",
+        "sequence": [
+          37,
+          44,
+          51,
+          58,
+          null
+        ]
+      },
+      "answer": 65,
+      "payload": {
+        "options": [
+          67,
+          66,
+          55,
+          65
+        ],
+        "rule": {
+          "start": 37,
+          "step": 7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0058",
+      "difficulty": 1,
+      "prompt": {
+        "text": "0, 9, 18, 27, ?",
+        "sequence": [
+          0,
+          9,
+          18,
+          27,
+          null
+        ]
+      },
+      "answer": 36,
+      "payload": {
+        "options": [
+          26,
+          41,
+          46,
+          36
+        ],
+        "rule": {
+          "start": 0,
+          "step": 9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0062",
+      "difficulty": 1,
+      "prompt": {
+        "text": "41, 48, 55, 62, ?",
+        "sequence": [
+          41,
+          48,
+          55,
+          62,
+          null
+        ]
+      },
+      "answer": 69,
+      "payload": {
+        "options": [
+          64,
+          59,
+          69,
+          74
+        ],
+        "rule": {
+          "start": 41,
+          "step": 7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0066",
+      "difficulty": 1,
+      "prompt": {
+        "text": "48, 51, 54, 57, ?",
+        "sequence": [
+          48,
+          51,
+          54,
+          57,
+          null
+        ]
+      },
+      "answer": 60,
+      "payload": {
+        "options": [
+          50,
+          70,
+          60,
+          63
+        ],
+        "rule": {
+          "start": 48,
+          "step": 3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0070",
+      "difficulty": 1,
+      "prompt": {
+        "text": "20, 22, 24, 26, ?",
+        "sequence": [
+          20,
+          22,
+          24,
+          26,
+          null
+        ]
+      },
+      "answer": 28,
+      "payload": {
+        "options": [
+          38,
+          25,
+          28,
+          23
+        ],
+        "rule": {
+          "start": 20,
+          "step": 2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0074",
+      "difficulty": 1,
+      "prompt": {
+        "text": "19, 21, 23, 25, ?",
+        "sequence": [
+          19,
+          21,
+          23,
+          25,
+          null
+        ]
+      },
+      "answer": 27,
+      "payload": {
+        "options": [
+          30,
+          29,
+          27,
+          26
+        ],
+        "rule": {
+          "start": 19,
+          "step": 2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0078",
+      "difficulty": 1,
+      "prompt": {
+        "text": "6, 9, 12, 15, ?",
+        "sequence": [
+          6,
+          9,
+          12,
+          15,
+          null
+        ]
+      },
+      "answer": 18,
+      "payload": {
+        "options": [
+          16,
+          21,
+          28,
+          18
+        ],
+        "rule": {
+          "start": 6,
+          "step": 3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0083",
+      "difficulty": 1,
+      "prompt": {
+        "text": "36, 41, 46, 51, ?",
+        "sequence": [
+          36,
+          41,
+          46,
+          51,
+          null
+        ]
+      },
+      "answer": 56,
+      "payload": {
+        "options": [
+          46,
+          58,
+          55,
+          56
+        ],
+        "rule": {
+          "start": 36,
+          "step": 5,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0087",
+      "difficulty": 1,
+      "prompt": {
+        "text": "11, 17, 23, 29, ?",
+        "sequence": [
+          11,
+          17,
+          23,
+          29,
+          null
+        ]
+      },
+      "answer": 35,
+      "payload": {
+        "options": [
+          37,
+          34,
+          35,
+          32
+        ],
+        "rule": {
+          "start": 11,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0091",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5, 14, 23, 32, ?",
+        "sequence": [
+          5,
+          14,
+          23,
+          32,
+          null
+        ]
+      },
+      "answer": 41,
+      "payload": {
+        "options": [
+          51,
+          43,
+          42,
+          41
+        ],
+        "rule": {
+          "start": 5,
+          "step": 9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0096",
+      "difficulty": 1,
+      "prompt": {
+        "text": "10, 17, 24, 31, ?",
+        "sequence": [
+          10,
+          17,
+          24,
+          31,
+          null
+        ]
+      },
+      "answer": 38,
+      "payload": {
+        "options": [
+          37,
+          48,
+          36,
+          38
+        ],
+        "rule": {
+          "start": 10,
+          "step": 7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "34, 36, 38, 40, ?",
+        "sequence": [
+          34,
+          36,
+          38,
+          40,
+          null
+        ]
+      },
+      "answer": 42,
+      "payload": {
+        "options": [
+          44,
+          42,
+          41,
+          40
+        ],
+        "rule": {
+          "start": 34,
+          "step": 2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0104",
+      "difficulty": 1,
+      "prompt": {
+        "text": "46, 52, 58, 64, ?",
+        "sequence": [
+          46,
+          52,
+          58,
+          64,
+          null
+        ]
+      },
+      "answer": 70,
+      "payload": {
+        "options": [
+          71,
+          72,
+          70,
+          73
+        ],
+        "rule": {
+          "start": 46,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0109",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4, 13, 22, 31, ?",
+        "sequence": [
+          4,
+          13,
+          22,
+          31,
+          null
+        ]
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          42,
+          30,
+          40,
+          39
+        ],
+        "rule": {
+          "start": 4,
+          "step": 9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0113",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5, 8, 11, 14, ?",
+        "sequence": [
+          5,
+          8,
+          11,
+          14,
+          null
+        ]
+      },
+      "answer": 17,
+      "payload": {
+        "options": [
+          20,
+          22,
+          19,
+          17
+        ],
+        "rule": {
+          "start": 5,
+          "step": 3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0117",
+      "difficulty": 1,
+      "prompt": {
+        "text": "30, 36, 42, 48, ?",
+        "sequence": [
+          30,
+          36,
+          42,
+          48,
+          null
+        ]
+      },
+      "answer": 54,
+      "payload": {
+        "options": [
+          44,
+          57,
+          54,
+          53
+        ],
+        "rule": {
+          "start": 30,
+          "step": 6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0120",
+      "difficulty": 1,
+      "prompt": {
+        "text": "24, 34, 44, 54, ?",
+        "sequence": [
+          24,
+          34,
+          44,
+          54,
+          null
+        ]
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          63,
+          64,
+          59,
+          66
+        ],
+        "rule": {
+          "start": 24,
+          "step": 10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "94, 86, 78, ?, 62",
+        "sequence": [
+          94,
+          86,
+          78,
+          null,
+          62
+        ]
+      },
+      "answer": 70,
+      "payload": {
+        "options": [
+          80,
+          70,
+          68,
+          65
+        ],
+        "rule": {
+          "start": 94,
+          "step": -8,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "108, ?, 94, 87, 80",
+        "sequence": [
+          108,
+          null,
+          94,
+          87,
+          80
+        ]
+      },
+      "answer": 101,
+      "payload": {
+        "options": [
+          103,
+          101,
+          104,
+          102
+        ],
+        "rule": {
+          "start": 108,
+          "step": -7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "64, 62, 60, 58, ?",
+        "sequence": [
+          64,
+          62,
+          60,
+          58,
+          null
+        ]
+      },
+      "answer": 56,
+      "payload": {
+        "options": [
+          56,
+          58,
+          51,
+          66
+        ],
+        "rule": {
+          "start": 64,
+          "step": -2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "99, ?, 79, 69, 59",
+        "sequence": [
+          99,
+          null,
+          79,
+          69,
+          59
+        ]
+      },
+      "answer": 89,
+      "payload": {
+        "options": [
+          90,
+          99,
+          89,
+          79
+        ],
+        "rule": {
+          "start": 99,
+          "step": -10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "111, ?, 105, 102, 99",
+        "sequence": [
+          111,
+          null,
+          105,
+          102,
+          99
+        ]
+      },
+      "answer": 108,
+      "payload": {
+        "options": [
+          109,
+          110,
+          103,
+          108
+        ],
+        "rule": {
+          "start": 111,
+          "step": -3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "108, 102, 96, ?, 84",
+        "sequence": [
+          108,
+          102,
+          96,
+          null,
+          84
+        ]
+      },
+      "answer": 90,
+      "payload": {
+        "options": [
+          93,
+          100,
+          95,
+          90
+        ],
+        "rule": {
+          "start": 108,
+          "step": -6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 75, 71, 67, 63",
+        "sequence": [
+          null,
+          75,
+          71,
+          67,
+          63
+        ]
+      },
+      "answer": 79,
+      "payload": {
+        "options": [
+          80,
+          79,
+          82,
+          74
+        ],
+        "rule": {
+          "start": 79,
+          "step": -4,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0034",
+      "difficulty": 2,
+      "prompt": {
+        "text": "119, 116, ?, 110, 107",
+        "sequence": [
+          119,
+          116,
+          null,
+          110,
+          107
+        ]
+      },
+      "answer": 113,
+      "payload": {
+        "options": [
+          113,
+          123,
+          114,
+          118
+        ],
+        "rule": {
+          "start": 119,
+          "step": -3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0039",
+      "difficulty": 2,
+      "prompt": {
+        "text": "65, 56, 47, 38, ?",
+        "sequence": [
+          65,
+          56,
+          47,
+          38,
+          null
+        ]
+      },
+      "answer": 29,
+      "payload": {
+        "options": [
+          29,
+          19,
+          31,
+          26
+        ],
+        "rule": {
+          "start": 65,
+          "step": -9,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0043",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 81, 74, 67, 60",
+        "sequence": [
+          null,
+          81,
+          74,
+          67,
+          60
+        ]
+      },
+      "answer": 88,
+      "payload": {
+        "options": [
+          89,
+          85,
+          91,
+          88
+        ],
+        "rule": {
+          "start": 88,
+          "step": -7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0047",
+      "difficulty": 2,
+      "prompt": {
+        "text": "91, ?, 81, 76, 71",
+        "sequence": [
+          91,
+          null,
+          81,
+          76,
+          71
+        ]
+      },
+      "answer": 86,
+      "payload": {
+        "options": [
+          86,
+          91,
+          87,
+          96
+        ],
+        "rule": {
+          "start": 91,
+          "step": -5,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0051",
+      "difficulty": 2,
+      "prompt": {
+        "text": "78, 72, 66, 60, ?",
+        "sequence": [
+          78,
+          72,
+          66,
+          60,
+          null
+        ]
+      },
+      "answer": 54,
+      "payload": {
+        "options": [
+          57,
+          54,
+          59,
+          49
+        ],
+        "rule": {
+          "start": 78,
+          "step": -6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0055",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 67, 59, 51, 43",
+        "sequence": [
+          null,
+          67,
+          59,
+          51,
+          43
+        ]
+      },
+      "answer": 75,
+      "payload": {
+        "options": [
+          76,
+          75,
+          85,
+          74
+        ],
+        "rule": {
+          "start": 75,
+          "step": -8,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0059",
+      "difficulty": 2,
+      "prompt": {
+        "text": "86, 76, 66, 56, ?",
+        "sequence": [
+          86,
+          76,
+          66,
+          56,
+          null
+        ]
+      },
+      "answer": 46,
+      "payload": {
+        "options": [
+          46,
+          36,
+          48,
+          56
+        ],
+        "rule": {
+          "start": 86,
+          "step": -10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0063",
+      "difficulty": 2,
+      "prompt": {
+        "text": "81, 78, ?, 72, 69",
+        "sequence": [
+          81,
+          78,
+          null,
+          72,
+          69
+        ]
+      },
+      "answer": 75,
+      "payload": {
+        "options": [
+          73,
+          75,
+          72,
+          80
+        ],
+        "rule": {
+          "start": 81,
+          "step": -3,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0067",
+      "difficulty": 2,
+      "prompt": {
+        "text": "84, ?, 72, 66, 60",
+        "sequence": [
+          84,
+          null,
+          72,
+          66,
+          60
+        ]
+      },
+      "answer": 78,
+      "payload": {
+        "options": [
+          79,
+          78,
+          76,
+          83
+        ],
+        "rule": {
+          "start": 84,
+          "step": -6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0071",
+      "difficulty": 2,
+      "prompt": {
+        "text": "86, 79, ?, 65, 58",
+        "sequence": [
+          86,
+          79,
+          null,
+          65,
+          58
+        ]
+      },
+      "answer": 72,
+      "payload": {
+        "options": [
+          74,
+          70,
+          72,
+          69
+        ],
+        "rule": {
+          "start": 86,
+          "step": -7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0075",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 105, 97, 89, 81",
+        "sequence": [
+          null,
+          105,
+          97,
+          89,
+          81
+        ]
+      },
+      "answer": 113,
+      "payload": {
+        "options": [
+          111,
+          113,
+          115,
+          114
+        ],
+        "rule": {
+          "start": 113,
+          "step": -8,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0079",
+      "difficulty": 2,
+      "prompt": {
+        "text": "105, ?, 101, 99, 97",
+        "sequence": [
+          105,
+          null,
+          101,
+          99,
+          97
+        ]
+      },
+      "answer": 103,
+      "payload": {
+        "options": [
+          102,
+          104,
+          103,
+          101
+        ],
+        "rule": {
+          "start": 105,
+          "step": -2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0084",
+      "difficulty": 2,
+      "prompt": {
+        "text": "103, 96, ?, 82, 75",
+        "sequence": [
+          103,
+          96,
+          null,
+          82,
+          75
+        ]
+      },
+      "answer": 89,
+      "payload": {
+        "options": [
+          79,
+          87,
+          89,
+          84
+        ],
+        "rule": {
+          "start": 103,
+          "step": -7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0088",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 113, 111, 109, 107",
+        "sequence": [
+          null,
+          113,
+          111,
+          109,
+          107
+        ]
+      },
+      "answer": 115,
+      "payload": {
+        "options": [
+          115,
+          116,
+          118,
+          112
+        ],
+        "rule": {
+          "start": 115,
+          "step": -2,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0092",
+      "difficulty": 2,
+      "prompt": {
+        "text": "94, 88, ?, 76, 70",
+        "sequence": [
+          94,
+          88,
+          null,
+          76,
+          70
+        ]
+      },
+      "answer": 82,
+      "payload": {
+        "options": [
+          82,
+          81,
+          72,
+          80
+        ],
+        "rule": {
+          "start": 94,
+          "step": -6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0097",
+      "difficulty": 2,
+      "prompt": {
+        "text": "73, ?, 61, 55, 49",
+        "sequence": [
+          73,
+          null,
+          61,
+          55,
+          49
+        ]
+      },
+      "answer": 67,
+      "payload": {
+        "options": [
+          65,
+          68,
+          67,
+          66
+        ],
+        "rule": {
+          "start": 73,
+          "step": -6,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0101",
+      "difficulty": 2,
+      "prompt": {
+        "text": "81, 71, 61, ?, 41",
+        "sequence": [
+          81,
+          71,
+          61,
+          null,
+          41
+        ]
+      },
+      "answer": 51,
+      "payload": {
+        "options": [
+          51,
+          50,
+          53,
+          46
+        ],
+        "rule": {
+          "start": 81,
+          "step": -10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0105",
+      "difficulty": 2,
+      "prompt": {
+        "text": "91, ?, 83, 79, 75",
+        "sequence": [
+          91,
+          null,
+          83,
+          79,
+          75
+        ]
+      },
+      "answer": 87,
+      "payload": {
+        "options": [
+          77,
+          90,
+          88,
+          87
+        ],
+        "rule": {
+          "start": 91,
+          "step": -4,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0110",
+      "difficulty": 2,
+      "prompt": {
+        "text": "102, ?, 88, 81, 74",
+        "sequence": [
+          102,
+          null,
+          88,
+          81,
+          74
+        ]
+      },
+      "answer": 95,
+      "payload": {
+        "options": [
+          95,
+          97,
+          90,
+          96
+        ],
+        "rule": {
+          "start": 102,
+          "step": -7,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0114",
+      "difficulty": 2,
+      "prompt": {
+        "text": "?, 76, 71, 66, 61",
+        "sequence": [
+          null,
+          76,
+          71,
+          66,
+          61
+        ]
+      },
+      "answer": 81,
+      "payload": {
+        "options": [
+          79,
+          82,
+          86,
+          81
+        ],
+        "rule": {
+          "start": 81,
+          "step": -5,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0118",
+      "difficulty": 2,
+      "prompt": {
+        "text": "96, 86, ?, 66, 56",
+        "sequence": [
+          96,
+          86,
+          null,
+          66,
+          56
+        ]
+      },
+      "answer": 76,
+      "payload": {
+        "options": [
+          76,
+          78,
+          74,
+          77
+        ],
+        "rule": {
+          "start": 96,
+          "step": -10,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "125, 175, ?, 275, 325",
+        "sequence": [
+          125,
+          175,
+          null,
+          275,
+          325
+        ]
+      },
+      "answer": 225,
+      "payload": {
+        "options": [
+          225,
+          222,
+          228,
+          226
+        ],
+        "rule": {
+          "start": 125,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "470, 485, ?, 515, 530",
+        "sequence": [
+          470,
+          485,
+          null,
+          515,
+          530
+        ]
+      },
+      "answer": 500,
+      "payload": {
+        "options": [
+          503,
+          502,
+          499,
+          500
+        ],
+        "rule": {
+          "start": 470,
+          "step": 15,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 456, 476, 496, 516",
+        "sequence": [
+          null,
+          456,
+          476,
+          496,
+          516
+        ]
+      },
+      "answer": 436,
+      "payload": {
+        "options": [
+          433,
+          438,
+          436,
+          437
+        ],
+        "rule": {
+          "start": 436,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "326, ?, 376, 401, 426",
+        "sequence": [
+          326,
+          null,
+          376,
+          401,
+          426
+        ]
+      },
+      "answer": 351,
+      "payload": {
+        "options": [
+          352,
+          354,
+          350,
+          351
+        ],
+        "rule": {
+          "start": 326,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "131, 156, ?, 206, 231",
+        "sequence": [
+          131,
+          156,
+          null,
+          206,
+          231
+        ]
+      },
+      "answer": 181,
+      "payload": {
+        "options": [
+          181,
+          184,
+          171,
+          182
+        ],
+        "rule": {
+          "start": 131,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "406, 431, 456, 481, ?",
+        "sequence": [
+          406,
+          431,
+          456,
+          481,
+          null
+        ]
+      },
+      "answer": 506,
+      "payload": {
+        "options": [
+          505,
+          509,
+          506,
+          516
+        ],
+        "rule": {
+          "start": 406,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "125, 145, 165, 185, ?",
+        "sequence": [
+          125,
+          145,
+          165,
+          185,
+          null
+        ]
+      },
+      "answer": 205,
+      "payload": {
+        "options": [
+          206,
+          195,
+          205,
+          215
+        ],
+        "rule": {
+          "start": 125,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "306, 356, 406, ?, 506",
+        "sequence": [
+          306,
+          356,
+          406,
+          null,
+          506
+        ]
+      },
+      "answer": 456,
+      "payload": {
+        "options": [
+          456,
+          454,
+          446,
+          453
+        ],
+        "rule": {
+          "start": 306,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0040",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 418, 443, 468, 493",
+        "sequence": [
+          null,
+          418,
+          443,
+          468,
+          493
+        ]
+      },
+      "answer": 393,
+      "payload": {
+        "options": [
+          393,
+          395,
+          394,
+          398
+        ],
+        "rule": {
+          "start": 393,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0044",
+      "difficulty": 3,
+      "prompt": {
+        "text": "418, 443, 468, ?, 518",
+        "sequence": [
+          418,
+          443,
+          468,
+          null,
+          518
+        ]
+      },
+      "answer": 493,
+      "payload": {
+        "options": [
+          483,
+          488,
+          496,
+          493
+        ],
+        "rule": {
+          "start": 418,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0048",
+      "difficulty": 3,
+      "prompt": {
+        "text": "184, ?, 224, 244, 264",
+        "sequence": [
+          184,
+          null,
+          224,
+          244,
+          264
+        ]
+      },
+      "answer": 204,
+      "payload": {
+        "options": [
+          204,
+          205,
+          203,
+          207
+        ],
+        "rule": {
+          "start": 184,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0052",
+      "difficulty": 3,
+      "prompt": {
+        "text": "276, 326, 376, 426, ?",
+        "sequence": [
+          276,
+          326,
+          376,
+          426,
+          null
+        ]
+      },
+      "answer": 476,
+      "payload": {
+        "options": [
+          466,
+          476,
+          473,
+          477
+        ],
+        "rule": {
+          "start": 276,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0056",
+      "difficulty": 3,
+      "prompt": {
+        "text": "199, 219, 239, ?, 279",
+        "sequence": [
+          199,
+          219,
+          239,
+          null,
+          279
+        ]
+      },
+      "answer": 259,
+      "payload": {
+        "options": [
+          264,
+          262,
+          258,
+          259
+        ],
+        "rule": {
+          "start": 199,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0060",
+      "difficulty": 3,
+      "prompt": {
+        "text": "146, 161, 176, 191, ?",
+        "sequence": [
+          146,
+          161,
+          176,
+          191,
+          null
+        ]
+      },
+      "answer": 206,
+      "payload": {
+        "options": [
+          206,
+          203,
+          196,
+          211
+        ],
+        "rule": {
+          "start": 146,
+          "step": 15,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0064",
+      "difficulty": 3,
+      "prompt": {
+        "text": "242, 267, ?, 317, 342",
+        "sequence": [
+          242,
+          267,
+          null,
+          317,
+          342
+        ]
+      },
+      "answer": 292,
+      "payload": {
+        "options": [
+          293,
+          282,
+          289,
+          292
+        ],
+        "rule": {
+          "start": 242,
+          "step": 25,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0068",
+      "difficulty": 3,
+      "prompt": {
+        "text": "498, ?, 528, 543, 558",
+        "sequence": [
+          498,
+          null,
+          528,
+          543,
+          558
+        ]
+      },
+      "answer": 513,
+      "payload": {
+        "options": [
+          511,
+          514,
+          513,
+          508
+        ],
+        "rule": {
+          "start": 498,
+          "step": 15,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0072",
+      "difficulty": 3,
+      "prompt": {
+        "text": "198, 218, 238, ?, 278",
+        "sequence": [
+          198,
+          218,
+          238,
+          null,
+          278
+        ]
+      },
+      "answer": 258,
+      "payload": {
+        "options": [
+          261,
+          268,
+          260,
+          258
+        ],
+        "rule": {
+          "start": 198,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0076",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 427, 447, 467, 487",
+        "sequence": [
+          null,
+          427,
+          447,
+          467,
+          487
+        ]
+      },
+      "answer": 407,
+      "payload": {
+        "options": [
+          404,
+          408,
+          409,
+          407
+        ],
+        "rule": {
+          "start": 407,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0080",
+      "difficulty": 3,
+      "prompt": {
+        "text": "340, ?, 440, 490, 540",
+        "sequence": [
+          340,
+          null,
+          440,
+          490,
+          540
+        ]
+      },
+      "answer": 390,
+      "payload": {
+        "options": [
+          391,
+          389,
+          390,
+          395
+        ],
+        "rule": {
+          "start": 340,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0085",
+      "difficulty": 3,
+      "prompt": {
+        "text": "401, 451, 501, 551, ?",
+        "sequence": [
+          401,
+          451,
+          501,
+          551,
+          null
+        ]
+      },
+      "answer": 601,
+      "payload": {
+        "options": [
+          601,
+          606,
+          603,
+          596
+        ],
+        "rule": {
+          "start": 401,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0089",
+      "difficulty": 3,
+      "prompt": {
+        "text": "250, 300, 350, 400, ?",
+        "sequence": [
+          250,
+          300,
+          350,
+          400,
+          null
+        ]
+      },
+      "answer": 450,
+      "payload": {
+        "options": [
+          447,
+          449,
+          451,
+          450
+        ],
+        "rule": {
+          "start": 250,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0093",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 444, 494, 544, 594",
+        "sequence": [
+          null,
+          444,
+          494,
+          544,
+          594
+        ]
+      },
+      "answer": 394,
+      "payload": {
+        "options": [
+          397,
+          395,
+          394,
+          392
+        ],
+        "rule": {
+          "start": 394,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0098",
+      "difficulty": 3,
+      "prompt": {
+        "text": "194, ?, 294, 344, 394",
+        "sequence": [
+          194,
+          null,
+          294,
+          344,
+          394
+        ]
+      },
+      "answer": 244,
+      "payload": {
+        "options": [
+          245,
+          244,
+          249,
+          242
+        ],
+        "rule": {
+          "start": 194,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0102",
+      "difficulty": 3,
+      "prompt": {
+        "text": "409, 459, 509, 559, ?",
+        "sequence": [
+          409,
+          459,
+          509,
+          559,
+          null
+        ]
+      },
+      "answer": 609,
+      "payload": {
+        "options": [
+          610,
+          614,
+          609,
+          611
+        ],
+        "rule": {
+          "start": 409,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0106",
+      "difficulty": 3,
+      "prompt": {
+        "text": "131, 151, ?, 191, 211",
+        "sequence": [
+          131,
+          151,
+          null,
+          191,
+          211
+        ]
+      },
+      "answer": 171,
+      "payload": {
+        "options": [
+          181,
+          173,
+          172,
+          171
+        ],
+        "rule": {
+          "start": 131,
+          "step": 20,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0111",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 208, 223, 238, 253",
+        "sequence": [
+          null,
+          208,
+          223,
+          238,
+          253
+        ]
+      },
+      "answer": 193,
+      "payload": {
+        "options": [
+          190,
+          183,
+          193,
+          194
+        ],
+        "rule": {
+          "start": 193,
+          "step": 15,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0115",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 438, 453, 468, 483",
+        "sequence": [
+          null,
+          438,
+          453,
+          468,
+          483
+        ]
+      },
+      "answer": 423,
+      "payload": {
+        "options": [
+          428,
+          423,
+          426,
+          424
+        ],
+        "rule": {
+          "start": 423,
+          "step": 15,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0119",
+      "difficulty": 3,
+      "prompt": {
+        "text": "?, 166, 216, 266, 316",
+        "sequence": [
+          null,
+          166,
+          216,
+          266,
+          316
+        ]
+      },
+      "answer": 116,
+      "payload": {
+        "options": [
+          111,
+          117,
+          119,
+          116
+        ],
+        "rule": {
+          "start": 116,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2, 4, 8, 16, ?",
+        "sequence": [
+          2,
+          4,
+          8,
+          16,
+          null
+        ]
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          24,
+          32,
+          33,
+          31
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 2,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "8, 16, 32, 64, ?",
+        "sequence": [
+          8,
+          16,
+          32,
+          64,
+          null
+        ]
+      },
+      "answer": 128,
+      "payload": {
+        "options": [
+          125,
+          128,
+          96,
+          127
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 8,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0013",
+      "difficulty": 4,
+      "prompt": {
+        "text": "10, 20, 40, 80, ?",
+        "sequence": [
+          10,
+          20,
+          40,
+          80,
+          null
+        ]
+      },
+      "answer": 160,
+      "payload": {
+        "options": [
+          157,
+          160,
+          165,
+          120
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 10,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0018",
+      "difficulty": 4,
+      "prompt": {
+        "text": "6, 12, 24, 48, ?",
+        "sequence": [
+          6,
+          12,
+          24,
+          48,
+          null
+        ]
+      },
+      "answer": 96,
+      "payload": {
+        "options": [
+          96,
+          72,
+          106,
+          86
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 6,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "4, 8, 16, 32, ?",
+        "sequence": [
+          4,
+          8,
+          16,
+          32,
+          null
+        ]
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          67,
+          48,
+          66,
+          64
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 4,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "1, 2, 4, 8, ?",
+        "sequence": [
+          1,
+          2,
+          4,
+          8,
+          null
+        ]
+      },
+      "answer": 16,
+      "payload": {
+        "options": [
+          12,
+          17,
+          16,
+          13
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 1,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0053",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5, 10, 20, 40, ?",
+        "sequence": [
+          5,
+          10,
+          20,
+          40,
+          null
+        ]
+      },
+      "answer": 80,
+      "payload": {
+        "options": [
+          77,
+          70,
+          80,
+          60
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 5,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0081",
+      "difficulty": 4,
+      "prompt": {
+        "text": "9, 18, 36, 72, ?",
+        "sequence": [
+          9,
+          18,
+          36,
+          72,
+          null
+        ]
+      },
+      "answer": 144,
+      "payload": {
+        "options": [
+          144,
+          143,
+          108,
+          142
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 9,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0094",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3, 6, 12, 24, ?",
+        "sequence": [
+          3,
+          6,
+          12,
+          24,
+          null
+        ]
+      },
+      "answer": 48,
+      "payload": {
+        "options": [
+          48,
+          50,
+          36,
+          53
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 3,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0107",
+      "difficulty": 4,
+      "prompt": {
+        "text": "7, 14, 28, 56, ?",
+        "sequence": [
+          7,
+          14,
+          28,
+          56,
+          null
+        ]
+      },
+      "answer": 112,
+      "payload": {
+        "options": [
+          110,
+          84,
+          112,
+          115
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 7,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "387, 487, 587, 687, ?, 887",
+        "sequence": [
+          387,
+          487,
+          587,
+          687,
+          null,
+          887
+        ]
+      },
+      "answer": 787,
+      "payload": {
+        "options": [
+          785,
+          782,
+          787,
+          789
+        ],
+        "rule": {
+          "start": 387,
+          "step": 100,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0014",
+      "difficulty": 5,
+      "prompt": {
+        "text": "4, 8, 16, 32, ?, 128",
+        "sequence": [
+          4,
+          8,
+          16,
+          32,
+          null,
+          128
+        ]
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          59,
+          48,
+          64,
+          69
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 4,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0019",
+      "difficulty": 5,
+      "prompt": {
+        "text": "12, 24, 48, 96, 192, ?",
+        "sequence": [
+          12,
+          24,
+          48,
+          96,
+          192,
+          null
+        ]
+      },
+      "answer": 384,
+      "payload": {
+        "options": [
+          384,
+          387,
+          379,
+          288
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 12,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0024",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5, 10, 20, 40, 80, ?",
+        "sequence": [
+          5,
+          10,
+          20,
+          40,
+          80,
+          null
+        ]
+      },
+      "answer": 160,
+      "payload": {
+        "options": [
+          160,
+          120,
+          161,
+          162
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 5,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "9, 18, 36, ?, 144, 288",
+        "sequence": [
+          9,
+          18,
+          36,
+          null,
+          144,
+          288
+        ]
+      },
+      "answer": 72,
+      "payload": {
+        "options": [
+          71,
+          69,
+          72,
+          54
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 9,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "?, 237, 337, 437, 537, 637",
+        "sequence": [
+          null,
+          237,
+          337,
+          437,
+          537,
+          637
+        ]
+      },
+      "answer": 137,
+      "payload": {
+        "options": [
+          138,
+          137,
+          134,
+          139
+        ],
+        "rule": {
+          "start": 137,
+          "step": 100,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0037",
+      "difficulty": 5,
+      "prompt": {
+        "text": "847, 797, 747, ?, 647, 597",
+        "sequence": [
+          847,
+          797,
+          747,
+          null,
+          647,
+          597
+        ]
+      },
+      "answer": 697,
+      "payload": {
+        "options": [
+          695,
+          692,
+          697,
+          702
+        ],
+        "rule": {
+          "start": 847,
+          "step": -50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0041",
+      "difficulty": 5,
+      "prompt": {
+        "text": "8, 16, 32, ?, 128, 256",
+        "sequence": [
+          8,
+          16,
+          32,
+          null,
+          128,
+          256
+        ]
+      },
+      "answer": 64,
+      "payload": {
+        "options": [
+          64,
+          48,
+          63,
+          69
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 8,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0045",
+      "difficulty": 5,
+      "prompt": {
+        "text": "1, 2, 4, 8, 16, ?",
+        "sequence": [
+          1,
+          2,
+          4,
+          8,
+          16,
+          null
+        ]
+      },
+      "answer": 32,
+      "payload": {
+        "options": [
+          32,
+          22,
+          35,
+          24
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 1,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0049",
+      "difficulty": 5,
+      "prompt": {
+        "text": "11, ?, 44, 88, 176, 352",
+        "sequence": [
+          11,
+          null,
+          44,
+          88,
+          176,
+          352
+        ]
+      },
+      "answer": 22,
+      "payload": {
+        "options": [
+          23,
+          22,
+          21,
+          20
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 11,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0057",
+      "difficulty": 5,
+      "prompt": {
+        "text": "444, ?, 644, 744, 844, 944",
+        "sequence": [
+          444,
+          null,
+          644,
+          744,
+          844,
+          944
+        ]
+      },
+      "answer": 544,
+      "payload": {
+        "options": [
+          534,
+          541,
+          545,
+          544
+        ],
+        "rule": {
+          "start": 444,
+          "step": 100,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0061",
+      "difficulty": 5,
+      "prompt": {
+        "text": "10, 20, ?, 80, 160, 320",
+        "sequence": [
+          10,
+          20,
+          null,
+          80,
+          160,
+          320
+        ]
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          35,
+          42,
+          40,
+          30
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 10,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "10, 20, 40, ?, 160, 320",
+        "sequence": [
+          10,
+          20,
+          40,
+          null,
+          160,
+          320
+        ]
+      },
+      "answer": 80,
+      "payload": {
+        "options": [
+          78,
+          77,
+          60,
+          80
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 10,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0069",
+      "difficulty": 5,
+      "prompt": {
+        "text": "712, 662, 612, 562, ?, 462",
+        "sequence": [
+          712,
+          662,
+          612,
+          562,
+          null,
+          462
+        ]
+      },
+      "answer": 512,
+      "payload": {
+        "options": [
+          522,
+          510,
+          512,
+          513
+        ],
+        "rule": {
+          "start": 712,
+          "step": -50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0073",
+      "difficulty": 5,
+      "prompt": {
+        "text": "640, ?, 740, 790, 840, 890",
+        "sequence": [
+          640,
+          null,
+          740,
+          790,
+          840,
+          890
+        ]
+      },
+      "answer": 690,
+      "payload": {
+        "options": [
+          690,
+          700,
+          691,
+          689
+        ],
+        "rule": {
+          "start": 640,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0077",
+      "difficulty": 5,
+      "prompt": {
+        "text": "357, 407, 457, ?, 557, 607",
+        "sequence": [
+          357,
+          407,
+          457,
+          null,
+          557,
+          607
+        ]
+      },
+      "answer": 507,
+      "payload": {
+        "options": [
+          508,
+          507,
+          517,
+          504
+        ],
+        "rule": {
+          "start": 357,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0082",
+      "difficulty": 5,
+      "prompt": {
+        "text": "6, ?, 24, 48, 96, 192",
+        "sequence": [
+          6,
+          null,
+          24,
+          48,
+          96,
+          192
+        ]
+      },
+      "answer": 12,
+      "payload": {
+        "options": [
+          7,
+          12,
+          10,
+          13
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 6,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0086",
+      "difficulty": 5,
+      "prompt": {
+        "text": "7, 14, 28, ?, 112, 224",
+        "sequence": [
+          7,
+          14,
+          28,
+          null,
+          112,
+          224
+        ]
+      },
+      "answer": 56,
+      "payload": {
+        "options": [
+          56,
+          57,
+          42,
+          58
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 7,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0090",
+      "difficulty": 5,
+      "prompt": {
+        "text": "9, 18, 36, 72, 144, ?",
+        "sequence": [
+          9,
+          18,
+          36,
+          72,
+          144,
+          null
+        ]
+      },
+      "answer": 288,
+      "payload": {
+        "options": [
+          288,
+          216,
+          293,
+          289
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 9,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0095",
+      "difficulty": 5,
+      "prompt": {
+        "text": "349, ?, 249, 199, 149, 99",
+        "sequence": [
+          349,
+          null,
+          249,
+          199,
+          149,
+          99
+        ]
+      },
+      "answer": 299,
+      "payload": {
+        "options": [
+          299,
+          300,
+          304,
+          301
+        ],
+        "rule": {
+          "start": 349,
+          "step": -50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0099",
+      "difficulty": 5,
+      "prompt": {
+        "text": "893, 943, 993, 1043, 1093, ?",
+        "sequence": [
+          893,
+          943,
+          993,
+          1043,
+          1093,
+          null
+        ]
+      },
+      "answer": 1143,
+      "payload": {
+        "options": [
+          1153,
+          1140,
+          1143,
+          1133
+        ],
+        "rule": {
+          "start": 893,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0103",
+      "difficulty": 5,
+      "prompt": {
+        "text": "10, ?, 40, 80, 160, 320",
+        "sequence": [
+          10,
+          null,
+          40,
+          80,
+          160,
+          320
+        ]
+      },
+      "answer": 20,
+      "payload": {
+        "options": [
+          22,
+          20,
+          15,
+          21
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 10,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0108",
+      "difficulty": 5,
+      "prompt": {
+        "text": "401, 501, 601, 701, 801, ?",
+        "sequence": [
+          401,
+          501,
+          601,
+          701,
+          801,
+          null
+        ]
+      },
+      "answer": 901,
+      "payload": {
+        "options": [
+          903,
+          904,
+          901,
+          911
+        ],
+        "rule": {
+          "start": 401,
+          "step": 100,
+          "type": "arithmetic"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0112",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5, 10, 20, ?, 80, 160",
+        "sequence": [
+          5,
+          10,
+          20,
+          null,
+          80,
+          160
+        ]
+      },
+      "answer": 40,
+      "payload": {
+        "options": [
+          30,
+          41,
+          40,
+          39
+        ],
+        "rule": {
+          "ratio": 2,
+          "start": 5,
+          "type": "geometric"
+        }
+      }
+    },
+    {
+      "id": "deret-angka.sd-b.0116",
+      "difficulty": 5,
+      "prompt": {
+        "text": "271, 321, 371, 421, 471, ?",
+        "sequence": [
+          271,
+          321,
+          371,
+          421,
+          471,
+          null
+        ]
+      },
+      "answer": 521,
+      "payload": {
+        "options": [
+          526,
+          511,
+          522,
+          521
+        ],
+        "rule": {
+          "start": 271,
+          "step": 50,
+          "type": "arithmetic"
+        }
+      }
+    }
+  ]
+}

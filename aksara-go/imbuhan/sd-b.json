@@ -1,0 +1,660 @@
+{
+  "schemaVersion": 1,
+  "gameId": "imbuhan",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "imbuhan.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ber- + main"
+      },
+      "answer": "bermain",
+      "payload": {
+        "options": [
+          "bemain",
+          "bermain",
+          "belmain"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ber- + lari"
+      },
+      "answer": "berlari",
+      "payload": {
+        "options": [
+          "berlari",
+          "berari",
+          "belari"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ber- + sepeda"
+      },
+      "answer": "bersepeda",
+      "payload": {
+        "options": [
+          "bersepeda",
+          "besepeda",
+          "bersepda"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ber- + jalan"
+      },
+      "answer": "berjalan",
+      "payload": {
+        "options": [
+          "bejalan",
+          "berjalan",
+          "belajalan"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "di- + tulis"
+      },
+      "answer": "ditulis",
+      "payload": {
+        "options": [
+          "di tulis",
+          "ditulis",
+          "dinulis"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "di- + baca"
+      },
+      "answer": "dibaca",
+      "payload": {
+        "options": [
+          "dimbaca",
+          "dibaca",
+          "di baca"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "di- + makan"
+      },
+      "answer": "dimakan",
+      "payload": {
+        "options": [
+          "dimakan",
+          "dimmakan",
+          "di makan"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0008",
+      "difficulty": 1,
+      "prompt": {
+        "text": "di- + minum"
+      },
+      "answer": "diminum",
+      "payload": {
+        "options": [
+          "dimminum",
+          "di minum",
+          "diminum"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + nyanyi"
+      },
+      "answer": "bernyanyi",
+      "payload": {
+        "options": [
+          "benyanyi",
+          "bernanyi",
+          "bernyanyi"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + warna"
+      },
+      "answer": "berwarna",
+      "payload": {
+        "options": [
+          "bewarna",
+          "berwarna",
+          "berwana"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + tanya"
+      },
+      "answer": "bertanya",
+      "payload": {
+        "options": [
+          "betanya",
+          "bertanya",
+          "bernanya"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + bicara"
+      },
+      "answer": "berbicara",
+      "payload": {
+        "options": [
+          "bermicara",
+          "berbicara",
+          "bebicara"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + cerita"
+      },
+      "answer": "bercerita",
+      "payload": {
+        "options": [
+          "bercerita",
+          "bernyerita",
+          "becerita"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ber- + kebun"
+      },
+      "answer": "berkebun",
+      "payload": {
+        "options": [
+          "bekebun",
+          "bengebun",
+          "berkebun"
+        ]
+      },
+      "explanation": "Awalan ber- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0015",
+      "difficulty": 2,
+      "prompt": {
+        "text": "di- + sapu"
+      },
+      "answer": "disapu",
+      "payload": {
+        "options": [
+          "di sapu",
+          "dinyapu",
+          "disapu"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "di- + potong"
+      },
+      "answer": "dipotong",
+      "payload": {
+        "options": [
+          "di potong",
+          "dipotong",
+          "dimotong"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "di- + tanam"
+      },
+      "answer": "ditanam",
+      "payload": {
+        "options": [
+          "di tanam",
+          "ditanam",
+          "dinanam"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "di- + kirim"
+      },
+      "answer": "dikirim",
+      "payload": {
+        "options": [
+          "dikirim",
+          "dingirim",
+          "di kirim"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0019",
+      "difficulty": 2,
+      "prompt": {
+        "text": "di- + cuci"
+      },
+      "answer": "dicuci",
+      "payload": {
+        "options": [
+          "dinyuci",
+          "dicuci",
+          "di cuci"
+        ]
+      },
+      "explanation": "Awalan di- ditulis serangkai dengan kata dasar dan tidak ada huruf yang luluh."
+    },
+    {
+      "id": "imbuhan.sd-b.0020",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ter- + jatuh"
+      },
+      "answer": "terjatuh",
+      "payload": {
+        "options": [
+          "tejatuh",
+          "terjatuh",
+          "tenjatuh"
+        ]
+      },
+      "explanation": "Awalan ter- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ter- + tidur"
+      },
+      "answer": "tertidur",
+      "payload": {
+        "options": [
+          "tertidur",
+          "ternidur",
+          "tetidur"
+        ]
+      },
+      "explanation": "Awalan ter- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ter- + tinggi"
+      },
+      "answer": "tertinggi",
+      "payload": {
+        "options": [
+          "tertingi",
+          "tertinggi",
+          "tetinggi"
+        ]
+      },
+      "explanation": "Awalan ter- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0023",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ter- + besar"
+      },
+      "answer": "terbesar",
+      "payload": {
+        "options": [
+          "terbesar",
+          "tebesar",
+          "termesar"
+        ]
+      },
+      "explanation": "Awalan ter- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ter- + kejut"
+      },
+      "answer": "terkejut",
+      "payload": {
+        "options": [
+          "terngejut",
+          "terkejut",
+          "tekejut"
+        ]
+      },
+      "explanation": "Awalan ter- langsung melekat pada kata dasar."
+    },
+    {
+      "id": "imbuhan.sd-b.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + lihat"
+      },
+      "answer": "melihat",
+      "payload": {
+        "options": [
+          "melihat",
+          "memlihat",
+          "menlihat",
+          "menglihat"
+        ]
+      },
+      "explanation": "Awalan me- tetap me- jika kata dasar diawali l, m, n, ny, r, w, atau y."
+    },
+    {
+      "id": "imbuhan.sd-b.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + makan"
+      },
+      "answer": "memakan",
+      "payload": {
+        "options": [
+          "mengmakan",
+          "menmakan",
+          "memmakan",
+          "memakan"
+        ]
+      },
+      "explanation": "Awalan me- tetap me- jika kata dasar diawali l, m, n, ny, r, w, atau y."
+    },
+    {
+      "id": "imbuhan.sd-b.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + rawat"
+      },
+      "answer": "merawat",
+      "payload": {
+        "options": [
+          "mengrawat",
+          "menrawat",
+          "merawat",
+          "memrawat"
+        ]
+      },
+      "explanation": "Awalan me- tetap me- jika kata dasar diawali l, m, n, ny, r, w, atau y."
+    },
+    {
+      "id": "imbuhan.sd-b.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + lukis"
+      },
+      "answer": "melukis",
+      "payload": {
+        "options": [
+          "menglukis",
+          "melukis",
+          "menlukis",
+          "memlukis"
+        ]
+      },
+      "explanation": "Awalan me- tetap me- jika kata dasar diawali l, m, n, ny, r, w, atau y."
+    },
+    {
+      "id": "imbuhan.sd-b.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + nilai"
+      },
+      "answer": "menilai",
+      "payload": {
+        "options": [
+          "mennilai",
+          "mengnilai",
+          "memnilai",
+          "menilai"
+        ]
+      },
+      "explanation": "Awalan me- tetap me- jika kata dasar diawali l, m, n, ny, r, w, atau y."
+    },
+    {
+      "id": "imbuhan.sd-b.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + baca"
+      },
+      "answer": "membaca",
+      "payload": {
+        "options": [
+          "membaca",
+          "mengbaca",
+          "menbaca",
+          "mebaca"
+        ]
+      },
+      "explanation": "Awalan me- menjadi mem- jika kata dasar diawali huruf b."
+    },
+    {
+      "id": "imbuhan.sd-b.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + dengar"
+      },
+      "answer": "mendengar",
+      "payload": {
+        "options": [
+          "medengar",
+          "mengdengar",
+          "mendengar",
+          "memdengar"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- jika kata dasar diawali huruf c, d, atau j."
+    },
+    {
+      "id": "imbuhan.sd-b.0032",
+      "difficulty": 3,
+      "prompt": {
+        "text": "me- + jual"
+      },
+      "answer": "menjual",
+      "payload": {
+        "options": [
+          "mengjual",
+          "memjual",
+          "mejual",
+          "menjual"
+        ]
+      },
+      "explanation": "Awalan me- menjadi men- jika kata dasar diawali huruf c, d, atau j."
+    },
+    {
+      "id": "imbuhan.sd-b.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + gambar"
+      },
+      "answer": "menggambar",
+      "payload": {
+        "options": [
+          "megambar",
+          "membambar",
+          "menggambar",
+          "mengambar"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- jika kata dasar diawali huruf g, h, atau vokal."
+    },
+    {
+      "id": "imbuhan.sd-b.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + hitung"
+      },
+      "answer": "menghitung",
+      "payload": {
+        "options": [
+          "menghitung",
+          "mehitung",
+          "menhitung",
+          "menitung"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- jika kata dasar diawali huruf g, h, atau vokal."
+    },
+    {
+      "id": "imbuhan.sd-b.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "me- + ambil"
+      },
+      "answer": "mengambil",
+      "payload": {
+        "options": [
+          "memambil",
+          "menambil",
+          "mengambil",
+          "meambil"
+        ]
+      },
+      "explanation": "Awalan me- menjadi meng- jika kata dasar diawali huruf g, h, atau vokal."
+    },
+    {
+      "id": "imbuhan.sd-b.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ber- + renang"
+      },
+      "answer": "berenang",
+      "payload": {
+        "options": [
+          "berenang",
+          "bernenang",
+          "berrenang"
+        ]
+      },
+      "explanation": "Awalan ber- menjadi be- jika kata dasar diawali huruf r."
+    },
+    {
+      "id": "imbuhan.sd-b.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ber- + kerja"
+      },
+      "answer": "bekerja",
+      "payload": {
+        "options": [
+          "bengkerja",
+          "berkerja",
+          "bekerja"
+        ]
+      },
+      "explanation": "Awalan ber- menjadi be- jika suku pertama kata dasar berakhir dengan -er."
+    },
+    {
+      "id": "imbuhan.sd-b.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ber- + ternak"
+      },
+      "answer": "beternak",
+      "payload": {
+        "options": [
+          "berternak",
+          "berternakan",
+          "beternak"
+        ]
+      },
+      "explanation": "Awalan ber- menjadi be- jika suku pertama kata dasar berakhir dengan -er."
+    },
+    {
+      "id": "imbuhan.sd-b.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ber- + ajar"
+      },
+      "answer": "belajar",
+      "payload": {
+        "options": [
+          "beajar",
+          "belajar",
+          "berajar"
+        ]
+      },
+      "explanation": "Awalan ber- bertemu ajar menjadi belajar; ini bentuk khusus."
+    },
+    {
+      "id": "imbuhan.sd-b.0040",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ter- + rasa"
+      },
+      "answer": "terasa",
+      "payload": {
+        "options": [
+          "tenrasa",
+          "terasa",
+          "terrasa"
+        ]
+      },
+      "explanation": "Awalan ter- menjadi te- jika kata dasar diawali huruf r."
+    }
+  ]
+}

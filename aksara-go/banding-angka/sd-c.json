@@ -1,0 +1,1209 @@
+{
+  "schemaVersion": 1,
+  "gameId": "banding-angka",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "COMPARE",
+  "questions": [
+    {
+      "id": "banding-angka.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/10 ? 2/6",
+        "left": "1/10",
+        "right": "2/6"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3/5 ? 1/5",
+        "left": "3/5",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/4 ? 6/12",
+        "left": "2/4",
+        "right": "6/12"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0016",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4/6 ? 4/5",
+        "left": "4/6",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3/4 ? 1/2",
+        "left": "3/4",
+        "right": "1/2"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0026",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/5 ? 8/20",
+        "left": "2/5",
+        "right": "8/20"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/2 ? 4/5",
+        "left": "1/2",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0034",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/4 ? 1/5",
+        "left": "1/4",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0039",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/5 ? 4/20",
+        "left": "1/5",
+        "right": "4/20"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0044",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/8 ? 7/8",
+        "left": "1/8",
+        "right": "7/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0049",
+      "difficulty": 1,
+      "prompt": {
+        "text": "5/6 ? 3/6",
+        "left": "5/6",
+        "right": "3/6"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0054",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3/6 ? 1/2",
+        "left": "3/6",
+        "right": "1/2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0058",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/8 ? 1/4",
+        "left": "1/8",
+        "right": "1/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0063",
+      "difficulty": 1,
+      "prompt": {
+        "text": "8/10 ? 3/5",
+        "left": "8/10",
+        "right": "3/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0068",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/2 ? 3/6",
+        "left": "1/2",
+        "right": "3/6"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0071",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/6 ? 4/5",
+        "left": "2/6",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0075",
+      "difficulty": 1,
+      "prompt": {
+        "text": "8/10 ? 1/10",
+        "left": "8/10",
+        "right": "1/10"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0080",
+      "difficulty": 1,
+      "prompt": {
+        "text": "4/5 ? 12/15",
+        "left": "4/5",
+        "right": "12/15"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0083",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/6 ? 2/3",
+        "left": "2/6",
+        "right": "2/3"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0088",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3/5 ? 2/5",
+        "left": "3/5",
+        "right": "2/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0093",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/4 ? 4/16",
+        "left": "1/4",
+        "right": "4/16"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0095",
+      "difficulty": 1,
+      "prompt": {
+        "text": "3/4 ? 7/8",
+        "left": "3/4",
+        "right": "7/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/4 ? 1/4",
+        "left": "2/4",
+        "right": "1/4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0105",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/2 ? 2/4",
+        "left": "1/2",
+        "right": "2/4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0107",
+      "difficulty": 1,
+      "prompt": {
+        "text": "1/6 ? 2/6",
+        "left": "1/6",
+        "right": "2/6"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0112",
+      "difficulty": 1,
+      "prompt": {
+        "text": "9/10 ? 1/5",
+        "left": "9/10",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0118",
+      "difficulty": 1,
+      "prompt": {
+        "text": "2/6 ? 2/4",
+        "left": "2/6",
+        "right": "2/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,65 ? 0,97",
+        "left": "0,65",
+        "right": "0,97"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,59 ? 0,12",
+        "left": "0,59",
+        "right": "0,12"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,6 ? 0,6",
+        "left": "0,6",
+        "right": "0,6"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0017",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,19 ? 0,56",
+        "left": "0,19",
+        "right": "0,56"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,41 ? 0,14",
+        "left": "0,41",
+        "right": "0,14"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0027",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,4 ? 0,4",
+        "left": "0,4",
+        "right": "0,4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0030",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,75 ? 0,86",
+        "left": "0,75",
+        "right": "0,86"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0035",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,27 ? 0,14",
+        "left": "0,27",
+        "right": "0,14"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0040",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,5 ? 0,5",
+        "left": "0,5",
+        "right": "0,5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0045",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,55 ? 0,67",
+        "left": "0,55",
+        "right": "0,67"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0050",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,37 ? 0,36",
+        "left": "0,37",
+        "right": "0,36"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0055",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,8 ? 0,8",
+        "left": "0,8",
+        "right": "0,8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0059",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,08 ? 0,64",
+        "left": "0,08",
+        "right": "0,64"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0064",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,58 ? 0,38",
+        "left": "0,58",
+        "right": "0,38"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0072",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,31 ? 0,74",
+        "left": "0,31",
+        "right": "0,74"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0076",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,86 ? 0,76",
+        "left": "0,86",
+        "right": "0,76"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0081",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,7 ? 0,7",
+        "left": "0,7",
+        "right": "0,7"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0084",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,25 ? 0,95",
+        "left": "0,25",
+        "right": "0,95"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0089",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,91 ? 0,85",
+        "left": "0,91",
+        "right": "0,85"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0096",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,24 ? 0,62",
+        "left": "0,24",
+        "right": "0,62"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0101",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,95 ? 0,16",
+        "left": "0,95",
+        "right": "0,16"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0106",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,2 ? 0,2",
+        "left": "0,2",
+        "right": "0,2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0108",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,01 ? 0,1",
+        "left": "0,01",
+        "right": "0,1"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0113",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,73 ? 0,1",
+        "left": "0,73",
+        "right": "0,1"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0119",
+      "difficulty": 2,
+      "prompt": {
+        "text": "0,78 ? 0,83",
+        "left": "0,78",
+        "right": "0,83"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,3 ? 3/5",
+        "left": "0,3",
+        "right": "3/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 3/5",
+        "left": "4/5",
+        "right": "3/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,8 ? 4/5",
+        "left": "0,8",
+        "right": "4/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,6 ? 0,75",
+        "left": "0,6",
+        "right": "0,75"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 0,45",
+        "left": "4/5",
+        "right": "0,45"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0031",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,2 ? 0,8",
+        "left": "0,2",
+        "right": "0,8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0036",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,65 ? 1/5",
+        "left": "0,65",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0041",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 0,2",
+        "left": "1/5",
+        "right": "0,2"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0046",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 4/5",
+        "left": "1/5",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0051",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 2/5",
+        "left": "4/5",
+        "right": "2/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0060",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 0,95",
+        "left": "1/5",
+        "right": "0,95"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0065",
+      "difficulty": 3,
+      "prompt": {
+        "text": "1/5 ? 0,15",
+        "left": "1/5",
+        "right": "0,15"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0069",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,6 ? 3/5",
+        "left": "0,6",
+        "right": "3/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0073",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,25 ? 0,65",
+        "left": "0,25",
+        "right": "0,65"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0077",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,55 ? 1/5",
+        "left": "0,55",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0082",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,2 ? 1/5",
+        "left": "0,2",
+        "right": "1/5"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0085",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3/5 ? 0,75",
+        "left": "3/5",
+        "right": "0,75"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0090",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,8 ? 0,4",
+        "left": "0,8",
+        "right": "0,4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0094",
+      "difficulty": 3,
+      "prompt": {
+        "text": "3/5 ? 0,6",
+        "left": "3/5",
+        "right": "0,6"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0097",
+      "difficulty": 3,
+      "prompt": {
+        "text": "2/5 ? 0,95",
+        "left": "2/5",
+        "right": "0,95"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0102",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,25 ? 1/5",
+        "left": "0,25",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0109",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,35 ? 4/5",
+        "left": "0,35",
+        "right": "4/5"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0114",
+      "difficulty": 3,
+      "prompt": {
+        "text": "0,7 ? 1/5",
+        "left": "0,7",
+        "right": "1/5"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0117",
+      "difficulty": 3,
+      "prompt": {
+        "text": "4/5 ? 0,8",
+        "left": "4/5",
+        "right": "0,8"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "1/4 ? 3/4",
+        "left": "1/4",
+        "right": "3/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "80% ? 1/4",
+        "left": "80%",
+        "right": "1/4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0014",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3/4 ? 75%",
+        "left": "3/4",
+        "right": "75%"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "30% ? 2/4",
+        "left": "30%",
+        "right": "2/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "95% ? 10%",
+        "left": "95%",
+        "right": "10%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "50% ? 2/4",
+        "left": "50%",
+        "right": "2/4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "45% ? 2/4",
+        "left": "45%",
+        "right": "2/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3/4 ? 1/4",
+        "left": "3/4",
+        "right": "1/4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0042",
+      "difficulty": 4,
+      "prompt": {
+        "text": "75% ? 3/4",
+        "left": "75%",
+        "right": "3/4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0047",
+      "difficulty": 4,
+      "prompt": {
+        "text": "5% ? 40%",
+        "left": "5%",
+        "right": "40%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0052",
+      "difficulty": 4,
+      "prompt": {
+        "text": "3/4 ? 5%",
+        "left": "3/4",
+        "right": "5%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0056",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2/4 ? 50%",
+        "left": "2/4",
+        "right": "50%"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0061",
+      "difficulty": 4,
+      "prompt": {
+        "text": "20% ? 2/4",
+        "left": "20%",
+        "right": "2/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0066",
+      "difficulty": 4,
+      "prompt": {
+        "text": "90% ? 3/4",
+        "left": "90%",
+        "right": "3/4"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0070",
+      "difficulty": 4,
+      "prompt": {
+        "text": "25% ? 1/4",
+        "left": "25%",
+        "right": "1/4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0078",
+      "difficulty": 4,
+      "prompt": {
+        "text": "80% ? 50%",
+        "left": "80%",
+        "right": "50%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0086",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2/4 ? 60%",
+        "left": "2/4",
+        "right": "60%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0091",
+      "difficulty": 4,
+      "prompt": {
+        "text": "95% ? 80%",
+        "left": "95%",
+        "right": "80%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0098",
+      "difficulty": 4,
+      "prompt": {
+        "text": "2/4 ? 55%",
+        "left": "2/4",
+        "right": "55%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0103",
+      "difficulty": 4,
+      "prompt": {
+        "text": "85% ? 35%",
+        "left": "85%",
+        "right": "35%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0110",
+      "difficulty": 4,
+      "prompt": {
+        "text": "20% ? 75%",
+        "left": "20%",
+        "right": "75%"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0115",
+      "difficulty": 4,
+      "prompt": {
+        "text": "90% ? 30%",
+        "left": "90%",
+        "right": "30%"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0120",
+      "difficulty": 4,
+      "prompt": {
+        "text": "55% ? 3/4",
+        "left": "55%",
+        "right": "3/4"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,23 ? 0,73",
+        "left": "0,23",
+        "right": "0,73"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "6/8 ? 0,74",
+        "left": "6/8",
+        "right": "0,74"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0015",
+      "difficulty": 5,
+      "prompt": {
+        "text": "3/4 ? 0,75",
+        "left": "3/4",
+        "right": "0,75"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,86 ? 7/8",
+        "left": "0,86",
+        "right": "7/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0025",
+      "difficulty": 5,
+      "prompt": {
+        "text": "7/8 ? 6/8",
+        "left": "7/8",
+        "right": "6/8"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0033",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,17 ? 0,18",
+        "left": "0,17",
+        "right": "0,18"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0038",
+      "difficulty": 5,
+      "prompt": {
+        "text": "4/8 ? 2/8",
+        "left": "4/8",
+        "right": "2/8"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0043",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,75 ? 3/4",
+        "left": "0,75",
+        "right": "3/4"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0048",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,27 ? 6/8",
+        "left": "0,27",
+        "right": "6/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0053",
+      "difficulty": 5,
+      "prompt": {
+        "text": "7/8 ? 0,37",
+        "left": "7/8",
+        "right": "0,37"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0057",
+      "difficulty": 5,
+      "prompt": {
+        "text": "1/4 ? 0,25",
+        "left": "1/4",
+        "right": "0,25"
+      },
+      "answer": "="
+    },
+    {
+      "id": "banding-angka.sd-c.0062",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,24 ? 2/8",
+        "left": "0,24",
+        "right": "2/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0067",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,15 ? 1/8",
+        "left": "0,15",
+        "right": "1/8"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0074",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,44 ? 5/8",
+        "left": "0,44",
+        "right": "5/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0079",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,84 ? 0,78",
+        "left": "0,84",
+        "right": "0,78"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0087",
+      "difficulty": 5,
+      "prompt": {
+        "text": "6/8 ? 0,89",
+        "left": "6/8",
+        "right": "0,89"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0092",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5/8 ? 0,1",
+        "left": "5/8",
+        "right": "0,1"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0099",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,11 ? 1/8",
+        "left": "0,11",
+        "right": "1/8"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0104",
+      "difficulty": 5,
+      "prompt": {
+        "text": "0,35 ? 0,3",
+        "left": "0,35",
+        "right": "0,3"
+      },
+      "answer": ">"
+    },
+    {
+      "id": "banding-angka.sd-c.0111",
+      "difficulty": 5,
+      "prompt": {
+        "text": "5/8 ? 0,64",
+        "left": "5/8",
+        "right": "0,64"
+      },
+      "answer": "<"
+    },
+    {
+      "id": "banding-angka.sd-c.0116",
+      "difficulty": 5,
+      "prompt": {
+        "text": "4/8 ? 3/8",
+        "left": "4/8",
+        "right": "3/8"
+      },
+      "answer": ">"
+    }
+  ]
+}

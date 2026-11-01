@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "gameId": "lengkapi-kata",
+  "segment": "sma",
+  "jenjang": "SMA",
+  "interaction": "FILL_GAP",
+  "questions": [
+    {
+      "id": "lengkapi-kata.sma.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "EKO_IS_EM",
+        "hint": "Hubungan timbal balik makhluk hidup dengan lingkungannya"
+      },
+      "answer": "EKOSISTEM"
+    },
+    {
+      "id": "lengkapi-kata.sma.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "DEM_KR_SI",
+        "hint": "Pemerintahan dari, oleh, dan untuk rakyat"
+      },
+      "answer": "DEMOKRASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0003",
+      "difficulty": 2,
+      "prompt": {
+        "text": "FOT_SIN_ESIS",
+        "hint": "Proses tumbuhan membuat makanan dengan bantuan cahaya matahari"
+      },
+      "answer": "FOTOSINTESIS"
+    },
+    {
+      "id": "lengkapi-kata.sma.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "HIP_TE_IS",
+        "hint": "Dugaan sementara yang harus dibuktikan melalui penelitian"
+      },
+      "answer": "HIPOTESIS"
+    },
+    {
+      "id": "lengkapi-kata.sma.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "GLO_AL_SASI",
+        "hint": "Proses mendunianya hubungan antarbangsa"
+      },
+      "answer": "GLOBALISASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "PRO_LA_ASI",
+        "hint": "Pernyataan kemerdekaan Indonesia pada 17 Agustus 1945"
+      },
+      "answer": "PROKLAMASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "EL_KT_ON",
+        "hint": "Partikel bermuatan negatif di dalam atom"
+      },
+      "answer": "ELEKTRON"
+    },
+    {
+      "id": "lengkapi-kata.sma.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "SOS_OL_GI",
+        "hint": "Ilmu tentang hubungan antarmanusia dalam masyarakat"
+      },
+      "answer": "SOSIOLOGI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0009",
+      "difficulty": 3,
+      "prompt": {
+        "text": "M_TAB_LI_ME",
+        "hint": "Seluruh proses kimia yang terjadi di dalam tubuh makhluk hidup"
+      },
+      "answer": "METABOLISME"
+    },
+    {
+      "id": "lengkapi-kata.sma.0010",
+      "difficulty": 3,
+      "prompt": {
+        "text": "K_OM_SO_",
+        "hint": "Struktur pembawa gen di dalam inti sel"
+      },
+      "answer": "KROMOSOM"
+    },
+    {
+      "id": "lengkapi-kata.sma.0011",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A_GU_EN_ASI",
+        "hint": "Karangan berisi alasan dan bukti untuk meyakinkan pembaca"
+      },
+      "answer": "ARGUMENTASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "E_SP_AN_SI",
+        "hint": "Teks yang menjelaskan proses terjadinya suatu fenomena"
+      },
+      "answer": "EKSPLANASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "I_VE_TA_I",
+        "hint": "Penanaman modal untuk memperoleh keuntungan di masa depan"
+      },
+      "answer": "INVESTASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "T_IG_NO_ETRI",
+        "hint": "Cabang matematika tentang hubungan sudut dan sisi segitiga"
+      },
+      "answer": "TRIGONOMETRI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "L_GA_IT_A",
+        "hint": "Operasi kebalikan dari perpangkatan"
+      },
+      "answer": "LOGARITMA"
+    },
+    {
+      "id": "lengkapi-kata.sma.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "M_ME_TU_",
+        "hint": "Hasil kali massa dan kecepatan suatu benda"
+      },
+      "answer": "MOMENTUM"
+    },
+    {
+      "id": "lengkapi-kata.sma.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "F_EK_EN_I",
+        "hint": "Banyaknya getaran dalam satu detik"
+      },
+      "answer": "FREKUENSI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A_GO_IT_A",
+        "hint": "Urutan langkah logis untuk menyelesaikan masalah"
+      },
+      "answer": "ALGORITMA"
+    },
+    {
+      "id": "lengkapi-kata.sma.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "H_DR_SF_R",
+        "hint": "Lapisan air yang menyelimuti bumi"
+      },
+      "answer": "HIDROSFER"
+    },
+    {
+      "id": "lengkapi-kata.sma.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "L_TO_FE_",
+        "hint": "Lapisan kerak bumi yang keras dan berbatu"
+      },
+      "answer": "LITOSFER"
+    },
+    {
+      "id": "lengkapi-kata.sma.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "H_PE_BO_A",
+        "hint": "Majas yang melebih-lebihkan kenyataan"
+      },
+      "answer": "HIPERBOLA"
+    },
+    {
+      "id": "lengkapi-kata.sma.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "M_TA_OR_",
+        "hint": "Majas perbandingan langsung tanpa kata seperti atau bagai"
+      },
+      "answer": "METAFORA"
+    },
+    {
+      "id": "lengkapi-kata.sma.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A_TR_PO_OGI",
+        "hint": "Ilmu tentang manusia, asal-usul, dan kebudayaannya"
+      },
+      "answer": "ANTROPOLOGI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "M_TO_ON_R_A",
+        "hint": "Organel sel tempat respirasi yang menghasilkan energi"
+      },
+      "answer": "MITOKONDRIA"
+    },
+    {
+      "id": "lengkapi-kata.sma.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "K_TA_IS_T_R",
+        "hint": "Zat yang mempercepat reaksi kimia tanpa ikut habis bereaksi"
+      },
+      "answer": "KATALISATOR"
+    },
+    {
+      "id": "lengkapi-kata.sma.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "P_RS_NI_IK_SI",
+        "hint": "Majas yang menggambarkan benda mati seolah-olah hidup"
+      },
+      "answer": "PERSONIFIKASI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "B_OT_KN_LO_I",
+        "hint": "Pemanfaatan makhluk hidup untuk menghasilkan produk yang berguna"
+      },
+      "answer": "BIOTEKNOLOGI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "S_OI_IO_ET_I",
+        "hint": "Perhitungan jumlah zat yang terlibat dalam reaksi kimia"
+      },
+      "answer": "STOIKIOMETRI"
+    },
+    {
+      "id": "lengkapi-kata.sma.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "K_A_EK_RA_A_AN",
+        "hint": "Bersama kata hayati, berarti keberagaman makhluk hidup"
+      },
+      "answer": "KEANEKARAGAMAN"
+    }
+  ]
+}

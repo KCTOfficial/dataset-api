@@ -1,0 +1,18 @@
+{
+  "gameId": "deret-angka",
+  "title": "Deret Angka",
+  "description": "Temukan pola dan lengkapi angka yang hilang.",
+  "category": "numerasi",
+  "contentKind": "procedural",
+  "interaction": "NUMPAD",
+  "instruction": "Angka berapa yang hilang?",
+  "emoji": "🧩",
+  "colorToken": "green",
+  "segments": [
+    "sd-a",
+    "sd-b",
+    "sd-c",
+    "smp",
+    "sma"
+  ]
+}

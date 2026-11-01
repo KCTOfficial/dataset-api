@@ -1,0 +1,838 @@
+{
+  "schemaVersion": 1,
+  "gameId": "susun-huruf",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "TILE_BANK",
+  "questions": [
+    {
+      "id": "susun-huruf.sd-b.0001",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Y A A U B",
+        "letters": [
+          "Y",
+          "A",
+          "A",
+          "U",
+          "B"
+        ]
+      },
+      "answer": "BUAYA",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "M A J B U",
+        "letters": [
+          "M",
+          "A",
+          "J",
+          "B",
+          "U"
+        ]
+      },
+      "answer": "JAMBU",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0003",
+      "difficulty": 2,
+      "prompt": {
+        "text": "P G A U R",
+        "letters": [
+          "P",
+          "G",
+          "A",
+          "U",
+          "R"
+        ]
+      },
+      "answer": "GARPU",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0004",
+      "difficulty": 2,
+      "prompt": {
+        "text": "A N P I C",
+        "letters": [
+          "A",
+          "N",
+          "P",
+          "I",
+          "C"
+        ]
+      },
+      "answer": "PANCI",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "A N A D U",
+        "letters": [
+          "A",
+          "N",
+          "A",
+          "D",
+          "U"
+        ]
+      },
+      "answer": "DANAU",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "I E R T P",
+        "letters": [
+          "I",
+          "E",
+          "R",
+          "T",
+          "P"
+        ]
+      },
+      "answer": "PETIR",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "U A J L S",
+        "letters": [
+          "U",
+          "A",
+          "J",
+          "L",
+          "S"
+        ]
+      },
+      "answer": "SALJU",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "B T A K U",
+        "letters": [
+          "B",
+          "T",
+          "A",
+          "K",
+          "U"
+        ]
+      },
+      "answer": "KABUT",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "D B A I A",
+        "letters": [
+          "D",
+          "B",
+          "A",
+          "I",
+          "A"
+        ]
+      },
+      "answer": "BADAI",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "O M T R O",
+        "letters": [
+          "O",
+          "M",
+          "T",
+          "R",
+          "O"
+        ]
+      },
+      "answer": "MOTOR",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "A U P D R",
+        "letters": [
+          "A",
+          "U",
+          "P",
+          "D",
+          "R"
+        ]
+      },
+      "answer": "DAPUR",
+      "payload": {
+        "distractors": []
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "E R A U B K",
+        "letters": [
+          "E",
+          "R",
+          "A",
+          "U",
+          "B",
+          "K"
+        ]
+      },
+      "answer": "KERBAU",
+      "payload": {
+        "distractors": [
+          "J"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "G C A N P U",
+        "letters": [
+          "G",
+          "C",
+          "A",
+          "N",
+          "P",
+          "U"
+        ]
+      },
+      "answer": "CAPUNG",
+      "payload": {
+        "distractors": [
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "G U N A R G",
+        "letters": [
+          "G",
+          "U",
+          "N",
+          "A",
+          "R",
+          "G"
+        ]
+      },
+      "answer": "ANGGUR",
+      "payload": {
+        "distractors": [
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "A A K L P E",
+        "letters": [
+          "A",
+          "A",
+          "K",
+          "L",
+          "P",
+          "E"
+        ]
+      },
+      "answer": "KELAPA",
+      "payload": {
+        "distractors": [
+          "J"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "E A R L M I",
+        "letters": [
+          "E",
+          "A",
+          "R",
+          "L",
+          "M",
+          "I"
+        ]
+      },
+      "answer": "LEMARI",
+      "payload": {
+        "distractors": [
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "N K D S O E",
+        "letters": [
+          "N",
+          "K",
+          "D",
+          "S",
+          "O",
+          "E"
+        ]
+      },
+      "answer": "SENDOK",
+      "payload": {
+        "distractors": [
+          "R"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "P G R N I I",
+        "letters": [
+          "P",
+          "G",
+          "R",
+          "N",
+          "I",
+          "I"
+        ]
+      },
+      "answer": "PIRING",
+      "payload": {
+        "distractors": [
+          "W"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "K M O P O R",
+        "letters": [
+          "K",
+          "M",
+          "O",
+          "P",
+          "O",
+          "R"
+        ]
+      },
+      "answer": "KOMPOR",
+      "payload": {
+        "distractors": [
+          "N"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "N A K U D H",
+        "letters": [
+          "N",
+          "A",
+          "K",
+          "U",
+          "D",
+          "H"
+        ]
+      },
+      "answer": "HANDUK",
+      "payload": {
+        "distractors": [
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "T K S R A E",
+        "letters": [
+          "T",
+          "K",
+          "S",
+          "R",
+          "A",
+          "E"
+        ]
+      },
+      "answer": "KERTAS",
+      "payload": {
+        "distractors": [
+          "W"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "L P S I O D",
+        "letters": [
+          "L",
+          "P",
+          "S",
+          "I",
+          "O",
+          "D"
+        ]
+      },
+      "answer": "SPIDOL",
+      "payload": {
+        "distractors": [
+          "Y"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "I L A G T N",
+        "letters": [
+          "I",
+          "L",
+          "A",
+          "G",
+          "T",
+          "N"
+        ]
+      },
+      "answer": "LANGIT",
+      "payload": {
+        "distractors": [
+          "Y"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0024",
+      "difficulty": 3,
+      "prompt": {
+        "text": "E A A K R M",
+        "letters": [
+          "E",
+          "A",
+          "A",
+          "K",
+          "R",
+          "M"
+        ]
+      },
+      "answer": "KAMERA",
+      "payload": {
+        "distractors": [
+          "T"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0025",
+      "difficulty": 3,
+      "prompt": {
+        "text": "L N B T A A",
+        "letters": [
+          "L",
+          "N",
+          "B",
+          "T",
+          "A",
+          "A"
+        ]
+      },
+      "answer": "BANTAL",
+      "payload": {
+        "distractors": [
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "N M R P E E",
+        "letters": [
+          "N",
+          "M",
+          "R",
+          "P",
+          "E",
+          "E"
+        ]
+      },
+      "answer": "PERMEN",
+      "payload": {
+        "distractors": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "R U P M T U",
+        "letters": [
+          "R",
+          "U",
+          "P",
+          "M",
+          "T",
+          "U"
+        ]
+      },
+      "answer": "RUMPUT",
+      "payload": {
+        "distractors": [
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0028",
+      "difficulty": 3,
+      "prompt": {
+        "text": "G U N A J G",
+        "letters": [
+          "G",
+          "U",
+          "N",
+          "A",
+          "J",
+          "G"
+        ]
+      },
+      "answer": "JAGUNG",
+      "payload": {
+        "distractors": [
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0029",
+      "difficulty": 3,
+      "prompt": {
+        "text": "G A N A C K",
+        "letters": [
+          "G",
+          "A",
+          "N",
+          "A",
+          "C",
+          "K"
+        ]
+      },
+      "answer": "KACANG",
+      "payload": {
+        "distractors": [
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "M E A R P T I",
+        "letters": [
+          "M",
+          "E",
+          "A",
+          "R",
+          "P",
+          "T",
+          "I"
+        ]
+      },
+      "answer": "MERPATI",
+      "payload": {
+        "distractors": [
+          "J",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "U A R B G N E",
+        "letters": [
+          "U",
+          "A",
+          "R",
+          "B",
+          "G",
+          "N",
+          "E"
+        ]
+      },
+      "answer": "BERUANG",
+      "payload": {
+        "distractors": [
+          "H",
+          "K"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0032",
+      "difficulty": 4,
+      "prompt": {
+        "text": "M G A N S G I",
+        "letters": [
+          "M",
+          "G",
+          "A",
+          "N",
+          "S",
+          "G",
+          "I"
+        ]
+      },
+      "answer": "MANGGIS",
+      "payload": {
+        "distractors": [
+          "P",
+          "L"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0033",
+      "difficulty": 4,
+      "prompt": {
+        "text": "G U I T N N G",
+        "letters": [
+          "G",
+          "U",
+          "I",
+          "T",
+          "N",
+          "N",
+          "G"
+        ]
+      },
+      "answer": "GUNTING",
+      "payload": {
+        "distractors": [
+          "J",
+          "R"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0034",
+      "difficulty": 4,
+      "prompt": {
+        "text": "O E N T L E P",
+        "letters": [
+          "O",
+          "E",
+          "N",
+          "T",
+          "L",
+          "E",
+          "P"
+        ]
+      },
+      "answer": "TELEPON",
+      "payload": {
+        "distractors": [
+          "R",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "A E D N G R N",
+        "letters": [
+          "A",
+          "E",
+          "D",
+          "N",
+          "G",
+          "R",
+          "N"
+        ]
+      },
+      "answer": "RENDANG",
+      "payload": {
+        "distractors": [
+          "T",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "K U U R K P E",
+        "letters": [
+          "K",
+          "U",
+          "U",
+          "R",
+          "K",
+          "P",
+          "E"
+        ]
+      },
+      "answer": "KERUPUK",
+      "payload": {
+        "distractors": [
+          "C",
+          "H"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "A H B A S T A",
+        "letters": [
+          "A",
+          "H",
+          "B",
+          "A",
+          "S",
+          "T",
+          "A"
+        ]
+      },
+      "answer": "SAHABAT",
+      "payload": {
+        "distractors": [
+          "G",
+          "Y"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "S S U A T N I",
+        "letters": [
+          "S",
+          "S",
+          "U",
+          "A",
+          "T",
+          "N",
+          "I"
+        ]
+      },
+      "answer": "STASIUN",
+      "payload": {
+        "distractors": [
+          "C",
+          "P"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0039",
+      "difficulty": 4,
+      "prompt": {
+        "text": "L E R K I K I",
+        "letters": [
+          "L",
+          "E",
+          "R",
+          "K",
+          "I",
+          "K",
+          "I"
+        ]
+      },
+      "answer": "KERIKIL",
+      "payload": {
+        "distractors": [
+          "T",
+          "M"
+        ]
+      }
+    },
+    {
+      "id": "susun-huruf.sd-b.0040",
+      "difficulty": 4,
+      "prompt": {
+        "text": "N T E K G A N",
+        "letters": [
+          "N",
+          "T",
+          "E",
+          "K",
+          "G",
+          "A",
+          "N"
+        ]
+      },
+      "answer": "KENTANG",
+      "payload": {
+        "distractors": [
+          "L",
+          "C"
+        ]
+      }
+    }
+  ]
+}

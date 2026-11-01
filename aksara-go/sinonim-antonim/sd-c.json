@@ -1,0 +1,519 @@
+{
+  "schemaVersion": 1,
+  "gameId": "sinonim-antonim",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "MATCH_PAIRS",
+  "questions": [
+    {
+      "id": "sinonim-antonim.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "lebar"
+      },
+      "answer": "sempit",
+      "payload": {
+        "options": [
+          "sempit",
+          "dalam",
+          "panjang",
+          "tinggi"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "mahal"
+      },
+      "answer": "murah",
+      "payload": {
+        "options": [
+          "mewah",
+          "langka",
+          "murah",
+          "baru"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "indah"
+      },
+      "answer": "elok",
+      "payload": {
+        "options": [
+          "mahal",
+          "elok",
+          "besar",
+          "terang"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "hadir"
+      },
+      "answer": "datang",
+      "payload": {
+        "options": [
+          "diam",
+          "tinggal",
+          "datang",
+          "duduk"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0005",
+      "difficulty": 2,
+      "prompt": {
+        "text": "masuk"
+      },
+      "answer": "keluar",
+      "payload": {
+        "options": [
+          "keluar",
+          "naik",
+          "pulang",
+          "datang"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0006",
+      "difficulty": 2,
+      "prompt": {
+        "text": "maju"
+      },
+      "answer": "mundur",
+      "payload": {
+        "options": [
+          "mundur",
+          "belok",
+          "turun",
+          "naik"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "mudah"
+      },
+      "answer": "sulit",
+      "payload": {
+        "options": [
+          "jauh",
+          "sulit",
+          "mahal",
+          "lama"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "kuat"
+      },
+      "answer": "lemah",
+      "payload": {
+        "options": [
+          "ringan",
+          "kecil",
+          "pendek",
+          "lemah"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "basah"
+      },
+      "answer": "kering",
+      "payload": {
+        "options": [
+          "dingin",
+          "kering",
+          "kotor",
+          "lembut"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "pulang"
+      },
+      "answer": "kembali",
+      "payload": {
+        "options": [
+          "menginap",
+          "berjalan",
+          "singgah",
+          "kembali"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "cerita"
+      },
+      "answer": "kisah",
+      "payload": {
+        "options": [
+          "puisi",
+          "surat",
+          "lagu",
+          "kisah"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "sunyi"
+      },
+      "answer": "sepi",
+      "payload": {
+        "options": [
+          "jauh",
+          "gelap",
+          "dingin",
+          "sepi"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "menang"
+      },
+      "answer": "kalah",
+      "payload": {
+        "options": [
+          "mulai",
+          "seri",
+          "ikut",
+          "kalah"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0014",
+      "difficulty": 3,
+      "prompt": {
+        "text": "awal"
+      },
+      "answer": "akhir",
+      "payload": {
+        "options": [
+          "lama",
+          "akhir",
+          "tengah",
+          "dulu"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "jujur"
+      },
+      "answer": "curang",
+      "payload": {
+        "options": [
+          "ramah",
+          "curang",
+          "sopan",
+          "rajin"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "hemat"
+      },
+      "answer": "boros",
+      "payload": {
+        "options": [
+          "miskin",
+          "boros",
+          "rajin",
+          "kaya"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ingat"
+      },
+      "answer": "lupa",
+      "payload": {
+        "options": [
+          "paham",
+          "lupa",
+          "tahu",
+          "kenal"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "marah"
+      },
+      "answer": "murka",
+      "payload": {
+        "options": [
+          "malu",
+          "kecewa",
+          "cemas",
+          "murka"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "lezat"
+      },
+      "answer": "enak",
+      "payload": {
+        "options": [
+          "enak",
+          "manis",
+          "hangat",
+          "segar"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "hutan"
+      },
+      "answer": "rimba",
+      "payload": {
+        "options": [
+          "kebun",
+          "sawah",
+          "taman",
+          "rimba"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "berbicara"
+      },
+      "answer": "bercakap",
+      "payload": {
+        "options": [
+          "mendengar",
+          "menulis",
+          "bercakap",
+          "membaca"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0022",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tajam"
+      },
+      "answer": "tumpul",
+      "payload": {
+        "options": [
+          "licin",
+          "halus",
+          "keras",
+          "tumpul"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "dangkal"
+      },
+      "answer": "dalam",
+      "payload": {
+        "options": [
+          "dalam",
+          "sempit",
+          "tinggi",
+          "pendek"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "pasang"
+      },
+      "answer": "surut",
+      "payload": {
+        "options": [
+          "surut",
+          "deras",
+          "tinggi",
+          "tenang"
+        ],
+        "relation": "antonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "menolong"
+      },
+      "answer": "membantu",
+      "payload": {
+        "options": [
+          "membantu",
+          "menjaga",
+          "melatih",
+          "mengajak"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "waktu"
+      },
+      "answer": "masa",
+      "payload": {
+        "options": [
+          "tempat",
+          "arah",
+          "cara",
+          "masa"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "gaduh"
+      },
+      "answer": "ribut",
+      "payload": {
+        "options": [
+          "sibuk",
+          "sempit",
+          "panas",
+          "ribut"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ilmu"
+      },
+      "answer": "pengetahuan",
+      "payload": {
+        "options": [
+          "pengetahuan",
+          "kelas",
+          "buku",
+          "guru"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "pemandangan"
+      },
+      "answer": "panorama",
+      "payload": {
+        "options": [
+          "foto",
+          "peta",
+          "panorama",
+          "lukisan"
+        ],
+        "relation": "sinonim"
+      }
+    },
+    {
+      "id": "sinonim-antonim.sd-c.0030",
+      "difficulty": 5,
+      "prompt": {
+        "text": "sejahtera"
+      },
+      "answer": "makmur",
+      "payload": {
+        "options": [
+          "makmur",
+          "rukun",
+          "sehat",
+          "ramai"
+        ],
+        "relation": "sinonim"
+      }
+    }
+  ]
+}

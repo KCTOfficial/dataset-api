@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "gameId": "peribahasa",
+  "segment": "smp",
+  "jenjang": "SMP",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "peribahasa.smp.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Besar pasak daripada …"
+      },
+      "answer": "tiang",
+      "payload": {
+        "options": [
+          "tiang",
+          "pintu",
+          "rumah",
+          "atap"
+        ]
+      },
+      "explanation": "Pengeluaran lebih besar daripada penghasilan."
+    },
+    {
+      "id": "peribahasa.smp.0002",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Air susu dibalas dengan air …"
+      },
+      "answer": "tuba",
+      "payload": {
+        "options": [
+          "mata",
+          "hujan",
+          "tuba",
+          "teh"
+        ]
+      },
+      "explanation": "Kebaikan dibalas dengan kejahatan."
+    },
+    {
+      "id": "peribahasa.smp.0003",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Habis manis sepah …"
+      },
+      "answer": "dibuang",
+      "payload": {
+        "options": [
+          "dimakan",
+          "ditelan",
+          "disimpan",
+          "dibuang"
+        ]
+      },
+      "explanation": "Setelah tidak berguna lagi, lalu ditinggalkan begitu saja."
+    },
+    {
+      "id": "peribahasa.smp.0004",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Bagai pungguk merindukan …"
+      },
+      "answer": "bulan",
+      "payload": {
+        "options": [
+          "matahari",
+          "bintang",
+          "bulan",
+          "hujan"
+        ]
+      },
+      "explanation": "Mengharapkan sesuatu yang sangat sulit dicapai."
+    },
+    {
+      "id": "peribahasa.smp.0005",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Mati satu tumbuh …"
+      },
+      "answer": "seribu",
+      "payload": {
+        "options": [
+          "seribu",
+          "seratus",
+          "sepuluh",
+          "dua"
+        ]
+      },
+      "explanation": "Hilang satu, muncul banyak penggantinya."
+    },
+    {
+      "id": "peribahasa.smp.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Lidah tak …"
+      },
+      "answer": "bertulang",
+      "payload": {
+        "options": [
+          "berasa",
+          "bertulang",
+          "berwarna",
+          "berbunyi"
+        ]
+      },
+      "explanation": "Mudah berkata atau berjanji, tetapi sulit menepatinya."
+    },
+    {
+      "id": "peribahasa.smp.0007",
+      "difficulty": 1,
+      "prompt": {
+        "text": "Di atas langit masih ada …"
+      },
+      "answer": "langit",
+      "payload": {
+        "options": [
+          "awan",
+          "bulan",
+          "langit",
+          "bintang"
+        ]
+      },
+      "explanation": "Sepandai apa pun seseorang, masih ada orang yang lebih pandai."
+    },
+    {
+      "id": "peribahasa.smp.0008",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Guru kencing berdiri, murid kencing …"
+      },
+      "answer": "berlari",
+      "payload": {
+        "options": [
+          "berlari",
+          "duduk",
+          "berjalan",
+          "melompat"
+        ]
+      },
+      "explanation": "Murid akan meniru perbuatan gurunya, bahkan bisa lebih buruk."
+    },
+    {
+      "id": "peribahasa.smp.0009",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Bagai telur di ujung …"
+      },
+      "answer": "tanduk",
+      "payload": {
+        "options": [
+          "ranting",
+          "tanduk",
+          "meja",
+          "jari"
+        ]
+      },
+      "explanation": "Keadaan yang sangat genting dan berbahaya."
+    },
+    {
+      "id": "peribahasa.smp.0010",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Seperti kerbau dicocok …"
+      },
+      "answer": "hidung",
+      "payload": {
+        "options": [
+          "telinga",
+          "hidung",
+          "kaki",
+          "ekor"
+        ]
+      },
+      "explanation": "Orang yang selalu menurut kemauan orang lain."
+    },
+    {
+      "id": "peribahasa.smp.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Seperti pagar makan …"
+      },
+      "answer": "tanaman",
+      "payload": {
+        "options": [
+          "tanaman",
+          "buah",
+          "bunga",
+          "rumput"
+        ]
+      },
+      "explanation": "Orang yang seharusnya menjaga malah merusak."
+    },
+    {
+      "id": "peribahasa.smp.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Lempar batu sembunyi …"
+      },
+      "answer": "tangan",
+      "payload": {
+        "options": [
+          "muka",
+          "kaki",
+          "badan",
+          "tangan"
+        ]
+      },
+      "explanation": "Berbuat sesuatu yang tidak baik, lalu pura-pura tidak tahu."
+    },
+    {
+      "id": "peribahasa.smp.0013",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Gali lubang tutup …"
+      },
+      "answer": "lubang",
+      "payload": {
+        "options": [
+          "tanah",
+          "pintu",
+          "lubang",
+          "jalan"
+        ]
+      },
+      "explanation": "Berutang untuk membayar utang yang lain."
+    },
+    {
+      "id": "peribahasa.smp.0014",
+      "difficulty": 2,
+      "prompt": {
+        "text": "Mulutmu …"
+      },
+      "answer": "harimaumu",
+      "payload": {
+        "options": [
+          "sahabatmu",
+          "harimaumu",
+          "rumahmu",
+          "gajahmu"
+        ]
+      },
+      "explanation": "Perkataan yang diucapkan tanpa dipikir dapat merugikan diri sendiri."
+    },
+    {
+      "id": "peribahasa.smp.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai bertepuk sebelah …"
+      },
+      "answer": "tangan",
+      "payload": {
+        "options": [
+          "bahu",
+          "tangan",
+          "mata",
+          "kaki"
+        ]
+      },
+      "explanation": "Keinginan atau perasaan yang hanya datang dari satu pihak saja."
+    },
+    {
+      "id": "peribahasa.smp.0016",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Jauh panggang dari …"
+      },
+      "answer": "api",
+      "payload": {
+        "options": [
+          "tungku",
+          "api",
+          "asap",
+          "arang"
+        ]
+      },
+      "explanation": "Hasilnya sangat jauh dari yang diharapkan."
+    },
+    {
+      "id": "peribahasa.smp.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Air tenang …"
+      },
+      "answer": "menghanyutkan",
+      "payload": {
+        "options": [
+          "mengalir",
+          "menghanyutkan",
+          "menyegarkan",
+          "menyejukkan"
+        ]
+      },
+      "explanation": "Orang yang pendiam biasanya banyak ilmunya."
+    },
+    {
+      "id": "peribahasa.smp.0018",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Anjing menggonggong, kafilah …"
+      },
+      "answer": "berlalu",
+      "payload": {
+        "options": [
+          "berhenti",
+          "pulang",
+          "berlalu",
+          "berlari"
+        ]
+      },
+      "explanation": "Walaupun banyak orang mencela, kita tetap menjalankan tugas dengan baik."
+    },
+    {
+      "id": "peribahasa.smp.0019",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Duduk sama rendah, berdiri sama …"
+      },
+      "answer": "tinggi",
+      "payload": {
+        "options": [
+          "besar",
+          "jauh",
+          "tinggi",
+          "kuat"
+        ]
+      },
+      "explanation": "Mempunyai derajat atau kedudukan yang sama."
+    },
+    {
+      "id": "peribahasa.smp.0020",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai cincin dengan …"
+      },
+      "answer": "permata",
+      "payload": {
+        "options": [
+          "gelang",
+          "permata",
+          "emas",
+          "kalung"
+        ]
+      },
+      "explanation": "Pasangan yang sangat serasi."
+    },
+    {
+      "id": "peribahasa.smp.0021",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai sayur tanpa …"
+      },
+      "answer": "garam",
+      "payload": {
+        "options": [
+          "air",
+          "gula",
+          "garam",
+          "piring"
+        ]
+      },
+      "explanation": "Sesuatu yang terasa hambar dan kurang menarik."
+    },
+    {
+      "id": "peribahasa.smp.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "Bagai langit dengan …"
+      },
+      "answer": "bumi",
+      "payload": {
+        "options": [
+          "awan",
+          "laut",
+          "bintang",
+          "bumi"
+        ]
+      },
+      "explanation": "Perbedaannya sangat jauh."
+    },
+    {
+      "id": "peribahasa.smp.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Sekali merengkuh dayung, dua tiga pulau …"
+      },
+      "answer": "terlampaui",
+      "payload": {
+        "options": [
+          "terlampaui",
+          "tenggelam",
+          "tertinggal",
+          "terlihat"
+        ]
+      },
+      "explanation": "Sekali bekerja, beberapa tujuan dapat tercapai."
+    },
+    {
+      "id": "peribahasa.smp.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Lain lubuk lain ikannya, lain padang lain …"
+      },
+      "answer": "belalangnya",
+      "payload": {
+        "options": [
+          "pohonnya",
+          "rumputnya",
+          "belalangnya",
+          "burungnya"
+        ]
+      },
+      "explanation": "Setiap daerah mempunyai adat dan kebiasaan yang berbeda."
+    },
+    {
+      "id": "peribahasa.smp.0025",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai menegakkan benang …"
+      },
+      "answer": "basah",
+      "payload": {
+        "options": [
+          "merah",
+          "kusut",
+          "basah",
+          "kering"
+        ]
+      },
+      "explanation": "Melakukan pekerjaan yang mustahil berhasil."
+    },
+    {
+      "id": "peribahasa.smp.0026",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Sepandai-pandai … melompat, sekali waktu jatuh juga"
+      },
+      "answer": "tupai",
+      "payload": {
+        "options": [
+          "kera",
+          "kucing",
+          "tupai",
+          "katak"
+        ]
+      },
+      "explanation": "Sepandai apa pun seseorang, sekali waktu pasti pernah berbuat salah."
+    },
+    {
+      "id": "peribahasa.smp.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Patah tumbuh hilang …"
+      },
+      "answer": "berganti",
+      "payload": {
+        "options": [
+          "kembali",
+          "terbang",
+          "tenggelam",
+          "berganti"
+        ]
+      },
+      "explanation": "Yang hilang atau pergi akan selalu ada penggantinya."
+    },
+    {
+      "id": "peribahasa.smp.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Karena nila setitik, rusak … sebelanga"
+      },
+      "answer": "susu",
+      "payload": {
+        "options": [
+          "madu",
+          "teh",
+          "air",
+          "susu"
+        ]
+      },
+      "explanation": "Karena satu kesalahan kecil, semua kebaikan menjadi rusak."
+    },
+    {
+      "id": "peribahasa.smp.0029",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Bagai cendawan tumbuh di musim …"
+      },
+      "answer": "hujan",
+      "payload": {
+        "options": [
+          "panen",
+          "dingin",
+          "hujan",
+          "kemarau"
+        ]
+      },
+      "explanation": "Sesuatu yang muncul dan bertambah banyak dengan cepat."
+    },
+    {
+      "id": "peribahasa.smp.0030",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Tak akan lari … dikejar"
+      },
+      "answer": "gunung",
+      "payload": {
+        "options": [
+          "kuda",
+          "gunung",
+          "ayam",
+          "rusa"
+        ]
+      },
+      "explanation": "Tidak perlu tergesa-gesa karena yang dituju pasti tercapai."
+    },
+    {
+      "id": "peribahasa.smp.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "Ringan tulang, berat …"
+      },
+      "answer": "perut",
+      "payload": {
+        "options": [
+          "kepala",
+          "perut",
+          "kaki",
+          "badan"
+        ]
+      },
+      "explanation": "Orang yang rajin bekerja tentu akan cukup makan."
+    },
+    {
+      "id": "peribahasa.smp.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Gajah mati meninggalkan gading, harimau mati meninggalkan …"
+      },
+      "answer": "belang",
+      "payload": {
+        "options": [
+          "kuku",
+          "taring",
+          "belang",
+          "ekor"
+        ]
+      },
+      "explanation": "Orang baik akan selalu dikenang karena kebaikannya."
+    },
+    {
+      "id": "peribahasa.smp.0033",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Tak lekang oleh panas, tak lapuk oleh …"
+      },
+      "answer": "hujan",
+      "payload": {
+        "options": [
+          "angin",
+          "waktu",
+          "hujan",
+          "air"
+        ]
+      },
+      "explanation": "Sesuatu yang tetap tidak berubah oleh keadaan apa pun."
+    },
+    {
+      "id": "peribahasa.smp.0034",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Pikir dahulu pendapatan, … kemudian tidak berguna"
+      },
+      "answer": "sesal",
+      "payload": {
+        "options": [
+          "tangis",
+          "sesal",
+          "marah",
+          "senang"
+        ]
+      },
+      "explanation": "Pikirkan baik-baik sebelum berbuat karena penyesalan kemudian tidak ada gunanya."
+    },
+    {
+      "id": "peribahasa.smp.0035",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Tak ada kusut yang tak …"
+      },
+      "answer": "selesai",
+      "payload": {
+        "options": [
+          "rapi",
+          "panjang",
+          "selesai",
+          "putus"
+        ]
+      },
+      "explanation": "Setiap masalah pasti ada jalan keluarnya."
+    },
+    {
+      "id": "peribahasa.smp.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "Pucuk dicinta, … tiba"
+      },
+      "answer": "ulam",
+      "payload": {
+        "options": [
+          "hujan",
+          "ulam",
+          "buah",
+          "daun"
+        ]
+      },
+      "explanation": "Mendapat sesuatu yang diinginkan, bahkan lebih dari yang diharapkan."
+    }
+  ]
+}

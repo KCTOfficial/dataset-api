@@ -1,0 +1,1329 @@
+{
+  "schemaVersion": 1,
+  "gameId": "aksara-nusantara",
+  "segment": "sd-b",
+  "jenjang": "SD",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "aksara-nusantara.sd-b.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦠ"
+      },
+      "answer": "ta",
+      "payload": {
+        "options": [
+          "dha",
+          "ra",
+          "ta",
+          "ti"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦲ"
+      },
+      "answer": "ha",
+      "payload": {
+        "options": [
+          "la",
+          "ha",
+          "hi",
+          "wa"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0011",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦱ"
+      },
+      "answer": "sa",
+      "payload": {
+        "options": [
+          "nga",
+          "su",
+          "ta",
+          "sa"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0021",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦫ"
+      },
+      "answer": "ra",
+      "payload": {
+        "options": [
+          "nga",
+          "ri",
+          "nya",
+          "ra"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0025",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦭ"
+      },
+      "answer": "la",
+      "payload": {
+        "options": [
+          "lu",
+          "ca",
+          "pa",
+          "la"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0029",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦏ"
+      },
+      "answer": "ka",
+      "payload": {
+        "options": [
+          "ga",
+          "ku",
+          "ka",
+          "nga"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0032",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦮ"
+      },
+      "answer": "wa",
+      "payload": {
+        "options": [
+          "wu",
+          "sa",
+          "wa",
+          "dha"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0043",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦢ"
+      },
+      "answer": "da",
+      "payload": {
+        "options": [
+          "ga",
+          "da",
+          "na",
+          "du"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0048",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦤ"
+      },
+      "answer": "na",
+      "payload": {
+        "options": [
+          "na",
+          "da",
+          "ni",
+          "la"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0063",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦕ"
+      },
+      "answer": "ca",
+      "payload": {
+        "options": [
+          "da",
+          "ca",
+          "tha",
+          "ci"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦚ"
+      },
+      "answer": "nya",
+      "payload": {
+        "options": [
+          "nyu",
+          "ra",
+          "nya",
+          "ta"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦪ"
+      },
+      "answer": "ya",
+      "payload": {
+        "options": [
+          "la",
+          "yi",
+          "ya",
+          "pa"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0012",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦝ"
+      },
+      "answer": "dha",
+      "payload": {
+        "options": [
+          "dha",
+          "ka",
+          "na",
+          "dhu"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0018",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦔ"
+      },
+      "answer": "nga",
+      "payload": {
+        "options": [
+          "nga",
+          "ngu",
+          "ya",
+          "wa"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0022",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦛ"
+      },
+      "answer": "tha",
+      "payload": {
+        "options": [
+          "tha",
+          "thi",
+          "ga",
+          "na"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0038",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦥ"
+      },
+      "answer": "pa",
+      "payload": {
+        "options": [
+          "ja",
+          "pa",
+          "pi",
+          "ra"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0041",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦩ"
+      },
+      "answer": "ma",
+      "payload": {
+        "options": [
+          "na",
+          "mi",
+          "ba",
+          "ma"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0044",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦒ"
+      },
+      "answer": "ga",
+      "payload": {
+        "options": [
+          "dha",
+          "wa",
+          "gu",
+          "ga"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0066",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦧ"
+      },
+      "answer": "ba",
+      "payload": {
+        "options": [
+          "ba",
+          "ga",
+          "la",
+          "bi"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0073",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦗ"
+      },
+      "answer": "ja",
+      "payload": {
+        "options": [
+          "ba",
+          "ju",
+          "ja",
+          "ka"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ca"
+      },
+      "answer": "ꦕ",
+      "payload": {
+        "options": [
+          "ꦕꦸ",
+          "ꦱ",
+          "ꦕ",
+          "ꦮ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ja"
+      },
+      "answer": "ꦗ",
+      "payload": {
+        "options": [
+          "ꦗ",
+          "ꦗꦶ",
+          "ꦢ",
+          "ꦝ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0013",
+      "difficulty": 3,
+      "prompt": {
+        "text": "nya"
+      },
+      "answer": "ꦚ",
+      "payload": {
+        "options": [
+          "ꦚ",
+          "ꦢ",
+          "ꦚꦸ",
+          "ꦕ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0015",
+      "difficulty": 3,
+      "prompt": {
+        "text": "na"
+      },
+      "answer": "ꦤ",
+      "payload": {
+        "options": [
+          "ꦕ",
+          "ꦛ",
+          "ꦤꦶ",
+          "ꦤ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0023",
+      "difficulty": 3,
+      "prompt": {
+        "text": "da"
+      },
+      "answer": "ꦢ",
+      "payload": {
+        "options": [
+          "ꦢ",
+          "ꦢꦸ",
+          "ꦥ",
+          "ꦫ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0026",
+      "difficulty": 3,
+      "prompt": {
+        "text": "dha"
+      },
+      "answer": "ꦝ",
+      "payload": {
+        "options": [
+          "ꦝ",
+          "ꦮ",
+          "ꦠ",
+          "ꦝꦸ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ka"
+      },
+      "answer": "ꦏ",
+      "payload": {
+        "options": [
+          "ꦩ",
+          "ꦲ",
+          "ꦏꦶ",
+          "ꦏ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0033",
+      "difficulty": 3,
+      "prompt": {
+        "text": "wa"
+      },
+      "answer": "ꦮ",
+      "payload": {
+        "options": [
+          "ꦮ",
+          "ꦲ",
+          "ꦮꦸ",
+          "ꦝ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0035",
+      "difficulty": 3,
+      "prompt": {
+        "text": "nga"
+      },
+      "answer": "ꦔ",
+      "payload": {
+        "options": [
+          "ꦔꦶ",
+          "ꦤ",
+          "ꦔ",
+          "ꦭ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0039",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ya"
+      },
+      "answer": "ꦪ",
+      "payload": {
+        "options": [
+          "ꦧ",
+          "ꦪ",
+          "ꦩ",
+          "ꦪꦶ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ga"
+      },
+      "answer": "ꦒ",
+      "payload": {
+        "options": [
+          "ꦒ",
+          "ꦒꦸ",
+          "ꦪ",
+          "ꦥ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0045",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ma"
+      },
+      "answer": "ꦩ",
+      "payload": {
+        "options": [
+          "ꦚ",
+          "ꦥ",
+          "ꦩ",
+          "ꦩꦸ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0049",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ta"
+      },
+      "answer": "ꦠ",
+      "payload": {
+        "options": [
+          "ꦠꦸ",
+          "ꦫ",
+          "ꦮ",
+          "ꦠ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0050",
+      "difficulty": 3,
+      "prompt": {
+        "text": "pa"
+      },
+      "answer": "ꦥ",
+      "payload": {
+        "options": [
+          "ꦪ",
+          "ꦥ",
+          "ꦥꦶ",
+          "ꦠ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0053",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ra"
+      },
+      "answer": "ꦫ",
+      "payload": {
+        "options": [
+          "ꦔ",
+          "ꦫ",
+          "ꦧ",
+          "ꦫꦸ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0057",
+      "difficulty": 3,
+      "prompt": {
+        "text": "la"
+      },
+      "answer": "ꦭ",
+      "payload": {
+        "options": [
+          "ꦥ",
+          "ꦩ",
+          "ꦭꦶ",
+          "ꦭ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0062",
+      "difficulty": 3,
+      "prompt": {
+        "text": "sa"
+      },
+      "answer": "ꦱ",
+      "payload": {
+        "options": [
+          "ꦤ",
+          "ꦱ",
+          "ꦔ",
+          "ꦱꦸ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0064",
+      "difficulty": 3,
+      "prompt": {
+        "text": "tha"
+      },
+      "answer": "ꦛ",
+      "payload": {
+        "options": [
+          "ꦛꦶ",
+          "ꦮ",
+          "ꦤ",
+          "ꦛ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0071",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ba"
+      },
+      "answer": "ꦧ",
+      "payload": {
+        "options": [
+          "ꦧ",
+          "ꦧꦶ",
+          "ꦲ",
+          "ꦗ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0074",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ha"
+      },
+      "answer": "ꦲ",
+      "payload": {
+        "options": [
+          "ꦲ",
+          "ꦭ",
+          "ꦲꦶ",
+          "ꦥ"
+        ]
+      }
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦱꦶ"
+      },
+      "answer": "si",
+      "payload": {
+        "options": [
+          "si",
+          "sa",
+          "wi",
+          "hi"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan wulu dibaca si."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0009",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦝꦶ"
+      },
+      "answer": "dhi",
+      "payload": {
+        "options": [
+          "ngi",
+          "dhi",
+          "dhu",
+          "ki"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan wulu dibaca dhi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0016",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦪꦶ"
+      },
+      "answer": "yi",
+      "payload": {
+        "options": [
+          "ya",
+          "nyi",
+          "yi",
+          "ngi"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan wulu dibaca yi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0019",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦗꦶ"
+      },
+      "answer": "ji",
+      "payload": {
+        "options": [
+          "gi",
+          "ju",
+          "ti",
+          "ji"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan wulu dibaca ji."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0024",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦲꦶ"
+      },
+      "answer": "hi",
+      "payload": {
+        "options": [
+          "ha",
+          "ci",
+          "ji",
+          "hi"
+        ]
+      },
+      "explanation": "ꦲ (ha) diberi sandhangan wulu dibaca hi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0027",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦕꦶ"
+      },
+      "answer": "ci",
+      "payload": {
+        "options": [
+          "ca",
+          "di",
+          "ti",
+          "ci"
+        ]
+      },
+      "explanation": "ꦕ (ca) diberi sandhangan wulu dibaca ci."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦭꦶ"
+      },
+      "answer": "li",
+      "payload": {
+        "options": [
+          "pi",
+          "thi",
+          "li",
+          "lu"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan wulu dibaca li."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0036",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦏꦶ"
+      },
+      "answer": "ki",
+      "payload": {
+        "options": [
+          "ki",
+          "ci",
+          "ka",
+          "ngi"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan wulu dibaca ki."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0037",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦫꦶ"
+      },
+      "answer": "ri",
+      "payload": {
+        "options": [
+          "ri",
+          "ra",
+          "di",
+          "thi"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan wulu dibaca ri."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0040",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦤꦶ"
+      },
+      "answer": "ni",
+      "payload": {
+        "options": [
+          "bi",
+          "ni",
+          "na",
+          "di"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan wulu dibaca ni."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0046",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦩꦶ"
+      },
+      "answer": "mi",
+      "payload": {
+        "options": [
+          "mu",
+          "ti",
+          "dhi",
+          "mi"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan wulu dibaca mi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0051",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦧꦶ"
+      },
+      "answer": "bi",
+      "payload": {
+        "options": [
+          "bu",
+          "bi",
+          "thi",
+          "yi"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan wulu dibaca bi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦥꦶ"
+      },
+      "answer": "pi",
+      "payload": {
+        "options": [
+          "pu",
+          "hi",
+          "pi",
+          "yi"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan wulu dibaca pi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0056",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦢꦶ"
+      },
+      "answer": "di",
+      "payload": {
+        "options": [
+          "du",
+          "ti",
+          "wi",
+          "di"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan wulu dibaca di."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0058",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦒꦶ"
+      },
+      "answer": "gi",
+      "payload": {
+        "options": [
+          "ngi",
+          "gi",
+          "ji",
+          "ga"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan wulu dibaca gi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦚꦶ"
+      },
+      "answer": "nyi",
+      "payload": {
+        "options": [
+          "nyu",
+          "ti",
+          "nyi",
+          "gi"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan wulu dibaca nyi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0061",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦠꦶ"
+      },
+      "answer": "ti",
+      "payload": {
+        "options": [
+          "li",
+          "ti",
+          "tu",
+          "pi"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan wulu dibaca ti."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0068",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦛꦶ"
+      },
+      "answer": "thi",
+      "payload": {
+        "options": [
+          "ni",
+          "thi",
+          "di",
+          "thu"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan wulu dibaca thi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0077",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦔꦶ"
+      },
+      "answer": "ngi",
+      "payload": {
+        "options": [
+          "ngu",
+          "ji",
+          "ngi",
+          "hi"
+        ]
+      },
+      "explanation": "ꦔ (nga) diberi sandhangan wulu dibaca ngi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0079",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ꦮꦶ"
+      },
+      "answer": "wi",
+      "payload": {
+        "options": [
+          "wa",
+          "hi",
+          "wi",
+          "mi"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan wulu dibaca wi."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦲꦸ"
+      },
+      "answer": "hu",
+      "payload": {
+        "options": [
+          "nu",
+          "ha",
+          "hu",
+          "tu"
+        ]
+      },
+      "explanation": "ꦲ (ha) diberi sandhangan suku dibaca hu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0010",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦝꦸ"
+      },
+      "answer": "dhu",
+      "payload": {
+        "options": [
+          "dhi",
+          "yu",
+          "bu",
+          "dhu"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan suku dibaca dhu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0014",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦱꦸ"
+      },
+      "answer": "su",
+      "payload": {
+        "options": [
+          "si",
+          "du",
+          "su",
+          "lu"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan suku dibaca su."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0017",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦩꦸ"
+      },
+      "answer": "mu",
+      "payload": {
+        "options": [
+          "mi",
+          "du",
+          "mu",
+          "ju"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan suku dibaca mu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0020",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦒꦸ"
+      },
+      "answer": "gu",
+      "payload": {
+        "options": [
+          "bu",
+          "gu",
+          "cu",
+          "gi"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan suku dibaca gu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0028",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦤꦸ"
+      },
+      "answer": "nu",
+      "payload": {
+        "options": [
+          "nu",
+          "ru",
+          "na",
+          "nyu"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan suku dibaca nu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0034",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦢꦸ"
+      },
+      "answer": "du",
+      "payload": {
+        "options": [
+          "du",
+          "dhu",
+          "di",
+          "ru"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan suku dibaca du."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0047",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦛꦸ"
+      },
+      "answer": "thu",
+      "payload": {
+        "options": [
+          "wu",
+          "thu",
+          "tha",
+          "mu"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan suku dibaca thu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0052",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦥꦸ"
+      },
+      "answer": "pu",
+      "payload": {
+        "options": [
+          "pa",
+          "nu",
+          "ju",
+          "pu"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan suku dibaca pu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦫꦸ"
+      },
+      "answer": "ru",
+      "payload": {
+        "options": [
+          "tu",
+          "ri",
+          "nyu",
+          "ru"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan suku dibaca ru."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦕꦸ"
+      },
+      "answer": "cu",
+      "payload": {
+        "options": [
+          "ju",
+          "cu",
+          "ca",
+          "su"
+        ]
+      },
+      "explanation": "ꦕ (ca) diberi sandhangan suku dibaca cu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0065",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦪꦸ"
+      },
+      "answer": "yu",
+      "payload": {
+        "options": [
+          "du",
+          "pu",
+          "yu",
+          "ya"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan suku dibaca yu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0067",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦔꦸ"
+      },
+      "answer": "ngu",
+      "payload": {
+        "options": [
+          "yu",
+          "ngi",
+          "gu",
+          "ngu"
+        ]
+      },
+      "explanation": "ꦔ (nga) diberi sandhangan suku dibaca ngu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0069",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦏꦸ"
+      },
+      "answer": "ku",
+      "payload": {
+        "options": [
+          "ka",
+          "ru",
+          "nu",
+          "ku"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan suku dibaca ku."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0070",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦭꦸ"
+      },
+      "answer": "lu",
+      "payload": {
+        "options": [
+          "hu",
+          "lu",
+          "yu",
+          "li"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan suku dibaca lu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0072",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦗꦸ"
+      },
+      "answer": "ju",
+      "payload": {
+        "options": [
+          "lu",
+          "ji",
+          "hu",
+          "ju"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan suku dibaca ju."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦧꦸ"
+      },
+      "answer": "bu",
+      "payload": {
+        "options": [
+          "ba",
+          "bu",
+          "gu",
+          "tu"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan suku dibaca bu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0076",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦮꦸ"
+      },
+      "answer": "wu",
+      "payload": {
+        "options": [
+          "wu",
+          "thu",
+          "wi",
+          "lu"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan suku dibaca wu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0078",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦚꦸ"
+      },
+      "answer": "nyu",
+      "payload": {
+        "options": [
+          "mu",
+          "bu",
+          "nyi",
+          "nyu"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan suku dibaca nyu."
+    },
+    {
+      "id": "aksara-nusantara.sd-b.0080",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ꦠꦸ"
+      },
+      "answer": "tu",
+      "payload": {
+        "options": [
+          "ngu",
+          "nyu",
+          "ta",
+          "tu"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan suku dibaca tu."
+    }
+  ]
+}

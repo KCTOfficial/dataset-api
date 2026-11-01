@@ -1,0 +1,1709 @@
+{
+  "schemaVersion": 1,
+  "gameId": "aksara-nusantara",
+  "segment": "sd-c",
+  "jenjang": "SD",
+  "interaction": "MULTI_CHOICE",
+  "questions": [
+    {
+      "id": "aksara-nusantara.sd-c.0001",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦧꦺ"
+      },
+      "answer": "bé",
+      "payload": {
+        "options": [
+          "dé",
+          "ba",
+          "dhé",
+          "bé"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan taling dibaca bé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0006",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦒꦺ"
+      },
+      "answer": "gé",
+      "payload": {
+        "options": [
+          "hé",
+          "lé",
+          "gé",
+          "gu"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan taling dibaca gé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0010",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦝꦺ"
+      },
+      "answer": "dhé",
+      "payload": {
+        "options": [
+          "dha",
+          "thé",
+          "dhé",
+          "pé"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan taling dibaca dhé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0015",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦚꦺ"
+      },
+      "answer": "nyé",
+      "payload": {
+        "options": [
+          "pé",
+          "cé",
+          "nye",
+          "nyé"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan taling dibaca nyé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0020",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦭꦺ"
+      },
+      "answer": "lé",
+      "payload": {
+        "options": [
+          "dhé",
+          "jé",
+          "lé",
+          "la"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan taling dibaca lé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0025",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦛꦺ"
+      },
+      "answer": "thé",
+      "payload": {
+        "options": [
+          "lé",
+          "thé",
+          "gé",
+          "tho"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan taling dibaca thé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0033",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦔꦺ"
+      },
+      "answer": "ngé",
+      "payload": {
+        "options": [
+          "té",
+          "nga",
+          "ngé",
+          "pé"
+        ]
+      },
+      "explanation": "ꦔ (nga) diberi sandhangan taling dibaca ngé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0040",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦮꦺ"
+      },
+      "answer": "wé",
+      "payload": {
+        "options": [
+          "wo",
+          "wé",
+          "bé",
+          "dé"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan taling dibaca wé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0044",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦠꦺ"
+      },
+      "answer": "té",
+      "payload": {
+        "options": [
+          "tu",
+          "té",
+          "ké",
+          "ngé"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan taling dibaca té."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0047",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦥꦺ"
+      },
+      "answer": "pé",
+      "payload": {
+        "options": [
+          "dé",
+          "pu",
+          "gé",
+          "pé"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan taling dibaca pé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0056",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦏꦺ"
+      },
+      "answer": "ké",
+      "payload": {
+        "options": [
+          "thé",
+          "lé",
+          "ké",
+          "ka"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan taling dibaca ké."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0061",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦩꦺ"
+      },
+      "answer": "mé",
+      "payload": {
+        "options": [
+          "wé",
+          "mé",
+          "mu",
+          "thé"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan taling dibaca mé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0068",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦤꦺ"
+      },
+      "answer": "né",
+      "payload": {
+        "options": [
+          "ni",
+          "né",
+          "ré",
+          "pé"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan taling dibaca né."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0073",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦗꦺ"
+      },
+      "answer": "jé",
+      "payload": {
+        "options": [
+          "ju",
+          "jé",
+          "dhé",
+          "thé"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan taling dibaca jé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0086",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦪꦺ"
+      },
+      "answer": "yé",
+      "payload": {
+        "options": [
+          "nyé",
+          "yé",
+          "yi",
+          "ngé"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan taling dibaca yé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0100",
+      "difficulty": 1,
+      "prompt": {
+        "text": "ꦱꦺ"
+      },
+      "answer": "sé",
+      "payload": {
+        "options": [
+          "sé",
+          "cé",
+          "su",
+          "mé"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan taling dibaca sé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0002",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦛꦺꦴ"
+      },
+      "answer": "tho",
+      "payload": {
+        "options": [
+          "yo",
+          "thu",
+          "tho",
+          "ho"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan taling tarung dibaca tho."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0007",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦒꦺꦴ"
+      },
+      "answer": "go",
+      "payload": {
+        "options": [
+          "go",
+          "gi",
+          "lo",
+          "dho"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan taling tarung dibaca go."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0011",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦢꦺꦴ"
+      },
+      "answer": "do",
+      "payload": {
+        "options": [
+          "dé",
+          "yo",
+          "lo",
+          "do"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan taling tarung dibaca do."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0016",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦗꦺꦴ"
+      },
+      "answer": "jo",
+      "payload": {
+        "options": [
+          "ho",
+          "yo",
+          "jo",
+          "je"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan taling tarung dibaca jo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0021",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦠꦺꦴ"
+      },
+      "answer": "to",
+      "payload": {
+        "options": [
+          "ti",
+          "to",
+          "yo",
+          "ko"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan taling tarung dibaca to."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0026",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦪꦺꦴ"
+      },
+      "answer": "yo",
+      "payload": {
+        "options": [
+          "ye",
+          "po",
+          "dho",
+          "yo"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan taling tarung dibaca yo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0041",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦫꦺꦴ"
+      },
+      "answer": "ro",
+      "payload": {
+        "options": [
+          "ru",
+          "ro",
+          "go",
+          "no"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan taling tarung dibaca ro."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0057",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦩꦺꦴ"
+      },
+      "answer": "mo",
+      "payload": {
+        "options": [
+          "mo",
+          "ko",
+          "po",
+          "mu"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan taling tarung dibaca mo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0062",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦧꦺꦴ"
+      },
+      "answer": "bo",
+      "payload": {
+        "options": [
+          "ho",
+          "yo",
+          "bo",
+          "be"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan taling tarung dibaca bo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0063",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦥꦺꦴ"
+      },
+      "answer": "po",
+      "payload": {
+        "options": [
+          "ho",
+          "po",
+          "pe",
+          "ro"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan taling tarung dibaca po."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0065",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦭꦺꦴ"
+      },
+      "answer": "lo",
+      "payload": {
+        "options": [
+          "dho",
+          "jo",
+          "lo",
+          "la"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan taling tarung dibaca lo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0076",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦝꦺꦴ"
+      },
+      "answer": "dho",
+      "payload": {
+        "options": [
+          "dho",
+          "dhu",
+          "co",
+          "wo"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan taling tarung dibaca dho."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0078",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦮꦺꦴ"
+      },
+      "answer": "wo",
+      "payload": {
+        "options": [
+          "wo",
+          "mo",
+          "ro",
+          "wa"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan taling tarung dibaca wo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0080",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦕꦺꦴ"
+      },
+      "answer": "co",
+      "payload": {
+        "options": [
+          "po",
+          "yo",
+          "ca",
+          "co"
+        ]
+      },
+      "explanation": "ꦕ (ca) diberi sandhangan taling tarung dibaca co."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0083",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦏꦺꦴ"
+      },
+      "answer": "ko",
+      "payload": {
+        "options": [
+          "ke",
+          "ngo",
+          "ko",
+          "ro"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan taling tarung dibaca ko."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0089",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦲꦺꦴ"
+      },
+      "answer": "ho",
+      "payload": {
+        "options": [
+          "he",
+          "ngo",
+          "ho",
+          "tho"
+        ]
+      },
+      "explanation": "ꦲ (ha) diberi sandhangan taling tarung dibaca ho."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0092",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦤꦺꦴ"
+      },
+      "answer": "no",
+      "payload": {
+        "options": [
+          "wo",
+          "na",
+          "so",
+          "no"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan taling tarung dibaca no."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0095",
+      "difficulty": 2,
+      "prompt": {
+        "text": "ꦱꦺꦴ"
+      },
+      "answer": "so",
+      "payload": {
+        "options": [
+          "yo",
+          "sé",
+          "po",
+          "so"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan taling tarung dibaca so."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0003",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦧꦼ"
+      },
+      "answer": "be",
+      "payload": {
+        "options": [
+          "bu",
+          "be",
+          "nye",
+          "we"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan pepet dibaca be."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0008",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦫꦼ"
+      },
+      "answer": "re",
+      "payload": {
+        "options": [
+          "nye",
+          "re",
+          "je",
+          "ré"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan pepet dibaca re."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0012",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦭꦼ"
+      },
+      "answer": "le",
+      "payload": {
+        "options": [
+          "we",
+          "nge",
+          "la",
+          "le"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan pepet dibaca le."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0017",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦚꦼ"
+      },
+      "answer": "nye",
+      "payload": {
+        "options": [
+          "nye",
+          "ge",
+          "nyu",
+          "le"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan pepet dibaca nye."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0022",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦛꦼ"
+      },
+      "answer": "the",
+      "payload": {
+        "options": [
+          "de",
+          "the",
+          "nye",
+          "tha"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan pepet dibaca the."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0027",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦤꦼ"
+      },
+      "answer": "ne",
+      "payload": {
+        "options": [
+          "ge",
+          "nu",
+          "nge",
+          "ne"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan pepet dibaca ne."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0030",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦔꦼ"
+      },
+      "answer": "nge",
+      "payload": {
+        "options": [
+          "re",
+          "ngo",
+          "ne",
+          "nge"
+        ]
+      },
+      "explanation": "ꦔ (nga) diberi sandhangan pepet dibaca nge."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0034",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦒꦼ"
+      },
+      "answer": "ge",
+      "payload": {
+        "options": [
+          "ge",
+          "nge",
+          "gu",
+          "the"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan pepet dibaca ge."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0037",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦠꦼ"
+      },
+      "answer": "te",
+      "payload": {
+        "options": [
+          "nye",
+          "ye",
+          "tu",
+          "te"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan pepet dibaca te."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0042",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦮꦼ"
+      },
+      "answer": "we",
+      "payload": {
+        "options": [
+          "ce",
+          "we",
+          "wa",
+          "pe"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan pepet dibaca we."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0045",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦱꦼ"
+      },
+      "answer": "se",
+      "payload": {
+        "options": [
+          "ce",
+          "le",
+          "so",
+          "se"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan pepet dibaca se."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0048",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦩꦼ"
+      },
+      "answer": "me",
+      "payload": {
+        "options": [
+          "mo",
+          "ye",
+          "re",
+          "me"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan pepet dibaca me."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0051",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦥꦼ"
+      },
+      "answer": "pe",
+      "payload": {
+        "options": [
+          "nye",
+          "po",
+          "pe",
+          "se"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan pepet dibaca pe."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0053",
+      "difficulty": 3,
+      "prompt": {
+        "text": "ꦝꦼ"
+      },
+      "answer": "dhe",
+      "payload": {
+        "options": [
+          "dhe",
+          "we",
+          "te",
+          "dhé"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan pepet dibaca dhe."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0004",
+      "difficulty": 4,
+      "prompt": {
+        "text": "bi"
+      },
+      "answer": "ꦧꦶ",
+      "payload": {
+        "options": [
+          "ꦧꦶ",
+          "ꦲꦶ",
+          "ꦧꦺ",
+          "ꦚꦶ"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan wulu dibaca bi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0013",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ku"
+      },
+      "answer": "ꦏꦸ",
+      "payload": {
+        "options": [
+          "ꦱꦸ",
+          "ꦚꦸ",
+          "ꦏꦸ",
+          "ꦏꦶ"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan suku dibaca ku."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0018",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ngi"
+      },
+      "answer": "ꦔꦶ",
+      "payload": {
+        "options": [
+          "ꦠꦶ",
+          "ꦧꦶ",
+          "ꦔ",
+          "ꦔꦶ"
+        ]
+      },
+      "explanation": "ꦔ (nga) diberi sandhangan wulu dibaca ngi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0023",
+      "difficulty": 4,
+      "prompt": {
+        "text": "wu"
+      },
+      "answer": "ꦮꦸ",
+      "payload": {
+        "options": [
+          "ꦮꦸ",
+          "ꦝꦸ",
+          "ꦥꦸ",
+          "ꦮꦼ"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan suku dibaca wu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0028",
+      "difficulty": 4,
+      "prompt": {
+        "text": "nyu"
+      },
+      "answer": "ꦚꦸ",
+      "payload": {
+        "options": [
+          "ꦚꦼ",
+          "ꦕꦸ",
+          "ꦱꦸ",
+          "ꦚꦸ"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan suku dibaca nyu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0031",
+      "difficulty": 4,
+      "prompt": {
+        "text": "pu"
+      },
+      "answer": "ꦥꦸ",
+      "payload": {
+        "options": [
+          "ꦗꦸ",
+          "ꦠꦸ",
+          "ꦥꦸ",
+          "ꦥꦺ"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan suku dibaca pu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0035",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ru"
+      },
+      "answer": "ꦫꦸ",
+      "payload": {
+        "options": [
+          "ꦫꦺ",
+          "ꦩꦸ",
+          "ꦫꦸ",
+          "ꦠꦸ"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan suku dibaca ru."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0038",
+      "difficulty": 4,
+      "prompt": {
+        "text": "tu"
+      },
+      "answer": "ꦠꦸ",
+      "payload": {
+        "options": [
+          "ꦒꦸ",
+          "ꦠꦸ",
+          "ꦠꦼ",
+          "ꦮꦸ"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan suku dibaca tu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0046",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ri"
+      },
+      "answer": "ꦫꦶ",
+      "payload": {
+        "options": [
+          "ꦕꦶ",
+          "ꦒꦶ",
+          "ꦫꦶ",
+          "ꦫꦺ"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan wulu dibaca ri."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0049",
+      "difficulty": 4,
+      "prompt": {
+        "text": "yi"
+      },
+      "answer": "ꦪꦶ",
+      "payload": {
+        "options": [
+          "ꦪꦸ",
+          "ꦪꦶ",
+          "ꦫꦶ",
+          "ꦱꦶ"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan wulu dibaca yi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0052",
+      "difficulty": 4,
+      "prompt": {
+        "text": "wi"
+      },
+      "answer": "ꦮꦶ",
+      "payload": {
+        "options": [
+          "ꦕꦶ",
+          "ꦮ",
+          "ꦗꦶ",
+          "ꦮꦶ"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan wulu dibaca wi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0054",
+      "difficulty": 4,
+      "prompt": {
+        "text": "su"
+      },
+      "answer": "ꦱꦸ",
+      "payload": {
+        "options": [
+          "ꦧꦸ",
+          "ꦱꦺꦴ",
+          "ꦱꦸ",
+          "ꦒꦸ"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan suku dibaca su."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0059",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ni"
+      },
+      "answer": "ꦤꦶ",
+      "payload": {
+        "options": [
+          "ꦤꦶ",
+          "ꦤ",
+          "ꦫꦶ",
+          "ꦗꦶ"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan wulu dibaca ni."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0066",
+      "difficulty": 4,
+      "prompt": {
+        "text": "thi"
+      },
+      "answer": "ꦛꦶ",
+      "payload": {
+        "options": [
+          "ꦛꦼ",
+          "ꦲꦶ",
+          "ꦮꦶ",
+          "ꦛꦶ"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan wulu dibaca thi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0069",
+      "difficulty": 4,
+      "prompt": {
+        "text": "li"
+      },
+      "answer": "ꦭꦶ",
+      "payload": {
+        "options": [
+          "ꦢꦶ",
+          "ꦭꦺ",
+          "ꦭꦶ",
+          "ꦗꦶ"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan wulu dibaca li."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0071",
+      "difficulty": 4,
+      "prompt": {
+        "text": "yu"
+      },
+      "answer": "ꦪꦸ",
+      "payload": {
+        "options": [
+          "ꦪꦺ",
+          "ꦪꦸ",
+          "ꦩꦸ",
+          "ꦢꦸ"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan suku dibaca yu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0074",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ki"
+      },
+      "answer": "ꦏꦶ",
+      "payload": {
+        "options": [
+          "ꦠꦶ",
+          "ꦭꦶ",
+          "ꦏꦸ",
+          "ꦏꦶ"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan wulu dibaca ki."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0077",
+      "difficulty": 4,
+      "prompt": {
+        "text": "di"
+      },
+      "answer": "ꦢꦶ",
+      "payload": {
+        "options": [
+          "ꦱꦶ",
+          "ꦢꦶ",
+          "ꦢ",
+          "ꦏꦶ"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan wulu dibaca di."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0079",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ti"
+      },
+      "answer": "ꦠꦶ",
+      "payload": {
+        "options": [
+          "ꦠꦺ",
+          "ꦭꦶ",
+          "ꦠꦶ",
+          "ꦝꦶ"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan wulu dibaca ti."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0081",
+      "difficulty": 4,
+      "prompt": {
+        "text": "hi"
+      },
+      "answer": "ꦲꦶ",
+      "payload": {
+        "options": [
+          "ꦝꦶ",
+          "ꦲꦶ",
+          "ꦲꦺꦴ",
+          "ꦤꦶ"
+        ]
+      },
+      "explanation": "ꦲ (ha) diberi sandhangan wulu dibaca hi."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0084",
+      "difficulty": 4,
+      "prompt": {
+        "text": "lu"
+      },
+      "answer": "ꦭꦸ",
+      "payload": {
+        "options": [
+          "ꦭꦶ",
+          "ꦒꦸ",
+          "ꦥꦸ",
+          "ꦭꦸ"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan suku dibaca lu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0087",
+      "difficulty": 4,
+      "prompt": {
+        "text": "du"
+      },
+      "answer": "ꦢꦸ",
+      "payload": {
+        "options": [
+          "ꦛꦸ",
+          "ꦢꦸ",
+          "ꦢꦼ",
+          "ꦗꦸ"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan suku dibaca du."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0090",
+      "difficulty": 4,
+      "prompt": {
+        "text": "ju"
+      },
+      "answer": "ꦗꦸ",
+      "payload": {
+        "options": [
+          "ꦗꦶ",
+          "ꦗꦸ",
+          "ꦱꦸ",
+          "ꦚꦸ"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan suku dibaca ju."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0094",
+      "difficulty": 4,
+      "prompt": {
+        "text": "mu"
+      },
+      "answer": "ꦩꦸ",
+      "payload": {
+        "options": [
+          "ꦩꦸ",
+          "ꦲꦸ",
+          "ꦩꦺꦴ",
+          "ꦗꦸ"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan suku dibaca mu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0097",
+      "difficulty": 4,
+      "prompt": {
+        "text": "hu"
+      },
+      "answer": "ꦲꦸ",
+      "payload": {
+        "options": [
+          "ꦲꦸ",
+          "ꦲꦺ",
+          "ꦥꦸ",
+          "ꦒꦸ"
+        ]
+      },
+      "explanation": "ꦲ (ha) diberi sandhangan suku dibaca hu."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0005",
+      "difficulty": 5,
+      "prompt": {
+        "text": "gé"
+      },
+      "answer": "ꦒꦺ",
+      "payload": {
+        "options": [
+          "ꦏꦺ",
+          "ꦒꦺ",
+          "ꦚꦺ",
+          "ꦒꦸ"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan taling dibaca gé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0009",
+      "difficulty": 5,
+      "prompt": {
+        "text": "we"
+      },
+      "answer": "ꦮꦼ",
+      "payload": {
+        "options": [
+          "ꦮꦼ",
+          "ꦝꦼ",
+          "ꦒꦼ",
+          "ꦮ"
+        ]
+      },
+      "explanation": "ꦮ (wa) diberi sandhangan pepet dibaca we."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0014",
+      "difficulty": 5,
+      "prompt": {
+        "text": "pe"
+      },
+      "answer": "ꦥꦼ",
+      "payload": {
+        "options": [
+          "ꦥꦼ",
+          "ꦭꦼ",
+          "ꦔꦼ",
+          "ꦥꦺ"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan pepet dibaca pe."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0019",
+      "difficulty": 5,
+      "prompt": {
+        "text": "té"
+      },
+      "answer": "ꦠꦺ",
+      "payload": {
+        "options": [
+          "ꦠ",
+          "ꦏꦺ",
+          "ꦛꦺ",
+          "ꦠꦺ"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan taling dibaca té."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0024",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ge"
+      },
+      "answer": "ꦒꦼ",
+      "payload": {
+        "options": [
+          "ꦛꦼ",
+          "ꦗꦼ",
+          "ꦒꦸ",
+          "ꦒꦼ"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan pepet dibaca ge."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0029",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ké"
+      },
+      "answer": "ꦏꦺ",
+      "payload": {
+        "options": [
+          "ꦢꦺ",
+          "ꦪꦺ",
+          "ꦏꦺ",
+          "ꦏ"
+        ]
+      },
+      "explanation": "ꦏ (ka) diberi sandhangan taling dibaca ké."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0032",
+      "difficulty": 5,
+      "prompt": {
+        "text": "co"
+      },
+      "answer": "ꦕꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦕ",
+          "ꦝꦺꦴ",
+          "ꦕꦺꦴ",
+          "ꦛꦺꦴ"
+        ]
+      },
+      "explanation": "ꦕ (ca) diberi sandhangan taling tarung dibaca co."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0036",
+      "difficulty": 5,
+      "prompt": {
+        "text": "go"
+      },
+      "answer": "ꦒꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦒꦸ",
+          "ꦒꦺꦴ",
+          "ꦛꦺꦴ",
+          "ꦗꦺꦴ"
+        ]
+      },
+      "explanation": "ꦒ (ga) diberi sandhangan taling tarung dibaca go."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0039",
+      "difficulty": 5,
+      "prompt": {
+        "text": "le"
+      },
+      "answer": "ꦭꦼ",
+      "payload": {
+        "options": [
+          "ꦤꦼ",
+          "ꦏꦼ",
+          "ꦭꦼ",
+          "ꦭꦸ"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan pepet dibaca le."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0043",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ne"
+      },
+      "answer": "ꦤꦼ",
+      "payload": {
+        "options": [
+          "ꦤꦼ",
+          "ꦤꦺꦴ",
+          "ꦗꦼ",
+          "ꦏꦼ"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan pepet dibaca ne."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0050",
+      "difficulty": 5,
+      "prompt": {
+        "text": "yé"
+      },
+      "answer": "ꦪꦺ",
+      "payload": {
+        "options": [
+          "ꦭꦺ",
+          "ꦪꦺ",
+          "ꦒꦺ",
+          "ꦪꦺꦴ"
+        ]
+      },
+      "explanation": "ꦪ (ya) diberi sandhangan taling dibaca yé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0055",
+      "difficulty": 5,
+      "prompt": {
+        "text": "de"
+      },
+      "answer": "ꦢꦼ",
+      "payload": {
+        "options": [
+          "ꦱꦼ",
+          "ꦢꦼ",
+          "ꦥꦼ",
+          "ꦢꦶ"
+        ]
+      },
+      "explanation": "ꦢ (da) diberi sandhangan pepet dibaca de."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0058",
+      "difficulty": 5,
+      "prompt": {
+        "text": "re"
+      },
+      "answer": "ꦫꦼ",
+      "payload": {
+        "options": [
+          "ꦥꦼ",
+          "ꦫꦼ",
+          "ꦫꦺꦴ",
+          "ꦕꦼ"
+        ]
+      },
+      "explanation": "ꦫ (ra) diberi sandhangan pepet dibaca re."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0060",
+      "difficulty": 5,
+      "prompt": {
+        "text": "te"
+      },
+      "answer": "ꦠꦼ",
+      "payload": {
+        "options": [
+          "ꦫꦼ",
+          "ꦠ",
+          "ꦠꦼ",
+          "ꦛꦼ"
+        ]
+      },
+      "explanation": "ꦠ (ta) diberi sandhangan pepet dibaca te."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0064",
+      "difficulty": 5,
+      "prompt": {
+        "text": "nyo"
+      },
+      "answer": "ꦚꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦔꦺꦴ",
+          "ꦗꦺꦴ",
+          "ꦚꦺꦴ",
+          "ꦚꦼ"
+        ]
+      },
+      "explanation": "ꦚ (nya) diberi sandhangan taling tarung dibaca nyo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0067",
+      "difficulty": 5,
+      "prompt": {
+        "text": "lo"
+      },
+      "answer": "ꦭꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦭꦺꦴ",
+          "ꦭꦺ",
+          "ꦔꦺꦴ",
+          "ꦕꦺꦴ"
+        ]
+      },
+      "explanation": "ꦭ (la) diberi sandhangan taling tarung dibaca lo."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0070",
+      "difficulty": 5,
+      "prompt": {
+        "text": "be"
+      },
+      "answer": "ꦧꦼ",
+      "payload": {
+        "options": [
+          "ꦭꦼ",
+          "ꦚꦼ",
+          "ꦧ",
+          "ꦧꦼ"
+        ]
+      },
+      "explanation": "ꦧ (ba) diberi sandhangan pepet dibaca be."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0072",
+      "difficulty": 5,
+      "prompt": {
+        "text": "jé"
+      },
+      "answer": "ꦗꦺ",
+      "payload": {
+        "options": [
+          "ꦩꦺ",
+          "ꦗ",
+          "ꦗꦺ",
+          "ꦏꦺ"
+        ]
+      },
+      "explanation": "ꦗ (ja) diberi sandhangan taling dibaca jé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0075",
+      "difficulty": 5,
+      "prompt": {
+        "text": "se"
+      },
+      "answer": "ꦱꦼ",
+      "payload": {
+        "options": [
+          "ꦕꦼ",
+          "ꦱꦼ",
+          "ꦒꦼ",
+          "ꦱꦶ"
+        ]
+      },
+      "explanation": "ꦱ (sa) diberi sandhangan pepet dibaca se."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0082",
+      "difficulty": 5,
+      "prompt": {
+        "text": "no"
+      },
+      "answer": "ꦤꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦤꦺ",
+          "ꦲꦺꦴ",
+          "ꦏꦺꦴ",
+          "ꦤꦺꦴ"
+        ]
+      },
+      "explanation": "ꦤ (na) diberi sandhangan taling tarung dibaca no."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0085",
+      "difficulty": 5,
+      "prompt": {
+        "text": "po"
+      },
+      "answer": "ꦥꦺꦴ",
+      "payload": {
+        "options": [
+          "ꦱꦺꦴ",
+          "ꦥꦼ",
+          "ꦥꦺꦴ",
+          "ꦮꦺꦴ"
+        ]
+      },
+      "explanation": "ꦥ (pa) diberi sandhangan taling tarung dibaca po."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0088",
+      "difficulty": 5,
+      "prompt": {
+        "text": "mé"
+      },
+      "answer": "ꦩꦺ",
+      "payload": {
+        "options": [
+          "ꦩꦺ",
+          "ꦩꦸ",
+          "ꦛꦺ",
+          "ꦏꦺ"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan taling dibaca mé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0091",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dhé"
+      },
+      "answer": "ꦝꦺ",
+      "payload": {
+        "options": [
+          "ꦝꦼ",
+          "ꦝꦺ",
+          "ꦛꦺ",
+          "ꦪꦺ"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan taling dibaca dhé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0093",
+      "difficulty": 5,
+      "prompt": {
+        "text": "dhe"
+      },
+      "answer": "ꦝꦼ",
+      "payload": {
+        "options": [
+          "ꦝꦺ",
+          "ꦭꦼ",
+          "ꦝꦼ",
+          "ꦔꦼ"
+        ]
+      },
+      "explanation": "ꦝ (dha) diberi sandhangan pepet dibaca dhe."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0096",
+      "difficulty": 5,
+      "prompt": {
+        "text": "thé"
+      },
+      "answer": "ꦛꦺ",
+      "payload": {
+        "options": [
+          "ꦛꦺꦴ",
+          "ꦝꦺ",
+          "ꦛꦺ",
+          "ꦢꦺ"
+        ]
+      },
+      "explanation": "ꦛ (tha) diberi sandhangan taling dibaca thé."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0098",
+      "difficulty": 5,
+      "prompt": {
+        "text": "me"
+      },
+      "answer": "ꦩꦼ",
+      "payload": {
+        "options": [
+          "ꦛꦼ",
+          "ꦩꦺ",
+          "ꦩꦼ",
+          "ꦪꦼ"
+        ]
+      },
+      "explanation": "ꦩ (ma) diberi sandhangan pepet dibaca me."
+    },
+    {
+      "id": "aksara-nusantara.sd-c.0099",
+      "difficulty": 5,
+      "prompt": {
+        "text": "ce"
+      },
+      "answer": "ꦕꦼ",
+      "payload": {
+        "options": [
+          "ꦕꦸ",
+          "ꦕꦼ",
+          "ꦲꦼ",
+          "ꦛꦼ"
+        ]
+      },
+      "explanation": "ꦕ (ca) diberi sandhangan pepet dibaca ce."
+    }
+  ]
+}
