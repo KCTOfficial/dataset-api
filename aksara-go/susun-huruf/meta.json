@@ -1,7 +1,7 @@
 {
   "gameId": "susun-huruf",
   "title": "Susun Huruf",
-  "description": "Susun huruf acak menjadi kata yang benar.",
+  "description": "Hurufnya teracak, ayo susun jadi kata!",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "TILE_BANK",

@@ -1,7 +1,7 @@
 {
   "gameId": "tebak-angka",
   "title": "Tebak Angka",
-  "description": "Tuliskan angka menjadi kata bilangan (terbilang).",
+  "description": "Ubah angka jadi tulisan, misalnya 12 jadi dua belas.",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "TILE_BANK",

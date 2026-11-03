@@ -1,7 +1,7 @@
 {
   "gameId": "susun-kalimat",
   "title": "Susun Kalimat",
-  "description": "Susun kata-kata menjadi kalimat yang benar.",
+  "description": "Urutkan kata-kata jadi kalimat yang pas.",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "TILE_BANK",

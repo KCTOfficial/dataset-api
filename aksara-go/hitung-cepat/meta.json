@@ -1,7 +1,7 @@
 {
   "gameId": "hitung-cepat",
   "title": "Hitung Cepat",
-  "description": "Hitung hasil operasi bilangan dengan cepat dan tepat.",
+  "description": "Adu cepat berhitung dan temukan hasilnya!",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "NUMPAD",

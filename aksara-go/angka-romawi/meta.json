@@ -1,7 +1,7 @@
 {
   "gameId": "angka-romawi",
   "title": "Angka Romawi",
-  "description": "Ubah angka Romawi ke angka biasa dan sebaliknya.",
+  "description": "Baca dan tulis angka Romawi seperti V, X, dan L.",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "NUMPAD",

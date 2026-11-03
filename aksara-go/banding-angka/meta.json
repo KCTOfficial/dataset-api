@@ -1,7 +1,7 @@
 {
   "gameId": "banding-angka",
   "title": "Banding Angka",
-  "description": "Bandingkan dua nilai: lebih besar, lebih kecil, atau sama.",
+  "description": "Mana yang lebih besar, lebih kecil, atau sama?",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "COMPARE",

@@ -1,7 +1,7 @@
 {
   "gameId": "kata-baku",
   "title": "Kata Baku",
-  "description": "Pilih penulisan kata yang baku sesuai KBBI.",
+  "description": "Mana tulisan kata yang benar sesuai kamus?",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "MULTI_CHOICE",

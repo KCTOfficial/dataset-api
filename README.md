@@ -4,7 +4,7 @@ Static JSON datasets from KCT, served as a free, read-only **API over public CDN
 
 | Dataset | Folder | What it contains | Format docs |
 |---|---|---|---|
-| AksaraGo question bank | [`aksara-go/`](aksara-go/) | 4,718 questions and answers across 15 learning games for SD, SMP, and SMA (dataset version 1.1.0) | [`aksara-go/README.md`](aksara-go/README.md) |
+| AksaraGo question bank | [`aksara-go/`](aksara-go/) | 4,718 questions and answers across 15 learning games for SD, SMP, and SMA (dataset version 1.2.0) | [`aksara-go/README.md`](aksara-go/README.md) |
 
 The numbers above are a snapshot. [`aksara-go/manifest.json`](aksara-go/manifest.json) is always the source of truth for which files exist, their question counts, SHA-256 checksums, and review status.
 

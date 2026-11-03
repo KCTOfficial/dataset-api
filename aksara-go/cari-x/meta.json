@@ -1,7 +1,7 @@
 {
   "gameId": "cari-x",
   "title": "Cari X",
-  "description": "Temukan nilai yang belum diketahui dalam persamaan.",
+  "description": "Temukan angka misterius yang bersembunyi di balik X!",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "NUMPAD",

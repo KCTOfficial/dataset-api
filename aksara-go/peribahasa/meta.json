@@ -1,7 +1,7 @@
 {
   "gameId": "peribahasa",
   "title": "Peribahasa",
-  "description": "Lengkapi peribahasa Indonesia dan pahami maknanya.",
+  "description": "Lengkapi peribahasa dan cari tahu artinya.",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "MULTI_CHOICE",

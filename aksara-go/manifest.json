@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.1.0",
+  "datasetVersion": "1.2.0",
   "games": [
     {
       "gameId": "aksara-nusantara",
       "meta": "aksara-nusantara/meta.json",
-      "metaSha256": "7389e8dde4d186e4e76a62339a89ea556bb7480ee2f34f679542b1888ad5a3a3",
+      "metaSha256": "a46dcb98d6fc3d40a8c30e0e600a81365849dc1fe42c25c54edf9e25247f1498",
       "files": [
         {
           "path": "aksara-nusantara/sd-b.json",
@@ -39,7 +39,7 @@
     {
       "gameId": "angka-romawi",
       "meta": "angka-romawi/meta.json",
-      "metaSha256": "80fd1d4590b745e95bbaa33ecc984c2daa18054a7a1be900b172af78f34d6b87",
+      "metaSha256": "cd7282fc7197133ccbaf0bd31575b24ee094e3e20cb9743d70161c121d558441",
       "files": [
         {
           "path": "angka-romawi/sd-b.json",
@@ -73,7 +73,7 @@
     {
       "gameId": "banding-angka",
       "meta": "banding-angka/meta.json",
-      "metaSha256": "b4c5ed44c5d7c303497d85870e77ef07fa3c75c5745290d8d450be448d1f1e4a",
+      "metaSha256": "e49a525d874c0e5425a9f86efa0c7169a6f495f5a174ef0de89f36db8cbea6f5",
       "files": [
         {
           "path": "banding-angka/sd-a.json",
@@ -125,7 +125,7 @@
     {
       "gameId": "cari-x",
       "meta": "cari-x/meta.json",
-      "metaSha256": "eaec5dee49e2a7b968f123c9a72da730a972bc1bf7943bcb9c1cbf6a31a9522e",
+      "metaSha256": "de21296a574ce5d744e2fd04c82dc3305caa278f09ee96318bb4e3f05a6004e4",
       "files": [
         {
           "path": "cari-x/sd-b.json",
@@ -168,7 +168,7 @@
     {
       "gameId": "deret-angka",
       "meta": "deret-angka/meta.json",
-      "metaSha256": "a54a1fceeecfe465f93d66924d890ac6393b573d2f5bc04de56eeaeca2fd6b9e",
+      "metaSha256": "615c644d78d52f5fcd524b7ad823371a477190a57a1802bf21b0c334c0ff2121",
       "files": [
         {
           "path": "deret-angka/sd-a.json",
@@ -220,7 +220,7 @@
     {
       "gameId": "hitung-cepat",
       "meta": "hitung-cepat/meta.json",
-      "metaSha256": "3084b4d2a02099eeb9653b90f951c21c22cecd0d6de95cd246ca61fe75199ea2",
+      "metaSha256": "51b269551dc3837f0975483f0109f1ac0b1753d95276ab654ab23786b8980901",
       "files": [
         {
           "path": "hitung-cepat/sd-a.json",
@@ -272,7 +272,7 @@
     {
       "gameId": "imbuhan",
       "meta": "imbuhan/meta.json",
-      "metaSha256": "0ac8f4751c5112763d6fb9996dd71f1030aaf055f52f46e5ee7f9fab8a05b06d",
+      "metaSha256": "47dae50ddf16e0a15eed1dbf5f88cbd9af4c7460d3434cec29f31157751699d1",
       "files": [
         {
           "path": "imbuhan/sd-b.json",
@@ -306,7 +306,7 @@
     {
       "gameId": "kata-baku",
       "meta": "kata-baku/meta.json",
-      "metaSha256": "e5ac7a322cf6f40cc1c69637d64033d0ba4338afb4bbb3d474c46517f0f1127e",
+      "metaSha256": "f2b34ce72274579f0f8a87cd856e96e3390fad72f639608f7dc9a38500b5b5a1",
       "files": [
         {
           "path": "kata-baku/sd-c.json",
@@ -340,7 +340,7 @@
     {
       "gameId": "kata-ke-angka",
       "meta": "kata-ke-angka/meta.json",
-      "metaSha256": "78423b7f6412c6e2d82668ebdb577babc07100b10a1ac021d7aec732b30ddbfa",
+      "metaSha256": "126371862dcb4344dfd7cbf94e9c21c1d8f6d9d9618dfad62d74d62902e2a653",
       "files": [
         {
           "path": "kata-ke-angka/sd-a.json",
@@ -383,7 +383,7 @@
     {
       "gameId": "lengkapi-kata",
       "meta": "lengkapi-kata/meta.json",
-      "metaSha256": "d88aa261fddd97e4c111a4ebf63f2b8eafe9a2a0dba4e1726b1e7cf8d1273126",
+      "metaSha256": "8e7fc2f5009f4a3636258422d4e8a6bd6f8500dab292f3ab1b17d114db206fc0",
       "files": [
         {
           "path": "lengkapi-kata/sd-a.json",
@@ -435,7 +435,7 @@
     {
       "gameId": "peribahasa",
       "meta": "peribahasa/meta.json",
-      "metaSha256": "4e22259818f399f79a6ddbdd4300c88babd8e7de4d587ecc526b0ed9ac07f432",
+      "metaSha256": "ccdc41e069f609462451ecffce840cd6136b95a1edb90a6d9657aabe821d0fe4",
       "files": [
         {
           "path": "peribahasa/sd-c.json",
@@ -469,7 +469,7 @@
     {
       "gameId": "sinonim-antonim",
       "meta": "sinonim-antonim/meta.json",
-      "metaSha256": "27c660ce77c7b75548809bd50239d080a7e02623f05d410e2358907e0074bea1",
+      "metaSha256": "d92df06de54f6eb5f37d72a23e4bcf2a1d5ce209f58f027290b737cb1acbd13f",
       "files": [
         {
           "path": "sinonim-antonim/sd-b.json",
@@ -512,7 +512,7 @@
     {
       "gameId": "susun-huruf",
       "meta": "susun-huruf/meta.json",
-      "metaSha256": "2566c327141c11f1f1e39a46f7674cd6539adb19453093a3eefb22bd4c01c3b1",
+      "metaSha256": "30ad58a8646d96bffc7a92bbcc8018dd92c18e164f81f776e2db94ad6c7496fa",
       "files": [
         {
           "path": "susun-huruf/sd-a.json",
@@ -546,7 +546,7 @@
     {
       "gameId": "susun-kalimat",
       "meta": "susun-kalimat/meta.json",
-      "metaSha256": "34057df527954b96c848d0e009769384b9c06a1ba1ceef624da17cb3631479d9",
+      "metaSha256": "2c1e50b62afca4b83d5ecaf56a931f8098a017f8328bba6abe649ef58cb38909",
       "files": [
         {
           "path": "susun-kalimat/sd-a.json",
@@ -580,7 +580,7 @@
     {
       "gameId": "tebak-angka",
       "meta": "tebak-angka/meta.json",
-      "metaSha256": "b30831d01551cb54ecf0d1c86c80444e90759b21fdf360d259d12e4e3bf68266",
+      "metaSha256": "79ccf18c365fd04b783613201b4f3d3370b1dea382fc8411c10f244bc37e62f2",
       "files": [
         {
           "path": "tebak-angka/sd-a.json",

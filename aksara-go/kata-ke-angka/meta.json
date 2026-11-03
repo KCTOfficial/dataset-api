@@ -1,7 +1,7 @@
 {
   "gameId": "kata-ke-angka",
   "title": "Kata ke Angka",
-  "description": "Ubah kata bilangan menjadi angka.",
+  "description": "Baca tulisan bilangan, lalu ketik angkanya!",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "NUMPAD",

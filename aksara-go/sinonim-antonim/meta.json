@@ -1,7 +1,7 @@
 {
   "gameId": "sinonim-antonim",
   "title": "Sinonim & Antonim",
-  "description": "Cari pasangan kata yang sama arti atau berlawanan arti.",
+  "description": "Jodohkan kata yang artinya sama atau berlawanan.",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "MATCH_PAIRS",

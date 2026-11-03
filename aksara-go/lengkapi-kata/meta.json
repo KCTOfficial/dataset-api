@@ -1,7 +1,7 @@
 {
   "gameId": "lengkapi-kata",
   "title": "Lengkapi Kata",
-  "description": "Lengkapi huruf yang hilang hingga menjadi kata yang benar.",
+  "description": "Ada huruf yang hilang, ayo lengkapi katanya!",
   "category": "literasi",
   "contentKind": "curated",
   "interaction": "FILL_GAP",

@@ -1,7 +1,7 @@
 {
   "gameId": "deret-angka",
   "title": "Deret Angka",
-  "description": "Temukan pola dan lengkapi angka yang hilang.",
+  "description": "Ada angka yang hilang, bisa tebak polanya?",
   "category": "numerasi",
   "contentKind": "procedural",
   "interaction": "NUMPAD",
