@@ -1,0 +1,992 @@
+{
+  "schemaVersion": 1,
+  "misi": [
+    {
+      "id": "kata-3",
+      "legacyIndex": 0,
+      "label": "3 huruf",
+      "age": "PAUD, TK",
+      "words": [
+        {
+          "id": "ibu",
+          "text": "ibu"
+        },
+        {
+          "id": "api",
+          "text": "api"
+        },
+        {
+          "id": "air",
+          "text": "air"
+        },
+        {
+          "id": "ubi",
+          "text": "ubi"
+        },
+        {
+          "id": "tas",
+          "text": "tas"
+        },
+        {
+          "id": "bus",
+          "text": "bus"
+        },
+        {
+          "id": "kue",
+          "text": "kue"
+        },
+        {
+          "id": "jam",
+          "text": "jam"
+        },
+        {
+          "id": "mie",
+          "text": "mie"
+        },
+        {
+          "id": "pot",
+          "text": "pot"
+        }
+      ]
+    },
+    {
+      "id": "kata-4",
+      "legacyIndex": 1,
+      "label": "4 huruf",
+      "age": "TK B",
+      "words": [
+        {
+          "id": "bola",
+          "text": "bola"
+        },
+        {
+          "id": "buku",
+          "text": "buku"
+        },
+        {
+          "id": "topi",
+          "text": "topi"
+        },
+        {
+          "id": "kaki",
+          "text": "kaki"
+        },
+        {
+          "id": "mata",
+          "text": "mata"
+        },
+        {
+          "id": "kuda",
+          "text": "kuda"
+        },
+        {
+          "id": "sapi",
+          "text": "sapi"
+        },
+        {
+          "id": "sapu",
+          "text": "sapu"
+        },
+        {
+          "id": "roti",
+          "text": "roti"
+        },
+        {
+          "id": "susu",
+          "text": "susu"
+        },
+        {
+          "id": "ikan",
+          "text": "ikan"
+        },
+        {
+          "id": "ayam",
+          "text": "ayam"
+        },
+        {
+          "id": "gigi",
+          "text": "gigi"
+        },
+        {
+          "id": "batu",
+          "text": "batu"
+        }
+      ]
+    },
+    {
+      "id": "kata-5-6",
+      "legacyIndex": 2,
+      "label": "5–6 huruf",
+      "age": "Kelas 1",
+      "words": [
+        {
+          "id": "rumah",
+          "text": "rumah"
+        },
+        {
+          "id": "gajah",
+          "text": "gajah"
+        },
+        {
+          "id": "bunga",
+          "text": "bunga"
+        },
+        {
+          "id": "mobil",
+          "text": "mobil"
+        },
+        {
+          "id": "jeruk",
+          "text": "jeruk"
+        },
+        {
+          "id": "kursi",
+          "text": "kursi"
+        },
+        {
+          "id": "pensil",
+          "text": "pensil"
+        },
+        {
+          "id": "pisang",
+          "text": "pisang"
+        },
+        {
+          "id": "kucing",
+          "text": "kucing"
+        },
+        {
+          "id": "sepeda",
+          "text": "sepeda"
+        }
+      ]
+    },
+    {
+      "id": "kalimat-pendek",
+      "legacyIndex": 3,
+      "label": "Kalimat pendek",
+      "age": "Kelas 1–2",
+      "kelas": [
+        2
+      ],
+      "words": [
+        {
+          "id": "ibu-ke-kebun",
+          "text": "ibu ke kebun"
+        },
+        {
+          "id": "aku-suka-susu",
+          "text": "aku suka susu"
+        },
+        {
+          "id": "adik-main-bola",
+          "text": "adik main bola"
+        },
+        {
+          "id": "ayah-baca-buku",
+          "text": "ayah baca buku"
+        },
+        {
+          "id": "ibu-masak-nasi",
+          "text": "ibu masak nasi"
+        },
+        {
+          "id": "aku-minum-air",
+          "text": "aku minum air"
+        },
+        {
+          "id": "kucing-tidur",
+          "text": "kucing tidur"
+        },
+        {
+          "id": "kakak-makan-roti",
+          "text": "kakak makan roti"
+        },
+        {
+          "id": "aku-sikat-gigi",
+          "text": "aku sikat gigi"
+        },
+        {
+          "id": "adik-tidur-siang",
+          "text": "adik tidur siang"
+        },
+        {
+          "id": "ayah-minum-kopi",
+          "text": "ayah minum kopi"
+        },
+        {
+          "id": "ibu-cuci-baju",
+          "text": "ibu cuci baju"
+        },
+        {
+          "id": "aku-baca-buku",
+          "text": "aku baca buku"
+        },
+        {
+          "id": "kami-main-bola",
+          "text": "kami main bola"
+        },
+        {
+          "id": "ayah-pergi-kerja",
+          "text": "ayah pergi kerja"
+        }
+      ]
+    },
+    {
+      "id": "tulis-garis",
+      "legacyIndex": 4,
+      "label": "Tulis di garis",
+      "age": "Kelas 2–3",
+      "line": true,
+      "kelas": [
+        3
+      ],
+      "words": [
+        {
+          "id": "ibu-ke-pasar",
+          "text": "ibu ke pasar"
+        },
+        {
+          "id": "kakak-baca-buku",
+          "text": "kakak baca buku"
+        },
+        {
+          "id": "bunga-itu-merah",
+          "text": "bunga itu merah"
+        },
+        {
+          "id": "aku-cuci-tangan",
+          "text": "aku cuci tangan"
+        },
+        {
+          "id": "sapi-makan-rumput",
+          "text": "sapi makan rumput"
+        },
+        {
+          "id": "adik-minum-susu",
+          "text": "adik minum susu"
+        },
+        {
+          "id": "ayah-naik-kereta",
+          "text": "ayah naik kereta"
+        }
+      ]
+    },
+    {
+      "id": "kata-3-4",
+      "legacyIndex": 5,
+      "label": "3–4 huruf",
+      "age": "TK",
+      "words": [
+        {
+          "id": "ibu",
+          "text": "ibu"
+        },
+        {
+          "id": "api",
+          "text": "api"
+        },
+        {
+          "id": "air",
+          "text": "air"
+        },
+        {
+          "id": "ubi",
+          "text": "ubi"
+        },
+        {
+          "id": "tas",
+          "text": "tas"
+        },
+        {
+          "id": "bus",
+          "text": "bus"
+        },
+        {
+          "id": "kue",
+          "text": "kue"
+        },
+        {
+          "id": "jam",
+          "text": "jam"
+        },
+        {
+          "id": "mie",
+          "text": "mie"
+        },
+        {
+          "id": "pot",
+          "text": "pot"
+        },
+        {
+          "id": "bola",
+          "text": "bola"
+        },
+        {
+          "id": "buku",
+          "text": "buku"
+        },
+        {
+          "id": "topi",
+          "text": "topi"
+        },
+        {
+          "id": "kaki",
+          "text": "kaki"
+        },
+        {
+          "id": "mata",
+          "text": "mata"
+        },
+        {
+          "id": "kuda",
+          "text": "kuda"
+        },
+        {
+          "id": "sapi",
+          "text": "sapi"
+        },
+        {
+          "id": "sapu",
+          "text": "sapu"
+        },
+        {
+          "id": "roti",
+          "text": "roti"
+        },
+        {
+          "id": "susu",
+          "text": "susu"
+        },
+        {
+          "id": "ikan",
+          "text": "ikan"
+        },
+        {
+          "id": "ayam",
+          "text": "ayam"
+        },
+        {
+          "id": "gigi",
+          "text": "gigi"
+        },
+        {
+          "id": "batu",
+          "text": "batu"
+        }
+      ]
+    },
+    {
+      "id": "kalimat-panjang",
+      "legacyIndex": 6,
+      "label": "Kalimat panjang",
+      "age": "Kelas 2",
+      "words": [
+        {
+          "id": "adik-main-bola-di-taman",
+          "text": "adik main bola di taman"
+        },
+        {
+          "id": "ibu-beli-sayur-di-pasar",
+          "text": "ibu beli sayur di pasar"
+        },
+        {
+          "id": "ayah-baca-buku-di-rumah",
+          "text": "ayah baca buku di rumah"
+        },
+        {
+          "id": "kakak-minum-susu-tiap-pagi",
+          "text": "kakak minum susu tiap pagi"
+        },
+        {
+          "id": "aku-suka-makan-pisang",
+          "text": "aku suka makan pisang"
+        },
+        {
+          "id": "kucing-tidur-di-kursi",
+          "text": "kucing tidur di kursi"
+        },
+        {
+          "id": "kami-main-ke-sawah",
+          "text": "kami main ke sawah"
+        }
+      ]
+    },
+    {
+      "id": "suku-2",
+      "legacyIndex": 7,
+      "label": "Dua suku kata",
+      "age": "Kelas 1",
+      "suku": true,
+      "jenis": "susun-kata",
+      "kelas": [
+        1
+      ],
+      "words": [
+        {
+          "id": "baju",
+          "text": "ba-ju"
+        },
+        {
+          "id": "bola",
+          "text": "bo-la"
+        },
+        {
+          "id": "buku",
+          "text": "bu-ku"
+        },
+        {
+          "id": "topi",
+          "text": "to-pi"
+        },
+        {
+          "id": "kaki",
+          "text": "ka-ki"
+        },
+        {
+          "id": "mata",
+          "text": "ma-ta"
+        },
+        {
+          "id": "kuda",
+          "text": "ku-da"
+        },
+        {
+          "id": "sapi",
+          "text": "sa-pi"
+        },
+        {
+          "id": "sapu",
+          "text": "sa-pu"
+        },
+        {
+          "id": "roti",
+          "text": "ro-ti"
+        },
+        {
+          "id": "susu",
+          "text": "su-su"
+        },
+        {
+          "id": "ikan",
+          "text": "i-kan"
+        },
+        {
+          "id": "ayam",
+          "text": "a-yam"
+        },
+        {
+          "id": "gigi",
+          "text": "gi-gi"
+        },
+        {
+          "id": "batu",
+          "text": "ba-tu"
+        },
+        {
+          "id": "bulan",
+          "text": "bu-lan"
+        },
+        {
+          "id": "rumah",
+          "text": "ru-mah"
+        },
+        {
+          "id": "kayu",
+          "text": "ka-yu"
+        },
+        {
+          "id": "tangan",
+          "text": "ta-ngan"
+        },
+        {
+          "id": "makan",
+          "text": "ma-kan"
+        },
+        {
+          "id": "tidur",
+          "text": "ti-dur"
+        },
+        {
+          "id": "baca",
+          "text": "ba-ca"
+        },
+        {
+          "id": "tulis",
+          "text": "tu-lis"
+        },
+        {
+          "id": "lari",
+          "text": "la-ri"
+        },
+        {
+          "id": "sayur",
+          "text": "sa-yur"
+        },
+        {
+          "id": "kebun",
+          "text": "ke-bun"
+        },
+        {
+          "id": "pagi",
+          "text": "pa-gi"
+        },
+        {
+          "id": "malam",
+          "text": "ma-lam"
+        },
+        {
+          "id": "gajah",
+          "text": "ga-jah"
+        },
+        {
+          "id": "bunga",
+          "text": "bu-nga"
+        },
+        {
+          "id": "mobil",
+          "text": "mo-bil"
+        },
+        {
+          "id": "jeruk",
+          "text": "je-ruk"
+        },
+        {
+          "id": "kursi",
+          "text": "kur-si"
+        },
+        {
+          "id": "pisang",
+          "text": "pi-sang"
+        },
+        {
+          "id": "pensil",
+          "text": "pen-sil"
+        },
+        {
+          "id": "kucing",
+          "text": "ku-cing"
+        },
+        {
+          "id": "ayah",
+          "text": "a-yah"
+        },
+        {
+          "id": "adik",
+          "text": "a-dik"
+        },
+        {
+          "id": "kakak",
+          "text": "ka-kak"
+        },
+        {
+          "id": "nasi",
+          "text": "na-si"
+        },
+        {
+          "id": "meja",
+          "text": "me-ja"
+        },
+        {
+          "id": "pintu",
+          "text": "pin-tu"
+        },
+        {
+          "id": "apel",
+          "text": "a-pel"
+        },
+        {
+          "id": "bebek",
+          "text": "be-bek"
+        },
+        {
+          "id": "domba",
+          "text": "dom-ba"
+        },
+        {
+          "id": "semut",
+          "text": "se-mut"
+        },
+        {
+          "id": "zebra",
+          "text": "ze-bra"
+        }
+      ]
+    },
+    {
+      "id": "suku-3",
+      "legacyIndex": 8,
+      "label": "Tiga suku kata",
+      "age": "Kelas 1–2",
+      "suku": true,
+      "jenis": "susun-kata",
+      "kelas": [
+        1
+      ],
+      "words": [
+        {
+          "id": "sepeda",
+          "text": "se-pe-da"
+        },
+        {
+          "id": "kelinci",
+          "text": "ke-lin-ci"
+        },
+        {
+          "id": "makanan",
+          "text": "ma-ka-nan"
+        },
+        {
+          "id": "minuman",
+          "text": "mi-nu-man"
+        },
+        {
+          "id": "pesawat",
+          "text": "pe-sa-wat"
+        },
+        {
+          "id": "kereta",
+          "text": "ke-re-ta"
+        },
+        {
+          "id": "ketapang",
+          "text": "ke-ta-pang"
+        },
+        {
+          "id": "sekolah",
+          "text": "se-ko-lah"
+        },
+        {
+          "id": "pelajar",
+          "text": "pe-la-jar"
+        },
+        {
+          "id": "bendera",
+          "text": "ben-de-ra"
+        },
+        {
+          "id": "kelapa",
+          "text": "ke-la-pa"
+        },
+        {
+          "id": "jerapah",
+          "text": "je-ra-pah"
+        },
+        {
+          "id": "harimau",
+          "text": "ha-ri-mau"
+        },
+        {
+          "id": "buaya",
+          "text": "bu-a-ya"
+        },
+        {
+          "id": "semangka",
+          "text": "se-mang-ka"
+        },
+        {
+          "id": "pepaya",
+          "text": "pe-pa-ya"
+        },
+        {
+          "id": "rambutan",
+          "text": "ram-bu-tan"
+        },
+        {
+          "id": "durian",
+          "text": "du-ri-an"
+        },
+        {
+          "id": "lemari",
+          "text": "le-ma-ri"
+        },
+        {
+          "id": "telepon",
+          "text": "te-le-pon"
+        },
+        {
+          "id": "kamera",
+          "text": "ka-me-ra"
+        },
+        {
+          "id": "komputer",
+          "text": "kom-pu-ter"
+        },
+        {
+          "id": "selimut",
+          "text": "se-li-mut"
+        },
+        {
+          "id": "sepatu",
+          "text": "se-pa-tu"
+        },
+        {
+          "id": "penggaris",
+          "text": "peng-ga-ris"
+        },
+        {
+          "id": "penghapus",
+          "text": "peng-ha-pus"
+        },
+        {
+          "id": "tetangga",
+          "text": "te-tang-ga"
+        }
+      ]
+    },
+    {
+      "id": "suku-4",
+      "legacyIndex": 9,
+      "label": "Empat suku kata",
+      "age": "Kelas 2–3",
+      "suku": true,
+      "jenis": "susun-kata",
+      "kelas": [
+        2
+      ],
+      "words": [
+        {
+          "id": "kupukupu",
+          "text": "ku-pu-ku-pu"
+        },
+        {
+          "id": "televisi",
+          "text": "te-le-vi-si"
+        },
+        {
+          "id": "keluarga",
+          "text": "ke-lu-ar-ga"
+        },
+        {
+          "id": "mahasiswa",
+          "text": "ma-ha-sis-wa"
+        },
+        {
+          "id": "matahari",
+          "text": "ma-ta-ha-ri"
+        },
+        {
+          "id": "olahraga",
+          "text": "o-lah-ra-ga"
+        },
+        {
+          "id": "kesehatan",
+          "text": "ke-se-ha-tan"
+        },
+        {
+          "id": "kerajaan",
+          "text": "ke-ra-ja-an"
+        },
+        {
+          "id": "kerjasama",
+          "text": "ker-ja-sa-ma"
+        },
+        {
+          "id": "labalaba",
+          "text": "la-ba-la-ba"
+        },
+        {
+          "id": "kilometer",
+          "text": "ki-lo-me-ter"
+        },
+        {
+          "id": "termameter",
+          "text": "ter-ma-me-ter"
+        }
+      ]
+    },
+    {
+      "id": "susun-kalimat",
+      "legacyIndex": 10,
+      "label": "Susun kalimat",
+      "age": "Kelas 1–2",
+      "jenis": "susun-kalimat",
+      "kelas": [
+        2
+      ],
+      "words": [
+        {
+          "id": "ibu-ke-kebun",
+          "text": "ibu ke kebun"
+        },
+        {
+          "id": "aku-suka-susu",
+          "text": "aku suka susu"
+        },
+        {
+          "id": "adik-main-bola",
+          "text": "adik main bola"
+        },
+        {
+          "id": "ayah-baca-buku",
+          "text": "ayah baca buku"
+        },
+        {
+          "id": "ibu-masak-nasi",
+          "text": "ibu masak nasi"
+        },
+        {
+          "id": "aku-minum-air",
+          "text": "aku minum air"
+        },
+        {
+          "id": "kucing-tidur",
+          "text": "kucing tidur"
+        },
+        {
+          "id": "kakak-makan-roti",
+          "text": "kakak makan roti"
+        },
+        {
+          "id": "aku-sikat-gigi",
+          "text": "aku sikat gigi"
+        },
+        {
+          "id": "adik-tidur-siang",
+          "text": "adik tidur siang"
+        },
+        {
+          "id": "ayah-minum-kopi",
+          "text": "ayah minum kopi"
+        },
+        {
+          "id": "ibu-cuci-baju",
+          "text": "ibu cuci baju"
+        },
+        {
+          "id": "aku-baca-buku",
+          "text": "aku baca buku"
+        },
+        {
+          "id": "kami-main-bola",
+          "text": "kami main bola"
+        },
+        {
+          "id": "ayah-pergi-kerja",
+          "text": "ayah pergi kerja"
+        }
+      ]
+    },
+    {
+      "id": "lengkapi-kalimat",
+      "legacyIndex": 11,
+      "label": "Lengkapi kalimat",
+      "age": "Kelas 2–3",
+      "jenis": "lengkapi",
+      "kelas": [
+        2,
+        3
+      ],
+      "words": [
+        {
+          "id": "ibu-ke-kebun",
+          "text": "ibu ke kebun",
+          "blank": "kebun",
+          "pengecoh": [
+            "makan",
+            "tidur"
+          ]
+        },
+        {
+          "id": "aku-suka-susu",
+          "text": "aku suka susu",
+          "blank": "susu",
+          "pengecoh": [
+            "lari",
+            "meja"
+          ]
+        },
+        {
+          "id": "adik-main-bola",
+          "text": "adik main bola",
+          "blank": "bola",
+          "pengecoh": [
+            "minum",
+            "mandi"
+          ]
+        },
+        {
+          "id": "ayah-baca-buku",
+          "text": "ayah baca buku",
+          "blank": "buku",
+          "pengecoh": [
+            "nasi",
+            "air"
+          ]
+        },
+        {
+          "id": "ibu-masak-nasi",
+          "text": "ibu masak nasi",
+          "blank": "nasi",
+          "pengecoh": [
+            "buku",
+            "bola"
+          ]
+        },
+        {
+          "id": "aku-minum-air",
+          "text": "aku minum air",
+          "blank": "air",
+          "pengecoh": [
+            "baju",
+            "meja"
+          ]
+        },
+        {
+          "id": "kakak-makan-roti",
+          "text": "kakak makan roti",
+          "blank": "roti",
+          "pengecoh": [
+            "sepatu",
+            "buku"
+          ]
+        },
+        {
+          "id": "aku-sikat-gigi",
+          "text": "aku sikat gigi",
+          "blank": "gigi",
+          "pengecoh": [
+            "meja",
+            "kopi"
+          ]
+        },
+        {
+          "id": "ayah-minum-kopi",
+          "text": "ayah minum kopi",
+          "blank": "kopi",
+          "pengecoh": [
+            "kursi",
+            "bola"
+          ]
+        },
+        {
+          "id": "ibu-cuci-baju",
+          "text": "ibu cuci baju",
+          "blank": "baju",
+          "pengecoh": [
+            "nasi",
+            "kopi"
+          ]
+        },
+        {
+          "id": "adik-tidur-siang",
+          "text": "adik tidur siang",
+          "blank": "siang",
+          "pengecoh": [
+            "roti",
+            "bola"
+          ]
+        },
+        {
+          "id": "kucing-tidur",
+          "text": "kucing tidur",
+          "blank": "tidur",
+          "pengecoh": [
+            "baca",
+            "masak"
+          ]
+        }
+      ]
+    }
+  ]
+}

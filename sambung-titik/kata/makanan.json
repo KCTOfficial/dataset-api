@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "kartu": "makanan",
+  "mode": "acak",
+  "jumlah": {
+    "krayon": 3,
+    "pensil": 3,
+    "pulpen": 2
+  },
+  "wajib": {
+    "pensil": [
+      "pizza",
+      "donat"
+    ]
+  },
+  "pool": {
+    "krayon": [
+      "mie",
+      "kue",
+      "roti",
+      "nasi",
+      "keju",
+      "madu",
+      "sate"
+    ],
+    "pensil": [
+      "pizza",
+      "donat",
+      "kukis",
+      "sushi"
+    ],
+    "pulpen": [
+      "burger",
+      "puding",
+      "jagung",
+      "cokelat",
+      "kentang"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "kartu": "hewan",
+  "mode": "acak",
+  "jumlah": {
+    "krayon": 3,
+    "pensil": 3,
+    "pulpen": 2
+  },
+  "wajib": {
+    "krayon": [
+      "ikan"
+    ]
+  },
+  "pool": {
+    "krayon": [
+      "ayam",
+      "ikan",
+      "ular",
+      "unta",
+      "rusa",
+      "lebah"
+    ],
+    "pensil": [
+      "bebek",
+      "zebra",
+      "semut",
+      "domba"
+    ],
+    "pulpen": [
+      "gajah",
+      "pinguin"
+    ]
+  }
+}

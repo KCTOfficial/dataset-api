@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "pic": {
+    "ibu": "👩",
+    "api": "🔥",
+    "air": "💧",
+    "ubi": "🍠",
+    "tas": "🎒",
+    "bus": "🚌",
+    "kue": "🍰",
+    "jam": "⏰",
+    "mie": "🍜",
+    "pot": "🪴",
+    "bola": "⚽",
+    "buku": "📖",
+    "topi": "🧢",
+    "kaki": "🦶",
+    "mata": "👀",
+    "kuda": "🐴",
+    "sapi": "🐄",
+    "sapu": "🧹",
+    "roti": "🍞",
+    "susu": "🥛",
+    "ikan": "🐟",
+    "ayam": "🐔",
+    "gigi": "🦷",
+    "batu": "🪨",
+    "rumah": "🏠",
+    "gajah": "🐘",
+    "bunga": "🌸",
+    "mobil": "🚗",
+    "jeruk": "🍊",
+    "kursi": "🪑",
+    "pensil": "✏️",
+    "pisang": "🍌",
+    "kucing": "🐱",
+    "sepeda": "🚲",
+    "ibu ke kebun": "🌱",
+    "aku suka susu": "🥛",
+    "adik main bola": "⚽",
+    "ayah baca buku": "📖",
+    "ibu masak nasi": "🍚",
+    "aku minum air": "💧",
+    "kucing tidur": "😴",
+    "ibu ke pasar": "🧺",
+    "kakak baca buku": "📚",
+    "bunga itu merah": "🌹",
+    "aku cuci tangan": "🧼",
+    "sapi makan rumput": "🐄",
+    "adik minum susu": "🍼",
+    "ayah naik kereta": "🚆",
+    "baju": "👕",
+    "bulan": "🌙",
+    "kayu": "🪵",
+    "tangan": "✋",
+    "makan": "🍽️",
+    "tidur": "😴",
+    "lari": "🏃",
+    "sayur": "🥬",
+    "malam": "🌃",
+    "ayah": "👨",
+    "adik": "👶",
+    "nasi": "🍚",
+    "pintu": "🚪",
+    "apel": "🍎",
+    "bebek": "🦆",
+    "semut": "🐜",
+    "zebra": "🦓",
+    "kelinci": "🐰",
+    "makanan": "🍱",
+    "minuman": "🥤",
+    "sekolah": "🏫",
+    "bendera": "🚩",
+    "kelapa": "🥥",
+    "jerapah": "🦒",
+    "harimau": "🐯",
+    "buaya": "🐊",
+    "semangka": "🍉",
+    "telepon": "📞",
+    "kamera": "📷",
+    "komputer": "💻",
+    "selimut": "🛏️",
+    "sepatu": "👟",
+    "penggaris": "📏",
+    "kupukupu": "🦋",
+    "televisi": "📺",
+    "keluarga": "👨‍👩‍👧",
+    "matahari": "☀️",
+    "olahraga": "🏅",
+    "kilometer": "📏",
+    "termometer": "🌡️",
+    "kado": "🎁",
+    "lampu": "💡",
+    "kunci": "🔑",
+    "gitar": "🎸",
+    "payung": "☂️",
+    "gunting": "✂️",
+    "keju": "🧀",
+    "madu": "🍯",
+    "sate": "🍢",
+    "pizza": "🍕",
+    "donat": "🍩",
+    "kukis": "🍪",
+    "sushi": "🍣",
+    "burger": "🍔",
+    "puding": "🍮",
+    "jagung": "🌽",
+    "wortel": "🥕",
+    "cokelat": "🍫",
+    "kentang": "🥔",
+    "ular": "🐍",
+    "unta": "🐪",
+    "rusa": "🦌",
+    "lebah": "🐝",
+    "domba": "🐑",
+    "pinguin": "🐧",
+    "pir": "🍐",
+    "ceri": "🍒",
+    "kiwi": "🥝",
+    "lemon": "🍋",
+    "melon": "🍈",
+    "nanas": "🍍",
+    "truk": "🚚",
+    "motor": "🏍️",
+    "kapal": "🚢",
+    "kereta": "🚆",
+    "pesawat": "✈️"
+  },
+  "contoh": {
+    "a": {
+      "kata": "apel",
+      "pic": "🍎"
+    },
+    "b": {
+      "kata": "bola",
+      "pic": "⚽"
+    },
+    "c": {
+      "kata": "cabai",
+      "pic": "🌶️"
+    },
+    "d": {
+      "kata": "domba",
+      "pic": "🐑"
+    },
+    "e": {
+      "kata": "ember",
+      "pic": "🪣"
+    },
+    "f": {
+      "kata": "foto",
+      "pic": "📷"
+    },
+    "g": {
+      "kata": "gajah",
+      "pic": "🐘"
+    },
+    "h": {
+      "kata": "harimau",
+      "pic": "🐯"
+    },
+    "i": {
+      "kata": "ikan",
+      "pic": "🐟"
+    },
+    "j": {
+      "kata": "jeruk",
+      "pic": "🍊"
+    },
+    "k": {
+      "kata": "kucing",
+      "pic": "🐱"
+    },
+    "l": {
+      "kata": "lampu",
+      "pic": "💡"
+    },
+    "m": {
+      "kata": "mobil",
+      "pic": "🚗"
+    },
+    "n": {
+      "kata": "nanas",
+      "pic": "🍍"
+    },
+    "o": {
+      "kata": "ombak",
+      "pic": "🌊"
+    },
+    "p": {
+      "kata": "pisang",
+      "pic": "🍌"
+    },
+    "q": {
+      "kata": "Qur'an",
+      "pic": "📖"
+    },
+    "r": {
+      "kata": "roti",
+      "pic": "🍞"
+    },
+    "s": {
+      "kata": "sapi",
+      "pic": "🐄"
+    },
+    "t": {
+      "kata": "topi",
+      "pic": "🧢"
+    },
+    "u": {
+      "kata": "ular",
+      "pic": "🐍"
+    },
+    "v": {
+      "kata": "vas",
+      "pic": "🏺"
+    },
+    "w": {
+      "kata": "wortel",
+      "pic": "🥕"
+    },
+    "x": {
+      "kata": "xilofon",
+      "pic": "🎶"
+    },
+    "y": {
+      "kata": "yoyo",
+      "pic": "🪀"
+    },
+    "z": {
+      "kata": "zebra",
+      "pic": "🦓"
+    }
+  },
+  "benda": [
+    {
+      "pic": "🍎",
+      "nama": "apel"
+    },
+    {
+      "pic": "🐟",
+      "nama": "ikan"
+    },
+    {
+      "pic": "⭐",
+      "nama": "bintang"
+    },
+    {
+      "pic": "🎈",
+      "nama": "balon"
+    },
+    {
+      "pic": "🍌",
+      "nama": "pisang"
+    },
+    {
+      "pic": "🐤",
+      "nama": "anak ayam"
+    },
+    {
+      "pic": "🚗",
+      "nama": "mobil"
+    },
+    {
+      "pic": "🌸",
+      "nama": "bunga"
+    }
+  ],
+  "buahHitung": [
+    {
+      "pic": "🍎",
+      "nama": "apel"
+    },
+    {
+      "pic": "🍌",
+      "nama": "pisang"
+    },
+    {
+      "pic": "🍊",
+      "nama": "jeruk"
+    },
+    {
+      "pic": "🍐",
+      "nama": "pir"
+    },
+    {
+      "pic": "🍓",
+      "nama": "stroberi"
+    },
+    {
+      "pic": "🍇",
+      "nama": "anggur"
+    }
+  ]
+}

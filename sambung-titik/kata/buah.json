@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kartu": "buah",
+  "mode": "tetap",
+  "zona": {
+    "krayon": [
+      "pir",
+      "apel",
+      "ceri",
+      "kiwi"
+    ],
+    "pensil": [
+      "jeruk",
+      "lemon",
+      "melon"
+    ],
+    "pulpen": [
+      "nanas",
+      "pisang"
+    ]
+  }
+}

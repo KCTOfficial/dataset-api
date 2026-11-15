@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "kartu": "barang",
+  "mode": "acak",
+  "jumlah": {
+    "krayon": 3,
+    "pensil": 3,
+    "pulpen": 2
+  },
+  "wajib": {
+    "krayon": [
+      "tas"
+    ],
+    "pensil": [
+      "buku"
+    ],
+    "pulpen": [
+      "kunci"
+    ]
+  },
+  "pool": {
+    "krayon": [
+      "tas",
+      "jam",
+      "pot",
+      "sapu",
+      "kado",
+      "lampu"
+    ],
+    "pensil": [
+      "buku",
+      "topi",
+      "bola",
+      "gitar",
+      "payung"
+    ],
+    "pulpen": [
+      "kunci",
+      "pensil",
+      "gunting",
+      "sepatu"
+    ]
+  }
+}

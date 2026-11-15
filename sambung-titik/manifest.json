@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "1.1.0",
+  "files": [
+    {
+      "path": "ejaan.json",
+      "sha256": "b4ae68760352f75aea46d0acb1778d24d76f9c851f69a291eb8b72ab7c2ab556",
+      "status": "reviewed"
+    },
+    {
+      "path": "gambar.json",
+      "sha256": "4b834030ef4c14c9bd1bd59b5c2ff4a1a5229ec1b83aab88608e254f45a6574d",
+      "status": "draft"
+    },
+    {
+      "path": "glyph/angka.json",
+      "sha256": "cb7636a820f8c4e8e6d42fe3b94fda5d11c331ed73b512ca3809efc426bed066",
+      "status": "reviewed"
+    },
+    {
+      "path": "glyph/kapital.json",
+      "sha256": "cde546d9e86bbdf6ff8b5f012f9b055b5d35425935bd187e6ac139c6a9a654e0",
+      "status": "reviewed"
+    },
+    {
+      "path": "glyph/kecil.json",
+      "sha256": "6073b34f2cc9a5b3196304ef451f8b52b94dbfbde04ab6cd909673e4dffad119",
+      "status": "reviewed"
+    },
+    {
+      "path": "kartu.json",
+      "sha256": "9027d26eee5bd5c0d651066bf2a96a8ade00e6975b9234e856435fd156fdc7b6",
+      "status": "reviewed"
+    },
+    {
+      "path": "kata/barang.json",
+      "sha256": "e1b6ef298111af12a34fd0a134036216522da7721fce55466ad073c5923e7939",
+      "status": "draft"
+    },
+    {
+      "path": "kata/buah.json",
+      "sha256": "e81aebcd336626893cb5571b3f533bbafe22d843ff9852582e3b747111e87bb0",
+      "status": "draft"
+    },
+    {
+      "path": "kata/hewan.json",
+      "sha256": "39eeda72d81a59f2ee75620e5d023a15ecdb2529bf3261acb4d159118af5c6d5",
+      "status": "draft"
+    },
+    {
+      "path": "kata/kendaraan.json",
+      "sha256": "7cdd5e645fcee1a211ee53821b7440f63018503eea8d7e24756ea2098ea660ce",
+      "status": "draft"
+    },
+    {
+      "path": "kata/makanan.json",
+      "sha256": "8d7632c7f8b1ffbfca44d965dd6bf9d460ec51eb51b6ba60a7abd1f6afb6108b",
+      "status": "draft"
+    },
+    {
+      "path": "menulis-dasar.json",
+      "sha256": "0572548c282de2f66849a0a488a301c8b82bc2b110b1d2c75056f1824eb7f6a7",
+      "status": "reviewed"
+    },
+    {
+      "path": "misi.json",
+      "sha256": "4855d3acd58332257131de2aaf2923efd098ff0f99919284d1a1d00e968e4458",
+      "status": "draft"
+    }
+  ]
+}

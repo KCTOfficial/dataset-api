@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "kartu": "kendaraan",
+  "mode": "tetap",
+  "zona": {
+    "krayon": [
+      "bus",
+      "truk",
+      "mobil"
+    ],
+    "pensil": [
+      "motor",
+      "kapal",
+      "sepeda"
+    ],
+    "pulpen": [
+      "kereta",
+      "pesawat"
+    ]
+  }
+}

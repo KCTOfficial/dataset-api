@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "kartu": [
+    {
+      "id": "angka",
+      "order": 1,
+      "name": "Angka",
+      "glyph": "123",
+      "color": "blue",
+      "sub": "0 sampai 9",
+      "soal": "angka",
+      "stages": [
+        {
+          "id": "tegak",
+          "legacyIndex": 0,
+          "name": "Tegak",
+          "icon": "tegak",
+          "chars": [
+            "1",
+            "4",
+            "7"
+          ]
+        },
+        {
+          "id": "lingkaran",
+          "legacyIndex": 1,
+          "name": "Lingkaran",
+          "icon": "lingkaran",
+          "chars": [
+            "0",
+            "6",
+            "9"
+          ]
+        },
+        {
+          "id": "lengkung",
+          "legacyIndex": 2,
+          "name": "Lengkung",
+          "icon": "lengkung",
+          "chars": [
+            "2",
+            "3",
+            "5",
+            "8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kapital",
+      "order": 2,
+      "name": "Huruf kapital",
+      "glyph": "ABC",
+      "color": "coral",
+      "sub": "A sampai Z",
+      "soal": "huruf",
+      "stages": [
+        {
+          "id": "tegak-datar",
+          "legacyIndex": 0,
+          "name": "Tegak datar",
+          "icon": "tegakDatar",
+          "chars": [
+            "L",
+            "T",
+            "I",
+            "E",
+            "F",
+            "H"
+          ]
+        },
+        {
+          "id": "miring",
+          "legacyIndex": 1,
+          "name": "Miring",
+          "icon": "miring",
+          "chars": [
+            "V",
+            "W",
+            "X",
+            "Y"
+          ]
+        },
+        {
+          "id": "lengkung",
+          "legacyIndex": 2,
+          "name": "Lengkung",
+          "icon": "lengkung",
+          "chars": [
+            "C",
+            "O",
+            "G",
+            "Q",
+            "U"
+          ]
+        },
+        {
+          "id": "tegak-lengkung",
+          "legacyIndex": 3,
+          "name": "Tegak lengkung",
+          "icon": "tegakLengkung",
+          "chars": [
+            "B",
+            "D",
+            "P",
+            "R",
+            "J"
+          ]
+        },
+        {
+          "id": "campuran",
+          "legacyIndex": 4,
+          "name": "Campuran",
+          "icon": "campuran",
+          "chars": [
+            "M",
+            "N",
+            "S",
+            "Z",
+            "A",
+            "K"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kecil",
+      "order": 3,
+      "name": "Huruf kecil",
+      "glyph": "abc",
+      "tile": "def",
+      "color": "leaf",
+      "sub": "a sampai z",
+      "soal": "huruf",
+      "stages": [
+        {
+          "id": "tegak",
+          "legacyIndex": 0,
+          "name": "Tegak",
+          "icon": "tegak",
+          "chars": [
+            "l",
+            "i",
+            "t",
+            "j"
+          ]
+        },
+        {
+          "id": "miring",
+          "legacyIndex": 1,
+          "name": "Miring",
+          "icon": "miring",
+          "chars": [
+            "v",
+            "w",
+            "x",
+            "y"
+          ]
+        },
+        {
+          "id": "lengkung",
+          "legacyIndex": 2,
+          "name": "Lengkung",
+          "icon": "lengkung",
+          "chars": [
+            "c",
+            "o",
+            "a",
+            "d",
+            "e"
+          ]
+        },
+        {
+          "id": "punuk",
+          "legacyIndex": 3,
+          "name": "Punuk",
+          "icon": "punuk",
+          "chars": [
+            "n",
+            "m",
+            "h",
+            "r",
+            "u"
+          ]
+        },
+        {
+          "id": "tegak-lengkung",
+          "legacyIndex": 4,
+          "name": "Tegak lengkung",
+          "icon": "tegakLengkung",
+          "chars": [
+            "b",
+            "p",
+            "q",
+            "g"
+          ]
+        },
+        {
+          "id": "campuran",
+          "legacyIndex": 5,
+          "name": "Campuran",
+          "icon": "campuran",
+          "chars": [
+            "s",
+            "f",
+            "z",
+            "k"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buah",
+      "order": 4,
+      "name": "Nama Buah",
+      "kartu": "Buah",
+      "ikon": [
+        "🍐",
+        "🍎",
+        "🍌"
+      ],
+      "glyph": "🍎",
+      "color": "coral",
+      "sub": "pir, apel, ceri, kiwi …",
+      "soal": "kata",
+      "kata": true,
+      "stages": []
+    },
+    {
+      "id": "kendaraan",
+      "order": 5,
+      "name": "Nama Kendaraan",
+      "kartu": "Kendaraan",
+      "ikon": [
+        "✈️",
+        "🚗",
+        "🚲"
+      ],
+      "glyph": "🚗",
+      "color": "blue",
+      "sub": "bus, truk, mobil …",
+      "soal": "kata",
+      "kata": true,
+      "stages": []
+    },
+    {
+      "id": "hewan",
+      "order": 6,
+      "name": "Nama Hewan",
+      "kartu": "Hewan",
+      "ikon": [
+        "🐘",
+        "🐟",
+        "🐧"
+      ],
+      "glyph": "🐘",
+      "color": "sun",
+      "sub": "ayam, ikan, bebek …",
+      "soal": "kata",
+      "kata": true,
+      "stages": []
+    },
+    {
+      "id": "barang",
+      "order": 7,
+      "name": "Nama Benda",
+      "kartu": "Benda",
+      "ikon": [
+        "🎒",
+        "📖",
+        "🔑"
+      ],
+      "glyph": "🎒",
+      "color": "blue",
+      "sub": "tas, buku, pensil …",
+      "soal": "kata",
+      "kata": true,
+      "stages": []
+    },
+    {
+      "id": "makanan",
+      "order": 8,
+      "name": "Nama Makanan",
+      "kartu": "Makanan",
+      "ikon": [
+        "🍕",
+        "🍩",
+        "🍣"
+      ],
+      "glyph": "🍕",
+      "color": "coral",
+      "sub": "roti, nasi, telur …",
+      "soal": "kata",
+      "kata": true,
+      "stages": []
+    },
+    {
+      "id": "bilang",
+      "order": 9,
+      "name": "Menghitung Benda",
+      "kartu": "Hitung",
+      "ikon": [
+        "3",
+        "🍎",
+        "🍎",
+        "🍎"
+      ],
+      "glyph": "🍎",
+      "color": "blue",
+      "sub": "hitung buah, tulis angkanya",
+      "soal": "hitung",
+      "hitung": true,
+      "stages": []
+    },
+    {
+      "id": "tambah",
+      "order": 10,
+      "name": "Penjumlahan",
+      "kartu": "Tambah",
+      "ikon": [
+        "➕",
+        "🍎",
+        "🍌"
+      ],
+      "glyph": "➕",
+      "color": "coral",
+      "sub": "hasil sampai 9",
+      "soal": "hitung",
+      "hitung": true,
+      "stages": []
+    },
+    {
+      "id": "kurang",
+      "order": 11,
+      "name": "Pengurangan",
+      "kartu": "Kurang",
+      "ikon": [
+        "➖",
+        "🍪",
+        "🍩"
+      ],
+      "glyph": "➖",
+      "color": "sun",
+      "sub": "angka awal sampai 9",
+      "soal": "hitung",
+      "hitung": true,
+      "stages": []
+    },
+    {
+      "id": "sambung",
+      "order": 12,
+      "name": "Huruf sambung",
+      "glyph": "abc",
+      "sub": "Untuk kelas 2 ke atas",
+      "locked": true,
+      "lockMsg": "Huruf sambung sedang disiapkan. Selesaikan Huruf kecil dulu ya!",
+      "stages": []
+    }
+  ]
+}
