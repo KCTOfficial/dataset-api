@@ -23,6 +23,7 @@ sambung-titik/
 +-- menulis-dasar.json     <- characters per assistance zone for the basic writing cards
 +-- kata/<kartu>.json      <- word banks for the picture-word cards
 +-- misi.json              <- Jagoan practice: writing missions and quizzes (jenis: susun-kata, susun-kalimat, lengkapi)
++-- kelas.json             <- profile class options (id + label); misi.json `kelas` refers to these ids
 +-- gambar.json            <- emoji per word, example word per letter, counting objects
 +-- ejaan.json             <- how letters and digits are read aloud
 ```

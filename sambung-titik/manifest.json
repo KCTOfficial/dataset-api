@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.1.0",
+  "datasetVersion": "1.2.0",
   "files": [
     {
       "path": "ejaan.json",
@@ -58,13 +58,18 @@
       "status": "draft"
     },
     {
+      "path": "kelas.json",
+      "sha256": "3e539a6e2b0c45332b7401ffd12721fac4cbc2597c99ac23effd6e79ded17187",
+      "status": "draft"
+    },
+    {
       "path": "menulis-dasar.json",
       "sha256": "0572548c282de2f66849a0a488a301c8b82bc2b110b1d2c75056f1824eb7f6a7",
       "status": "reviewed"
     },
     {
       "path": "misi.json",
-      "sha256": "4855d3acd58332257131de2aaf2923efd098ff0f99919284d1a1d00e968e4458",
+      "sha256": "a88a7e8f7f6425efe866e074a5d2976b3473c49b4e032f4e80f95a8d10bda7ed",
       "status": "draft"
     }
   ]

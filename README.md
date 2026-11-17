@@ -5,7 +5,7 @@ Static JSON datasets from KCT, served as a free, read-only **API over public CDN
 | Dataset | Folder | What it contains | Format docs |
 |---|---|---|---|
 | AksaraGo question bank | [`aksara-go/`](aksara-go/) | 4,718 questions and answers across 15 learning games for SD, SMP, and SMA (dataset version 1.2.0) | [`aksara-go/README.md`](aksara-go/README.md) |
-| Sambung Titik content | [`sambung-titik/`](sambung-titik/) | Dot-to-dot shapes for 0-9, A-Z, a-z, plus cards, word banks, missions, and quizzes for PAUD to grade 3 (dataset version 1.1.0) | [`sambung-titik/README.md`](sambung-titik/README.md) |
+| Sambung Titik content | [`sambung-titik/`](sambung-titik/) | Dot-to-dot shapes for 0-9, A-Z, a-z, plus cards, word banks, missions, and quizzes for PAUD to grade 3 (dataset version 1.2.0) | [`sambung-titik/README.md`](sambung-titik/README.md) |
 
 The numbers above are a snapshot. Each dataset's `manifest.json` is always the source of truth for which files exist, their SHA-256 checksums, and review status.
 

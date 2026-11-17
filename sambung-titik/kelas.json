@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "kelas": [
+    {
+      "id": 0,
+      "label": "PAUD/TK"
+    },
+    {
+      "id": 1,
+      "label": "Kelas 1"
+    },
+    {
+      "id": 2,
+      "label": "Kelas 2"
+    },
+    {
+      "id": 3,
+      "label": "Kelas 3"
+    },
+    {
+      "id": 4,
+      "label": "Kelas 3+"
+    }
+  ]
+}

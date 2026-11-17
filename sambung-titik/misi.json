@@ -169,6 +169,7 @@
       "kelas": [
         2
       ],
+      "ikon": "✏️",
       "words": [
         {
           "id": "ibu-ke-kebun",
@@ -239,8 +240,10 @@
       "age": "Kelas 2–3",
       "line": true,
       "kelas": [
-        3
+        3,
+        4
       ],
+      "ikon": "📝",
       "words": [
         {
           "id": "ibu-ke-pasar",
@@ -422,6 +425,7 @@
       "kelas": [
         1
       ],
+      "ikon": "🧩",
       "words": [
         {
           "id": "baju",
@@ -623,6 +627,7 @@
       "kelas": [
         1
       ],
+      "ikon": "🧩",
       "words": [
         {
           "id": "sepeda",
@@ -744,6 +749,7 @@
       "kelas": [
         2
       ],
+      "ikon": "🧩",
       "words": [
         {
           "id": "kupukupu",
@@ -804,6 +810,7 @@
       "kelas": [
         2
       ],
+      "ikon": "🚂",
       "words": [
         {
           "id": "ibu-ke-kebun",
@@ -875,8 +882,10 @@
       "jenis": "lengkapi",
       "kelas": [
         2,
-        3
+        3,
+        4
       ],
+      "ikon": "🔍",
       "words": [
         {
           "id": "ibu-ke-kebun",
