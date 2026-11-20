@@ -39,6 +39,13 @@ KELOMPOK = ("kenalan", "menulis", "jagoan")
 # Label kelebihan Papan Bintang yang dikenal aplikasi (AturanPapan); dataset mengatur urutan, syarat, ikon, teks.
 KELEBIHAN = ("rajin", "teliti", "tekun", "susun", "hitung", "kenal", "semangat")
 PUJIAN = ("hebat", "bagus", "cobaLagi", "benar", "salahHitung")
+# Kalimat suara dashboard (SuaraDashboard di aplikasi) dan penanda yang wajib ada di kalimat itu.
+SUARA_DASHBOARD = {
+    "sapa": ("nama",), "sapaLanjut": (), "sapaTanpaNama": (), "main": (), "lanjut": (), "buku": (), "pemain": (),
+    "papan": (), "perjalanan": (), "karya": (), "pemula": ("n", "total"), "pemulaNol": (),
+    "penjelajah": ("n",), "penjelajahNol": (), "jagoan": ("n",), "jagoanNol": (),
+}
+PENANDA_RE = re.compile(r"\{([^{}]*)\}")
 
 
 class Problems:
@@ -152,6 +159,7 @@ def collect_ids(p: Problems, data: dict[str, dict], chars: dict[str, set[str]]) 
     check_jagoan(p, data)
     check_tampilan(p, data)
     check_aturan(p, data)
+    check_suara(p, data)
 
     # Daftar kelas (kelas.json): id angka unik dan label; dirujuk oleh `kelas` di misi.json dan kelas profil.
     kelas_ids: set[int] = set()
@@ -418,6 +426,34 @@ def check_aturan(p: Problems, data: dict[str, dict]) -> None:
     for key in pj:
         if key not in PUJIAN:
             p.add(rel, f"pujian.{key} tidak dikenal ({', '.join(PUJIAN)})")
+
+
+def check_suara(p: Problems, data: dict[str, dict]) -> None:
+    """suara.json: kalimat suara bantu dashboard."""
+    doc = data.get("suara.json")
+    if doc is None:
+        return
+    rel = "suara.json"
+    d = doc.get("dashboard")
+    if not isinstance(d, dict):
+        p.add(rel, "dashboard harus objek")
+        return
+    for key in d:
+        if key not in SUARA_DASHBOARD:
+            p.add(rel, f"dashboard.{key} tidak dikenal")
+    for key, wajib in SUARA_DASHBOARD.items():
+        t = d.get(key)
+        if not isinstance(t, str) or not t.strip() or len(t) > 200:
+            p.add(rel, f"dashboard.{key} harus teks 1 sampai 200 karakter")
+            continue
+        ada = PENANDA_RE.findall(t)
+        for w in wajib:
+            if w not in ada:
+                p.add(rel, f"dashboard.{key} harus memuat {{{w}}}")
+        lain = [x for x in ada if x not in wajib]
+        sisa = PENANDA_RE.sub("", t)
+        if lain or "{" in sisa or "}" in sisa:
+            p.add(rel, f"dashboard.{key}: penanda yang dikenal hanya {', '.join('{' + w + '}' for w in wajib) or '(tidak ada)'}")
 
 
 def check_lock(p: Problems, ids: dict[str, list[str]], data: dict[str, dict]) -> dict[str, list[str]]:

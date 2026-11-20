@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.6.0",
+  "datasetVersion": "1.7.0",
   "files": [
     {
       "path": "aturan.json",
@@ -91,6 +91,11 @@
       "path": "misi.json",
       "sha256": "a88a7e8f7f6425efe866e074a5d2976b3473c49b4e032f4e80f95a8d10bda7ed",
       "status": "draft"
+    },
+    {
+      "path": "suara.json",
+      "sha256": "0d4eb3d60a96fe3c28264df8303f53a48efde6a2783c19785e08263f535a83b5",
+      "status": "reviewed"
     }
   ]
 }

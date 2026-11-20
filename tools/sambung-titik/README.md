@@ -48,6 +48,9 @@ Violations are printed as `<file>: <message>`.
   - `minBintangBuka` 1–3;
   - known Papan Bintang label ids, with `semangat` present;
   - each praise list has 1–10 phrases of at most 40 characters.
+- `suara.json`:
+  - every known `dashboard` key is present, with 1–200 characters;
+  - each sentence uses exactly its own placeholders (`{nama}`, `{n}`, `{total}`).
 
 The app runs the same content checks when it downloads a new version. If one fails, it rejects that version and keeps the previous one.
 

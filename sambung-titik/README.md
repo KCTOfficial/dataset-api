@@ -29,9 +29,10 @@ sambung-titik/
 +-- jagoan.json            <- Jagoan rules: Kata & Kalimat practice list and scoring, Berhitung practice list, levels, story templates
 +-- kelompok.json          <- texts of the three groups on "Pilih Perjalananmu" (age, short line, spoken explanation)
 +-- aturan.json            <- unlock threshold, Papan Bintang targets and labels, praise phrases
++-- suara.json             <- spoken help sentences on the dashboard (for children who cannot read yet)
 ```
 
-Optional files (`kelas.json`, `hitung.json`, `jagoan.json`, `kelompok.json`, `aturan.json`) may be missing from older dataset versions; the app then uses built-in defaults identical to the first published values.
+Optional files (`kelas.json`, `hitung.json`, `jagoan.json`, `kelompok.json`, `aturan.json`, `suara.json`) may be missing from older dataset versions; the app then uses built-in defaults identical to the first published values.
 
 ## Manifest
 
@@ -91,6 +92,26 @@ These files hold numbers and texts the team may want to adjust after release. Th
 ### `kelompok.json`: group texts
 
 `kenalan` (Pemula), `menulis` (Penjelajah), `jagoan` (Jagoan): `usia` (≤ 20 chars), `ringkas` (≤ 60), `penjelasan` (≤ 300, read aloud). If `penjelasan` is left out for Penjelajah, the app builds it from the card list. Group names stay in the app.
+
+### `suara.json`: spoken help on the dashboard
+
+```json
+{ "dashboard": { "sapa": "Halo, {nama}! Ketuk tombol biru, Ayo Main, untuk mulai belajar.",
+                 "sapaLanjut": "Atau ketuk Lanjutkan belajar.", "pemula": "Pemula. Kamu sudah melihat {n} dari {total} huruf dan angka.", … } }
+```
+
+Sentences the app speaks on the dashboard. The app falls back to its built-in sentence for any missing key.
+
+| key | spoken when | placeholders |
+|---|---|---|
+| `sapa` | greeting on entering the dashboard (once per profile per app start) or tapping the blue card | `{nama}` |
+| `sapaLanjut` | appended to `sapa` when "Lanjutkan belajar" is available | |
+| `sapaTanpaNama` | greeting when there is no player yet | |
+| `main`, `lanjut`, `buku`, `pemain`, `papan` | tapping Ayo Main!, Lanjutkan belajar, Buku Tulisanku, the player chip, Papan Bintang | |
+| `perjalanan`, `karya` | tapping the "Perjalananku" and "Karyaku" headings | |
+| `pemula` / `pemulaNol` | tapping the Pemula row (letters seen / none yet) | `{n}`, `{total}` / none |
+| `penjelajah` / `penjelajahNol` | tapping the Penjelajah row (writing stars / none yet) | `{n}` / none |
+| `jagoan` / `jagoanNol` | tapping the Jagoan row (Jagoan stars / none yet) | `{n}` / none |
 
 ### `aturan.json`: unlock threshold, Papan Bintang, praise
 

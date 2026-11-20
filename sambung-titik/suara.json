@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "dashboard": {
+    "sapa": "Halo, {nama}! Ketuk tombol biru, Ayo Main, untuk mulai belajar.",
+    "sapaLanjut": "Atau ketuk Lanjutkan belajar.",
+    "sapaTanpaNama": "Halo, teman baru! Ketuk tombol biru, Ayo Main, untuk mulai.",
+    "main": "Ayo main!",
+    "lanjut": "Lanjutkan belajar.",
+    "buku": "Buku Tulisanku.",
+    "pemain": "Ganti pemain.",
+    "papan": "Papan Bintang. Lihat bintangmu dan teman-temanmu.",
+    "perjalanan": "Perjalananku. Di sini kamu bisa melihat kemajuan belajarmu, dari Pemula, Penjelajah, sampai Jagoan.",
+    "karya": "Karyaku. Di sini tersimpan semua tulisanmu. Ketuk Buku Tulisanku untuk melihatnya lagi.",
+    "pemula": "Pemula. Kamu sudah melihat {n} dari {total} huruf dan angka.",
+    "pemulaNol": "Pemula. Belum ada telur yang menetas. Ayo kenalan dengan huruf dan angka!",
+    "penjelajah": "Penjelajah. Kamu punya {n} bintang menulis.",
+    "penjelajahNol": "Penjelajah. Belum ada bintang. Ayo kumpulkan bintang pertamamu!",
+    "jagoan": "Jagoan. Kamu punya {n} bintang kata, kalimat, dan berhitung.",
+    "jagoanNol": "Jagoan. Belum ada bintang. Ayo kumpulkan bintang pertamamu!"
+  }
+}
