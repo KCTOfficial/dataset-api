@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "kataKalimat": {
+    "latihan": [
+      "suku-2",
+      "suku-3",
+      "suku-4",
+      "susun-kalimat",
+      "lengkapi-kalimat"
+    ],
+    "soalPerSesi": 5,
+    "pilihan": 3,
+    "ambangNaik": 85,
+    "ambangTurun": 60,
+    "ambangDuaBintang": 60,
+    "bonusArah": 10
+  },
+  "berhitung": {
+    "latihan": [
+      {
+        "id": "cerita",
+        "label": "Soal cerita",
+        "ikon": "📖"
+      },
+      {
+        "id": "penjumlahan",
+        "label": "Penjumlahan",
+        "ikon": "➕"
+      },
+      {
+        "id": "pengurangan",
+        "label": "Pengurangan",
+        "ikon": "➖"
+      },
+      {
+        "id": "perkalian",
+        "label": "Perkalian",
+        "ikon": "✖️"
+      },
+      {
+        "id": "pembagian",
+        "label": "Pembagian",
+        "ikon": "➗"
+      }
+    ],
+    "soalPerMisi": 5,
+    "minTambahKurang": 10,
+    "maksPenambah": 9,
+    "level": {
+      "mudah": {
+        "maksTambahKurang": 20,
+        "maksKaliBagi": 20,
+        "penambahSatuDigit": true
+      },
+      "sedang": {
+        "maksTambahKurang": 40,
+        "maksKaliBagi": 40,
+        "penambahSatuDigit": true
+      },
+      "sulit": {
+        "maksTambahKurang": 40,
+        "maksKaliBagi": 40,
+        "penambahSatuDigit": false
+      }
+    },
+    "cerita": [
+      {
+        "op": "+",
+        "teks": "Adik punya {a} {benda}. Ibu memberi {b} lagi. Berapa {benda} adik sekarang?"
+      },
+      {
+        "op": "+",
+        "teks": "Di taman ada {a} {benda}. Datang lagi {b}. Berapa {benda} semuanya?"
+      },
+      {
+        "op": "-",
+        "teks": "Kakak punya {a} {benda}. Sebanyak {b} diberikan ke teman. Berapa sisa {benda} kakak?"
+      },
+      {
+        "op": "-",
+        "teks": "Ada {a} {benda} di meja. Adik mengambil {b}. Berapa {benda} yang masih di meja?"
+      }
+    ],
+    "nilaiPilihan": [
+      100,
+      70,
+      40
+    ]
+  }
+}

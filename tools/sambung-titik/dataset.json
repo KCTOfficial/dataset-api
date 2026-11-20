@@ -1,0 +1,24 @@
+{
+  "datasetVersion": "1.6.0",
+  "schemaVersion": 1,
+  "status": {
+    "glyph/angka.json": "reviewed",
+    "glyph/kapital.json": "reviewed",
+    "glyph/kecil.json": "reviewed",
+    "kartu.json": "reviewed",
+    "menulis-dasar.json": "reviewed",
+    "ejaan.json": "reviewed",
+    "kata/buah.json": "reviewed",
+    "kata/kendaraan.json": "reviewed",
+    "kata/hewan.json": "reviewed",
+    "kata/barang.json": "reviewed",
+    "kata/makanan.json": "reviewed",
+    "hitung.json": "reviewed",
+    "jagoan.json": "reviewed",
+    "kelompok.json": "reviewed",
+    "aturan.json": "reviewed",
+    "misi.json": "draft",
+    "gambar.json": "draft",
+    "kelas.json": "draft"
+  }
+}

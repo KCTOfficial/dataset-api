@@ -1,7 +1,12 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.2.0",
+  "datasetVersion": "1.6.0",
   "files": [
+    {
+      "path": "aturan.json",
+      "sha256": "992f61df8ee282401c1fb983917afbbc9413a10756fd64c285b957b317f1fcaf",
+      "status": "reviewed"
+    },
     {
       "path": "ejaan.json",
       "sha256": "b4ae68760352f75aea46d0acb1778d24d76f9c851f69a291eb8b72ab7c2ab556",
@@ -9,7 +14,7 @@
     },
     {
       "path": "gambar.json",
-      "sha256": "4b834030ef4c14c9bd1bd59b5c2ff4a1a5229ec1b83aab88608e254f45a6574d",
+      "sha256": "80bf24f756fd8b71f1cc38fbe3d5639f45870f7fb0497c77e903e3686268fdf2",
       "status": "draft"
     },
     {
@@ -28,39 +33,54 @@
       "status": "reviewed"
     },
     {
+      "path": "hitung.json",
+      "sha256": "71f9e1e4bb55a690f144f780924737a5365cadc2316c06036bb78b4fe9fc9543",
+      "status": "reviewed"
+    },
+    {
+      "path": "jagoan.json",
+      "sha256": "85deab7fa279403d5684781ffe2ba66aae626f2cc59f847bcbc3e051942a6695",
+      "status": "reviewed"
+    },
+    {
       "path": "kartu.json",
-      "sha256": "9027d26eee5bd5c0d651066bf2a96a8ade00e6975b9234e856435fd156fdc7b6",
+      "sha256": "b8cfce6b6efe359e9f23b0dd2edc45d0deb462e5efc56a3e06c200b90c69c316",
       "status": "reviewed"
     },
     {
       "path": "kata/barang.json",
-      "sha256": "e1b6ef298111af12a34fd0a134036216522da7721fce55466ad073c5923e7939",
-      "status": "draft"
+      "sha256": "4c082819fdb9d5cf09b5e1898b0e37e3873754dbca425155edd479414d0ec61a",
+      "status": "reviewed"
     },
     {
       "path": "kata/buah.json",
-      "sha256": "e81aebcd336626893cb5571b3f533bbafe22d843ff9852582e3b747111e87bb0",
-      "status": "draft"
+      "sha256": "ace95241533c3f0abc77982650261a36904650b46af2f4bf7f440791bfbfd16a",
+      "status": "reviewed"
     },
     {
       "path": "kata/hewan.json",
-      "sha256": "39eeda72d81a59f2ee75620e5d023a15ecdb2529bf3261acb4d159118af5c6d5",
-      "status": "draft"
+      "sha256": "0e761faf969b0e3e639bace055c521a5e989602a44ae2d0b2c406e8bf9825556",
+      "status": "reviewed"
     },
     {
       "path": "kata/kendaraan.json",
-      "sha256": "7cdd5e645fcee1a211ee53821b7440f63018503eea8d7e24756ea2098ea660ce",
-      "status": "draft"
+      "sha256": "d54579a0db1e29ea724dc866496d2160f87b07ed8d2244330338d61284782988",
+      "status": "reviewed"
     },
     {
       "path": "kata/makanan.json",
-      "sha256": "8d7632c7f8b1ffbfca44d965dd6bf9d460ec51eb51b6ba60a7abd1f6afb6108b",
-      "status": "draft"
+      "sha256": "bee112405af2e8823479ae66ff1b39c8fb2624b634ce7983c4e37cfac8f40acd",
+      "status": "reviewed"
     },
     {
       "path": "kelas.json",
       "sha256": "3e539a6e2b0c45332b7401ffd12721fac4cbc2597c99ac23effd6e79ded17187",
       "status": "draft"
+    },
+    {
+      "path": "kelompok.json",
+      "sha256": "134ffa1f25b751f40124cc340cf57d0ce866d50371e34e2252b8a6654ffd859e",
+      "status": "reviewed"
     },
     {
       "path": "menulis-dasar.json",

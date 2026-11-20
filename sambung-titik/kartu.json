@@ -44,7 +44,12 @@
             "8"
           ]
         }
-      ]
+      ],
+      "sampul": {
+        "bg": "#D9EC9E",
+        "ink": "#557A0A",
+        "bayangan": "#BBD774"
+      }
     },
     {
       "id": "kapital",
@@ -121,7 +126,12 @@
             "K"
           ]
         }
-      ]
+      ],
+      "sampul": {
+        "bg": "#FFC49A",
+        "ink": "#B3480E",
+        "bayangan": "#F0A371"
+      }
     },
     {
       "id": "kecil",
@@ -207,7 +217,12 @@
             "k"
           ]
         }
-      ]
+      ],
+      "sampul": {
+        "bg": "#BDEBF2",
+        "ink": "#0B7C86",
+        "bayangan": "#92D6E0"
+      }
     },
     {
       "id": "buah",
@@ -224,11 +239,16 @@
       "sub": "pir, apel, ceri, kiwi …",
       "soal": "kata",
       "kata": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#FFE3A8",
+        "ink": "#9A6200",
+        "bayangan": "#F2CB76"
+      }
     },
     {
       "id": "kendaraan",
-      "order": 5,
+      "order": 8,
       "name": "Nama Kendaraan",
       "kartu": "Kendaraan",
       "ikon": [
@@ -241,7 +261,12 @@
       "sub": "bus, truk, mobil …",
       "soal": "kata",
       "kata": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#E0D4FF",
+        "ink": "#5B35B0",
+        "bayangan": "#C5B2F2"
+      }
     },
     {
       "id": "hewan",
@@ -258,7 +283,12 @@
       "sub": "ayam, ikan, bebek …",
       "soal": "kata",
       "kata": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#FFD3EA",
+        "ink": "#B8307F",
+        "bayangan": "#F5AFD2"
+      }
     },
     {
       "id": "barang",
@@ -275,11 +305,16 @@
       "sub": "tas, buku, pensil …",
       "soal": "kata",
       "kata": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#C9E4FF",
+        "ink": "#1B5FA8",
+        "bayangan": "#9DC9F0"
+      }
     },
     {
       "id": "makanan",
-      "order": 8,
+      "order": 5,
       "name": "Nama Makanan",
       "kartu": "Makanan",
       "ikon": [
@@ -292,7 +327,12 @@
       "sub": "roti, nasi, telur …",
       "soal": "kata",
       "kata": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#EAD2B5",
+        "ink": "#7A4A1C",
+        "bayangan": "#D4B48D"
+      }
     },
     {
       "id": "bilang",
@@ -310,7 +350,12 @@
       "sub": "hitung buah, tulis angkanya",
       "soal": "hitung",
       "hitung": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#D0D8FF",
+        "ink": "#3A45B5",
+        "bayangan": "#AEBAF5"
+      }
     },
     {
       "id": "tambah",
@@ -327,7 +372,12 @@
       "sub": "hasil sampai 9",
       "soal": "hitung",
       "hitung": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#CFF2D8",
+        "ink": "#1E6B3A",
+        "bayangan": "#A6DDB5"
+      }
     },
     {
       "id": "kurang",
@@ -344,7 +394,12 @@
       "sub": "angka awal sampai 9",
       "soal": "hitung",
       "hitung": true,
-      "stages": []
+      "stages": [],
+      "sampul": {
+        "bg": "#FFD9C2",
+        "ink": "#9A431A",
+        "bayangan": "#F2B994"
+      }
     },
     {
       "id": "sambung",

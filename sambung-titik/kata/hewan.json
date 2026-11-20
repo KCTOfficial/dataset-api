@@ -5,7 +5,7 @@
   "jumlah": {
     "krayon": 3,
     "pensil": 3,
-    "pulpen": 2
+    "pulpen": 3
   },
   "wajib": {
     "krayon": [
@@ -29,6 +29,8 @@
     ],
     "pulpen": [
       "gajah",
+      "harimau",
+      "jerapah",
       "pinguin"
     ]
   }

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "kelompok": {
+    "kenalan": {
+      "usia": "PAUD, TK",
+      "ringkas": "Kenali huruf dan angka.",
+      "penjelasan": "Kenali bentuk, nama, dan cara menulis huruf dan angka."
+    },
+    "menulis": {
+      "usia": "TK – kelas 1",
+      "ringkas": "Menulis dengan sambung titik."
+    },
+    "jagoan": {
+      "usia": "Kelas 1 – 3",
+      "ringkas": "Kata, kalimat, dan berhitung.",
+      "penjelasan": "Tantangan menulis kata, kalimat, dan berhitung."
+    }
+  }
+}

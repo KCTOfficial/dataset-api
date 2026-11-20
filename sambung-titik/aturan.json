@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "minBintangBuka": 2,
+  "papanBintang": {
+    "targetPerProfil": 20,
+    "maksLabel": 2,
+    "kelebihan": [
+      {
+        "id": "rajin",
+        "ikon": "✏️",
+        "teks": "Rajin menulis",
+        "min": 10
+      },
+      {
+        "id": "teliti",
+        "ikon": "🎯",
+        "teks": "Teliti",
+        "min": 3,
+        "persen": 80
+      },
+      {
+        "id": "tekun",
+        "ikon": "🔥",
+        "teks": "Tekun {n} hari",
+        "min": 3
+      },
+      {
+        "id": "susun",
+        "ikon": "🧩",
+        "teks": "Jago menyusun",
+        "min": 5
+      },
+      {
+        "id": "hitung",
+        "ikon": "🔢",
+        "teks": "Jago berhitung",
+        "min": 3
+      },
+      {
+        "id": "kenal",
+        "ikon": "🥚",
+        "teks": "Kenal {n} huruf",
+        "min": 1
+      },
+      {
+        "id": "semangat",
+        "ikon": "🌱",
+        "teks": "Semangat mulai",
+        "min": 1
+      }
+    ]
+  },
+  "pujian": {
+    "hebat": [
+      "Hebat!",
+      "Hebat sekali!"
+    ],
+    "bagus": [
+      "Bagus!",
+      "Bagus sekali!"
+    ],
+    "cobaLagi": [
+      "Ayo coba lagi!"
+    ],
+    "benar": [
+      "Benar!"
+    ],
+    "salahHitung": [
+      "Coba hitung lagi ya."
+    ]
+  }
+}

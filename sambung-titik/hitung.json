@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "soalPos": 5,
+  "kartu": {
+    "bilang": {
+      "jenis": "hitung",
+      "zona": {
+        "krayon": {
+          "pos": 3,
+          "min": 1,
+          "maks": 3,
+          "gambar": true
+        },
+        "pensil": {
+          "pos": 3,
+          "min": 4,
+          "maks": 6,
+          "gambar": true
+        },
+        "pulpen": {
+          "pos": 3,
+          "min": 7,
+          "maks": 9,
+          "gambar": true
+        }
+      }
+    },
+    "tambah": {
+      "jenis": "tambah",
+      "zona": {
+        "krayon": {
+          "pos": 3,
+          "min": 2,
+          "maks": 4,
+          "gambar": true
+        },
+        "pensil": {
+          "pos": 3,
+          "min": 5,
+          "maks": 7,
+          "gambar": true
+        },
+        "pulpen": {
+          "pos": 3,
+          "min": 8,
+          "maks": 9,
+          "gambar": false
+        }
+      }
+    },
+    "kurang": {
+      "jenis": "kurang",
+      "zona": {
+        "krayon": {
+          "pos": 3,
+          "min": 2,
+          "maks": 4,
+          "gambar": true
+        },
+        "pensil": {
+          "pos": 3,
+          "min": 5,
+          "maks": 7,
+          "gambar": true
+        },
+        "pulpen": {
+          "pos": 3,
+          "min": 8,
+          "maks": 9,
+          "gambar": false
+        }
+      }
+    }
+  }
+}
