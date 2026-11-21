@@ -1,5 +1,5 @@
 {
-  "datasetVersion": "1.7.0",
+  "datasetVersion": "1.8.0",
   "schemaVersion": 1,
   "status": {
     "glyph/angka.json": "reviewed",
@@ -18,6 +18,7 @@
     "kelompok.json": "reviewed",
     "aturan.json": "reviewed",
     "suara.json": "reviewed",
+    "hadiah.json": "draft",
     "misi.json": "draft",
     "gambar.json": "draft",
     "kelas.json": "draft"

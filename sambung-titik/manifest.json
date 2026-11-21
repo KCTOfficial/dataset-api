@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "datasetVersion": "1.7.0",
+  "datasetVersion": "1.8.0",
   "files": [
     {
       "path": "aturan.json",
@@ -31,6 +31,11 @@
       "path": "glyph/kecil.json",
       "sha256": "6073b34f2cc9a5b3196304ef451f8b52b94dbfbde04ab6cd909673e4dffad119",
       "status": "reviewed"
+    },
+    {
+      "path": "hadiah.json",
+      "sha256": "1ef63ea23142b402d1123633e342804cb7425a353f068a109bd811599aa343c3",
+      "status": "draft"
     },
     {
       "path": "hitung.json",

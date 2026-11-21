@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "hadiah": [
+    {
+      "id": "pesta",
+      "slot": "topi",
+      "nama": "Topi Pesta",
+      "ambang": 3
+    },
+    {
+      "id": "dasi",
+      "slot": "leher",
+      "nama": "Dasi Kupu-kupu",
+      "ambang": 10
+    },
+    {
+      "id": "bulat",
+      "slot": "kacamata",
+      "nama": "Kacamata Bulat",
+      "ambang": 40
+    },
+    {
+      "id": "taman",
+      "slot": "latar",
+      "nama": "Latar Taman",
+      "ambang": 80
+    },
+    {
+      "id": "bunga",
+      "slot": "topi",
+      "nama": "Jepit Bunga",
+      "ambang": 160
+    },
+    {
+      "id": "syal",
+      "slot": "leher",
+      "nama": "Syal Merah",
+      "ambang": 360
+    },
+    {
+      "id": "hitam",
+      "slot": "kacamata",
+      "nama": "Kacamata Hitam",
+      "ambang": 600
+    },
+    {
+      "id": "pantai",
+      "slot": "latar",
+      "nama": "Latar Pantai",
+      "ambang": 1000
+    },
+    {
+      "id": "koki",
+      "slot": "topi",
+      "nama": "Topi Koki",
+      "ambang": 1500
+    },
+    {
+      "id": "bintang",
+      "slot": "kacamata",
+      "nama": "Kacamata Bintang",
+      "ambang": 2000
+    },
+    {
+      "id": "jubah",
+      "slot": "leher",
+      "nama": "Jubah Pahlawan",
+      "ambang": 3000
+    },
+    {
+      "id": "mahkota",
+      "slot": "topi",
+      "nama": "Mahkota",
+      "ambang": 4000
+    },
+    {
+      "id": "angkasa",
+      "slot": "latar",
+      "nama": "Latar Angkasa",
+      "ambang": 5000
+    }
+  ]
+}

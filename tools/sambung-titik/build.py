@@ -46,6 +46,14 @@ SUARA_DASHBOARD = {
     "penjelajah": ("n",), "penjelajahNol": (), "jagoan": ("n",), "jagoanNol": (),
 }
 PENANDA_RE = re.compile(r"\{([^{}]*)\}")
+# Hadiah Lemari Ayam: id yang gambarnya ada di aplikasi, per slot. Dataset mengatur nama, ambang, dan urutan.
+HADIAH_GAMBAR = {
+    "topi": ("pesta", "bunga", "koki", "mahkota"),
+    "kacamata": ("bulat", "hitam", "bintang"),
+    "leher": ("dasi", "syal", "jubah"),
+    "latar": ("taman", "pantai", "angkasa"),
+}
+MAKS_AMBANG_HADIAH = 100000
 
 
 class Problems:
@@ -160,6 +168,7 @@ def collect_ids(p: Problems, data: dict[str, dict], chars: dict[str, set[str]]) 
     check_tampilan(p, data)
     check_aturan(p, data)
     check_suara(p, data)
+    check_hadiah(p, data)
 
     # Daftar kelas (kelas.json): id angka unik dan label; dirujuk oleh `kelas` di misi.json dan kelas profil.
     kelas_ids: set[int] = set()
@@ -454,6 +463,47 @@ def check_suara(p: Problems, data: dict[str, dict]) -> None:
         sisa = PENANDA_RE.sub("", t)
         if lain or "{" in sisa or "}" in sisa:
             p.add(rel, f"dashboard.{key}: penanda yang dikenal hanya {', '.join('{' + w + '}' for w in wajib) or '(tidak ada)'}")
+
+
+def check_hadiah(p: Problems, data: dict[str, dict]) -> None:
+    """hadiah.json: hadiah Lemari Ayam yang terbuka dari koleksi bintang (telur Pemula + bintang Penjelajah + bintang Jagoan)."""
+    doc = data.get("hadiah.json")
+    if doc is None:
+        return
+    rel = "hadiah.json"
+    daftar = doc.get("hadiah")
+    if not isinstance(daftar, list) or not daftar:
+        p.add(rel, "hadiah harus daftar berisi minimal 1 hadiah")
+        return
+    ids: list[str] = []
+    sebelum = -1
+    for n, h in enumerate(daftar):
+        w = f"hadiah[{n}]"
+        if not isinstance(h, dict):
+            p.add(rel, f"{w} harus objek")
+            continue
+        hid, slot = h.get("id"), h.get("slot")
+        w = f"hadiah {hid}"
+        if slot not in HADIAH_GAMBAR:
+            p.add(rel, f"{w}: slot harus salah satu dari {', '.join(HADIAH_GAMBAR)}")
+        elif hid not in HADIAH_GAMBAR[slot]:
+            p.add(rel, f"{w}: id tidak dikenal untuk slot {slot} ({', '.join(HADIAH_GAMBAR[slot])})")
+        if isinstance(hid, str):
+            ids.append(hid)
+        nama = h.get("nama")
+        if not isinstance(nama, str) or not nama.strip() or len(nama) > 30:
+            p.add(rel, f"{w}: nama harus 1 sampai 30 karakter")
+        a = h.get("ambang")
+        if not isinstance(a, int) or isinstance(a, bool) or not 0 <= a <= MAKS_AMBANG_HADIAH:
+            p.add(rel, f"{w}: ambang harus angka 0 sampai {MAKS_AMBANG_HADIAH}: {a}")
+        elif a < sebelum:
+            p.add(rel, f"{w}: urutkan hadiah dari ambang terkecil ({a} sesudah {sebelum})")
+        else:
+            sebelum = a
+        for k in h:
+            if k not in ("id", "slot", "nama", "ambang"):
+                p.add(rel, f"{w}: kunci {k} tidak dikenal")
+    unique(p, rel, ids)
 
 
 def check_lock(p: Problems, ids: dict[str, list[str]], data: dict[str, dict]) -> dict[str, list[str]]:

@@ -51,6 +51,10 @@ Violations are printed as `<file>: <message>`.
 - `suara.json`:
   - every known `dashboard` key is present, with 1–200 characters;
   - each sentence uses exactly its own placeholders (`{nama}`, `{n}`, `{total}`).
+- `hadiah.json`:
+  - at least one reward; unique ids;
+  - each id is a known drawing for its slot (`topi`, `kacamata`, `leher`, `latar`);
+  - `nama` 1–30 characters, `ambang` 0–100000, listed from the smallest threshold.
 
 The app runs the same content checks when it downloads a new version. If one fails, it rejects that version and keeps the previous one.
 

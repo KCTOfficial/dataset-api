@@ -30,9 +30,10 @@ sambung-titik/
 +-- kelompok.json          <- texts of the three groups on "Pilih Perjalananmu" (age, short line, spoken explanation)
 +-- aturan.json            <- unlock threshold, Papan Bintang targets and labels, praise phrases
 +-- suara.json             <- spoken help sentences on the dashboard (for children who cannot read yet)
++-- hadiah.json            <- Lemari Ayam rewards: mascot accessories unlocked by collected stars
 ```
 
-Optional files (`kelas.json`, `hitung.json`, `jagoan.json`, `kelompok.json`, `aturan.json`, `suara.json`) may be missing from older dataset versions; the app then uses built-in defaults identical to the first published values.
+Optional files (`kelas.json`, `hitung.json`, `jagoan.json`, `kelompok.json`, `aturan.json`, `suara.json`, `hadiah.json`) may be missing from older dataset versions; the app then uses built-in defaults identical to the first published values.
 
 ## Manifest
 
@@ -112,6 +113,24 @@ Sentences the app speaks on the dashboard. The app falls back to its built-in se
 | `pemula` / `pemulaNol` | tapping the Pemula row (letters seen / none yet) | `{n}`, `{total}` / none |
 | `penjelajah` / `penjelajahNol` | tapping the Penjelajah row (writing stars / none yet) | `{n}` / none |
 | `jagoan` / `jagoanNol` | tapping the Jagoan row (Jagoan stars / none yet) | `{n}` / none |
+
+### `hadiah.json`: Lemari Ayam rewards
+
+```json
+{ "hadiah": [ { "id": "pesta", "slot": "topi", "nama": "Topi Pesta", "ambang": 3 },
+              { "id": "dasi", "slot": "leher", "nama": "Dasi Kupu-kupu", "ambang": 10 }, … ] }
+```
+
+Accessories for the child's mascot on the dashboard. A reward unlocks automatically when the child's collection reaches `ambang`. The collection is Pemula eggs hatched + Penjelajah writing stars + Jagoan stars. Rewards are never bought, never random, and stars are never spent.
+
+- **`id`** must be one the app has a drawing for. The `slot` must match the id:
+  - `topi`: `pesta`, `bunga`, `koki`, `mahkota`
+  - `kacamata`: `bulat`, `hitam`, `bintang`
+  - `leher`: `dasi`, `syal`, `jubah`
+  - `latar`: `taman`, `pantai`, `angkasa`
+- **`nama`** (1–30 characters) is shown and spoken ("Hore! Kamu dapat Topi Pesta!").
+- **`ambang`** (0–100000) is the collection needed. List rewards from the smallest threshold. Leaving an id out hides that reward; a child wearing it falls back to no item in that slot.
+- Status is `draft` while the thresholds are being tuned. The HTML prototype reads this file; the native app does not use it yet.
 
 ### `aturan.json`: unlock threshold, Papan Bintang, praise
 
